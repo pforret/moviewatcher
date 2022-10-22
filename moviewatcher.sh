@@ -76,6 +76,7 @@ Script:main() {
 
     url="$input"
 
+    # shellcheck disable=SC2154
     downloaded="$tmp_dir/$(basename "$url")"
     if [[ -f "$downloaded" ]] ; then
       IO:progress "Download => $downloaded"
@@ -953,6 +954,7 @@ function Script:meta() {
   [[ -n "${KSH_VERSION:-}" ]] && shell_brand="ksh" && shell_version="$KSH_VERSION"
   IO:debug "$info_icon Shell type : $shell_brand - version $shell_version"
   if [[ "$shell_brand" == "bash" && "${BASH_VERSINFO:-0}" -lt 4 ]]; then
+    # shellcheck disable=SC2128
     IO:die "Bash version 4 or higher is required - current version = $BASH_VERSINFO"
   fi
 

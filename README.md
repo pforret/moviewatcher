@@ -13,26 +13,29 @@ analyze movie metadata updates
 ## 🔥 Usage
 
 ```
-Program: moviewatcher 0.0.1 by peter@forret.com
-Updated: 2022-10-22
-Description: analyze movie metadata updates
-Usage: normal.sh [-h] [-q] [-v] [-f] [-l <log_dir>] [-t <tmp_dir>] <action> <input?>
+Program : moviewatcher.sh  by peter@forret.com
+Version : v0.1.0 (2022-10-22 21:37)
+Purpose : analyze movie metadata updates
+Usage   : moviewatcher.sh [-h] [-q] [-v] [-f] [-l <log_dir>] [-t <tmp_dir>] [-o <out_dir>] <action> <input?>
 Flags, options and parameters:
     -h|--help        : [flag] show usage [default: off]
     -q|--quiet       : [flag] no output [default: off]
-    -v|--verbose     : [flag] output more [default: off]
+    -v|--verbose     : [flag] also show debug messages [default: off]
     -f|--force       : [flag] do not ask for confirmation (always yes) [default: off]
-    -l|--log_dir <?> : [option] folder for log files   [default: /Users/pforret/log/normal]
-    -t|--tmp_dir <?> : [option] folder for temp files  [default: .tmp]
-    <action>         : [parameter] action to perform: analyze/convert
-    <input>          : [parameter] input file/text (optional)
+    -l|--log_dir <?> : [option] folder for log files   [default: log]
+    -t|--tmp_dir <?> : [option] folder for temp files  [default: tmp]
+    -o|--out_dir <?> : [option] folder for output files  [default: split]
+    <action>         : [choice] action to perform  [options: download,split,check,env,update]
+    <input>          : [parameter] input url/file/text (optional)
 ```
 
 ## ⚡️ Examples
 
 ```bash
-> moviewatcher .
-# start PhpStorm with current folder as project
+> moviewatcher download https://datasets.imdbws.com/name.basics.tsv.gz
+# download file from source
+> moviewatcher split
+# split source file up in pieces based on key
 ```
 
 ## 🚀 Installation
