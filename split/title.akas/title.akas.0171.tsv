@@ -5405,9 +5405,10 @@ tt1712055	2	Un petit bout de terre	\N	\N	original	\N	1
 tt1712056	1	Una historia sin nombre	CO	\N	imdbDisplay	\N	0
 tt1712056	2	Una historia sin nombre	\N	\N	original	\N	1
 tt1712057	1	Sky	XWW	en	\N	informal English title	0
-tt1712057	2	Vaanam	\N	\N	original	\N	1
-tt1712057	3	Vaanam	IN	en	imdbDisplay	\N	0
-tt1712057	4	Небо	RU	\N	imdbDisplay	\N	0
+tt1712057	2	Vaanam	IN	hi	imdbDisplay	\N	0
+tt1712057	3	Vaanam	\N	\N	original	\N	1
+tt1712057	4	Vaanam	IN	en	imdbDisplay	\N	0
+tt1712057	5	Небо	RU	\N	imdbDisplay	\N	0
 tt1712058	1	Vignettes in the Mist	\N	\N	original	\N	1
 tt1712058	2	Vignettes in the Mist	US	\N	imdbDisplay	\N	0
 tt1712059	1	Walt Disney Treasures: The Chronological Donald	\N	\N	original	\N	1
@@ -13237,30 +13238,32 @@ tt1714206	7	The Spectacular Now	EC	\N	imdbDisplay	\N	0
 tt1714206	8	The Spectacular Now: Perfekt ist jetzt	DE	\N	imdbDisplay	\N	0
 tt1714206	9	戀夏進行式	TW	\N	imdbDisplay	\N	0
 tt1714207	1	The White Shadow	US	\N	\N	\N	0
-tt1714208	10	La mujer	ES	\N	working	\N	0
-tt1714208	11	Жената	BG	bg	imdbDisplay	\N	0
-tt1714208	12	Η γυναίκα	GR	\N	imdbDisplay	\N	0
-tt1714208	13	The Woman	IT	\N	imdbDisplay	\N	0
-tt1714208	14	The Woman	FR	\N	imdbDisplay	\N	0
-tt1714208	15	The Woman	\N	\N	original	\N	1
-tt1714208	16	The Woman	IN	en	imdbDisplay	\N	0
-tt1714208	17	La prisionera	MX	\N	imdbDisplay	\N	0
-tt1714208	18	Женщина	RU	\N	imdbDisplay	\N	0
-tt1714208	19	The Woman	AR	\N	imdbDisplay	\N	0
-tt1714208	1	La femme étrange	CA	fr	imdbDisplay	\N	0
-tt1714208	20	The Woman	AU	\N	imdbDisplay	\N	0
-tt1714208	21	Nữ Sát Nhân	VN	\N	imdbDisplay	\N	0
-tt1714208	22	The Woman	GB	\N	imdbDisplay	\N	0
-tt1714208	23	The Woman	PL	\N	imdbDisplay	\N	0
-tt1714208	24	The Woman	SG	en	imdbDisplay	\N	0
-tt1714208	2	The Woman	US	\N	imdbDisplay	\N	0
-tt1714208	3	The Woman	DE	\N	imdbDisplay	\N	0
-tt1714208	4	The Woman	PH	en	imdbDisplay	\N	0
-tt1714208	5	The Woman - Nem Todo Monstro Vive na Selva	BR	\N	imdbDisplay	\N	0
-tt1714208	6	ザ・ウーマン 飼育された女	JP	ja	imdbDisplay	\N	0
-tt1714208	7	The W	US	\N	alternative	\N	0
-tt1714208	8	The Woman	CA	en	imdbDisplay	\N	0
-tt1714208	9	The Woman	KR	\N	imdbDisplay	\N	0
+tt1714208	10	The Woman	ZA	en	imdbDisplay	\N	0
+tt1714208	11	The Woman	AR	\N	imdbDisplay	\N	0
+tt1714208	12	The Woman	SG	en	imdbDisplay	\N	0
+tt1714208	13	La femme étrange	CA	fr	imdbDisplay	\N	0
+tt1714208	14	The Woman	US	\N	imdbDisplay	\N	0
+tt1714208	15	The Woman	DE	\N	imdbDisplay	\N	0
+tt1714208	16	The Woman	PH	en	imdbDisplay	\N	0
+tt1714208	17	The Woman - Nem Todo Monstro Vive na Selva	BR	\N	imdbDisplay	\N	0
+tt1714208	18	The W	US	\N	alternative	\N	0
+tt1714208	19	The Woman	IN	hi	imdbDisplay	\N	0
+tt1714208	1	ザ・ウーマン 飼育された女	JP	ja	imdbDisplay	\N	0
+tt1714208	20	La mujer	ES	\N	working	\N	0
+tt1714208	21	The Woman	\N	\N	original	\N	1
+tt1714208	22	The Woman	IN	en	imdbDisplay	\N	0
+tt1714208	23	The Woman	AU	\N	imdbDisplay	\N	0
+tt1714208	24	Nữ Sát Nhân	VN	\N	imdbDisplay	\N	0
+tt1714208	25	The Woman	GB	\N	imdbDisplay	\N	0
+tt1714208	26	The Woman	PL	\N	imdbDisplay	\N	0
+tt1714208	2	The Woman	CA	en	imdbDisplay	\N	0
+tt1714208	3	The Woman	KR	\N	imdbDisplay	\N	0
+tt1714208	4	Жената	BG	bg	imdbDisplay	\N	0
+tt1714208	5	Η γυναίκα	GR	\N	imdbDisplay	\N	0
+tt1714208	6	The Woman	IT	\N	imdbDisplay	\N	0
+tt1714208	7	The Woman	FR	\N	imdbDisplay	\N	0
+tt1714208	8	La prisionera	MX	\N	imdbDisplay	\N	0
+tt1714208	9	Женщина	RU	\N	imdbDisplay	\N	0
 tt1714209	10	Nella terra del sangue e del miele	IT	\N	imdbDisplay	\N	0
 tt1714209	11	V dezeli krvi in medu	SI	\N	imdbDisplay	\N	0
 tt1714209	12	Vùng Đất Của Máu và Mật Ngọt	VN	\N	imdbDisplay	\N	0
@@ -24075,37 +24078,38 @@ tt1717713	1	The Minister's New Suit	US	\N	imdbDisplay	\N	0
 tt1717713	2	The Minister's New Suit	\N	\N	original	\N	1
 tt1717714	1	The Modern Messenger Boy	US	\N	imdbDisplay	\N	0
 tt1717714	2	The Modern Messenger Boy	\N	\N	original	\N	1
-tt1717715	10	Maymun Kral	TR	tr	imdbDisplay	\N	0
-tt1717715	11	The Monkey King	GB	\N	alternative	\N	0
-tt1717715	12	西游记之大闹天宫	CN	cmn	imdbDisplay	\N	0
-tt1717715	13	Monkî majikku: Son Gokû tanjô	JP	\N	imdbDisplay	\N	0
-tt1717715	14	Xi you ji: Da nao tian gong	PL	\N	imdbDisplay	\N	0
-tt1717715	15	The Monkey King Havoc in Heavens Palace	US	\N	imdbDisplay	\N	0
-tt1717715	16	Monkey Magic: The Birth of Sun Wukong	JP	en	\N	literal title	0
-tt1717715	17	Tây Du Ký: Dai Náo Thiên Cung	VN	\N	imdbDisplay	\N	0
-tt1717715	18	The Monkey King	CA	en	alternative	\N	0
-tt1717715	19	Xi you ji: Da nao tian gong	\N	\N	original	\N	1
+tt1717715	10	El Rey Mono: El Inicio de la Leyenda	MX	\N	imdbDisplay	\N	0
+tt1717715	11	Maymun Kral	TR	tr	imdbDisplay	\N	0
+tt1717715	12	The Monkey King	GB	\N	alternative	\N	0
+tt1717715	13	西游记之大闹天宫	CN	cmn	imdbDisplay	\N	0
+tt1717715	14	Monkî majikku: Son Gokû tanjô	JP	\N	imdbDisplay	\N	0
+tt1717715	15	Xi you ji: Da nao tian gong	PL	\N	imdbDisplay	\N	0
+tt1717715	16	The Monkey King Havoc in Heavens Palace	US	\N	imdbDisplay	\N	0
+tt1717715	17	Monkey Magic: The Birth of Sun Wukong	JP	en	\N	literal title	0
+tt1717715	18	Tây Du Ký: Dai Náo Thiên Cung	VN	\N	imdbDisplay	\N	0
+tt1717715	19	The Monkey King	CA	en	alternative	\N	0
 tt1717715	1	The Monkey King	PH	en	alternative	\N	0
-tt1717715	20	The Monkey King: Havoc in Heavens Palace	CA	en	imdbDisplay	\N	0
-tt1717715	21	西遊記之大鬧天宮	HK	cmn	imdbDisplay	\N	0
-tt1717715	22	西遊記之大鬧天宮	TW	\N	imdbDisplay	\N	0
-tt1717715	23	Journey to the West: Havoc in Heaven	HK	en	\N	literal title	0
-tt1717715	24	Король обезьян	RU	\N	imdbDisplay	\N	0
-tt1717715	25	Царь обезьян: начало	RU	\N	imdbDisplay	\N	0
-tt1717715	26	A Lenda do Rei Macaco: Tumulto no Reino Celestial	BR	\N	imdbDisplay	\N	0
-tt1717715	27	The Monkey King: Havoc in Heaven's Palace	PH	en	imdbDisplay	\N	0
-tt1717715	28	The Monkey King	XWW	en	imdbDisplay	\N	0
-tt1717715	29	The Monkey King: Havoc in Heavens Palace	GB	\N	imdbDisplay	\N	0
+tt1717715	20	Xi you ji: Da nao tian gong	\N	\N	original	\N	1
+tt1717715	21	The Monkey King: Havoc in Heavens Palace	CA	en	imdbDisplay	\N	0
+tt1717715	22	西遊記之大鬧天宮	HK	cmn	imdbDisplay	\N	0
+tt1717715	23	西遊記之大鬧天宮	TW	\N	imdbDisplay	\N	0
+tt1717715	24	Journey to the West: Havoc in Heaven	HK	en	\N	literal title	0
+tt1717715	25	Король обезьян	RU	\N	imdbDisplay	\N	0
+tt1717715	26	Царь обезьян: начало	RU	\N	imdbDisplay	\N	0
+tt1717715	27	A Lenda do Rei Macaco: Tumulto no Reino Celestial	BR	\N	imdbDisplay	\N	0
+tt1717715	28	The Monkey King: Havoc in Heaven's Palace	PH	en	imdbDisplay	\N	0
+tt1717715	29	The Monkey King	XWW	en	imdbDisplay	\N	0
 tt1717715	2	Xi you ji: Da nao tian gong	CN	cmn	\N	informal alternative title	0
-tt1717715	30	Viaje al Oeste. Las aventuras del Rey Mono	ES	\N	imdbDisplay	\N	0
-tt1717715	31	The Monkey King	US	\N	alternative	\N	0
+tt1717715	30	The Monkey King: Havoc in Heavens Palace	GB	\N	imdbDisplay	\N	0
+tt1717715	31	Viaje al Oeste. Las aventuras del Rey Mono	ES	\N	imdbDisplay	\N	0
+tt1717715	32	The Monkey King	US	\N	alternative	\N	0
 tt1717715	3	The Monkey King: Havoc in Heavens Palace	\N	\N	\N	reissue title	0
 tt1717715	4	The Monkey King	\N	\N	alternative	\N	0
 tt1717715	5	Кралят на маймуните	BG	bg	imdbDisplay	\N	0
 tt1717715	6	Le roi singe	FR	\N	imdbDisplay	\N	0
 tt1717715	7	モンキー・マジック　孫悟空誕生	JP	ja	imdbDisplay	\N	0
 tt1717715	8	The Monkey King	AU	\N	imdbDisplay	\N	0
-tt1717715	9	El Rey Mono: El Inicio de la Leyenda	MX	\N	imdbDisplay	\N	0
+tt1717715	9	The Monkey King	IN	hi	imdbDisplay	\N	0
 tt1717716	1	The Most Distant Places	US	\N	imdbDisplay	\N	0
 tt1717716	2	The Most Distant Places	\N	\N	original	\N	1
 tt1717717	1	The Ordeal	US	\N	imdbDisplay	\N	0
@@ -27080,7 +27084,9 @@ tt1718807	1	Jamie and Jessie Are Not Together	US	\N	imdbDisplay	\N	0
 tt1718807	2	Jamie and Jessie Are Not Together	\N	\N	original	\N	1
 tt1718807	3	Jamie and Jessie Are Not Together	GB	\N	imdbDisplay	\N	0
 tt1718807	4	Jamie and Jessie Are Not Together	IN	hi	imdbDisplay	\N	0
-tt1718808	1	Jurassic: The Hunted	SK	\N	\N	\N	0
+tt1718808	1	Top Shot Dinosaur Hunter	US	\N	\N	reissue title	0
+tt1718808	2	Jurassic: The Hunted	\N	\N	original	\N	1
+tt1718808	3	Jurassic: The Hunted	SK	\N	\N	\N	0
 tt1718809	1	How Are You?	XEU	en	imdbDisplay	\N	0
 tt1718809	2	Kako si?	TR	\N	\N	\N	0
 tt1718809	3	Kako si?	\N	\N	original	\N	1

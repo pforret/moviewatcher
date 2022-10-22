@@ -52,7 +52,8 @@ tt14040058	2	Malignant	US	\N	imdbDisplay	\N	0
 tt14040060	1	From All of Us...	US	\N	alternative	\N	0
 tt14040060	2	Fra Alle Os	\N	\N	original	\N	1
 tt14040060	3	Fra Alle Os	DK	\N	imdbDisplay	\N	0
-tt14040062	1	Owe My Love	PH	\N	\N	\N	0
+tt14040062	1	Owe My Love	PH	en	imdbDisplay	\N	0
+tt14040062	2	Owe My Love	\N	\N	original	\N	1
 tt14040068	1	Summer Animals	\N	\N	original	\N	1
 tt14040068	2	Summer Animals	US	\N	imdbDisplay	\N	0
 tt14040070	1	Continued	IN	\N	\N	\N	0
@@ -4504,17 +4505,18 @@ tt14042034	4	Folge vom 8. Februar 2021	DE	de	\N	\N	0
 tt14042034	5	Episódio datado de 8 Fevereiro de 2021	PT	pt	\N	\N	0
 tt14042034	6	Episodio datato 8 febbraio 2021	IT	it	\N	\N	0
 tt14042034	7	Episodio fechado 8 febrero 2021	ES	es	\N	\N	0
-tt14042038	10	투 킬 더 비스트	KR	\N	imdbDisplay	\N	0
-tt14042038	11	To Kill the Beast	GB	\N	imdbDisplay	\N	0
-tt14042038	1	Matar a la bestia	AR	\N	imdbDisplay	\N	0
-tt14042038	2	Matar a la Bestia	FR	\N	festival	\N	0
-tt14042038	3	Como Matar a Besta	BR	\N	imdbDisplay	\N	0
-tt14042038	4	To Kill the Beast	US	\N	imdbDisplay	\N	0
-tt14042038	5	Matar a la bestia	ES	\N	imdbDisplay	\N	0
-tt14042038	6	Matar a la bestia	\N	\N	original	\N	1
-tt14042038	7	To Kill the Beast	SE	\N	imdbDisplay	\N	0
-tt14042038	8	To Kill the Beast	XWW	en	imdbDisplay	\N	0
-tt14042038	9	To Kill the Beast	FR	\N	festival	\N	0
+tt14042038	10	To Kill the Beast	FR	\N	festival	\N	0
+tt14042038	11	투 킬 더 비스트	KR	\N	imdbDisplay	\N	0
+tt14042038	12	To Kill the Beast	GB	\N	imdbDisplay	\N	0
+tt14042038	1	Zabić bestię	PL	\N	imdbDisplay	\N	0
+tt14042038	2	Matar a la bestia	AR	\N	imdbDisplay	\N	0
+tt14042038	3	Matar a la Bestia	FR	\N	festival	\N	0
+tt14042038	4	Como Matar a Besta	BR	\N	imdbDisplay	\N	0
+tt14042038	5	To Kill the Beast	US	\N	imdbDisplay	\N	0
+tt14042038	6	Matar a la bestia	ES	\N	imdbDisplay	\N	0
+tt14042038	7	Matar a la bestia	\N	\N	original	\N	1
+tt14042038	8	To Kill the Beast	SE	\N	imdbDisplay	\N	0
+tt14042038	9	To Kill the Beast	XWW	en	imdbDisplay	\N	0
 tt14042040	1	Episódio #1.5	PT	pt	\N	\N	0
 tt14042040	2	एपिसोड #1.5	IN	hi	\N	\N	0
 tt14042040	3	Épisode #1.5	FR	fr	\N	\N	0
@@ -4548,16 +4550,17 @@ tt14042056	2	Meet Me at the Bar	\N	\N	original	\N	1
 tt14042066	10	Dobaaraa	SG	en	imdbDisplay	\N	0
 tt14042066	11	Dobaaraa	TH	en	imdbDisplay	\N	0
 tt14042066	12	Dobaaraa	GB	\N	imdbDisplay	\N	0
-tt14042066	13	도바라	KR	\N	imdbDisplay	\N	0
-tt14042066	14	Dobaaraa	AU	\N	imdbDisplay	\N	0
-tt14042066	15	Do Baaraa 2:12	IN	hi	alternative	\N	0
-tt14042066	16	Dobaaraa	IN	hi	imdbDisplay	\N	0
-tt14042066	17	Dobaaraa	SE	\N	imdbDisplay	\N	0
-tt14042066	18	Dobaaraa	\N	\N	original	\N	1
-tt14042066	19	Dobaaraa	IN	en	imdbDisplay	\N	0
+tt14042066	13	Dobaaraa	ZA	en	imdbDisplay	\N	0
+tt14042066	14	도바라	KR	\N	imdbDisplay	\N	0
+tt14042066	15	Dobaaraa	AU	\N	imdbDisplay	\N	0
+tt14042066	16	Do Baaraa 2:12	IN	hi	alternative	\N	0
+tt14042066	17	Dobaaraa	IN	hi	imdbDisplay	\N	0
+tt14042066	18	Dobaaraa	SE	\N	imdbDisplay	\N	0
+tt14042066	19	Dobaaraa	\N	\N	original	\N	1
 tt14042066	1	Dobaaraa	PH	en	imdbDisplay	\N	0
-tt14042066	20	Dobaaraa	EG	en	imdbDisplay	\N	0
-tt14042066	21	Dobaaraa	HK	en	imdbDisplay	\N	0
+tt14042066	20	Dobaaraa	IN	en	imdbDisplay	\N	0
+tt14042066	21	Dobaaraa	EG	en	imdbDisplay	\N	0
+tt14042066	22	Dobaaraa	HK	en	imdbDisplay	\N	0
 tt14042066	2	Dobaaraa	DE	\N	imdbDisplay	\N	0
 tt14042066	3	Dobaaraa	JP	ja	imdbDisplay	\N	0
 tt14042066	4	Dobaaraa	NL	\N	imdbDisplay	\N	0
@@ -8439,17 +8442,18 @@ tt14043622	1	Philly Uncut II	US	\N	imdbDisplay	\N	0
 tt14043622	2	Philly Uncut II	\N	\N	original	\N	1
 tt14043626	1	A place for you and me	\N	\N	original	\N	1
 tt14043626	2	A place for you and me	GB	\N	imdbDisplay	\N	0
-tt14043628	10	Kuro Gal Ni Nattakara Shin'yuu to Shite Mita.	ID	en	imdbDisplay	\N	0
-tt14043628	11	Kuro Gal ni Nattakara Shin'yuu to Shite Mita.	PL	\N	imdbDisplay	\N	0
+tt14043628	10	Fucked by My Best Friend	XWW	en	imdbDisplay	\N	0
+tt14043628	11	Kuro Gal Ni Nattakara Shin'yuu to Shite Mita.	ID	en	imdbDisplay	\N	0
+tt14043628	12	Kuro Gal ni Nattakara Shin'yuu to Shite Mita.	PL	\N	imdbDisplay	\N	0
 tt14043628	1	Kuro Gal Ni Nattakara Shin'yuu to Shite Mita.	SG	en	imdbDisplay	\N	0
 tt14043628	2	Kuro Gal ni Nattakara Shin'yuu to Shite Mita.	JP	\N	\N	\N	0
 tt14043628	3	Kuro Gal ni Nattakara Shin'yuu to Shite Mita.	KR	\N	imdbDisplay	\N	0
-tt14043628	4	Kuro Gal Ni Nattakara Shin'yuu to Shite Mita.	PH	en	imdbDisplay	\N	0
-tt14043628	5	Kuro Gal Ni Nattakara Shin'yuu to Shite Mita.	ZA	en	imdbDisplay	\N	0
-tt14043628	6	I Became a Black Gal So I Fucked My Best Friend	AE	\N	imdbDisplay	\N	0
-tt14043628	7	I Became a Black Gal So I Fucked My Best Friend	CA	en	imdbDisplay	\N	0
-tt14043628	8	Kuro Gal ni Nattakara Shin'yuu to Shite Mita.	\N	\N	original	\N	1
-tt14043628	9	Fucked by My Best Friend	XWW	en	imdbDisplay	\N	0
+tt14043628	4	Fucked by My Best Friend	DE	\N	imdbDisplay	\N	0
+tt14043628	5	Kuro Gal Ni Nattakara Shin'yuu to Shite Mita.	PH	en	imdbDisplay	\N	0
+tt14043628	6	Kuro Gal Ni Nattakara Shin'yuu to Shite Mita.	ZA	en	imdbDisplay	\N	0
+tt14043628	7	I Became a Black Gal So I Fucked My Best Friend	AE	\N	imdbDisplay	\N	0
+tt14043628	8	I Became a Black Gal So I Fucked My Best Friend	CA	en	imdbDisplay	\N	0
+tt14043628	9	Kuro Gal ni Nattakara Shin'yuu to Shite Mita.	\N	\N	original	\N	1
 tt14043642	1	Episodio #1.7	ES	es	\N	\N	0
 tt14043642	2	एपिसोड #1.7	IN	hi	\N	\N	0
 tt14043642	3	Episódio #1.7	PT	pt	\N	\N	0

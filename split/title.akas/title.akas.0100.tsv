@@ -45,6 +45,7 @@ tt1000021	1	Агентсво НЛС - 2	RU	\N	imdbDisplay	\N	0
 tt1000021	2	Agency NLS 2	XWW	en	\N	\N	0
 tt1000021	3	Agentstvo NLS - 2	\N	\N	original	\N	1
 tt1000022	10	Australia's Got Talent	IN	en	imdbDisplay	\N	0
+tt1000022	11	Australia's Got Talent	ZA	en	imdbDisplay	\N	0
 tt1000022	1	Australia's Got Talent	US	\N	imdbDisplay	\N	0
 tt1000022	2	Australia's Got Talent	PH	en	imdbDisplay	\N	0
 tt1000022	3	Australia's Got Talent	SG	en	imdbDisplay	\N	0
@@ -80,7 +81,8 @@ tt1000046	1	Say When	AU	\N	imdbDisplay	\N	0
 tt1000046	2	Say When	\N	\N	original	\N	1
 tt1000047	1	The Screening Room	\N	\N	original	\N	1
 tt1000047	2	Kinimatografiki epikairotita	GR	\N	\N	transliterated title	0
-tt1000047	3	The Screening Room	US	\N	imdbDisplay	\N	0
+tt1000047	3	Κινηματογραφική επικαιρότητα	GR	\N	imdbDisplay	\N	0
+tt1000047	4	The Screening Room	US	\N	imdbDisplay	\N	0
 tt1000049	1	Spending Spree	AU	\N	imdbDisplay	\N	0
 tt1000049	2	Spending Spree	\N	\N	original	\N	1
 tt1000050	1	Split Second	AU	\N	imdbDisplay	\N	0
@@ -375,8 +377,8 @@ tt1000166	2	Taking a Chance	US	\N	imdbDisplay	\N	0
 tt1000167	1	Test Drive	\N	\N	original	\N	1
 tt1000167	2	Test Drive	US	\N	imdbDisplay	\N	0
 tt1000168	1	Tru Lies	\N	\N	original	\N	1
-tt1000168	2	Tru Lies	US	\N	imdbDisplay	\N	0
-tt1000168	3	Alithina erotika psemata	GR	\N	\N	cable TV title	0
+tt1000168	2	Αληθινά ερωτικά ψέματα	GR	\N	\N	cable TV title	0
+tt1000168	3	Tru Lies	US	\N	imdbDisplay	\N	0
 tt1000169	1	Twin Soldiers 2	\N	\N	original	\N	1
 tt1000169	2	Twin Soldiers 2	US	\N	imdbDisplay	\N	0
 tt1000170	1	Virgin Patrol 3	\N	\N	original	\N	1
@@ -4915,8 +4917,9 @@ tt1001491	1	Avenging Angel	US	\N	imdbDisplay	\N	0
 tt1001491	2	O ekdikitis	GR	\N	\N	transliterated title	0
 tt1001491	3	Un devoir de vengeance	FR	\N	\N	\N	0
 tt1001491	4	El ángel vengador	ES	\N	imdbDisplay	\N	0
-tt1001491	5	Il cacciatore di taglie	IT	\N	imdbDisplay	\N	0
-tt1001491	6	Avenging Angel	\N	\N	original	\N	1
+tt1001491	5	Ο εκδικητής	GR	\N	imdbDisplay	\N	0
+tt1001491	6	Il cacciatore di taglie	IT	\N	imdbDisplay	\N	0
+tt1001491	7	Avenging Angel	\N	\N	original	\N	1
 tt1001493	1	Bauernhochzeit	\N	\N	original	\N	1
 tt1001493	2	Bauernhochzeit	DE	\N	imdbDisplay	\N	0
 tt1001494	1	Bayreuth. Eine Stadt einst und jetzt	\N	\N	original	\N	1
@@ -5052,20 +5055,21 @@ tt1001526	31	Мегамозг	RU	\N	imdbDisplay	\N	0
 tt1001526	32	Megamind	GB	\N	imdbDisplay	\N	0
 tt1001526	33	Megamente	PE	\N	imdbDisplay	\N	0
 tt1001526	34	Megamente	MX	\N	imdbDisplay	\N	0
-tt1001526	35	Мегамозок	UA	\N	imdbDisplay	\N	0
-tt1001526	36	Megamind	CA	fr	imdbDisplay	\N	0
-tt1001526	37	麥克邁：超能壞蛋	TW	\N	imdbDisplay	\N	0
-tt1001526	38	Megamind	PT	\N	imdbDisplay	\N	0
-tt1001526	39	Oobermind	US	\N	working	\N	0
+tt1001526	35	Megamind	PH	en	imdbDisplay	\N	0
+tt1001526	36	Мегамозок	UA	\N	imdbDisplay	\N	0
+tt1001526	37	Megamind	CA	fr	imdbDisplay	\N	0
+tt1001526	38	麥克邁：超能壞蛋	TW	\N	imdbDisplay	\N	0
+tt1001526	39	Megamind	PT	\N	imdbDisplay	\N	0
 tt1001526	3	Megamaindas	LT	\N	imdbDisplay	\N	0
-tt1001526	40	Megamind in 3-D	DK	\N	\N	3-D version	0
-tt1001526	41	Megaum	SI	\N	imdbDisplay	\N	0
-tt1001526	42	超级大坏蛋	CN	cmn	imdbDisplay	\N	0
-tt1001526	43	Megamind	FR	\N	imdbDisplay	\N	0
-tt1001526	44	Megamind	IT	\N	imdbDisplay	\N	0
-tt1001526	45	Μεγαλοφυής	GR	\N	imdbDisplay	\N	0
-tt1001526	46	Megamind: Superschurk	NL	\N	\N	dubbed version	0
-tt1001526	47	Megamind	IN	en	imdbDisplay	\N	0
+tt1001526	40	Oobermind	US	\N	working	\N	0
+tt1001526	41	Megamind in 3-D	DK	\N	\N	3-D version	0
+tt1001526	42	Megaum	SI	\N	imdbDisplay	\N	0
+tt1001526	43	超级大坏蛋	CN	cmn	imdbDisplay	\N	0
+tt1001526	44	Megamind	FR	\N	imdbDisplay	\N	0
+tt1001526	45	Megamind	IT	\N	imdbDisplay	\N	0
+tt1001526	46	Μεγαλοφυής	GR	\N	imdbDisplay	\N	0
+tt1001526	47	Megamind: Superschurk	NL	\N	\N	dubbed version	0
+tt1001526	48	Megamind	IN	en	imdbDisplay	\N	0
 tt1001526	4	Mega moah	IL	he	\N	\N	0
 tt1001526	5	Megahjerne	NO	\N	imdbDisplay	\N	0
 tt1001526	6	Megamind	RO	\N	imdbDisplay	\N	0
@@ -9976,8 +9980,8 @@ tt1002543	2	Santiago	BR	\N	imdbDisplay	\N	0
 tt1002543	3	Santiago	PL	\N	imdbDisplay	\N	0
 tt1002543	4	Сантьяго	RU	\N	imdbDisplay	\N	0
 tt1002543	5	Santiago	GR	\N	festival	\N	0
-tt1002544	1	Oti mas enonei	GR	\N	tv	\N	0
-tt1002544	2	A Slim Peace	\N	\N	original	\N	1
+tt1002544	1	A Slim Peace	\N	\N	original	\N	1
+tt1002544	2	Ό¸τι μας ενώνει	GR	\N	tv	\N	0
 tt1002544	3	A Slim Peace	GB	\N	imdbDisplay	\N	0
 tt1002546	1	Welcome to the Family	\N	\N	original	\N	1
 tt1002546	2	Welcome to the Family	US	\N	imdbDisplay	\N	0
@@ -10035,7 +10039,7 @@ tt1002567	13	Az erdő foglyai	HU	\N	imdbDisplay	\N	0
 tt1002567	14	Hansel & Gretel	XWW	en	imdbDisplay	\N	0
 tt1002567	15	Jenícek a Marenka	CZ	\N	\N	\N	0
 tt1002567	16	Hansel & Gretel	AR	\N	festival	\N	0
-tt1002567	1	Skoteino dasos	GR	\N	dvd	\N	0
+tt1002567	1	Σκοτεινό δάσος	GR	\N	dvd	\N	0
 tt1002567	2	ヘンゼルとグレーテル	JP	ja	imdbDisplay	\N	0
 tt1002567	3	Hansel e Gretel	IT	\N	imdbDisplay	\N	0
 tt1002567	4	Гензель и Гретель	RU	\N	imdbDisplay	\N	0
@@ -11095,8 +11099,8 @@ tt1003048	2	Rekviem za ty, kteri prezili	\N	\N	original	\N	1
 tt1003049	1	Remembering Marshall: Thirty Years Later	\N	\N	original	\N	1
 tt1003049	2	Remembering Marshall: Thirty Years Later	US	\N	imdbDisplay	\N	0
 tt1003050	1	Russian Teen Obsession	\N	\N	original	\N	1
-tt1003050	2	Russian Teen Obsession	US	\N	imdbDisplay	\N	0
-tt1003050	3	O Rocco kai ta koritsia tou	GR	\N	\N	cable TV title	0
+tt1003050	2	Ο Ρόκκο και τα κορίτσια του	GR	\N	\N	cable TV title	0
+tt1003050	3	Russian Teen Obsession	US	\N	imdbDisplay	\N	0
 tt1003051	1	Areia e Lágrimas	PT	\N	imdbDisplay	\N	0
 tt1003051	2	Sand and Sorrow: The Tragic Story of Darfur	AU	\N	\N	\N	0
 tt1003051	3	Sand and Sorrow	US	\N	imdbDisplay	\N	0

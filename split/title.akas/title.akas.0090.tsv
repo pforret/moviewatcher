@@ -86,13 +86,13 @@ tt0900079	4	10 नवम्बर 2006 को प्रसारित एपि
 tt0900079	5	Episodio datato 10 novembre 2006	IT	it	\N	\N	0
 tt0900079	6	Épisode datant du 10 novembre 2006	FR	fr	\N	\N	0
 tt0900079	7	2006年11月10日 のエピソード	JP	ja	\N	\N	0
-tt0900080	1	Episodio datato 11 novembre 2006	IT	it	\N	\N	0
-tt0900080	2	11 नवम्बर 2006 को प्रसारित एपिसोड	IN	hi	\N	\N	0
-tt0900080	3	Épisode datant du 11 novembre 2006	FR	fr	\N	\N	0
-tt0900080	4	Episodio fechado 11 noviembre 2006	ES	es	\N	\N	0
-tt0900080	5	2006年11月11日 のエピソード	JP	ja	\N	\N	0
-tt0900080	6	Folge vom 11. November 2006	DE	de	\N	\N	0
-tt0900080	7	Episódio datado de 11 Novembro de 2006	PT	pt	\N	\N	0
+tt0900080	1	Folge #1.9	DE	de	\N	\N	0
+tt0900080	2	Episodio #1.9	ES	es	\N	\N	0
+tt0900080	3	एपिसोड #1.9	IN	hi	\N	\N	0
+tt0900080	4	Épisode #1.9	FR	fr	\N	\N	0
+tt0900080	5	Episódio #1.9	PT	pt	\N	\N	0
+tt0900080	6	Episodio #1.9	IT	it	\N	\N	0
+tt0900080	7	エピソード #1.9	JP	ja	\N	\N	0
 tt0900081	1	2006年11月13日 のエピソード	JP	ja	\N	\N	0
 tt0900081	2	Episodio datato 13 novembre 2006	IT	it	\N	\N	0
 tt0900081	3	Episodio fechado 13 noviembre 2006	ES	es	\N	\N	0
@@ -9337,15 +9337,16 @@ tt0903624	54	Hobbit: Ena anapanteho taxidi	GR	\N	\N	transliterated title	0
 tt0903624	55	The Hobbit: An Unexpected Journey	PH	en	imdbDisplay	\N	0
 tt0903624	56	Ha'Hobbit: masa bilti tzafui	IL	he	imdbDisplay	\N	0
 tt0903624	57	El Hobbit: Un viaje inesperado	MX	es	imdbDisplay	\N	0
-tt0903624	58	Hobit: Nepricakovano potovanje	SI	\N	imdbDisplay	\N	0
-tt0903624	59	哈比人：意外旅程	TW	\N	imdbDisplay	\N	0
+tt0903624	58	The Hobbit: An Unexpected Journey	AE	\N	imdbDisplay	\N	0
+tt0903624	59	Hobit: Nepricakovano potovanje	SI	\N	imdbDisplay	\N	0
 tt0903624	5	The Hobbit: Part 1	XWW	en	working	\N	0
-tt0903624	60	霍比特人1：意外之旅	CN	cmn	imdbDisplay	\N	0
-tt0903624	61	Hobitto o moigake nai boken	JP	\N	imdbDisplay	\N	0
-tt0903624	62	Le Hobbit: Un Voyage Inattendu	CA	fr	imdbDisplay	\N	0
-tt0903624	63	Hobbit: Kutilmagan sayohat	UZ	\N	imdbDisplay	\N	0
-tt0903624	64	El hobbit: Un viaje inesperado	ES	\N	imdbDisplay	\N	0
-tt0903624	65	The Hobbit: An Unexpected Journey	IN	en	imdbDisplay	\N	0
+tt0903624	60	哈比人：意外旅程	TW	\N	imdbDisplay	\N	0
+tt0903624	61	霍比特人1：意外之旅	CN	cmn	imdbDisplay	\N	0
+tt0903624	62	Hobitto o moigake nai boken	JP	\N	imdbDisplay	\N	0
+tt0903624	63	Le Hobbit: Un Voyage Inattendu	CA	fr	imdbDisplay	\N	0
+tt0903624	64	Hobbit: Kutilmagan sayohat	UZ	\N	imdbDisplay	\N	0
+tt0903624	65	El hobbit: Un viaje inesperado	ES	\N	imdbDisplay	\N	0
+tt0903624	66	The Hobbit: An Unexpected Journey	IN	en	imdbDisplay	\N	0
 tt0903624	6	Hobbit: Tam i z powrotem	PL	\N	alternative	\N	0
 tt0903624	7	The Hobbit: An Unexpected Journey	SG	en	imdbDisplay	\N	0
 tt0903624	8	El Hobbit: un viaje inesperado	UY	\N	imdbDisplay	\N	0
@@ -15340,9 +15341,10 @@ tt0905372	37	The Thing	ID	en	imdbDisplay	\N	0
 tt0905372	38	La cosa	IT	\N	imdbDisplay	\N	0
 tt0905372	39	Vec: Pocátek	CZ	\N	imdbDisplay	\N	0
 tt0905372	3	Şey	TR	tr	imdbDisplay	\N	0
-tt0905372	40	遊星からの物体X ファーストコンタクト	JP	ja	imdbDisplay	\N	0
-tt0905372	41	The Thing: The Beginning	US	\N	working	\N	0
-tt0905372	42	The Thing	GB	\N	imdbDisplay	\N	0
+tt0905372	40	The Thing	PH	en	imdbDisplay	\N	0
+tt0905372	41	遊星からの物体X ファーストコンタクト	JP	ja	imdbDisplay	\N	0
+tt0905372	42	The Thing: The Beginning	US	\N	working	\N	0
+tt0905372	43	The Thing	GB	\N	imdbDisplay	\N	0
 tt0905372	4	The Thing	IN	hi	imdbDisplay	\N	0
 tt0905372	5	La cosa de otro mundo	CL	\N	imdbDisplay	\N	0
 tt0905372	6	Нещото	BG	bg	imdbDisplay	\N	0
@@ -19031,22 +19033,24 @@ tt0906777	4	La señal	ES	\N	\N	\N	0
 tt0906777	5	La señal	\N	\N	original	\N	1
 tt0906777	6	The Signal	XEU	en	festival	\N	0
 tt0906777	7	La señal	CA	en	imdbDisplay	\N	0
-tt0906778	10	Black Butterflies	IN	hi	imdbDisplay	\N	0
-tt0906778	11	Μαύρες πεταλούδες	GR	\N	imdbDisplay	\N	0
-tt0906778	12	Smoke and Ochre	NL	\N	working	\N	0
-tt0906778	13	Черные бабочки	RU	\N	imdbDisplay	\N	0
-tt0906778	14	Black Butterflies	\N	\N	original	\N	1
-tt0906778	15	Black Butterflies	ZA	en	imdbDisplay	\N	0
-tt0906778	16	黑蝶漫舞	CN	cmn	imdbDisplay	\N	0
+tt0906778	10	Ingrid Jonker	FR	\N	imdbDisplay	\N	0
+tt0906778	11	Black Butterflies	IN	hi	imdbDisplay	\N	0
+tt0906778	12	Μαύρες πεταλούδες	GR	\N	imdbDisplay	\N	0
+tt0906778	13	Smoke and Ochre	NL	\N	working	\N	0
+tt0906778	14	Черные бабочки	RU	\N	imdbDisplay	\N	0
+tt0906778	15	Black Butterflies	\N	\N	original	\N	1
+tt0906778	16	Black Butterflies	IN	en	imdbDisplay	\N	0
+tt0906778	17	Black Butterflies	ZA	en	imdbDisplay	\N	0
+tt0906778	18	黑蝶漫舞	CN	cmn	imdbDisplay	\N	0
 tt0906778	1	Чeрни пеперуди	BG	bg	imdbDisplay	\N	0
 tt0906778	2	Black Butterflies	SG	en	imdbDisplay	\N	0
 tt0906778	3	Black Butterflies	GB	\N	imdbDisplay	\N	0
 tt0906778	4	Sorte sommerfugle	DK	\N	imdbDisplay	\N	0
 tt0906778	5	Black Butterflies	US	\N	imdbDisplay	\N	0
-tt0906778	6	Mustat perhoset	FI	\N	imdbDisplay	\N	0
-tt0906778	7	Black Butterflies	DE	\N	imdbDisplay	\N	0
-tt0906778	8	Borboletas Negras	BR	\N	imdbDisplay	\N	0
-tt0906778	9	Ingrid Jonker	FR	\N	imdbDisplay	\N	0
+tt0906778	6	Black Butterflies	PH	en	imdbDisplay	\N	0
+tt0906778	7	Mustat perhoset	FI	\N	imdbDisplay	\N	0
+tt0906778	8	Black Butterflies	DE	\N	imdbDisplay	\N	0
+tt0906778	9	Borboletas Negras	BR	\N	imdbDisplay	\N	0
 tt0906779	1	Step Up!	CA	\N	\N	\N	0
 tt0906779	2	Step Up!	GB	\N	imdbDisplay	\N	0
 tt0906779	3	Step Up!	\N	\N	original	\N	1
@@ -21540,17 +21544,18 @@ tt0907692	1	Preguntas al espacio	ES	\N	imdbDisplay	\N	0
 tt0907692	2	Preguntas al espacio	\N	\N	original	\N	1
 tt0907693	1	Quarts de nou	ES	\N	imdbDisplay	\N	0
 tt0907693	2	Quarts de nou	\N	\N	original	\N	1
-tt0907694	10	Rosamunde Pilcher	GB	\N	imdbDisplay	\N	0
-tt0907694	11	Álom és szerelem	HU	\N	\N	\N	0
+tt0907694	10	Rosamunde Pilcher	IT	\N	imdbDisplay	\N	0
+tt0907694	11	Rosamunde Pilcher	GB	\N	imdbDisplay	\N	0
+tt0907694	12	Álom és szerelem	HU	\N	\N	\N	0
 tt0907694	1	Rosamunde Pilcher	FI	\N	imdbDisplay	\N	0
 tt0907694	2	Rosamunde Pilcher	JP	ja	imdbDisplay	\N	0
 tt0907694	3	Rosamunde Pilcher	DE	\N	imdbDisplay	\N	0
-tt0907694	4	Rosamunde Pilcher	ES	\N	imdbDisplay	\N	0
-tt0907694	5	Rosamunde Pilcher	PL	\N	imdbDisplay	\N	0
-tt0907694	6	Rosamunde Pilcher	\N	\N	original	\N	1
-tt0907694	7	Rosamunde Pilcher	FR	\N	imdbDisplay	\N	0
-tt0907694	8	Розамунде Пилхер	BG	bg	imdbDisplay	\N	0
-tt0907694	9	Rosamunde Pilcher	IT	\N	imdbDisplay	\N	0
+tt0907694	4	Rosamunde Pilcher	ZA	en	imdbDisplay	\N	0
+tt0907694	5	Rosamunde Pilcher	ES	\N	imdbDisplay	\N	0
+tt0907694	6	Rosamunde Pilcher	PL	\N	imdbDisplay	\N	0
+tt0907694	7	Rosamunde Pilcher	\N	\N	original	\N	1
+tt0907694	8	Rosamunde Pilcher	FR	\N	imdbDisplay	\N	0
+tt0907694	9	Розамунде Пилхер	BG	bg	imdbDisplay	\N	0
 tt0907695	1	El Séneca	\N	\N	original	\N	1
 tt0907695	2	El Séneca	ES	\N	imdbDisplay	\N	0
 tt0907696	1	Sexto sentido	ES	\N	imdbDisplay	\N	0

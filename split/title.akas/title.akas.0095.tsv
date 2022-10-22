@@ -3539,7 +3539,8 @@ tt0951260	4	एपिसोड #2.79	IN	hi	\N	\N	0
 tt0951260	5	Épisode #2.79	FR	fr	\N	\N	0
 tt0951260	6	Episódio #2.79	PT	pt	\N	\N	0
 tt0951260	7	Episodio #2.79	ES	es	\N	\N	0
-tt0951261	1	Asian Treasures	PH	\N	\N	\N	0
+tt0951261	1	Asian Treasures	PH	en	imdbDisplay	\N	0
+tt0951261	2	Asian Treasures	\N	\N	original	\N	1
 tt0951262	1	BodogFight	CA	\N	\N	\N	0
 tt0951263	1	Entrée to Asia	CA	\N	\N	\N	0
 tt0951264	1	Exhibit Eh!	CA	\N	\N	\N	0
@@ -6331,13 +6332,7 @@ tt0952492	1	The War in Worcester	US	\N	\N	\N	0
 tt0952493	1	The Ides of March	US	\N	\N	\N	0
 tt0952494	1	Spring Breakout 1999	US	\N	\N	\N	0
 tt0952495	1	Oh, Canada!	US	\N	\N	\N	0
-tt0952496	1	Épisode #4.33	FR	fr	\N	\N	0
-tt0952496	2	Folge #4.33	DE	de	\N	\N	0
-tt0952496	3	Episódio #4.33	PT	pt	\N	\N	0
-tt0952496	4	एपिसोड #4.33	IN	hi	\N	\N	0
-tt0952496	5	エピソード #4.33	JP	ja	\N	\N	0
-tt0952496	6	Episodio #4.33	IT	it	\N	\N	0
-tt0952496	7	Episodio #4.33	ES	es	\N	\N	0
+tt0952496	1	Live in Las Vegas	US	\N	\N	\N	0
 tt0952497	1	Folge #4.34	DE	de	\N	\N	0
 tt0952497	2	Episódio #4.34	PT	pt	\N	\N	0
 tt0952497	3	エピソード #4.34	JP	ja	\N	\N	0
@@ -6800,34 +6795,35 @@ tt0952640	25	Alvin and the Chipmunks	ID	en	imdbDisplay	\N	0
 tt0952640	26	Alvin och gänget	SE	\N	\N	\N	0
 tt0952640	27	Alvin e os Esquilos	PT	\N	imdbDisplay	\N	0
 tt0952640	28	Alvin et les Chipmunks	BE	fr	\N	\N	0
-tt0952640	29	Alvin y las ardillitas	VE	\N	imdbDisplay	\N	0
+tt0952640	29	Alvin and the Chipmunks	ZA	en	imdbDisplay	\N	0
 tt0952640	2	Alvin und die Chipmunks - Der Kinofilm	DE	\N	imdbDisplay	\N	0
-tt0952640	30	Alvin en de Chipmunks	NL	\N	\N	dubbed version	0
-tt0952640	31	Alvin and the Chipmunks	GB	\N	imdbDisplay	\N	0
-tt0952640	32	Alvin i wiewiórki	PL	\N	\N	\N	0
-tt0952640	33	Алвин и катеричоците	BG	bg	imdbDisplay	\N	0
-tt0952640	34	Alvin y las ardillas	PE	\N	imdbDisplay	\N	0
-tt0952640	35	Simon	US	\N	\N	fake working title	0
-tt0952640	36	Sóc Siêu Quậy	VN	\N	imdbDisplay	\N	0
-tt0952640	37	Алвин и чипоносковците	BG	bg	imdbDisplay	\N	0
-tt0952640	38	Alvin and the Chipmunks	CA	en	imdbDisplay	\N	0
-tt0952640	39	鼠來寶	TW	\N	imdbDisplay	\N	0
+tt0952640	30	Alvin y las ardillitas	VE	\N	imdbDisplay	\N	0
+tt0952640	31	Alvin en de Chipmunks	NL	\N	\N	dubbed version	0
+tt0952640	32	Alvin and the Chipmunks	GB	\N	imdbDisplay	\N	0
+tt0952640	33	Alvin i wiewiórki	PL	\N	\N	\N	0
+tt0952640	34	Алвин и катеричоците	BG	bg	imdbDisplay	\N	0
+tt0952640	35	Alvin y las ardillas	PE	\N	imdbDisplay	\N	0
+tt0952640	36	Simon	US	\N	\N	fake working title	0
+tt0952640	37	Sóc Siêu Quậy	VN	\N	imdbDisplay	\N	0
+tt0952640	38	Алвин и чипоносковците	BG	bg	imdbDisplay	\N	0
+tt0952640	39	Alvin and the Chipmunks	CA	en	imdbDisplay	\N	0
 tt0952640	3	Alvin és a mókusok	HU	\N	\N	\N	0
-tt0952640	40	Alvin ja pikkuoravat	FI	\N	\N	\N	0
-tt0952640	41	Alvin og de frække jordegern	DK	\N	\N	\N	0
-tt0952640	42	Элвин и бурундуки	RU	\N	imdbDisplay	\N	0
-tt0952640	43	Elvin va burunduqlar	UZ	\N	imdbDisplay	\N	0
-tt0952640	44	I Alvin kai i parea tou	GR	\N	\N	transliterated title	0
-tt0952640	45	Alvin e os Esquilos	BR	\N	\N	\N	0
-tt0952640	46	Arubin - Utau shimarisu 3 kyôdai	JP	\N	\N	\N	0
-tt0952640	47	Alvin et les Chipmunks	CA	fr	\N	\N	0
-tt0952640	48	Alvin and the Chipmunks	PH	en	imdbDisplay	\N	0
-tt0952640	49	Alvinas ir burundukai	LT	\N	imdbDisplay	\N	0
+tt0952640	40	鼠來寶	TW	\N	imdbDisplay	\N	0
+tt0952640	41	Alvin ja pikkuoravat	FI	\N	\N	\N	0
+tt0952640	42	Alvin og de frække jordegern	DK	\N	\N	\N	0
+tt0952640	43	Элвин и бурундуки	RU	\N	imdbDisplay	\N	0
+tt0952640	44	Elvin va burunduqlar	UZ	\N	imdbDisplay	\N	0
+tt0952640	45	I Alvin kai i parea tou	GR	\N	\N	transliterated title	0
+tt0952640	46	Alvin e os Esquilos	BR	\N	\N	\N	0
+tt0952640	47	Arubin - Utau shimarisu 3 kyôdai	JP	\N	\N	\N	0
+tt0952640	48	Alvin et les Chipmunks	CA	fr	\N	\N	0
+tt0952640	49	Alvin and the Chipmunks	PH	en	imdbDisplay	\N	0
 tt0952640	4	Елвін та бурундуки	UA	\N	imdbDisplay	\N	0
-tt0952640	50	Alvin y las ardillas	MX	\N	imdbDisplay	\N	0
-tt0952640	51	Alvin and the Chipmunks	IN	en	imdbDisplay	\N	0
-tt0952640	52	Hairy Beast	US	\N	\N	fake working title	0
-tt0952640	53	Alvin et les Chipmunks	FR	\N	\N	\N	0
+tt0952640	50	Alvinas ir burundukai	LT	\N	imdbDisplay	\N	0
+tt0952640	51	Alvin y las ardillas	MX	\N	imdbDisplay	\N	0
+tt0952640	52	Alvin and the Chipmunks	IN	en	imdbDisplay	\N	0
+tt0952640	53	Hairy Beast	US	\N	\N	fake working title	0
+tt0952640	54	Alvin et les Chipmunks	FR	\N	\N	\N	0
 tt0952640	5	ألفين والسناجب	AE	\N	imdbDisplay	\N	0
 tt0952640	6	Alvin und die Chipmunks - Der Film	DE	\N	dvd	\N	0
 tt0952640	7	アルビン　歌うシマリス3兄弟	JP	ja	imdbDisplay	\N	0

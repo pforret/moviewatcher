@@ -4473,7 +4473,7 @@ tt12252600	1	Elemental Type Moves- The Secret Meta	US	\N	\N	\N	0
 tt12252602	1	Directíssimo	\N	\N	original	\N	1
 tt12252602	2	Directíssimo	PT	\N	imdbDisplay	\N	0
 tt12252608	1	La panne	\N	\N	alternative	\N	0
-tt12252608	2	Off	CA	\N	\N	\N	0
+tt12252608	2	La panne	CA	fr	imdbDisplay	\N	0
 tt12252608	3	Off	\N	\N	original	\N	1
 tt12252620	1	Hermes: Artisan des Lumières	\N	\N	original	\N	1
 tt12252620	2	Hermes: Artisan des Lumières	FR	\N	imdbDisplay	\N	0
@@ -5173,16 +5173,17 @@ tt12253154	4	एपिसोड #1.14	IN	hi	\N	\N	0
 tt12253154	5	エピソード #1.14	JP	ja	\N	\N	0
 tt12253154	6	Épisode #1.14	FR	fr	\N	\N	0
 tt12253154	7	Episodio #1.14	ES	es	\N	\N	0
-tt12253164	10	Metronom	PL	\N	imdbDisplay	\N	0
+tt12253164	10	Metronom	FR	\N	imdbDisplay	\N	0
+tt12253164	11	Metronom	PL	\N	imdbDisplay	\N	0
 tt12253164	1	嚴密監視的派對	TW	\N	festival	\N	0
 tt12253164	2	Metronom	NL	\N	imdbDisplay	\N	0
 tt12253164	3	Metronom	DE	\N	imdbDisplay	\N	0
 tt12253164	4	Metronom	CA	fr	imdbDisplay	\N	0
-tt12253164	5	Metronom	CA	en	imdbDisplay	\N	0
-tt12253164	6	Metronom	IL	en	imdbDisplay	\N	0
-tt12253164	7	Metronom	RO	\N	\N	\N	0
-tt12253164	8	Metronom	\N	\N	original	\N	1
-tt12253164	9	Metronom	FR	\N	imdbDisplay	\N	0
+tt12253164	5	Metronom	AU	\N	imdbDisplay	\N	0
+tt12253164	6	Metronom	CA	en	imdbDisplay	\N	0
+tt12253164	7	Metronom	IL	en	imdbDisplay	\N	0
+tt12253164	8	Metronom	RO	\N	\N	\N	0
+tt12253164	9	Metronom	\N	\N	original	\N	1
 tt12253168	1	Lajkuj me milion puta	\N	\N	original	\N	1
 tt12253168	2	Lajkuj me milion puta	RS	\N	imdbDisplay	\N	0
 tt12253170	1	Tutkad	\N	\N	original	\N	1
@@ -16116,13 +16117,14 @@ tt12259072	4	Folge #1.430	DE	de	\N	\N	0
 tt12259072	5	Episódio #1.430	PT	pt	\N	\N	0
 tt12259072	6	एपिसोड #1.430	IN	hi	\N	\N	0
 tt12259072	7	Épisode #1.430	FR	fr	\N	\N	0
-tt12259074	1	Sin	SG	en	imdbDisplay	\N	0
-tt12259074	2	Sin	\N	\N	original	\N	1
-tt12259074	3	Sin	IN	en	imdbDisplay	\N	0
-tt12259074	4	Sin	US	\N	imdbDisplay	\N	0
-tt12259074	5	Sin	IN	hi	imdbDisplay	\N	0
-tt12259074	6	Sin	ID	en	imdbDisplay	\N	0
-tt12259074	7	Sin	AE	\N	imdbDisplay	\N	0
+tt12259074	1	Sin	DE	\N	imdbDisplay	\N	0
+tt12259074	2	Sin	SG	en	imdbDisplay	\N	0
+tt12259074	3	Sin	\N	\N	original	\N	1
+tt12259074	4	Sin	IN	en	imdbDisplay	\N	0
+tt12259074	5	Sin	US	\N	imdbDisplay	\N	0
+tt12259074	6	Sin	IN	hi	imdbDisplay	\N	0
+tt12259074	7	Sin	ID	en	imdbDisplay	\N	0
+tt12259074	8	Sin	AE	\N	imdbDisplay	\N	0
 tt12259078	1	エピソード #1.431	JP	ja	\N	\N	0
 tt12259078	2	Episodio #1.431	ES	es	\N	\N	0
 tt12259078	3	Épisode #1.431	FR	fr	\N	\N	0

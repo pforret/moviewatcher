@@ -900,8 +900,8 @@ tt0000210	3	Les rayons Röntgen	\N	\N	original	\N	1
 tt0000211	10	La lune à un mètre. L'observatoire, la lune, Phoebé	FR	\N	\N	\N	0
 tt0000211	11	Το όνειρο του αστρονόμου	GR	\N	imdbDisplay	\N	0
 tt0000211	12	The Moon at One Meter	XWW	en	imdbDisplay	\N	0
-tt0000211	13	To Oniro tou Astronomou	GR	\N	\N	transliterated title	0
-tt0000211	14	Астрономов сан	RS	\N	imdbDisplay	\N	0
+tt0000211	13	Астрономов сан	RS	\N	imdbDisplay	\N	0
+tt0000211	14	To oniro tou astronomou	GR	\N	\N	transliterated title	0
 tt0000211	15	Луна всего лишь в метре	RU	\N	imdbDisplay	\N	0
 tt0000211	16	The Astronomer's Dream	\N	\N	\N	new title	0
 tt0000211	17	The Astronomer's Dream; or, the Man in the Moon	US	\N	imdbDisplay	\N	0
@@ -1829,13 +1829,13 @@ tt0000469	6	Больной котёнок	RU	\N	imdbDisplay	\N	0
 tt0000469	7	A beteg kiscicus	HU	\N	imdbDisplay	\N	0
 tt0000470	1	Les surprises de l'affichage	\N	\N	original	\N	1
 tt0000470	2	Les surprises de l'affichage	FR	\N	imdbDisplay	\N	0
-tt0000471	1	I kaliva tou mparmpa Thoma	GR	\N	imdbDisplay	\N	0
-tt0000471	2	Uncle Tom's Cabin; or, Slavery Days	US	\N	\N	long title	0
-tt0000471	3	Uncle Tom's Cabin	\N	\N	original	\N	1
-tt0000471	4	Uncle Tom's Cabin	US	\N	imdbDisplay	\N	0
-tt0000471	5	Хижина дяди Тома	RU	\N	imdbDisplay	\N	0
-tt0000471	6	La cabaña del tío Tom	VE	\N	\N	\N	0
-tt0000471	7	Tamás bátya kunyhója	HU	\N	imdbDisplay	\N	0
+tt0000471	1	Uncle Tom's Cabin; or, Slavery Days	US	\N	\N	long title	0
+tt0000471	2	Uncle Tom's Cabin	\N	\N	original	\N	1
+tt0000471	3	Uncle Tom's Cabin	US	\N	imdbDisplay	\N	0
+tt0000471	4	Хижина дяди Тома	RU	\N	imdbDisplay	\N	0
+tt0000471	5	La cabaña del tío Tom	VE	\N	\N	\N	0
+tt0000471	6	Tamás bátya kunyhója	HU	\N	imdbDisplay	\N	0
+tt0000471	7	Η καλύβα του μπάρμπα-Θωμά	GR	\N	imdbDisplay	\N	0
 tt0000471	8	A Cabana do Pai Tomás	BR	\N	imdbDisplay	\N	0
 tt0000472	1	Uncle Tom's Cabin	\N	\N	original	\N	1
 tt0000472	2	Uncle Tom's Cabin	US	\N	imdbDisplay	\N	0
@@ -2166,9 +2166,9 @@ tt0000564	2	A Modern Oliver Twist	US	\N	imdbDisplay	\N	0
 tt0000564	3	A Modern Oliver Twist	\N	\N	original	\N	1
 tt0000565	1	The Night Before Christmas	\N	\N	original	\N	1
 tt0000565	2	The Night Before Christmas	US	\N	imdbDisplay	\N	0
-tt0000565	3	I nykta prin apo ta Hristougenna	GR	\N	tv	\N	0
-tt0000565	4	Hanging Stockings on a Christmas Eve	US	\N	alternative	\N	0
-tt0000565	5	Szenteste	HU	\N	imdbDisplay	\N	0
+tt0000565	3	Hanging Stockings on a Christmas Eve	US	\N	alternative	\N	0
+tt0000565	4	Szenteste	HU	\N	imdbDisplay	\N	0
+tt0000565	5	Η νύκτα πριν από τα Χριστούγεννα	GR	\N	imdbDisplay	\N	0
 tt0000566	1	Professorens Morgenavis	\N	\N	original	\N	1
 tt0000566	2	Professorens Morgenavis	DK	\N	imdbDisplay	\N	0
 tt0000566	3	Professorns morgontidning	SE	\N	alternative	\N	0
@@ -16810,8 +16810,8 @@ tt0005618	2	Life of Sam Davis: A Confederate Hero of the Sixties	US	\N	imdbDispl
 tt0005619	1	Life's Shop Window	US	\N	imdbDisplay	\N	0
 tt0005619	2	Life's Shop Window	\N	\N	original	\N	1
 tt0005620	1	Ljuset som försvann	SE	\N	imdbDisplay	\N	0
-tt0005620	2	To fos pou svinei	GR	\N	\N	new title	0
-tt0005620	3	The Light That Failed	\N	\N	original	\N	1
+tt0005620	2	The Light That Failed	\N	\N	original	\N	1
+tt0005620	3	Το φως που σβήνει	GR	\N	imdbDisplay	\N	0
 tt0005620	4	Lyset, der sluktes	DK	\N	imdbDisplay	\N	0
 tt0005620	5	Lyset, der svandt	DK	\N	alternative	\N	0
 tt0005620	6	The Light That Failed	US	\N	imdbDisplay	\N	0
@@ -21298,6 +21298,7 @@ tt0007038	3	Spanierinden	DK	\N	imdbDisplay	\N	0
 tt0007038	4	Maria Rosa	ES	\N	imdbDisplay	\N	0
 tt0007038	5	Maria Rosa	US	\N	imdbDisplay	\N	0
 tt0007038	6	Maria Rosa	\N	\N	original	\N	1
+tt0007038	7	Η Μαρία-Ρόζα	GR	\N	imdbDisplay	\N	0
 tt0007039	1	The Mark of Cain	\N	\N	original	\N	1
 tt0007039	2	By Fate's Degree	\N	\N	\N	\N	0
 tt0007039	3	The Mark of Cain	US	\N	imdbDisplay	\N	0
@@ -22671,18 +22672,19 @@ tt0007457	3	Through the Wall	US	\N	imdbDisplay	\N	0
 tt0007457	4	New Yorks farligste Mand	DK	\N	imdbDisplay	\N	0
 tt0007458	1	Thrown to the Lions	US	\N	imdbDisplay	\N	0
 tt0007458	2	Thrown to the Lions	\N	\N	original	\N	1
-tt0007459	10	The Royal Tigress	XWW	en	\N	literal English title	0
-tt0007459	11	王家の虎	JP	ja	imdbDisplay	\N	0
-tt0007459	12	Koningstijger	NL	\N	\N	informal literal title	0
-tt0007459	1	La tigresse royale	FR	\N	\N	\N	0
-tt0007459	2	I vasiliki tigris	GR	\N	\N	transliterated title	0
-tt0007459	3	Tigre reale	\N	\N	original	\N	1
-tt0007459	4	O Tigre real	PT	\N	\N	\N	0
-tt0007459	5	Tigre real	ES	\N	\N	\N	0
-tt0007459	6	A nősténytigris	HU	\N	imdbDisplay	\N	0
-tt0007459	7	Tigre reale	IT	\N	imdbDisplay	\N	0
-tt0007459	8	Tigre Real	BR	\N	imdbDisplay	\N	0
-tt0007459	9	Huntigeren	NO	\N	imdbDisplay	\N	0
+tt0007459	10	Tigre Real	BR	\N	imdbDisplay	\N	0
+tt0007459	11	Huntigeren	NO	\N	imdbDisplay	\N	0
+tt0007459	12	The Royal Tigress	XWW	en	\N	literal English title	0
+tt0007459	13	王家の虎	JP	ja	imdbDisplay	\N	0
+tt0007459	1	Η βασιλική τίγρις	GR	\N	imdbDisplay	\N	0
+tt0007459	2	La tigresse royale	FR	\N	\N	\N	0
+tt0007459	3	I vasiliki tigris	GR	\N	\N	transliterated title	0
+tt0007459	4	Tigre real	ES	\N	\N	\N	0
+tt0007459	5	Tigre reale	IT	\N	imdbDisplay	\N	0
+tt0007459	6	Koningstijger	NL	\N	\N	informal literal title	0
+tt0007459	7	Tigre reale	\N	\N	original	\N	1
+tt0007459	8	O Tigre real	PT	\N	\N	\N	0
+tt0007459	9	A nősténytigris	HU	\N	imdbDisplay	\N	0
 tt0007461	1	To Another Woman	US	\N	imdbDisplay	\N	0
 tt0007461	2	To Another Woman	\N	\N	original	\N	1
 tt0007462	1	To Have and to Hold	GB	\N	imdbDisplay	\N	0
@@ -22823,12 +22825,12 @@ tt0007505	2	Ups and Downs	\N	\N	original	\N	1
 tt0007506	1	The Vagabond Prince	\N	\N	original	\N	1
 tt0007506	2	The Vagabond Prince	US	\N	imdbDisplay	\N	0
 tt0007506	3	Vagabond-prinsen	DK	\N	imdbDisplay	\N	0
-tt0007507	10	O Violistis	GR	\N	\N	transliterated title	0
-tt0007507	11	Chaplin musikanttina	FI	\N	alternative	\N	0
-tt0007507	12	Le vagabond	FR	\N	\N	\N	0
-tt0007507	13	Vagabondul	RO	\N	imdbDisplay	\N	0
-tt0007507	14	Şarlo Avare	TR	tr	imdbDisplay	\N	0
-tt0007507	15	The Vagabond	\N	\N	original	\N	1
+tt0007507	10	Chaplin musikanttina	FI	\N	alternative	\N	0
+tt0007507	11	Le vagabond	FR	\N	\N	\N	0
+tt0007507	12	Vagabondul	RO	\N	imdbDisplay	\N	0
+tt0007507	13	Şarlo Avare	TR	tr	imdbDisplay	\N	0
+tt0007507	14	The Vagabond	\N	\N	original	\N	1
+tt0007507	15	O violistis	GR	\N	\N	transliterated title	0
 tt0007507	16	Бродяга	UA	\N	imdbDisplay	\N	0
 tt0007507	17	Gipsy Life	US	\N	alternative	\N	0
 tt0007507	18	Vaeltaja	FI	\N	imdbDisplay	\N	0
@@ -24907,8 +24909,8 @@ tt0008131	4	The Iced Bullet	US	\N	imdbDisplay	\N	0
 tt0008131	5	Filmkonung för en dag	SE	\N	imdbDisplay	\N	0
 tt0008132	1	Ich heirate meine Puppe	\N	\N	original	\N	1
 tt0008132	2	Ich heirate meine Puppe	DE	\N	imdbDisplay	\N	0
-tt0008133	10	L'emigrante	IT	\N	alternative	\N	0
-tt0008133	11	O Metanastis	GR	\N	\N	transliterated title	0
+tt0008133	10	Der Immigrant	DE	\N	\N	\N	0
+tt0008133	11	L'emigrante	IT	\N	alternative	\N	0
 tt0008133	12	Chapter One Charlie as The Immigrant	GB	\N	tv	\N	0
 tt0008133	13	The Immigrant	US	\N	imdbDisplay	\N	0
 tt0008133	14	El inmigrante	AR	\N	imdbDisplay	\N	0
@@ -24939,13 +24941,13 @@ tt0008133	36	A bevándorló	HU	\N	imdbDisplay	\N	0
 tt0008133	37	Chaplin emigranttina	FI	\N	\N	rerun title	0
 tt0008133	38	Emigranten	SE	\N	imdbDisplay	\N	0
 tt0008133	39	Chaplin vystehovalcem	CZ	\N	imdbDisplay	\N	0
-tt0008133	3	Charlot emigrante	IT	\N	imdbDisplay	\N	0
-tt0008133	4	The Immigrant	\N	\N	original	\N	1
-tt0008133	5	The New World	US	\N	alternative	\N	0
-tt0008133	6	Şarlo Göçmen	TR	tr	imdbDisplay	\N	0
-tt0008133	7	Ο μετανάστης	GR	\N	imdbDisplay	\N	0
-tt0008133	8	L'émigrant	FR	\N	imdbDisplay	\N	0
-tt0008133	9	Der Immigrant	DE	\N	\N	\N	0
+tt0008133	3	O metanastis	GR	\N	\N	transliterated title	0
+tt0008133	4	Charlot emigrante	IT	\N	imdbDisplay	\N	0
+tt0008133	5	The Immigrant	\N	\N	original	\N	1
+tt0008133	6	The New World	US	\N	alternative	\N	0
+tt0008133	7	Şarlo Göçmen	TR	tr	imdbDisplay	\N	0
+tt0008133	8	Ο μετανάστης	GR	\N	imdbDisplay	\N	0
+tt0008133	9	L'émigrant	FR	\N	imdbDisplay	\N	0
 tt0008134	1	Amour vainqueur	FR	\N	\N	reissue title	0
 tt0008134	2	In Again, Out Again	\N	\N	original	\N	1
 tt0008134	3	In Again, Out Again	GB	\N	imdbDisplay	\N	0
@@ -25046,7 +25048,7 @@ tt0008160	1	The Kingdom of Love	GB	\N	imdbDisplay	\N	0
 tt0008160	2	The Kingdom of Love	\N	\N	original	\N	1
 tt0008160	3	The Kingdom of Love	US	\N	imdbDisplay	\N	0
 tt0008160	4	Anita fra Alaska	DK	\N	imdbDisplay	\N	0
-tt0008161	1	O vasilefs ton Parision	GR	\N	\N	transliterated title	0
+tt0008161	1	Ο βασιλεύς των Παρισίων	GR	\N	\N	transliterated title	0
 tt0008161	2	The King of Paris	XWW	en	\N	informal title	0
 tt0008161	3	Król Paryża	PL	\N	imdbDisplay	\N	0
 tt0008161	4	El rey de París	ES	\N	\N	literal title	0
@@ -29020,8 +29022,9 @@ tt0009262	1	King Social Briars	\N	\N	original	\N	1
 tt0009262	2	King Social Briars	US	\N	imdbDisplay	\N	0
 tt0009264	1	Ungdommens Kongerige	DK	\N	imdbDisplay	\N	0
 tt0009264	2	The Kingdom of Youth	\N	\N	original	\N	1
-tt0009264	3	The Kingdom of Youth	US	\N	imdbDisplay	\N	0
-tt0009264	4	青春の国	JP	ja	imdbDisplay	\N	0
+tt0009264	3	Ungdomens kungarike	SE	\N	imdbDisplay	\N	0
+tt0009264	4	The Kingdom of Youth	US	\N	imdbDisplay	\N	0
+tt0009264	5	青春の国	JP	ja	imdbDisplay	\N	0
 tt0009265	1	Kiss or Kill	\N	\N	original	\N	1
 tt0009265	2	Amour rédempteur	FR	\N	imdbDisplay	\N	0
 tt0009265	3	Kiss or Kill	US	\N	imdbDisplay	\N	0
@@ -30477,8 +30480,8 @@ tt0009682	14	Tarzan of the Apes	GB	\N	imdbDisplay	\N	0
 tt0009682	15	Tarzan der Affen	DE	\N	imdbDisplay	\N	0
 tt0009682	16	Tarzan of the Apes	US	\N	imdbDisplay	\N	0
 tt0009682	17	Tarzan, de aapmensch	NL	\N	imdbDisplay	\N	0
-tt0009682	18	Tarzan, o Vasilias ton Pithikon	GR	\N	alternative	\N	0
-tt0009682	19	Tarzan bei den Affen	DE	\N	dvd	\N	0
+tt0009682	18	Tarzan bei den Affen	DE	\N	dvd	\N	0
+tt0009682	19	Tarzan, o vasilias ton pithikon	GR	\N	\N	transliterated title	0
 tt0009682	1	Tarzan - Tarzan a majmok közt	HU	\N	\N	first part title	0
 tt0009682	20	Tarzan, o Homem Macaco	PT	\N	imdbDisplay	\N	0
 tt0009682	21	Tarzan från apornas land	SE	\N	imdbDisplay	\N	0
@@ -30487,9 +30490,9 @@ tt0009682	3	Tarzan of the Apes	\N	\N	original	\N	1
 tt0009682	4	Tarzan van de apen	BE	qbn	imdbDisplay	\N	0
 tt0009682	5	Tarzan - Tarzan szerelme	HU	\N	\N	second part title	0
 tt0009682	6	Tarzan of the Apes	CA	en	imdbDisplay	\N	0
-tt0009682	7	Tarzan od Majmuna	RS	\N	imdbDisplay	\N	0
-tt0009682	8	Tarzan chez les singes	FR	\N	imdbDisplay	\N	0
-tt0009682	9	Ταρζάν, ο Βασιλιάς των Πιθήκων	GR	\N	imdbDisplay	\N	0
+tt0009682	7	Ταρζάν, ο βασιλιάς των πιθήκων	GR	\N	imdbDisplay	\N	0
+tt0009682	8	Tarzan od Majmuna	RS	\N	imdbDisplay	\N	0
+tt0009682	9	Tarzan chez les singes	FR	\N	imdbDisplay	\N	0
 tt0009683	1	Tavaszi vihar	HU	\N	imdbDisplay	\N	0
 tt0009683	2	Tavaszi vihar	\N	\N	original	\N	1
 tt0009683	3	Spring Tempest	XWW	en	\N	literal title	0

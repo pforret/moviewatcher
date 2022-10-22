@@ -2239,6 +2239,7 @@ tt0010561	2	A Petal on the Current	GB	\N	imdbDisplay	\N	0
 tt0010561	3	A Petal on the Current	\N	\N	original	\N	1
 tt0010561	4	潮の花弁	JP	ja	imdbDisplay	\N	0
 tt0010561	5	A Mothers Child	US	\N	alternative	\N	0
+tt0010562	10	Den lille Café	DK	\N	imdbDisplay	\N	0
 tt0010562	1	Le petit café	\N	\N	original	\N	1
 tt0010562	2	Le petit café	FR	\N	imdbDisplay	\N	0
 tt0010562	3	Lilla kaféet	SE	\N	imdbDisplay	\N	0
@@ -2247,7 +2248,7 @@ tt0010562	5	O Botequim de Felizberto	PT	\N	imdbDisplay	\N	0
 tt0010562	6	To kafenedaki	GR	\N	\N	transliterated title	0
 tt0010562	7	A kis kávéház	HU	\N	imdbDisplay	\N	0
 tt0010562	8	The Little Cafe	US	\N	\N	\N	0
-tt0010562	9	Den lille Café	DK	\N	imdbDisplay	\N	0
+tt0010562	9	Το καφενεδάκι	GR	\N	imdbDisplay	\N	0
 tt0010563	1	Pets and Pests	US	\N	imdbDisplay	\N	0
 tt0010563	2	Pets and Pests	\N	\N	original	\N	1
 tt0010564	1	兵士の愛人	JP	ja	imdbDisplay	\N	0
@@ -3995,9 +3996,10 @@ tt0011018	3	The Kangaroo	US	\N	\N	16mm release title	0
 tt0011018	4	The Boxing Kangaroo	\N	\N	original	\N	1
 tt0011019	1	La marque des quatre	FR	\N	imdbDisplay	\N	0
 tt0011019	2	O mavros satanas	GR	\N	\N	transliterated title	0
-tt0011019	3	The Branded Four	\N	\N	original	\N	1
-tt0011019	4	The Branded Four	US	\N	imdbDisplay	\N	0
-tt0011019	5	ブランデッド・フォーア	JP	ja	imdbDisplay	\N	0
+tt0011019	3	Ο μαύρος σατανάς	GR	\N	imdbDisplay	\N	0
+tt0011019	4	The Branded Four	\N	\N	original	\N	1
+tt0011019	5	The Branded Four	US	\N	imdbDisplay	\N	0
+tt0011019	6	ブランデッド・フォーア	JP	ja	imdbDisplay	\N	0
 tt0011020	1	A Mulher Marcada	PT	\N	imdbDisplay	\N	0
 tt0011020	2	La femme flétrie	FR	\N	imdbDisplay	\N	0
 tt0011020	3	The Branded Woman	\N	\N	original	\N	1
@@ -5268,10 +5270,11 @@ tt0011333	3	The Inner Voice	\N	\N	original	\N	1
 tt0011334	1	The Invisible Divorce	\N	\N	original	\N	1
 tt0011334	2	The Invisible Divorce	US	\N	imdbDisplay	\N	0
 tt0011335	1	A Mão Invisível	PT	\N	imdbDisplay	\N	0
-tt0011335	2	The Invisible Hand	US	\N	imdbDisplay	\N	0
-tt0011335	3	The Invisible Hand	\N	\N	original	\N	1
-tt0011335	4	To aorato heri	GR	\N	\N	transliterated title	0
-tt0011335	5	見えざる手	JP	ja	imdbDisplay	\N	0
+tt0011335	2	Το αόρατο χέρι	GR	\N	imdbDisplay	\N	0
+tt0011335	3	The Invisible Hand	US	\N	imdbDisplay	\N	0
+tt0011335	4	The Invisible Hand	\N	\N	original	\N	1
+tt0011335	5	To aorato heri	GR	\N	\N	transliterated title	0
+tt0011335	6	見えざる手	JP	ja	imdbDisplay	\N	0
 tt0011336	1	The Invisible Ray	US	\N	imdbDisplay	\N	0
 tt0011336	2	The Invisible Ray	\N	\N	original	\N	1
 tt0011337	1	Héritage sacré	FR	\N	imdbDisplay	\N	0
@@ -5733,11 +5736,12 @@ tt0011439	22	Знак Зорро	SUHH	uk	imdbDisplay	\N	0
 tt0011439	23	Het teken van Zorro	NL	\N	\N	informal literal title	0
 tt0011439	24	Zorros Kendemærke	DK	\N	imdbDisplay	\N	0
 tt0011439	25	Zorro mstitel - kletba Capistrana	CSHH	cs	imdbDisplay	\N	0
-tt0011439	26	The Mark of Zorro	GB	\N	imdbDisplay	\N	0
-tt0011439	27	Znak Zorry	PL	\N	\N	premiere title	0
-tt0011439	28	Semnul lui Zorro	RO	\N	imdbDisplay	\N	0
-tt0011439	29	Zorro, der Rächer	AT	\N	imdbDisplay	\N	0
+tt0011439	26	Το σημάδι του Ζορρό	GR	\N	imdbDisplay	\N	0
+tt0011439	27	The Mark of Zorro	GB	\N	imdbDisplay	\N	0
+tt0011439	28	Znak Zorry	PL	\N	\N	premiere title	0
+tt0011439	29	Semnul lui Zorro	RO	\N	imdbDisplay	\N	0
 tt0011439	2	Le signe de Zorro	FR	\N	imdbDisplay	\N	0
+tt0011439	30	Zorro, der Rächer	AT	\N	imdbDisplay	\N	0
 tt0011439	3	Zorros märke	SE	\N	imdbDisplay	\N	0
 tt0011439	4	La marca del Zorro	VE	\N	imdbDisplay	\N	0
 tt0011439	5	Zorro-Mstitel	CSHH	\N	\N	silent version	0
@@ -6968,18 +6972,19 @@ tt0011739	2	Il più forte	IT	\N	\N	\N	0
 tt0011739	3	The Strongest	US	\N	imdbDisplay	\N	0
 tt0011740	1	Der Sturz in die Flammen	DE	\N	imdbDisplay	\N	0
 tt0011740	2	Der Sturz in die Flammen	\N	\N	original	\N	1
-tt0011741	10	Suds	GB	\N	imdbDisplay	\N	0
-tt0011741	11	Sueño y realidad	ES	\N	imdbDisplay	\N	0
-tt0011741	12	Sonho e Realidade	PT	\N	imdbDisplay	\N	0
-tt0011741	1	Sapounofouskes	GR	\N	\N	transliterated title	0
-tt0011741	2	Мыльная пена	RU	\N	imdbDisplay	\N	0
-tt0011741	3	Rêve et réalité	FR	\N	imdbDisplay	\N	0
-tt0011741	4	Vaskerpigen	DK	\N	imdbDisplay	\N	0
-tt0011741	5	Op O' Me Thumb	US	\N	working	\N	0
-tt0011741	6	The Duchess of Suds	US	\N	working	\N	0
-tt0011741	7	Suds	US	\N	imdbDisplay	\N	0
-tt0011741	8	Suds	\N	\N	original	\N	1
-tt0011741	9	Hertiginnan som tvätterska	SE	\N	imdbDisplay	\N	0
+tt0011741	10	The Duchess of Suds	US	\N	working	\N	0
+tt0011741	11	Suds	US	\N	imdbDisplay	\N	0
+tt0011741	12	Suds	\N	\N	original	\N	1
+tt0011741	13	Hertiginnan som tvätterska	SE	\N	imdbDisplay	\N	0
+tt0011741	1	Мыльная пена	RU	\N	imdbDisplay	\N	0
+tt0011741	2	Rêve et réalité	FR	\N	imdbDisplay	\N	0
+tt0011741	3	Op O' Me Thumb	US	\N	working	\N	0
+tt0011741	4	Suds	GB	\N	imdbDisplay	\N	0
+tt0011741	5	Σαπουνόφουσκες	GR	\N	imdbDisplay	\N	0
+tt0011741	6	Sueño y realidad	ES	\N	imdbDisplay	\N	0
+tt0011741	7	Sonho e Realidade	PT	\N	imdbDisplay	\N	0
+tt0011741	8	Sapounofouskes	GR	\N	\N	transliterated title	0
+tt0011741	9	Vaskerpigen	DK	\N	imdbDisplay	\N	0
 tt0011742	10	Sumurun	ES	\N	\N	\N	0
 tt0011742	11	Sumurun	HU	\N	imdbDisplay	\N	0
 tt0011742	12	Sumurun	FR	\N	\N	\N	0
@@ -7468,7 +7473,7 @@ tt0011855	2	While New York Sleeps	US	\N	imdbDisplay	\N	0
 tt0011855	3	Les nuits de New York	FR	\N	imdbDisplay	\N	0
 tt0011855	4	紐育の丑満時	JP	ja	imdbDisplay	\N	0
 tt0011856	1	The Whirlwind	\N	\N	original	\N	1
-tt0011856	2	Anemostrovilos	GR	\N	imdbDisplay	\N	0
+tt0011856	2	Ανεμοστρόβιλος	GR	\N	imdbDisplay	\N	0
 tt0011856	3	The Whirlwind	US	\N	imdbDisplay	\N	0
 tt0011856	4	Le tourbillon	FR	\N	imdbDisplay	\N	0
 tt0011857	1	The Whisper Market	\N	\N	original	\N	1
@@ -8249,23 +8254,24 @@ tt0012025	5	The Call of the North	US	\N	imdbDisplay	\N	0
 tt0012026	1	Cameron of the Royal Mounted	\N	\N	original	\N	1
 tt0012026	2	Cameron of the Royal Mounted	CA	\N	\N	\N	0
 tt0012026	3	乗馬警官	JP	ja	imdbDisplay	\N	0
-tt0012027	10	Kameliadamen	NO	\N	imdbDisplay	\N	0
-tt0012027	11	Camille	HU	\N	imdbDisplay	\N	0
-tt0012027	12	Camille	\N	\N	original	\N	1
-tt0012027	13	I kyria me tas kamelias	GR	\N	\N	transliterated title	0
-tt0012027	14	Dama kameliowa	PL	\N	\N	\N	0
-tt0012027	15	Dama das Camélias	BR	\N	imdbDisplay	\N	0
-tt0012027	16	Kameliadamen	DK	\N	imdbDisplay	\N	0
-tt0012027	17	Kamelianainen	FI	\N	\N	\N	0
+tt0012027	10	La dama de las camelias	ES	\N	imdbDisplay	\N	0
+tt0012027	11	Kameliadamen	NO	\N	imdbDisplay	\N	0
+tt0012027	12	Camille	HU	\N	imdbDisplay	\N	0
+tt0012027	13	Camille	\N	\N	original	\N	1
+tt0012027	14	I kyria me tas kamelias	GR	\N	\N	transliterated title	0
+tt0012027	15	Dama kameliowa	PL	\N	\N	\N	0
+tt0012027	16	Dama das Camélias	BR	\N	imdbDisplay	\N	0
+tt0012027	17	Kameliadamen	DK	\N	imdbDisplay	\N	0
+tt0012027	18	Kamelianainen	FI	\N	\N	\N	0
 tt0012027	1	Camille	GB	\N	imdbDisplay	\N	0
-tt0012027	2	Камилла	RU	\N	imdbDisplay	\N	0
-tt0012027	3	カミーユ	JP	ja	imdbDisplay	\N	0
-tt0012027	4	A Dama das Camélias	PT	\N	imdbDisplay	\N	0
-tt0012027	5	Camille	US	\N	imdbDisplay	\N	0
-tt0012027	6	La dame aux camélias	FR	\N	imdbDisplay	\N	0
-tt0012027	7	Die Kameliendame	DE	\N	\N	\N	0
-tt0012027	8	Dama sa Kamelijama	XYU	sr	\N	literal title	0
-tt0012027	9	La dama de las camelias	ES	\N	imdbDisplay	\N	0
+tt0012027	2	Η κυρία με τας καμελίας	GR	\N	imdbDisplay	\N	0
+tt0012027	3	Камилла	RU	\N	imdbDisplay	\N	0
+tt0012027	4	カミーユ	JP	ja	imdbDisplay	\N	0
+tt0012027	5	A Dama das Camélias	PT	\N	imdbDisplay	\N	0
+tt0012027	6	Camille	US	\N	imdbDisplay	\N	0
+tt0012027	7	La dame aux camélias	FR	\N	imdbDisplay	\N	0
+tt0012027	8	Die Kameliendame	DE	\N	\N	\N	0
+tt0012027	9	Dama sa Kamelijama	XYU	sr	\N	literal title	0
 tt0012028	1	Cappy Ricks	GB	\N	imdbDisplay	\N	0
 tt0012028	2	Cappy Ricks	\N	\N	original	\N	1
 tt0012028	3	Den Sømand han maa lide	DK	\N	imdbDisplay	\N	0
@@ -9130,7 +9136,8 @@ tt0012234	4	Cagliostron kreivi	FI	\N	\N	\N	0
 tt0012234	5	The Count of Cagliostro	US	\N	\N	informal literal English title	0
 tt0012234	6	Cagliostro	DK	\N	imdbDisplay	\N	0
 tt0012234	7	Der Graf von Cagliostro	\N	\N	original	\N	1
-tt0012234	8	Cagliostro	SE	\N	imdbDisplay	\N	0
+tt0012234	8	Κόμης Καλιόστρο	GR	\N	imdbDisplay	\N	0
+tt0012234	9	Cagliostro	SE	\N	imdbDisplay	\N	0
 tt0012235	1	Grausige Nächte	\N	\N	original	\N	1
 tt0012235	2	Grausige Nächte	DE	\N	imdbDisplay	\N	0
 tt0012236	1	浮世を茶にして	JP	ja	imdbDisplay	\N	0
@@ -9471,26 +9478,27 @@ tt0012304	10	The Idle Class	\N	\N	original	\N	1
 tt0012304	11	Лењивци	XYU	sr	imdbDisplay	\N	0
 tt0012304	12	Tyhjäntoimittajat	FI	\N	alternative	\N	0
 tt0012304	13	La classe oisive	FR	\N	\N	\N	0
-tt0012304	14	Os Ociosos	BR	\N	\N	\N	0
-tt0012304	15	Paa Fribillet	DK	\N	imdbDisplay	\N	0
-tt0012304	16	Vacaciones	ES	\N	\N	\N	0
-tt0012304	17	Клас лайдаків	UA	\N	imdbDisplay	\N	0
-tt0012304	18	Праздный класс	SUHH	ru	imdbDisplay	\N	0
-tt0012304	19	The Idle Class	US	\N	imdbDisplay	\N	0
+tt0012304	14	Η αργόσχολη τάξη	GR	\N	imdbDisplay	\N	0
+tt0012304	15	Os Ociosos	BR	\N	\N	\N	0
+tt0012304	16	Paa Fribillet	DK	\N	imdbDisplay	\N	0
+tt0012304	17	Vacaciones	ES	\N	\N	\N	0
+tt0012304	18	Клас лайдаків	UA	\N	imdbDisplay	\N	0
+tt0012304	19	Праздный класс	SUHH	ru	imdbDisplay	\N	0
 tt0012304	1	Tầng Lớp Vô Công Rỗi Nghề	VN	\N	imdbDisplay	\N	0
-tt0012304	20	Charlot e la maschera di ferro	IT	\N	\N	\N	0
-tt0012304	21	Лењивци	RS	\N	imdbDisplay	\N	0
-tt0012304	22	Безделническата класа	BG	bg	imdbDisplay	\N	0
-tt0012304	23	Dykinejančių klasė	LT	\N	imdbDisplay	\N	0
-tt0012304	24	Charlot et le masque de fer	FR	\N	imdbDisplay	\N	0
-tt0012304	25	The Idle Class	IN	en	imdbDisplay	\N	0
-tt0012304	26	Die müßige Klasse	DE	\N	\N	\N	0
-tt0012304	27	I argosholi taxi	GR	\N	\N	transliterated title	0
-tt0012304	28	Zahaleci	CZ	\N	imdbDisplay	\N	0
-tt0012304	29	Vanity Fair	US	\N	alternative	\N	0
+tt0012304	20	The Idle Class	US	\N	imdbDisplay	\N	0
+tt0012304	21	Charlot e la maschera di ferro	IT	\N	\N	\N	0
+tt0012304	22	Лењивци	RS	\N	imdbDisplay	\N	0
+tt0012304	23	Безделническата класа	BG	bg	imdbDisplay	\N	0
+tt0012304	24	Dykinejančių klasė	LT	\N	imdbDisplay	\N	0
+tt0012304	25	Charlot et le masque de fer	FR	\N	imdbDisplay	\N	0
+tt0012304	26	The Idle Class	IN	en	imdbDisplay	\N	0
+tt0012304	27	Die müßige Klasse	DE	\N	\N	\N	0
+tt0012304	28	I argosholi taxi	GR	\N	\N	transliterated title	0
+tt0012304	29	Zahaleci	CZ	\N	imdbDisplay	\N	0
 tt0012304	2	Joutilas luokka	FI	\N	tv	\N	0
-tt0012304	30	のらくら	JP	ja	imdbDisplay	\N	0
-tt0012304	31	Trantorii	RO	\N	imdbDisplay	\N	0
+tt0012304	30	Vanity Fair	US	\N	alternative	\N	0
+tt0012304	31	のらくら	JP	ja	imdbDisplay	\N	0
+tt0012304	32	Trantorii	RO	\N	imdbDisplay	\N	0
 tt0012304	3	The Idle Class	GB	\N	imdbDisplay	\N	0
 tt0012304	4	Semmittevők	HU	\N	imdbDisplay	\N	0
 tt0012304	5	Şarlo İşsiz	TR	tr	imdbDisplay	\N	0
@@ -9914,20 +9922,21 @@ tt0012395	4	The Little Fool	\N	\N	original	\N	1
 tt0012396	1	Little Italy	US	\N	imdbDisplay	\N	0
 tt0012396	2	Little Italy	\N	\N	original	\N	1
 tt0012396	3	Her Dear Enemy	GB	\N	imdbDisplay	\N	0
-tt0012397	10	Little Lord Fauntleroy	\N	\N	original	\N	1
-tt0012397	11	O Pequeno Lord Fauntleroy	BR	\N	imdbDisplay	\N	0
-tt0012397	12	O mikros lordos	GR	\N	\N	transliterated title	0
-tt0012397	13	小公子	JP	ja	imdbDisplay	\N	0
-tt0012397	14	Le petit Lord Fauntleroy	FR	\N	imdbDisplay	\N	0
+tt0012397	10	Slægtens Yngste	DK	\N	imdbDisplay	\N	0
+tt0012397	11	Little Lord Fauntleroy	\N	\N	original	\N	1
+tt0012397	12	O Pequeno Lord Fauntleroy	BR	\N	imdbDisplay	\N	0
+tt0012397	13	O mikros lordos	GR	\N	\N	transliterated title	0
+tt0012397	14	小公子	JP	ja	imdbDisplay	\N	0
+tt0012397	15	Le petit Lord Fauntleroy	FR	\N	imdbDisplay	\N	0
 tt0012397	1	El pequeño Lord Fauntleroy	ES	\N	\N	\N	0
 tt0012397	2	Два претендента	RU	\N	imdbDisplay	\N	0
 tt0012397	3	O Pequeno Lord	PT	\N	imdbDisplay	\N	0
 tt0012397	4	Little Lord Fauntleroy	US	\N	imdbDisplay	\N	0
 tt0012397	5	A kis lord	HU	\N	imdbDisplay	\N	0
-tt0012397	6	Lille lord Fauntleroy	NO	\N	imdbDisplay	\N	0
-tt0012397	7	Маленький лорд Фонтлерой	UA	\N	imdbDisplay	\N	0
-tt0012397	8	Lilla lorden	SE	\N	imdbDisplay	\N	0
-tt0012397	9	Slægtens Yngste	DK	\N	imdbDisplay	\N	0
+tt0012397	6	Ο μικρός λόρδος	GR	\N	imdbDisplay	\N	0
+tt0012397	7	Lille lord Fauntleroy	NO	\N	imdbDisplay	\N	0
+tt0012397	8	Маленький лорд Фонтлерой	UA	\N	imdbDisplay	\N	0
+tt0012397	9	Lilla lorden	SE	\N	imdbDisplay	\N	0
 tt0012398	1	Endiablée	FR	\N	imdbDisplay	\N	0
 tt0012398	2	小牧師	JP	ja	imdbDisplay	\N	0
 tt0012398	3	De kleine predikant	NL	nl	\N	complete title	0
@@ -9965,16 +9974,17 @@ tt0012407	1	The Love Charm	US	\N	imdbDisplay	\N	0
 tt0012407	2	The Love Charm	\N	\N	original	\N	1
 tt0012407	3	Ain't Love Just Wonderful?	GB	\N	imdbDisplay	\N	0
 tt0012407	4	Encantos do Amor	PT	\N	imdbDisplay	\N	0
-tt0012408	10	愛の燈明	JP	ja	imdbDisplay	\N	0
+tt0012408	10	Kærligheds-signalet	DK	\N	imdbDisplay	\N	0
+tt0012408	11	愛の燈明	JP	ja	imdbDisplay	\N	0
 tt0012408	1	Le signal de l'amour	FR	\N	imdbDisplay	\N	0
-tt0012408	2	The Love Light	GB	\N	imdbDisplay	\N	0
-tt0012408	3	The Love Light	\N	\N	original	\N	1
-tt0012408	4	Sinal de Amor	PT	\N	imdbDisplay	\N	0
-tt0012408	5	Свет любви	RU	\N	imdbDisplay	\N	0
-tt0012408	6	The Love Light	US	\N	imdbDisplay	\N	0
-tt0012408	7	To sinialo tis agapis	GR	\N	\N	transliterated title	0
-tt0012408	8	A Flame in the Dark	US	\N	working	\N	0
-tt0012408	9	Kærligheds-signalet	DK	\N	imdbDisplay	\N	0
+tt0012408	2	Το σινιάλο της αγάπης	GR	\N	imdbDisplay	\N	0
+tt0012408	3	The Love Light	GB	\N	imdbDisplay	\N	0
+tt0012408	4	The Love Light	\N	\N	original	\N	1
+tt0012408	5	Sinal de Amor	PT	\N	imdbDisplay	\N	0
+tt0012408	6	Свет любви	RU	\N	imdbDisplay	\N	0
+tt0012408	7	The Love Light	US	\N	imdbDisplay	\N	0
+tt0012408	8	To sinialo tis agapis	GR	\N	\N	transliterated title	0
+tt0012408	9	A Flame in the Dark	US	\N	working	\N	0
 tt0012409	1	L'amore non muore mai	IT	\N	\N	\N	0
 tt0012409	2	El amor nunca muere	VE	\N	\N	\N	0
 tt0012409	3	Love Never Dies	\N	\N	original	\N	1
@@ -10549,9 +10559,10 @@ tt0012532	25	Huérfanas de la tormenta	AR	\N	imdbDisplay	\N	0
 tt0012532	26	Órfas da Tempestade	BR	\N	dvd	\N	0
 tt0012532	27	Sirotice u buri	XYU	sr	\N	literal title	0
 tt0012532	28	De föräldralösa	SE	\N	imdbDisplay	\N	0
-tt0012532	29	嵐の孤児	JP	ja	imdbDisplay	\N	0
+tt0012532	29	Αι δύο ορφαναί	GR	\N	imdbDisplay	\N	0
 tt0012532	2	The Two Orphans	US	\N	working	\N	0
-tt0012532	30	A két árva	HU	\N	imdbDisplay	\N	0
+tt0012532	30	嵐の孤児	JP	ja	imdbDisplay	\N	0
+tt0012532	31	A két árva	HU	\N	imdbDisplay	\N	0
 tt0012532	3	Las dos huérfanas	ES	\N	imdbDisplay	\N	0
 tt0012532	4	Órfãs da Tempestade	BR	\N	imdbDisplay	\N	0
 tt0012532	5	Les Deux Orphelines	FR	\N	imdbDisplay	\N	0
@@ -10564,8 +10575,9 @@ tt0012533	2	L'orpheline	\N	\N	original	\N	1
 tt0012533	3	L'orpheline	FR	\N	imdbDisplay	\N	0
 tt0012534	1	Carmelita	GR	\N	\N	transliterated title	0
 tt0012534	2	The Other Woman	US	\N	imdbDisplay	\N	0
-tt0012534	3	The Other Woman	GB	\N	imdbDisplay	\N	0
-tt0012534	4	The Other Woman	\N	\N	original	\N	1
+tt0012534	3	Καρμελίτα	GR	\N	imdbDisplay	\N	0
+tt0012534	4	The Other Woman	GB	\N	imdbDisplay	\N	0
+tt0012534	5	The Other Woman	\N	\N	original	\N	1
 tt0012535	1	Out of the Chorus	\N	\N	original	\N	1
 tt0012535	2	Out of the Chorus	US	\N	imdbDisplay	\N	0
 tt0012535	3	A Corista	PT	\N	imdbDisplay	\N	0
@@ -10609,9 +10621,9 @@ tt0012543	12	Το Χλωμό Πρόσωπο	GR	\N	imdbDisplay	\N	0
 tt0012543	13	Das Bleichgesicht	DE	\N	alternative	\N	0
 tt0012543	14	Бледнолицый	SUHH	ru	imdbDisplay	\N	0
 tt0012543	15	Blekansiktet	SE	\N	\N	\N	0
-tt0012543	16	O Malec stous Indianous	GR	\N	tv	\N	0
+tt0012543	16	O Malec stous Indianous	GR	\N	\N	transliterated title	0
 tt0012543	17	A sápadtarcú	HU	\N	imdbDisplay	\N	0
-tt0012543	18	Ο Μάλεκ στους Ινδιάνους	GR	\N	imdbDisplay	\N	0
+tt0012543	18	Ο Μάλεκ στους Ινδιάνους	GR	\N	tv	\N	0
 tt0012543	19	Kalpeanaama	FI	\N	tv	\N	0
 tt0012543	1	Blada twarz	PL	\N	imdbDisplay	\N	0
 tt0012543	20	Il visopallido	IT	\N	\N	alternative spelling	0
@@ -10871,21 +10883,22 @@ tt0012598	3	O Poder das Trevas	PT	\N	imdbDisplay	\N	0
 tt0012598	4	The Purple Riders	US	\N	imdbDisplay	\N	0
 tt0012599	1	Quando o Amor Fala	PT	\N	imdbDisplay	\N	0
 tt0012599	2	Quando o Amor Fala	\N	\N	original	\N	1
-tt0012600	10	I vasilissa tou Savva	GR	\N	\N	transliterated title	0
-tt0012600	11	The Queen of Sheba	\N	\N	original	\N	1
-tt0012600	12	Dronningen af Saba	DK	\N	imdbDisplay	\N	0
-tt0012600	13	Sába királynője	HU	\N	imdbDisplay	\N	0
-tt0012600	14	La reina de Saba	ES	\N	\N	\N	0
-tt0012600	15	Drottningen av Saba	SE	\N	imdbDisplay	\N	0
+tt0012600	10	Seeba kuninganna	EE	\N	imdbDisplay	\N	0
+tt0012600	11	I vasilissa tou Savva	GR	\N	\N	transliterated title	0
+tt0012600	12	The Queen of Sheba	\N	\N	original	\N	1
+tt0012600	13	Dronningen af Saba	DK	\N	imdbDisplay	\N	0
+tt0012600	14	Sába királynője	HU	\N	imdbDisplay	\N	0
+tt0012600	15	La reina de Saba	ES	\N	\N	\N	0
+tt0012600	16	Drottningen av Saba	SE	\N	imdbDisplay	\N	0
 tt0012600	1	La glorieuse Reine de Saba	FR	\N	imdbDisplay	\N	0
 tt0012600	2	La glorieuse reine de Saba	BE	fr	imdbDisplay	\N	0
 tt0012600	3	A Rainha do Sabá	PT	\N	imdbDisplay	\N	0
 tt0012600	4	The Queen of Sheba	US	\N	imdbDisplay	\N	0
-tt0012600	5	La reine immortelle	BE	fr	\N	reissue title	0
-tt0012600	6	The Queen of Sheba	GB	\N	imdbDisplay	\N	0
-tt0012600	7	Dronningen av Saba	NO	\N	imdbDisplay	\N	0
-tt0012600	8	De glorierijke koningin van Saba	BE	qbn	imdbDisplay	\N	0
-tt0012600	9	Seeba kuninganna	EE	\N	imdbDisplay	\N	0
+tt0012600	5	Η βασίλισσα του Σαββά	GR	\N	imdbDisplay	\N	0
+tt0012600	6	La reine immortelle	BE	fr	\N	reissue title	0
+tt0012600	7	The Queen of Sheba	GB	\N	imdbDisplay	\N	0
+tt0012600	8	Dronningen av Saba	NO	\N	imdbDisplay	\N	0
+tt0012600	9	De glorierijke koningin van Saba	BE	qbn	imdbDisplay	\N	0
 tt0012601	1	Queenie	US	\N	imdbDisplay	\N	0
 tt0012601	2	Queenie	GB	\N	imdbDisplay	\N	0
 tt0012601	3	Queenie	\N	\N	original	\N	1
@@ -13058,8 +13071,9 @@ tt0013103	2	Pigen fra Chicago	DK	\N	imdbDisplay	\N	0
 tt0013103	3	Environment	US	\N	imdbDisplay	\N	0
 tt0013103	4	Environment	\N	\N	original	\N	1
 tt0013103	5	環境	JP	ja	imdbDisplay	\N	0
-tt0013104	1	永劫の焔（1922）	JP	ja	imdbDisplay	\N	0
-tt0013104	2	La Llama eterna	MX	\N	imdbDisplay	\N	0
+tt0013104	10	The Duchess of Langeais	US	\N	working	\N	0
+tt0013104	1	La Llama eterna	MX	\N	imdbDisplay	\N	0
+tt0013104	2	永劫の焔	JP	ja	imdbDisplay	\N	0
 tt0013104	3	The Eternal Flame	US	\N	imdbDisplay	\N	0
 tt0013104	4	Den evige Flamme	DK	\N	imdbDisplay	\N	0
 tt0013104	5	La Duchesse de Langeais	FR	\N	imdbDisplay	\N	0
@@ -20629,8 +20643,9 @@ tt0014731	2	Borrowed Husbands	\N	\N	original	\N	1
 tt0014731	3	Borrowed Husbands	US	\N	imdbDisplay	\N	0
 tt0014732	1	The Bowery Bishop	\N	\N	original	\N	1
 tt0014732	2	The Bowery Bishop	US	\N	imdbDisplay	\N	0
-tt0014733	10	El hijo de Flandes	ES	\N	\N	\N	0
-tt0014733	11	Pojken från Flandern	SE	\N	imdbDisplay	\N	0
+tt0014733	10	Der Boy von Flandern	DE	\N	alternative	\N	0
+tt0014733	11	El hijo de Flandes	ES	\N	\N	\N	0
+tt0014733	12	Pojken från Flandern	SE	\N	imdbDisplay	\N	0
 tt0014733	1	Vagabonddrengen	DK	\N	imdbDisplay	\N	0
 tt0014733	2	L'enfant des Flandres	FR	\N	imdbDisplay	\N	0
 tt0014733	3	Garoto de Flandres	PT	\N	imdbDisplay	\N	0
@@ -20638,8 +20653,8 @@ tt0014733	4	A Boy of Flanders	GB	\N	imdbDisplay	\N	0
 tt0014733	5	A Boy of Flanders	\N	\N	original	\N	1
 tt0014733	6	To paidi tis Flandras	GR	\N	\N	transliterated title	0
 tt0014733	7	A Boy of Flanders	US	\N	imdbDisplay	\N	0
-tt0014733	8	A flandriai fiu	HU	\N	imdbDisplay	\N	0
-tt0014733	9	Der Boy von Flandern	DE	\N	alternative	\N	0
+tt0014733	8	Το παιδί της Φλάνδρας	GR	\N	imdbDisplay	\N	0
+tt0014733	9	A flandriai fiu	HU	\N	imdbDisplay	\N	0
 tt0014734	1	Branded a Bandit	\N	\N	original	\N	1
 tt0014734	2	Branded a Bandit	US	\N	imdbDisplay	\N	0
 tt0014735	1	Branded a Thief	US	\N	imdbDisplay	\N	0
@@ -20730,6 +20745,7 @@ tt0014754	3	Den hvide Araberpige	DK	\N	imdbDisplay	\N	0
 tt0014754	4	A Dançarina do Cairo	PT	\N	imdbDisplay	\N	0
 tt0014754	5	A Cafe in Cairo	US	\N	imdbDisplay	\N	0
 tt0014754	6	La bailarina del Cairo	ES	\N	\N	\N	0
+tt0014754	7	A nilusi boszorka	HU	\N	imdbDisplay	\N	0
 tt0014755	1	Calibre 45	\N	\N	original	\N	1
 tt0014755	2	Calibre 45	US	\N	imdbDisplay	\N	0
 tt0014756	1	California in '49	\N	\N	original	\N	1
@@ -21012,18 +21028,19 @@ tt0014825	5	金に飽かして	JP	ja	imdbDisplay	\N	0
 tt0014825	6	Der Maskenball des Lebens	AT	\N	\N	\N	0
 tt0014825	7	Niebezpieczne pieniądze	PL	\N	imdbDisplay	\N	0
 tt0014825	8	Farliga pengar	SE	\N	imdbDisplay	\N	0
-tt0014826	10	Dantes inferno	SE	\N	imdbDisplay	\N	0
-tt0014826	11	Dante: Pokol	HU	\N	imdbDisplay	\N	0
-tt0014826	12	Dante's Inferno	US	\N	imdbDisplay	\N	0
-tt0014826	1	ダンテ地獄篇（1924）	JP	ja	imdbDisplay	\N	0
+tt0014826	10	Piekło Dantego	PL	\N	imdbDisplay	\N	0
+tt0014826	11	The Inerno	US	\N	alternative	\N	0
+tt0014826	12	Dante: Pokol	HU	\N	imdbDisplay	\N	0
+tt0014826	13	Dante's Inferno	US	\N	imdbDisplay	\N	0
+tt0014826	1	Η Κόλασις (του Δάντου)	GR	\N	imdbDisplay	\N	0
 tt0014826	2	O Inferno de Dante	PT	\N	imdbDisplay	\N	0
 tt0014826	3	Die Nacht des Inferno	DE	\N	imdbDisplay	\N	0
-tt0014826	4	I kolasis (tou Dantou)	GR	\N	\N	transliterated title	0
-tt0014826	5	El infierno del Dante	ES	\N	\N	\N	0
-tt0014826	6	Dante's Inferno	\N	\N	original	\N	1
-tt0014826	7	Dante's Inferno	GB	\N	imdbDisplay	\N	0
-tt0014826	8	Piekło Dantego	PL	\N	imdbDisplay	\N	0
-tt0014826	9	The Inerno	US	\N	alternative	\N	0
+tt0014826	4	El infierno del Dante	ES	\N	\N	\N	0
+tt0014826	5	Dante's Inferno	\N	\N	original	\N	1
+tt0014826	6	Dantes inferno	SE	\N	imdbDisplay	\N	0
+tt0014826	7	ダンテ地獄篇（1924）	JP	ja	imdbDisplay	\N	0
+tt0014826	8	I Kolasis (tou Dantou)	GR	\N	\N	transliterated title	0
+tt0014826	9	Dante's Inferno	GB	\N	imdbDisplay	\N	0
 tt0014827	1	Daring Chances	\N	\N	original	\N	1
 tt0014827	2	Daring Chances	US	\N	imdbDisplay	\N	0
 tt0014828	1	Daring Love	US	\N	imdbDisplay	\N	0
@@ -21267,15 +21284,16 @@ tt0014879	3	The Fatal Kiss	US	\N	working	\N	0
 tt0014879	4	The Fatal Mistake	\N	\N	original	\N	1
 tt0014880	1	The Fatal Plunge	\N	\N	original	\N	1
 tt0014880	2	The Fatal Plunge	US	\N	imdbDisplay	\N	0
+tt0014881	10	Deserteure des Lebens	AT	\N	\N	\N	0
 tt0014881	1	Feet of Clay	US	\N	imdbDisplay	\N	0
 tt0014881	2	Feet of Clay	\N	\N	original	\N	1
-tt0014881	3	霊魂の叫び	JP	ja	imdbDisplay	\N	0
-tt0014881	4	Le tourbillon des âmes	FR	\N	\N	\N	0
-tt0014881	5	O anemostrovilos ton psyhon	GR	\N	\N	transliterated title	0
-tt0014881	6	När länkarna brista	SE	\N	imdbDisplay	\N	0
-tt0014881	7	Den forbudne Frugt	DK	\N	imdbDisplay	\N	0
-tt0014881	8	Pies de arcilla	ES	\N	\N	\N	0
-tt0014881	9	Deserteure des Lebens	AT	\N	\N	\N	0
+tt0014881	3	Ο ανεμοστρόβιλος των ψυχών	GR	\N	imdbDisplay	\N	0
+tt0014881	4	霊魂の叫び	JP	ja	imdbDisplay	\N	0
+tt0014881	5	Le tourbillon des âmes	FR	\N	\N	\N	0
+tt0014881	6	O anemostrovilos ton psyhon	GR	\N	\N	transliterated title	0
+tt0014881	7	När länkarna brista	SE	\N	imdbDisplay	\N	0
+tt0014881	8	Den forbudne Frugt	DK	\N	imdbDisplay	\N	0
+tt0014881	9	Pies de arcilla	ES	\N	\N	\N	0
 tt0014882	1	Los pies en el barro	AR	\N	imdbDisplay	\N	0
 tt0014882	2	Feet of Mud	US	\N	imdbDisplay	\N	0
 tt0014882	3	Feet of Mud	\N	\N	original	\N	1
@@ -22977,21 +22995,22 @@ tt0015176	1	The Night Message	US	\N	imdbDisplay	\N	0
 tt0015176	2	Un mensaje de última hora	ES	\N	imdbDisplay	\N	0
 tt0015176	3	The Night Message	\N	\N	original	\N	1
 tt0015176	4	Innocent	US	\N	working	\N	0
-tt0015177	10	Quem Teve a Culpa?	PT	\N	imdbDisplay	\N	0
-tt0015177	11	Nju - Eine unverstandene Frau	\N	\N	original	\N	1
-tt0015177	12	ニュウ	JP	ja	imdbDisplay	\N	0
-tt0015177	13	Amante o marido	ES	\N	imdbDisplay	\N	0
-tt0015177	14	O erastis	GR	\N	\N	transliterated title	0
-tt0015177	15	Nju (Asszony a lejtőn)	HU	\N	imdbDisplay	\N	0
+tt0015177	10	Kærlighedens Labyrint	DK	\N	imdbDisplay	\N	0
+tt0015177	11	Quem Teve a Culpa?	PT	\N	imdbDisplay	\N	0
+tt0015177	12	Nju - Eine unverstandene Frau	\N	\N	original	\N	1
+tt0015177	13	ニュウ	JP	ja	imdbDisplay	\N	0
+tt0015177	14	Amante o marido	ES	\N	imdbDisplay	\N	0
+tt0015177	15	O erastis	GR	\N	\N	transliterated title	0
+tt0015177	16	Nju (Asszony a lejtőn)	HU	\N	imdbDisplay	\N	0
 tt0015177	1	Pasiones desatadas	AR	\N	imdbDisplay	\N	0
 tt0015177	2	Nju	DE	\N	\N	short title	0
 tt0015177	3	Maridos ou Amantes	BR	\N	imdbDisplay	\N	0
-tt0015177	4	À qui la faute?	FR	\N	imdbDisplay	\N	0
-tt0015177	5	Husbands or Lovers	US	\N	imdbDisplay	\N	0
-tt0015177	6	Elskerinden	DK	\N	\N	reissue title	0
-tt0015177	7	Nju - Eine unverstandene Frau	DE	\N	imdbDisplay	\N	0
-tt0015177	8	Einmal kommt der Tag	AT	\N	imdbDisplay	\N	0
-tt0015177	9	Kærlighedens Labyrint	DK	\N	imdbDisplay	\N	0
+tt0015177	4	Ο εραστής	GR	\N	imdbDisplay	\N	0
+tt0015177	5	À qui la faute?	FR	\N	imdbDisplay	\N	0
+tt0015177	6	Husbands or Lovers	US	\N	imdbDisplay	\N	0
+tt0015177	7	Elskerinden	DK	\N	\N	reissue title	0
+tt0015177	8	Nju - Eine unverstandene Frau	DE	\N	imdbDisplay	\N	0
+tt0015177	9	Einmal kommt der Tag	AT	\N	imdbDisplay	\N	0
 tt0015178	1	No More Women	\N	\N	original	\N	1
 tt0015178	2	Færdig med Kvinder	DK	\N	imdbDisplay	\N	0
 tt0015178	3	女は真平（1924）	JP	ja	imdbDisplay	\N	0
@@ -23171,6 +23190,7 @@ tt0015214	18	Paris qui dort	\N	\N	original	\N	1
 tt0015214	19	Le rayon diabolique	FR	\N	alternative	\N	0
 tt0015214	1	Paris Que Dorme	PT	\N	\N	\N	0
 tt0015214	20	Paris qui dort	FR	\N	imdbDisplay	\N	0
+tt0015214	21	Παρισινές νύχτες	GR	\N	imdbDisplay	\N	0
 tt0015214	2	Parisines nyhtes	GR	\N	\N	transliterated title	0
 tt0015214	3	Париж уснул	SUHH	ru	imdbDisplay	\N	0
 tt0015214	4	At 3:25	US	\N	\N	\N	0
@@ -23580,7 +23600,8 @@ tt0015308	5	Das schöne Abenteuer	DE	\N	imdbDisplay	\N	0
 tt0015309	1	La mujer más bonita del mundo	ES	\N	imdbDisplay	\N	0
 tt0015309	2	Die schönste Frau der Welt	DE	\N	imdbDisplay	\N	0
 tt0015309	3	A Mulher Mais Bonita do Mundo	PT	\N	imdbDisplay	\N	0
-tt0015309	4	Die schönste Frau der Welt	\N	\N	original	\N	1
+tt0015309	4	A legszebb asszony	HU	\N	imdbDisplay	\N	0
+tt0015309	5	Die schönste Frau der Welt	\N	\N	original	\N	1
 tt0015310	10	El gavilán de los mares	ES	\N	\N	\N	0
 tt0015310	11	L'aigle des mers	FR	\N	imdbDisplay	\N	0
 tt0015310	12	A hét tenger ördöge	HU	\N	imdbDisplay	\N	0
@@ -24131,21 +24152,22 @@ tt0015398	2	That Wild West	\N	\N	original	\N	1
 tt0015398	3	Dans l'Ouest sauvage	BE	fr	imdbDisplay	\N	0
 tt0015398	4	L'express 2419	BE	fr	\N	reissue title	0
 tt0015398	5	That Wild West	US	\N	imdbDisplay	\N	0
-tt0015399	10	楽園の盗賊	JP	ja	imdbDisplay	\N	0
-tt0015399	11	Tyven i pardiset	NO	\N	imdbDisplay	\N	0
-tt0015399	12	Złodziej w raju	PL	\N	imdbDisplay	\N	0
-tt0015399	13	Tjuven i paradiset	SE	\N	imdbDisplay	\N	0
-tt0015399	14	A Pérola Vermelha	PT	\N	imdbDisplay	\N	0
-tt0015399	15	Det stjaalne Paradis	DK	\N	imdbDisplay	\N	0
+tt0015399	10	Enas kleptis ston Paradeiso	GR	\N	\N	transliterated title	0
+tt0015399	11	楽園の盗賊	JP	ja	imdbDisplay	\N	0
+tt0015399	12	Tyven i pardiset	NO	\N	imdbDisplay	\N	0
+tt0015399	13	Złodziej w raju	PL	\N	imdbDisplay	\N	0
+tt0015399	14	Tjuven i paradiset	SE	\N	imdbDisplay	\N	0
+tt0015399	15	A Pérola Vermelha	PT	\N	imdbDisplay	\N	0
+tt0015399	16	Det stjaalne Paradis	DK	\N	imdbDisplay	\N	0
 tt0015399	1	La maison de l'homme mort	FR	\N	imdbDisplay	\N	0
 tt0015399	2	Varas paratiisissa	FI	\N	\N	\N	0
 tt0015399	3	Ein Dieb im Paradies	DE	\N	\N	\N	0
 tt0015399	4	A Thief in Paradise	GB	\N	imdbDisplay	\N	0
 tt0015399	5	Un ladrón en el paraíso	ES	\N	\N	\N	0
-tt0015399	6	Ein Dieb im Paradies	AT	\N	\N	\N	0
-tt0015399	7	A Thief in Paradise	US	\N	imdbDisplay	\N	0
-tt0015399	8	A Thief in Paradise	\N	\N	original	\N	1
-tt0015399	9	Enas kleptis ston Paradeiso	GR	\N	\N	transliterated title	0
+tt0015399	6	Ένας κλέπτης στον Παράδεισο	GR	\N	imdbDisplay	\N	0
+tt0015399	7	Ein Dieb im Paradies	AT	\N	\N	\N	0
+tt0015399	8	A Thief in Paradise	US	\N	imdbDisplay	\N	0
+tt0015399	9	A Thief in Paradise	\N	\N	original	\N	1
 tt0015400	10	Багдатският крадец	BG	bg	imdbDisplay	\N	0
 tt0015400	11	Tyven fra Bagdad	NO	\N	imdbDisplay	\N	0
 tt0015400	12	Der Dieb von Bagdad	DE	\N	\N	\N	0
@@ -25041,6 +25063,7 @@ tt0015602	6	Nível do Amor	BR	\N	imdbDisplay	\N	0
 tt0015603	1	Halyvdino fantasma	GR	\N	\N	transliterated title	0
 tt0015603	2	Barriers of the Law	\N	\N	original	\N	1
 tt0015603	3	Barriers of the Law	US	\N	imdbDisplay	\N	0
+tt0015603	4	Χαλύβδινο φάντασμα	GR	\N	imdbDisplay	\N	0
 tt0015604	1	Bashful Buccaneer	\N	\N	original	\N	1
 tt0015604	2	Mytteriet på Ørnen	DK	\N	imdbDisplay	\N	0
 tt0015604	3	Bashful Buccaneer	US	\N	imdbDisplay	\N	0
@@ -26212,6 +26235,7 @@ tt0015823	1	Una mujer española	ES	\N	imdbDisplay	\N	0
 tt0015823	2	Una mujer española	\N	\N	original	\N	1
 tt0015824	1	Flor de espino	ES	\N	imdbDisplay	\N	0
 tt0015824	2	Flor de espino	\N	\N	original	\N	1
+tt0015825	10	Az éj virága	HU	\N	imdbDisplay	\N	0
 tt0015825	1	Kwiat nocy	PL	\N	\N	\N	0
 tt0015825	2	Flower of Night	GB	\N	imdbDisplay	\N	0
 tt0015825	3	Flower of Night	\N	\N	original	\N	1
@@ -26219,8 +26243,8 @@ tt0015825	4	Nattens Blomst	DK	\N	imdbDisplay	\N	0
 tt0015825	5	A Flor da Noite	BR	\N	imdbDisplay	\N	0
 tt0015825	6	Flor da Noite	BR	\N	imdbDisplay	\N	0
 tt0015825	7	Flower of Night	US	\N	imdbDisplay	\N	0
-tt0015825	8	O anthos tis nyktos	GR	\N	\N	transliterated title	0
-tt0015825	9	Az éj virága	HU	\N	imdbDisplay	\N	0
+tt0015825	8	Ο ανθός της νυκτός	GR	\N	imdbDisplay	\N	0
+tt0015825	9	O anthos tis nyktos	GR	\N	\N	transliterated title	0
 tt0015826	1	Flygande holländaren	SE	\N	imdbDisplay	\N	0
 tt0015826	2	Flygande holländaren	\N	\N	original	\N	1
 tt0015827	1	Flying Thru	GB	\N	\N	alternative spelling	0
@@ -27298,9 +27322,10 @@ tt0016014	1	Learning to Love	\N	\N	original	\N	1
 tt0016014	2	A Que não Sabia Amar	PT	\N	imdbDisplay	\N	0
 tt0016014	3	Hendes tre Kærester	DK	\N	imdbDisplay	\N	0
 tt0016014	4	Learning to Love	US	\N	imdbDisplay	\N	0
-tt0016014	5	La que no sabía amar	ES	\N	\N	\N	0
-tt0016014	6	恋の手ほどき（1925）	JP	ja	imdbDisplay	\N	0
-tt0016014	7	Äktenskapsskolan	SE	\N	imdbDisplay	\N	0
+tt0016014	5	Taníts meg szeretni!	HU	\N	imdbDisplay	\N	0
+tt0016014	6	La que no sabía amar	ES	\N	\N	\N	0
+tt0016014	7	恋の手ほどき（1925）	JP	ja	imdbDisplay	\N	0
+tt0016014	8	Äktenskapsskolan	SE	\N	imdbDisplay	\N	0
 tt0016015	1	Let 'er Buck	\N	\N	original	\N	1
 tt0016015	2	Le vainqueur du rodéo	FR	\N	\N	complete title	0
 tt0016015	3	Let 'er Buck	US	\N	imdbDisplay	\N	0
@@ -27597,16 +27622,17 @@ tt0016064	1	Madame Charleston	BR	\N	imdbDisplay	\N	0
 tt0016064	2	Madame Behave	\N	\N	original	\N	1
 tt0016064	3	Madame Lucy	US	\N	working	\N	0
 tt0016064	4	Madame Behave	US	\N	imdbDisplay	\N	0
-tt0016065	10	Madame Sans-Gêne	GB	\N	imdbDisplay	\N	0
+tt0016065	10	Madame Sans Gêne	DK	\N	imdbDisplay	\N	0
+tt0016065	11	Madame Sans-Gêne	GB	\N	imdbDisplay	\N	0
 tt0016065	1	I kyria den me mellei	GR	\N	\N	transliterated title	0
 tt0016065	2	Madame Sans-Gêne	FR	\N	imdbDisplay	\N	0
 tt0016065	3	ありし日のナポレオン	JP	ja	imdbDisplay	\N	0
 tt0016065	4	Madame Sans Gêne	PT	\N	imdbDisplay	\N	0
 tt0016065	5	Madame Sans-Gêne	ES	\N	\N	\N	0
 tt0016065	6	Madame Sans-Gêne	US	\N	imdbDisplay	\N	0
-tt0016065	7	A szókimondó asszonyság	HU	\N	imdbDisplay	\N	0
-tt0016065	8	Madame Sans-Gêne	\N	\N	original	\N	1
-tt0016065	9	Madame Sans Gêne	DK	\N	imdbDisplay	\N	0
+tt0016065	7	Η κυρία δεν με μέλλει	GR	\N	imdbDisplay	\N	0
+tt0016065	8	A szókimondó asszonyság	HU	\N	imdbDisplay	\N	0
+tt0016065	9	Madame Sans-Gêne	\N	\N	original	\N	1
 tt0016066	1	Madrid en el año 2000	\N	\N	original	\N	1
 tt0016066	2	Madrid en el año 2000	ES	\N	imdbDisplay	\N	0
 tt0016067	1	The Magic Rug	US	\N	\N	reissue title	0
@@ -28413,18 +28439,18 @@ tt0016230	9	The Pleasure Garden	US	\N	imdbDisplay	\N	0
 tt0016231	1	Österbottningar	FI	sv	imdbDisplay	\N	0
 tt0016231	2	Pohjalaisia	\N	\N	original	\N	1
 tt0016231	3	Österbottningar	SE	\N	imdbDisplay	\N	0
-tt0016232	10	Pelirrojo	ES	\N	dvd	\N	0
-tt0016232	11	Carrot Top	XWW	en	\N	informal English title	0
+tt0016232	10	Carrot Top	XWW	en	\N	informal English title	0
+tt0016232	11	Σκληρά χρόνια	GR	\N	tv	\N	0
 tt0016232	12	Rudzielec	PL	\N	imdbDisplay	\N	0
 tt0016232	1	Poil de carotte	DE	\N	imdbDisplay	\N	0
-tt0016232	2	Sklira hronia	GR	\N	tv	\N	0
-tt0016232	3	Рыжик	SUHH	ru	imdbDisplay	\N	0
-tt0016232	4	Poil de carotte	FR	\N	imdbDisplay	\N	0
-tt0016232	5	Karottenkopf	DE	\N	imdbDisplay	\N	0
-tt0016232	6	Siembra de dolor	ES	\N	dvd	\N	0
-tt0016232	7	O Ruivo	PT	\N	imdbDisplay	\N	0
-tt0016232	8	Rødtopp	NO	\N	imdbDisplay	\N	0
-tt0016232	9	Poil de carotte	\N	\N	original	\N	1
+tt0016232	2	Рыжик	SUHH	ru	imdbDisplay	\N	0
+tt0016232	3	Poil de carotte	FR	\N	imdbDisplay	\N	0
+tt0016232	4	Karottenkopf	DE	\N	imdbDisplay	\N	0
+tt0016232	5	Siembra de dolor	ES	\N	dvd	\N	0
+tt0016232	6	O Ruivo	PT	\N	imdbDisplay	\N	0
+tt0016232	7	Rødtopp	NO	\N	imdbDisplay	\N	0
+tt0016232	8	Poil de carotte	\N	\N	original	\N	1
+tt0016232	9	Pelirrojo	ES	\N	dvd	\N	0
 tt0016233	1	Investigação Policial	PT	\N	imdbDisplay	\N	0
 tt0016233	2	The Police Patrol	GB	\N	imdbDisplay	\N	0
 tt0016233	3	The Police Patrol	\N	\N	original	\N	1
@@ -31138,12 +31164,13 @@ tt0016748	2	Criss Cross Cruise	US	\N	imdbDisplay	\N	0
 tt0016749	1	Crossed Signals	US	\N	imdbDisplay	\N	0
 tt0016749	2	Crossed Signals	\N	\N	original	\N	1
 tt0016750	1	Die Lügenkönigin	AT	\N	imdbDisplay	\N	0
-tt0016750	2	Sklamalam	PL	\N	\N	\N	0
-tt0016750	3	The Crown of Lies	\N	\N	original	\N	1
-tt0016750	4	Mentiras!...	BR	\N	imdbDisplay	\N	0
-tt0016750	5	I timi	GR	\N	\N	transliterated title	0
-tt0016750	6	The Crown of Lies	US	\N	imdbDisplay	\N	0
-tt0016750	7	The Crown of Lies	GB	\N	imdbDisplay	\N	0
+tt0016750	2	Η τιμή	GR	\N	imdbDisplay	\N	0
+tt0016750	3	Sklamalam	PL	\N	\N	\N	0
+tt0016750	4	The Crown of Lies	\N	\N	original	\N	1
+tt0016750	5	Mentiras!...	BR	\N	imdbDisplay	\N	0
+tt0016750	6	I timi	GR	\N	\N	transliterated title	0
+tt0016750	7	The Crown of Lies	US	\N	imdbDisplay	\N	0
+tt0016750	8	The Crown of Lies	GB	\N	imdbDisplay	\N	0
 tt0016751	10	Le pirate aux dents blanches	FR	\N	imdbDisplay	\N	0
 tt0016751	11	Den røde Pirat	DK	\N	imdbDisplay	\N	0
 tt0016751	1	Der rote Pirat	AT	\N	\N	\N	0
@@ -32716,6 +32743,7 @@ tt0017045	5	Sonata Kreutzerowska	PL	\N	imdbDisplay	\N	0
 tt0017045	6	La sonate de Kreutzer	FR	\N	\N	silent version	0
 tt0017045	7	Kreutzerova sonáta	\N	\N	original	\N	1
 tt0017045	8	La sonata a Kreutzer	IT	\N	\N	\N	0
+tt0017046	10	The Wife's Crusade	US	\N	\N	informal literal English title	0
 tt0017046	1	Kreuzzug des Weibes	\N	\N	original	\N	1
 tt0017046	2	Kreuzzug des Weibes	DE	\N	imdbDisplay	\N	0
 tt0017046	3	Unwelcome Children	\N	\N	\N	\N	0
@@ -32723,8 +32751,8 @@ tt0017046	4	Az asszony golgotája	HU	\N	imdbDisplay	\N	0
 tt0017046	5	Eglima mitrotitos	GR	\N	\N	transliterated title	0
 tt0017046	6	Kreuzzug des Weibes - Die Tragödie des §144	AT	\N	\N	\N	0
 tt0017046	7	Filhos Malvindos	BR	\N	imdbDisplay	\N	0
-tt0017046	8	Paragraf 245	NO	\N	imdbDisplay	\N	0
-tt0017046	9	The Wife's Crusade	US	\N	\N	informal literal English title	0
+tt0017046	8	Έγκλημα μητρότητος	GR	\N	imdbDisplay	\N	0
+tt0017046	9	Paragraf 245	NO	\N	imdbDisplay	\N	0
 tt0017047	10	Krylya kholopa	\N	\N	original	\N	1
 tt0017047	11	Tatarska kri	XYU	sl	imdbDisplay	\N	0
 tt0017047	12	Ivan, O Terrível	PT	\N	imdbDisplay	\N	0
@@ -34825,23 +34853,24 @@ tt0017415	6	Somebody's Mother	GB	\N	imdbDisplay	\N	0
 tt0017416	10	熱砂の舞	JP	ja	imdbDisplay	\N	0
 tt0017416	11	El hijo del caíd	ES	\N	\N	\N	0
 tt0017416	12	Синът на шейха	BG	bg	imdbDisplay	\N	0
-tt0017416	13	The Son of the Sheik	GB	\N	imdbDisplay	\N	0
-tt0017416	14	Sheikens Søn	DK	\N	imdbDisplay	\N	0
-tt0017416	15	Sheikin poika	FI	\N	\N	\N	0
-tt0017416	16	Šeikov sin	RS	\N	imdbDisplay	\N	0
-tt0017416	17	O yios tou seihi	GR	\N	\N	transliterated title	0
-tt0017416	18	The Son of the Sheik	CA	en	imdbDisplay	\N	0
-tt0017416	19	Der Sohn des Scheich	DE	\N	\N	\N	0
+tt0017416	13	Ο υιός του σεΐχη	GR	\N	imdbDisplay	\N	0
+tt0017416	14	The Son of the Sheik	GB	\N	imdbDisplay	\N	0
+tt0017416	15	Sheikens Søn	DK	\N	imdbDisplay	\N	0
+tt0017416	16	Sheikin poika	FI	\N	\N	\N	0
+tt0017416	17	Šeikov sin	RS	\N	imdbDisplay	\N	0
+tt0017416	18	O yios tou seihi	GR	\N	\N	transliterated title	0
+tt0017416	19	The Son of the Sheik	CA	en	imdbDisplay	\N	0
 tt0017416	1	L'amant éternel	FR	\N	alternative	\N	0
-tt0017416	20	Il figlio dello sceicco	IT	\N	\N	\N	0
-tt0017416	21	El hijo del Sheik	UY	\N	\N	original subtitled version	0
-tt0017416	22	Šejkov sin	SI	\N	imdbDisplay	\N	0
-tt0017416	23	O Filho do Sheik	PT	\N	imdbDisplay	\N	0
-tt0017416	24	Sheikens son	SE	\N	imdbDisplay	\N	0
-tt0017416	25	Le fils du Cheik	FR	\N	imdbDisplay	\N	0
-tt0017416	26	Syn szejka	PL	\N	imdbDisplay	\N	0
-tt0017416	27	The Son of the Sheik	US	\N	imdbDisplay	\N	0
-tt0017416	28	Šejkov sin	XYU	sl	imdbDisplay	\N	0
+tt0017416	20	Der Sohn des Scheich	DE	\N	\N	\N	0
+tt0017416	21	Il figlio dello sceicco	IT	\N	\N	\N	0
+tt0017416	22	El hijo del Sheik	UY	\N	\N	original subtitled version	0
+tt0017416	23	Šejkov sin	SI	\N	imdbDisplay	\N	0
+tt0017416	24	O Filho do Sheik	PT	\N	imdbDisplay	\N	0
+tt0017416	25	Sheikens son	SE	\N	imdbDisplay	\N	0
+tt0017416	26	Le fils du Cheik	FR	\N	imdbDisplay	\N	0
+tt0017416	27	Syn szejka	PL	\N	imdbDisplay	\N	0
+tt0017416	28	The Son of the Sheik	US	\N	imdbDisplay	\N	0
+tt0017416	29	Šejkov sin	XYU	sl	imdbDisplay	\N	0
 tt0017416	2	O Filho do Sheik	BR	\N	imdbDisplay	\N	0
 tt0017416	3	El hijo del sheik	AR	\N	\N	\N	0
 tt0017416	4	Der Sohn des Scheik	AT	\N	\N	\N	0
@@ -35801,8 +35830,8 @@ tt0017564	3	Wings of the Storm	US	\N	imdbDisplay	\N	0
 tt0017564	4	Wings of the Storm	\N	\N	original	\N	1
 tt0017564	5	Nas Asas da Tempestade	BR	\N	imdbDisplay	\N	0
 tt0017564	6	Der Hund von Huxville	DE	\N	imdbDisplay	\N	0
-tt0017564	7	Ta ftera tis kataigidas	GR	\N	imdbDisplay	\N	0
-tt0017564	8	Em Plena Tempestade	PT	\N	imdbDisplay	\N	0
+tt0017564	7	Em Plena Tempestade	PT	\N	imdbDisplay	\N	0
+tt0017564	8	Τα φτερά της καταιγίδος	GR	\N	imdbDisplay	\N	0
 tt0017564	9	名犬雷鳴	JP	ja	imdbDisplay	\N	0
 tt0017565	1	The Winking Idol	US	\N	imdbDisplay	\N	0
 tt0017565	2	The Winking Idol	\N	\N	original	\N	1
@@ -36254,6 +36283,7 @@ tt0017654	2	Nem Casados, Nem Solteiros	BR	\N	imdbDisplay	\N	0
 tt0017654	3	The Bachelor's Baby	\N	\N	original	\N	1
 tt0017654	4	Wanted a Baby	GB	\N	imdbDisplay	\N	0
 tt0017655	10	Tilbage til Guds Land	DK	\N	imdbDisplay	\N	0
+tt0017655	11	Τα ίχνη των φυγάδων	GR	\N	imdbDisplay	\N	0
 tt0017655	1	Ta ihni ton fygadon	GR	\N	\N	transliterated title	0
 tt0017655	2	大自然を敵として	JP	ja	imdbDisplay	\N	0
 tt0017655	3	Vildmarkens dotter	SE	\N	imdbDisplay	\N	0
@@ -37208,16 +37238,18 @@ tt0017806	6	The Devil Dancer	\N	\N	original	\N	1
 tt0017806	7	Диявольська танцівниця	UA	\N	imdbDisplay	\N	0
 tt0017806	8	Diabelska tancerka	PL	\N	imdbDisplay	\N	0
 tt0017806	9	La danzarina sagrada	ES	\N	imdbDisplay	\N	0
-tt0017807	10	爆裂大王	JP	ja	imdbDisplay	\N	0
+tt0017807	10	Der Teufelssattel	AT	\N	\N	\N	0
+tt0017807	11	A Sela do Diabo	BR	\N	imdbDisplay	\N	0
+tt0017807	12	爆裂大王	JP	ja	imdbDisplay	\N	0
 tt0017807	1	Der Teufel im Sattel	DE	\N	\N	\N	0
 tt0017807	2	I sella tou diavolou	GR	\N	\N	transliterated title	0
 tt0017807	3	Ördog a nyeregben	HU	\N	imdbDisplay	\N	0
 tt0017807	4	The Devil's Saddle	\N	\N	original	\N	1
 tt0017807	5	La selle du diable	FR	\N	imdbDisplay	\N	0
 tt0017807	6	Hvor Revolverne knalder	DK	\N	imdbDisplay	\N	0
-tt0017807	7	The Devil's Saddle	US	\N	imdbDisplay	\N	0
-tt0017807	8	Der Teufelssattel	AT	\N	\N	\N	0
-tt0017807	9	A Sela do Diabo	BR	\N	imdbDisplay	\N	0
+tt0017807	7	Η σέλα του Διαβόλου	GR	\N	\N	orthographically correct title	0
+tt0017807	8	Η σέλλα του Διαβόλου	GR	\N	imdbDisplay	\N	0
+tt0017807	9	The Devil's Saddle	US	\N	imdbDisplay	\N	0
 tt0017808	1	The Devil's Twin	\N	\N	original	\N	1
 tt0017808	2	The Devil's Twin	GB	\N	imdbDisplay	\N	0
 tt0017808	3	The Devil's Twin	US	\N	imdbDisplay	\N	0
@@ -37533,16 +37565,17 @@ tt0017854	2	Estudiantes y modistillas	\N	\N	original	\N	1
 tt0017855	1	Eve's Love Letters	\N	\N	original	\N	1
 tt0017855	2	Eve's Love Letters	US	\N	imdbDisplay	\N	0
 tt0017855	3	Miłosne listy Ewy	PL	\N	imdbDisplay	\N	0
-tt0017856	10	Evening Clothes	GB	\N	imdbDisplay	\N	0
+tt0017856	10	Evening Clothes	US	\N	imdbDisplay	\N	0
+tt0017856	11	Evening Clothes	GB	\N	imdbDisplay	\N	0
 tt0017856	1	Evening Clothes	\N	\N	original	\N	1
 tt0017856	2	I kjole og hvidt	DK	\N	imdbDisplay	\N	0
 tt0017856	3	De Casaca e Luva Branca	PT	\N	imdbDisplay	\N	0
 tt0017856	4	夜会服	JP	ja	imdbDisplay	\N	0
 tt0017856	5	Evening Clothes	AU	\N	imdbDisplay	\N	0
 tt0017856	6	De Casaca e Luva Branca	BR	\N	imdbDisplay	\N	0
-tt0017856	7	Un homme en habit	FR	\N	imdbDisplay	\N	0
-tt0017856	8	El vestido de etiqueta	ES	\N	imdbDisplay	\N	0
-tt0017856	9	Evening Clothes	US	\N	imdbDisplay	\N	0
+tt0017856	7	Klakk és frakk	HU	\N	imdbDisplay	\N	0
+tt0017856	8	Un homme en habit	FR	\N	imdbDisplay	\N	0
+tt0017856	9	El vestido de etiqueta	ES	\N	imdbDisplay	\N	0
 tt0017857	1	Exercício de Submersíveis da Marinha de Guerra Portuguesa	PT	\N	imdbDisplay	\N	0
 tt0017857	2	Exercício de Submersíveis da Marinha de Guerra Portuguesa	\N	\N	original	\N	1
 tt0017858	1	The Eyes of the Totem	\N	\N	original	\N	1
@@ -37582,12 +37615,13 @@ tt0017865	5	Fashions for Women	GB	\N	imdbDisplay	\N	0
 tt0017865	6	Fashions for Women	\N	\N	original	\N	1
 tt0017865	7	近代女風俗	JP	ja	imdbDisplay	\N	0
 tt0017865	8	Cigaretpigen fra Café Philippe	DK	\N	imdbDisplay	\N	0
-tt0017866	10	El señor Huracán	ES	\N	\N	\N	0
-tt0017866	11	Le champion improvisé	FR	\N	imdbDisplay	\N	0
-tt0017866	12	Fast and Furious	AU	\N	imdbDisplay	\N	0
-tt0017866	13	À Toda a Velocidade	BR	\N	imdbDisplay	\N	0
-tt0017866	14	Fast and Furious	\N	\N	original	\N	1
-tt0017866	15	Der Benzinteufel	DE	\N	\N	\N	0
+tt0017866	10	Bilar, bluff och kärlek	SE	\N	imdbDisplay	\N	0
+tt0017866	11	El señor Huracán	ES	\N	\N	\N	0
+tt0017866	12	Le champion improvisé	FR	\N	imdbDisplay	\N	0
+tt0017866	13	Fast and Furious	AU	\N	imdbDisplay	\N	0
+tt0017866	14	À Toda a Velocidade	BR	\N	imdbDisplay	\N	0
+tt0017866	15	Fast and Furious	\N	\N	original	\N	1
+tt0017866	16	Der Benzinteufel	DE	\N	\N	\N	0
 tt0017866	1	O Homem do Dia	PT	\N	imdbDisplay	\N	0
 tt0017866	2	Fast and Furious	US	\N	imdbDisplay	\N	0
 tt0017866	3	驀進デニー	JP	ja	imdbDisplay	\N	0
@@ -37596,7 +37630,7 @@ tt0017866	5	Fast and Furious	GB	\N	imdbDisplay	\N	0
 tt0017866	6	Na gabros, na malama!	GR	\N	\N	transliterated title	0
 tt0017866	7	Benzindjævelen	DK	\N	imdbDisplay	\N	0
 tt0017866	8	Fast and Furious	IN	en	imdbDisplay	\N	0
-tt0017866	9	Bilar, bluff och kärlek	SE	\N	imdbDisplay	\N	0
+tt0017866	9	Να γαμπρός, να μάλαμα!	GR	\N	imdbDisplay	\N	0
 tt0017867	1	Fatal dominio	ES	\N	imdbDisplay	\N	0
 tt0017867	2	Fatal dominio	\N	\N	original	\N	1
 tt0017868	1	Felix the Cat Dines and Pines	US	\N	imdbDisplay	\N	0
@@ -37831,6 +37865,7 @@ tt0017910	4	Novas Aventuras do Tenente da Marinha	PT	\N	imdbDisplay	\N	0
 tt0017910	5	Further Adventures of a Flag Officer	GB	\N	imdbDisplay	\N	0
 tt0017910	6	Further Adventures of the Flag Lieutenant	\N	\N	\N	\N	0
 tt0017910	7	O ypaspistis tou navarhou	GR	\N	\N	transliterated title	0
+tt0017910	8	Ο υπασπιστής του ναυάρχου	GR	\N	imdbDisplay	\N	0
 tt0017911	1	Forseglede læber	DK	\N	imdbDisplay	\N	0
 tt0017911	2	Aos Pés do Altar	BR	\N	imdbDisplay	\N	0
 tt0017911	3	Levres closes	FR	\N	imdbDisplay	\N	0
@@ -38001,16 +38036,17 @@ tt0017926	9	En Herre i Paris	DK	\N	imdbDisplay	\N	0
 tt0017927	1	Georginia	US	\N	imdbDisplay	\N	0
 tt0017927	2	Georginia	\N	\N	original	\N	1
 tt0017928	10	Segura o que é Teu	BR	\N	imdbDisplay	\N	0
-tt0017928	11	Get Your Man	\N	\N	original	\N	1
-tt0017928	12	Die Hochzeitsfalle	AT	\N	\N	\N	0
-tt0017928	13	Il faut que tu m'épouses	FR	\N	imdbDisplay	\N	0
-tt0017928	14	No lo dejes escapar	ES	\N	imdbDisplay	\N	0
+tt0017928	11	Θα με παντρευτείς	GR	\N	imdbDisplay	\N	0
+tt0017928	12	Get Your Man	\N	\N	original	\N	1
+tt0017928	13	Die Hochzeitsfalle	AT	\N	\N	\N	0
+tt0017928	14	Il faut que tu m'épouses	FR	\N	imdbDisplay	\N	0
+tt0017928	15	No lo dejes escapar	ES	\N	imdbDisplay	\N	0
 tt0017928	1	Frøken Hjerteknuser	DK	\N	imdbDisplay	\N	0
 tt0017928	2	Bin ich ihr Typ?	DE	\N	\N	\N	0
 tt0017928	3	À Procura de um Noivo	PT	\N	imdbDisplay	\N	0
 tt0017928	4	Egzotyczna Kochanka	PL	\N	imdbDisplay	\N	0
 tt0017928	5	Get Your Man	GB	\N	imdbDisplay	\N	0
-tt0017928	6	Tha me pantefthis	GR	\N	\N	transliterated title	0
+tt0017928	6	Tha me pantrefthis	GR	\N	\N	transliterated title	0
 tt0017928	7	Apanha o Teu Homem	BR	\N	alternative	\N	0
 tt0017928	8	恋人強奪	JP	ja	imdbDisplay	\N	0
 tt0017928	9	Get Your Man	US	\N	imdbDisplay	\N	0
@@ -38051,7 +38087,8 @@ tt0017934	3	Uma Pequena de Fora	BR	\N	imdbDisplay	\N	0
 tt0017934	4	Tragiki aftothysia	GR	\N	\N	transliterated title	0
 tt0017934	5	The Girl from Chicago	US	\N	imdbDisplay	\N	0
 tt0017934	6	市俄古から来た女	JP	ja	imdbDisplay	\N	0
-tt0017934	7	Razzia	DE	\N	imdbDisplay	\N	0
+tt0017934	7	Τραγική αυτοθυσία	GR	\N	imdbDisplay	\N	0
+tt0017934	8	Razzia	DE	\N	imdbDisplay	\N	0
 tt0017935	1	Hold That Pose	US	\N	alternative	\N	0
 tt0017935	2	The Girl from Everywhere	US	\N	imdbDisplay	\N	0
 tt0017935	3	The Girl from Everywhere	\N	\N	original	\N	1
@@ -38684,21 +38721,22 @@ tt0018043	1	Johann the Coffinmaker	US	\N	imdbDisplay	\N	0
 tt0018043	2	Johann the Coffinmaker	\N	\N	original	\N	1
 tt0018044	1	The Jolly Jilter	\N	\N	original	\N	1
 tt0018044	2	The Jolly Jilter	US	\N	imdbDisplay	\N	0
-tt0018045	10	Il Giocatore di Scacchi	IT	\N	imdbDisplay	\N	0
-tt0018045	11	Le joueur d'échecs	FR	\N	imdbDisplay	\N	0
-tt0018045	12	Der Schachspieler	DE	\N	\N	\N	0
-tt0018045	13	Шахматист	SUHH	ru	imdbDisplay	\N	0
-tt0018045	14	O Jogador de Xadrez	BR	\N	imdbDisplay	\N	0
-tt0018045	15	Jaque a la reina	ES	\N	\N	\N	0
+tt0018045	10	Skakspilleren	DK	\N	imdbDisplay	\N	0
+tt0018045	11	Il Giocatore di Scacchi	IT	\N	imdbDisplay	\N	0
+tt0018045	12	Le joueur d'échecs	FR	\N	imdbDisplay	\N	0
+tt0018045	13	Der Schachspieler	DE	\N	\N	\N	0
+tt0018045	14	Шахматист	SUHH	ru	imdbDisplay	\N	0
+tt0018045	15	O Jogador de Xadrez	BR	\N	imdbDisplay	\N	0
+tt0018045	16	Jaque a la reina	ES	\N	\N	\N	0
 tt0018045	1	Igrac saha	XYU	sr	\N	literal title	0
 tt0018045	2	Polens sønner	NO	\N	imdbDisplay	\N	0
-tt0018045	3	O Jogador de Xadrez	PT	\N	imdbDisplay	\N	0
-tt0018045	4	Le joueur d'échecs	\N	\N	original	\N	1
-tt0018045	5	A sakkjátékos	HU	\N	imdbDisplay	\N	0
-tt0018045	6	The Chess Player	GB	\N	imdbDisplay	\N	0
-tt0018045	7	O skakistis	GR	\N	\N	transliterated title	0
-tt0018045	8	The Chess Player	US	\N	\N	\N	0
-tt0018045	9	Skakspilleren	DK	\N	imdbDisplay	\N	0
+tt0018045	3	Ο σκακιστής	GR	\N	imdbDisplay	\N	0
+tt0018045	4	O Jogador de Xadrez	PT	\N	imdbDisplay	\N	0
+tt0018045	5	Le joueur d'échecs	\N	\N	original	\N	1
+tt0018045	6	A sakkjátékos	HU	\N	imdbDisplay	\N	0
+tt0018045	7	The Chess Player	GB	\N	imdbDisplay	\N	0
+tt0018045	8	O skakistis	GR	\N	\N	transliterated title	0
+tt0018045	9	The Chess Player	US	\N	\N	\N	0
 tt0018046	1	The Joy Girl	GB	\N	imdbDisplay	\N	0
 tt0018046	2	The Joy Girl	\N	\N	original	\N	1
 tt0018046	3	A Menina Alegre	BR	\N	imdbDisplay	\N	0
@@ -41825,9 +41863,10 @@ tt0018526	2	Paying the Penalty	GB	\N	alternative	\N	0
 tt0018526	30	Подполье	SUHH	ru	imdbDisplay	\N	0
 tt0018526	31	Подземни свет	XYU	sr	imdbDisplay	\N	0
 tt0018526	32	Le notti di Chicago	IT	\N	imdbDisplay	\N	0
-tt0018526	33	Ankokugai	JP	\N	imdbDisplay	\N	0
-tt0018526	34	Declasatii	RO	\N	imdbDisplay	\N	0
-tt0018526	35	Подземни свет	RS	\N	imdbDisplay	\N	0
+tt0018526	33	Οι νύκτες του Σικάγου	GR	\N	imdbDisplay	\N	0
+tt0018526	34	Ankokugai	JP	\N	imdbDisplay	\N	0
+tt0018526	35	Declasatii	RO	\N	imdbDisplay	\N	0
+tt0018526	36	Подземни свет	RS	\N	imdbDisplay	\N	0
 tt0018526	3	暗黒街（1927）	JP	ja	imdbDisplay	\N	0
 tt0018526	4	Alvilág	HU	\N	imdbDisplay	\N	0
 tt0018526	5	Vidas Tenebrosas	PT	\N	imdbDisplay	\N	0
@@ -45544,11 +45583,12 @@ tt0019080	9	Pokol pilótái	HU	\N	imdbDisplay	\N	0
 tt0019081	1	Les serfs	FR	\N	imdbDisplay	\N	0
 tt0019081	2	Die Leibeigenen	DE	\N	imdbDisplay	\N	0
 tt0019081	3	Die Leibeigenen	\N	\N	original	\N	1
-tt0019081	4	Os Servos	PT	\N	imdbDisplay	\N	0
-tt0019081	5	De Livegne	DK	\N	imdbDisplay	\N	0
-tt0019081	6	Escravos do Volga	BR	\N	imdbDisplay	\N	0
-tt0019081	7	Oi eilotes	GR	\N	\N	transliterated title	0
-tt0019081	8	Bondage	GB	\N	alternative	\N	0
+tt0019081	4	Οι είλωτες	GR	\N	imdbDisplay	\N	0
+tt0019081	5	Os Servos	PT	\N	imdbDisplay	\N	0
+tt0019081	6	De Livegne	DK	\N	imdbDisplay	\N	0
+tt0019081	7	Escravos do Volga	BR	\N	imdbDisplay	\N	0
+tt0019081	8	Oi eilotes	GR	\N	\N	transliterated title	0
+tt0019081	9	Bondage	GB	\N	alternative	\N	0
 tt0019082	1	The Lemon	\N	\N	original	\N	1
 tt0019082	2	The Lemon	US	\N	imdbDisplay	\N	0
 tt0019083	1	Leontines Ehemänner	DE	\N	imdbDisplay	\N	0

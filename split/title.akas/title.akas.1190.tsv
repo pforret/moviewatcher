@@ -5713,10 +5713,11 @@ tt11902022	4	Episódio #2.10	PT	pt	\N	\N	0
 tt11902022	5	Épisode #2.10	FR	fr	\N	\N	0
 tt11902022	6	エピソード #2.10	JP	ja	\N	\N	0
 tt11902022	7	Episodio #2.10	IT	it	\N	\N	0
-tt11902024	10	No Future	AE	\N	imdbDisplay	\N	0
-tt11902024	11	No Future	SE	\N	imdbDisplay	\N	0
-tt11902024	12	Yarınsız	TR	tr	alternative	\N	0
-tt11902024	13	No Future	\N	\N	original	\N	1
+tt11902024	10	No Future	ID	en	imdbDisplay	\N	0
+tt11902024	11	No Future	AE	\N	imdbDisplay	\N	0
+tt11902024	12	No Future	SE	\N	imdbDisplay	\N	0
+tt11902024	13	Yarınsız	TR	tr	alternative	\N	0
+tt11902024	14	No Future	\N	\N	original	\N	1
 tt11902024	1	No Future	IN	en	imdbDisplay	\N	0
 tt11902024	2	Без будущего	RU	\N	imdbDisplay	\N	0
 tt11902024	3	No Future	ES	\N	imdbDisplay	\N	0
@@ -5725,7 +5726,7 @@ tt11902024	5	No Future	GB	\N	imdbDisplay	\N	0
 tt11902024	6	No Future	US	\N	imdbDisplay	\N	0
 tt11902024	7	No Future	SG	en	imdbDisplay	\N	0
 tt11902024	8	No Future	DE	\N	imdbDisplay	\N	0
-tt11902024	9	No Future	ID	en	imdbDisplay	\N	0
+tt11902024	9	No Future	IN	hi	imdbDisplay	\N	0
 tt11902026	1	Folge #1.141	DE	de	\N	\N	0
 tt11902026	2	Episodio #1.141	IT	it	\N	\N	0
 tt11902026	3	エピソード #1.141	JP	ja	\N	\N	0
@@ -13148,7 +13149,7 @@ tt11905712	4	एपिसोड #4.33	IN	hi	\N	\N	0
 tt11905712	5	エピソード #4.33	JP	ja	\N	\N	0
 tt11905712	6	Episodio #4.33	IT	it	\N	\N	0
 tt11905712	7	Episodio #4.33	ES	es	\N	\N	0
-tt11905718	1	The Tapes	PH	\N	\N	\N	0
+tt11905718	1	The Tapes	PH	en	imdbDisplay	\N	0
 tt11905718	2	The Tapes	\N	\N	original	\N	1
 tt11905718	3	Видеозаписи	RU	\N	imdbDisplay	\N	0
 tt11905720	10	ผู้หญิง	TH	en	imdbDisplay	\N	0
@@ -13787,16 +13788,18 @@ tt11906086	10	Blast	SG	en	imdbDisplay	\N	0
 tt11906086	11	Взрыв	RU	\N	imdbDisplay	\N	0
 tt11906086	12	Blast	GB	\N	imdbDisplay	\N	0
 tt11906086	13	Blast	US	\N	imdbDisplay	\N	0
-tt11906086	14	Déflagrations	SE	\N	imdbDisplay	\N	0
-tt11906086	15	Desastre inminente	AR	\N	imdbDisplay	\N	0
-tt11906086	16	Blast	IN	hi	imdbDisplay	\N	0
-tt11906086	17	Déflagrations	FR	\N	imdbDisplay	\N	0
-tt11906086	18	拆彈倒數30分鐘	TW	\N	imdbDisplay	\N	0
-tt11906086	19	Blast	XWW	en	imdbDisplay	\N	0
+tt11906086	14	Blast	PH	en	imdbDisplay	\N	0
+tt11906086	15	Déflagrations	SE	\N	imdbDisplay	\N	0
+tt11906086	16	Desastre inminente	AR	\N	imdbDisplay	\N	0
+tt11906086	17	Blast	IN	hi	imdbDisplay	\N	0
+tt11906086	18	Déflagrations	FR	\N	imdbDisplay	\N	0
+tt11906086	19	拆彈倒數30分鐘	TW	\N	imdbDisplay	\N	0
 tt11906086	1	Desastre Inminente	CO	\N	imdbDisplay	\N	0
-tt11906086	20	Déflagrations	\N	\N	original	\N	1
-tt11906086	21	Blast - Gegen die Zeit	DE	\N	imdbDisplay	\N	0
-tt11906086	22	Eksplozje	PL	\N	imdbDisplay	\N	0
+tt11906086	20	Blast	XWW	en	imdbDisplay	\N	0
+tt11906086	21	Déflagrations	\N	\N	original	\N	1
+tt11906086	22	Blast - Gegen die Zeit	DE	\N	imdbDisplay	\N	0
+tt11906086	23	Eksplozje	PL	\N	imdbDisplay	\N	0
+tt11906086	24	Déflagrations	HK	en	imdbDisplay	\N	0
 tt11906086	2	Explozii	RO	\N	imdbDisplay	\N	0
 tt11906086	3	Bomba	CZ	\N	imdbDisplay	\N	0
 tt11906086	4	Desastre inminente	PE	\N	imdbDisplay	\N	0

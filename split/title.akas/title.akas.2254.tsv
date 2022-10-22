@@ -847,9 +847,9 @@ tt22543120	7	Folge #1.7	DE	de	\N	\N	0
 tt22543122	1	Foibles	US	\N	\N	\N	0
 tt22543124	1	Kuch Khattaa Ho Jaay	IN	\N	\N	\N	0
 tt22543128	1	The Next	US	\N	\N	\N	0
-tt22543136	1	The Girl He Never Noticed	SG	\N	\N	\N	0
-tt22543136	2	The Girl He Never Noticed	PH	en	imdbDisplay	\N	0
-tt22543136	3	The Girl He Never Noticed	\N	\N	original	\N	1
+tt22543136	1	The Girl He Never Noticed	PH	en	imdbDisplay	\N	0
+tt22543136	2	The Girl He Never Noticed	\N	\N	original	\N	1
+tt22543136	3	The Girl He Never Noticed	SG	en	imdbDisplay	\N	0
 tt22543142	1	Piranhas Feeding on a Whole Chipmunk	US	\N	\N	\N	0
 tt22543148	1	Golden Tegu Has Hamster Buffet (Live Feeding)	US	\N	\N	\N	0
 tt22543152	1	Decision 2022	CA	en	imdbDisplay	\N	0
@@ -1291,7 +1291,9 @@ tt22543436	7	Episodio datato 4 ottobre 2022	IT	it	\N	\N	0
 tt22543442	1	Kothamrito	IN	\N	\N	\N	0
 tt22543452	1	Christine de Blue	US	\N	\N	\N	0
 tt22543456	1	Please Marry Me	NG	\N	\N	\N	0
-tt22543458	1	Ninne Pelladutha	IN	\N	\N	\N	0
+tt22543458	1	Ninne Pelladutha	IN	hi	imdbDisplay	\N	0
+tt22543458	2	Ninne Pelladutha	\N	\N	original	\N	1
+tt22543458	3	Ninne Pelladutha	IN	en	imdbDisplay	\N	0
 tt22543466	1	Sledztwo the Inquest	PL	\N	\N	\N	0
 tt22543470	1	Smile	US	\N	\N	\N	0
 tt22543474	1	Dilkhush	IN	\N	\N	\N	0
@@ -1423,8 +1425,9 @@ tt22543714	4	Épisode datant du 9 octobre 2022	FR	fr	\N	\N	0
 tt22543714	5	Episódio datado de 9 Outubro de 2022	PT	pt	\N	\N	0
 tt22543714	6	9 अक्टूबर 2022 को प्रसारित एपिसोड	IN	hi	\N	\N	0
 tt22543714	7	Episodio datato 9 ottobre 2022	IT	it	\N	\N	0
-tt22543718	1	Novaya bitva ekstrasensov	\N	\N	original	\N	1
-tt22543718	2	Новая битва экстрасенсов	RU	\N	imdbDisplay	\N	0
+tt22543718	1	Novaya bitva ekstrasensov	DE	\N	imdbDisplay	\N	0
+tt22543718	2	Novaya bitva ekstrasensov	\N	\N	original	\N	1
+tt22543718	3	Новая битва экстрасенсов	RU	\N	imdbDisplay	\N	0
 tt22543744	1	Episódio #1.3	PT	pt	\N	\N	0
 tt22543744	2	エピソード #1.3	JP	ja	\N	\N	0
 tt22543744	3	एपिसोड #1.3	IN	hi	\N	\N	0
@@ -1662,13 +1665,6 @@ tt22544316	4	Episodio #4.30	ES	es	\N	\N	0
 tt22544316	5	エピソード #4.30	JP	ja	\N	\N	0
 tt22544316	6	एपिसोड #4.30	IN	hi	\N	\N	0
 tt22544316	7	Épisode #4.30	FR	fr	\N	\N	0
-tt22544318	1	Folge vom 14. Oktober 2022	DE	de	\N	\N	0
-tt22544318	2	Episodio fechado 14 octubre 2022	ES	es	\N	\N	0
-tt22544318	3	Episódio datado de 14 Outubro de 2022	PT	pt	\N	\N	0
-tt22544318	4	14 अक्टूबर 2022 को प्रसारित एपिसोड	IN	hi	\N	\N	0
-tt22544318	5	Épisode datant du 14 octobre 2022	FR	fr	\N	\N	0
-tt22544318	6	2022年10月14日 のエピソード	JP	ja	\N	\N	0
-tt22544318	7	Episodio datato 14 ottobre 2022	IT	it	\N	\N	0
 tt22544320	1	एपिसोड #13.183	IN	hi	\N	\N	0
 tt22544320	2	Episodio #13.183	ES	es	\N	\N	0
 tt22544320	3	Episódio #13.183	PT	pt	\N	\N	0
