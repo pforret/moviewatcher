@@ -118,7 +118,7 @@ Script:main() {
               group=sprintf("%04d",int(id/10000));
               out_file = out_folder  "/" prefix  "." group ".tsv";
               if(!files_created[out_file]){
-                if(id > 0){
+                if(group > 0){
                   print headers > out_file;
                   }
                 printf( "Create: %s\r", out_file);
