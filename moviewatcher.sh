@@ -79,17 +79,33 @@ Script:main() {
     # shellcheck disable=SC2154
     downloaded="$tmp_dir/$(basename "$url")"
     if [[ -f "$downloaded" ]] ; then
-      IO:progress "Download => $downloaded"
+      t0=$SECONDS
       curl -o "$downloaded" -z "$downloaded" "$url" &>> "$log_file"
+      duration=$((SECONDS - t0))
+      if [[ $duration -gt 0 ]] ; then
+        megabytes=$(du -m "$downloaded" | awk '{print $1}')
+        speed=$(Tool:calc "int($megabytes / $duration)")
+        IO:print "download ; $downloaded ; $megabytes MB ; $duration secs ; $speed MB/s"
+      fi
     else
-      IO:progress "Download => $downloaded"
+      t0=$SECONDS
       curl -o "$downloaded" "$url" &>> "$log_file"
+      duration=$((SECONDS - t0))
+      megabytes=$(du -m "$downloaded" | awk '{print $1}')
+      speed=$(Tool:calc "int($megabytes / $duration)")
+      IO:print "download ; $downloaded ; $megabytes MB ; $duration secs ; $speed MB/s"
     fi
 
     uncompressed="$tmp_dir/$(basename "$url" .gz)"
     if [[ ! -f "$uncompressed" || "$downloaded" -nt "$uncompressed" ]] ; then
-      IO:progress "Uncompress => $uncompressed"
+      t1=$SECONDS
       gunzip -k "$downloaded"
+      duration=$((SECONDS - t1))
+      if [[ $duration -gt 0 ]] ; then
+        megabytes=$(du -m "$uncompressed" | awk '{print $1}')
+        speed=$(Tool:calc "int($megabytes / $duration)")
+        IO:print "gunzip ; $uncompressed ; $megabytes MB ; $duration secs ; $speed MB/s"
+      fi
     fi
 
 
@@ -104,7 +120,6 @@ Script:main() {
 
     find "$tmp_dir" -name "*.tsv" \
     | while read -r file ; do
-        IO:progress "Split file $file"
         prefix=$(basename "$file" | cut -d. -f1-2)
         out_folder="$out_dir/$prefix"
         [[ ! -d "$out_folder" ]] && mkdir "$out_folder"
@@ -126,12 +141,13 @@ Script:main() {
                 if(group > 0){
                   print headers > out_file;
                   }
-                printf( "Create: %s\r", out_file);
                 files_created[out_file]=out_file;
               }
               print $0 >> out_file;
             }'
         fi
+        nb_files=$(find "$out_folder" -name "*.tsv" | wc -l)
+        IO:print "$nb_files files in $out_folder"
       done
     ;;
 

@@ -17,4 +17,4 @@ jobs:
         run: ./run_job.sh run
 
       - name: update repo
-        run: ./movie_watcher.sh gha:update
+        run: ./moviewatcher.sh gha:update
