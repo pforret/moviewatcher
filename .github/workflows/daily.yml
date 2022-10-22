@@ -11,6 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: actions/cache@v3
+        name: Cache downloads
+        with:
+          path: ./tmp
+          key: ${{ runner.os }}-downloads
+          restore-keys: |
+            ${{ runner.os }}-downloads
+
       - name: run download and split
         run: ./run_job.sh run
 
