@@ -14,7 +14,7 @@ analyze movie metadata updates
 
 ```
 Program : moviewatcher.sh  by peter@forret.com
-Version : v0.1.0 (2022-10-22 21:37)
+Version : v0.1.5 (2022-10-22 22:01)
 Purpose : analyze movie metadata updates
 Usage   : moviewatcher.sh [-h] [-q] [-v] [-f] [-l <log_dir>] [-t <tmp_dir>] [-o <out_dir>] <action> <input?>
 Flags, options and parameters:
