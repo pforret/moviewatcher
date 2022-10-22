@@ -52,7 +52,7 @@ flag|f|force|do not ask for confirmation (always yes)
 option|l|log_dir|folder for log files |log
 option|t|tmp_dir|folder for temp files|tmp
 option|o|out_dir|folder for output files|split
-choice|1|action|action to perform|download,split,check,env,update
+choice|1|action|action to perform|download,split,gha:update,check,env,update
 param|?|input|input url/file/text
 " grep -v -e '^#' -e '^\s*$'
 }
@@ -92,16 +92,20 @@ Script:main() {
       gunzip -k "$downloaded"
     fi
 
+
     ;;
 
   split)
     #TIP: use «$script_prefix split» to ...
     #TIP:> $script_prefix split
+        # shellcheck disable=SC2154
+    wc -l "$tmp_dir"/*.tsv > "$out_dir/lines.txt"
+    du -b "$tmp_dir"/*.tsv > "$out_dir/bytes.txt"
+
     find "$tmp_dir" -name "*.tsv" \
     | while read -r file ; do
         IO:progress "Split file $file"
         prefix=$(basename "$file" | cut -d. -f1-2)
-        # shellcheck disable=SC2154
         out_folder="$out_dir/$prefix"
         [[ ! -d "$out_folder" ]] && mkdir "$out_folder"
         headers=$(head -1 "$file")
@@ -129,6 +133,26 @@ Script:main() {
             }'
         fi
       done
+    ;;
+
+  gha:update)
+    #TIP: use «$script_prefix gha:update to update all data after running
+    #TIP:> $script_prefix gha:update
+
+    [[ -z "${RUNNER_OS:-}" ]] && IO:die "This should only run inside a Github Action, don't run it on your machine"
+    git config user.name "Bashew Runner"
+    git config user.email "actions@users.noreply.github.com"
+    git add -A
+    git add split
+    timestamp=$(date -u)
+    message="$timestamp < $script_basename $script_version < ${os_name=-} ${os_version:-}"
+    IO:log "Finishing GitHub Action: $message"
+    # don't modify any file after the next line, so also no log file
+    git commit -m "${message}" || exit 0
+    git pull --rebase
+    git push
+    exit 0
+
     ;;
 
   check | env)
