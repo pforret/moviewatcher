@@ -91,6 +91,7 @@ Script:main() {
       t0=$SECONDS
       curl -o "$downloaded" "$url" &>> "$log_file"
       duration=$((SECONDS - t0))
+      [[ $duration -gt 0 ]] && duration=1
       megabytes=$(du -m "$downloaded" | awk '{print $1}')
       speed=$(Tool:calc "int($megabytes / $duration)")
       IO:print "download ; $downloaded ; $megabytes MB ; $duration secs ; $speed MB/s"
@@ -101,11 +102,10 @@ Script:main() {
       t1=$SECONDS
       gunzip -k "$downloaded"
       duration=$((SECONDS - t1))
-      if [[ $duration -gt 0 ]] ; then
-        megabytes=$(du -m "$uncompressed" | awk '{print $1}')
-        speed=$(Tool:calc "int($megabytes / $duration)")
-        IO:print "gunzip ; $uncompressed ; $megabytes MB ; $duration secs ; $speed MB/s"
-      fi
+      [[ $duration -gt 0 ]] && duration=1
+      megabytes=$(du -m "$uncompressed" | awk '{print $1}')
+      speed=$(Tool:calc "int($megabytes / $duration)")
+      IO:print "gunzip ; $uncompressed ; $megabytes MB ; $duration secs ; $speed MB/s"
     fi
 
 
