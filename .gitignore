@@ -1,6 +1,7 @@
-log
-.tmp
 *.tmp
 .env
 .idea
+.tmp
+log
+tmp
 vendor

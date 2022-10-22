@@ -49,10 +49,11 @@ flag|h|help|show usage
 flag|q|quiet|no output
 flag|v|verbose|also show debug messages
 flag|f|force|do not ask for confirmation (always yes)
-option|l|log_dir|folder for log files |$HOME/log/$script_prefix
-option|t|tmp_dir|folder for temp files|/tmp/$script_prefix
-choice|1|action|action to perform|action1,action2,check,env,update
-#param|?|input|input file/text
+option|l|log_dir|folder for log files |log
+option|t|tmp_dir|folder for temp files|tmp
+option|o|out_dir|folder for output files|split
+choice|1|action|action to perform|download,split,check,env,update
+param|?|input|input url/file/text
 " grep -v -e '^#' -e '^\s*$'
 }
 
@@ -67,16 +68,66 @@ Script:main() {
 
   action=$(Str:lower "$action")
   case $action in
-  action1)
-    #TIP: use «$script_prefix action1» to ...
-    #TIP:> $script_prefix action1
-    do_action1
+  download)
+    #TIP: use «$script_prefix download» to ...
+    #TIP:> $script_prefix download
+    Os:require curl
+    Os:require gzip
+
+    url="$input"
+
+    downloaded="$tmp_dir/$(basename "$url")"
+    if [[ -f "$downloaded" ]] ; then
+      IO:progress "Download => $downloaded"
+      curl -o "$downloaded" -z "$downloaded" "$url" &>> "$log_file"
+    else
+      IO:progress "Download => $downloaded"
+      curl -o "$downloaded" "$url" &>> "$log_file"
+    fi
+
+    uncompressed="$tmp_dir/$(basename "$url" .gz)"
+    if [[ ! -f "$uncompressed" || "$downloaded" -nt "$uncompressed" ]] ; then
+      IO:progress "Uncompress => $uncompressed"
+      gunzip -k "$downloaded"
+    fi
+
     ;;
 
-  action2)
-    #TIP: use «$script_prefix action2» to ...
-    #TIP:> $script_prefix action2
-    do_action2
+  split)
+    #TIP: use «$script_prefix split» to ...
+    #TIP:> $script_prefix split
+    find "$tmp_dir" -name "*.tsv" \
+    | while read -r file ; do
+        IO:progress "Split file $file"
+        prefix=$(basename "$file" | cut -d. -f1-2)
+        # shellcheck disable=SC2154
+        out_folder="$out_dir/$prefix"
+        [[ ! -d "$out_folder" ]] && mkdir "$out_folder"
+        headers=$(head -1 "$file")
+        first_file="$out_folder/$prefix.0000.tsv"
+        if [[ ! -f "$first_file" || "$file" -nt "$first_file" ]] ; then
+          < "$file" awk \
+            -v headers="$headers" \
+            -v prefix="$prefix" \
+            -v out_folder="$out_folder" \
+            'BEGIN {
+              FS="\t";
+            }
+            {
+              id=substr($1,3);
+              group=sprintf("%04d",int(id/10000));
+              out_file = out_folder  "/" prefix  "." group ".tsv";
+              if(!files_created[out_file]){
+                if(id > 0){
+                  print headers > out_file;
+                  }
+                printf( "Create: %s\r", out_file);
+                files_created[out_file]=out_file;
+              }
+              print $0 >> out_file;
+            }'
+        fi
+      done
     ;;
 
   check | env)
@@ -108,8 +159,8 @@ Script:main() {
 ## Put your helper scripts here
 #####################################################################
 
-do_action1() {
-  IO:log "action1"
+do_download() {
+  IO:log "download"
   # Examples of required binaries/scripts and how to install them
   # Os:require "ffmpeg"
   # Os:require "convert" "imagemagick"
@@ -117,8 +168,8 @@ do_action1() {
   # (code)
 }
 
-do_action2() {
-  IO:log "action2"
+do_split() {
+  IO:log "split"
   # (code)
 
 }
