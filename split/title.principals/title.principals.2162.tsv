@@ -536,16 +536,16 @@ tt21620328	1	nm3823242	self	\N	["Self","Presenter"]
 tt21620328	2	nm0764277	self	\N	["Self","Presenter"]
 tt21620328	3	nm5236446	director	\N	\N
 tt21620328	4	nm5236281	producer	producer	\N
-tt21620332	10	nm13925891	actor	\N	["Reconstruction Performer"]
+tt21620332	10	nm13925897	actor	\N	["Reconstruction Performer"]
 tt21620332	1	nm0035602	self	\N	["Self - Narrator"]
 tt21620332	2	nm13925892	actor	\N	["Reconstruction Performer"]
 tt21620332	3	nm8501465	actor	\N	["Reconstruction Performer"]
 tt21620332	4	nm13925889	actor	\N	["Reconstruction Performer"]
 tt21620332	5	nm2499606	actor	\N	["Reconstruction Performer"]
-tt21620332	6	nm13925894	actor	\N	["Reconstruction Performer"]
-tt21620332	7	nm13925898	actor	\N	["Reconstruction Performer"]
-tt21620332	8	nm2342440	actor	\N	["Reconstruction Performer"]
-tt21620332	9	nm13925897	actor	\N	["Reconstruction Performer"]
+tt21620332	6	nm13925891	actor	\N	["Reconstruction Performer"]
+tt21620332	7	nm2342440	actor	\N	["Reconstruction Performer"]
+tt21620332	8	nm13925898	actor	\N	["Reconstruction Performer"]
+tt21620332	9	nm13925894	actor	\N	["Reconstruction Performer"]
 tt21620334	1	nm3823242	self	\N	["Self","Presenter"]
 tt21620334	2	nm0764277	self	\N	["Self","Presenter"]
 tt21620334	3	nm5236446	director	\N	\N
@@ -7850,7 +7850,7 @@ tt21624138	1	nm0599840	self	\N	["Self - Host"]
 tt21624142	1	nm8969943	self	\N	["Self"]
 tt21624142	2	nm9642908	self	\N	["Self"]
 tt21624150	1	nm11069152	actor	\N	\N
-tt21624152	10	nm13920503	production_designer	\N	\N
+tt21624152	10	nm9405699	production_designer	\N	\N
 tt21624152	1	nm6218001	actor	\N	\N
 tt21624152	2	nm4920615	actress	\N	\N
 tt21624152	3	nm2464693	director	\N	\N
@@ -8413,16 +8413,16 @@ tt21624586	6	nm1566255	writer	story	\N
 tt21624586	7	nm8411054	writer	story	\N
 tt21624586	8	nm4107981	writer	head writer	\N
 tt21624586	9	nm4011753	writer	head writer	\N
-tt21624608	10	nm0000553	archive_footage	\N	["Self"]
-tt21624608	1	nm0078886	archive_footage	\N	["Self"]
-tt21624608	2	nm0443599	self	\N	["Self"]
-tt21624608	3	nm0005157	archive_footage	\N	["Self"]
-tt21624608	4	nm0000184	archive_footage	\N	["Self"]
+tt21624608	10	nm0564768	archive_footage	\N	["Self"]
+tt21624608	1	nm6766526	self	\N	["Self"]
+tt21624608	2	nm0078886	archive_footage	\N	["Self"]
+tt21624608	3	nm0443599	self	\N	["Self"]
+tt21624608	4	nm0005157	archive_footage	\N	["Self"]
 tt21624608	5	nm0901449	director	\N	\N
 tt21624608	6	nm3326500	producer	producer	\N
 tt21624608	7	nm9794382	cinematographer	\N	\N
-tt21624608	8	nm0524235	self	\N	["Self"]
-tt21624608	9	nm0564768	archive_footage	\N	["Self"]
+tt21624608	8	nm0000184	archive_footage	\N	["Self"]
+tt21624608	9	nm0524235	self	\N	["Self"]
 tt21624612	1	nm0031813	cinematographer	\N	\N
 tt21624616	1	nm5211207	self	\N	["Self - Host"]
 tt21624618	10	nm8800366	self	\N	["Self"]
@@ -10973,6 +10973,8 @@ tt21627104	6	nm2196098	writer	screenplay	\N
 tt21627104	7	nm12497266	writer	created by	\N
 tt21627104	8	nm5843838	composer	\N	\N
 tt21627104	9	nm3840781	editor	\N	\N
+tt21627112	1	nm10002211	self	\N	["Self"]
+tt21627112	2	nm2800542	self	\N	["Self"]
 tt21627120	1	nm3533255	self	\N	["Self"]
 tt21627122	1	nm3125001	actor	\N	\N
 tt21627122	2	nm9769639	actor	\N	\N

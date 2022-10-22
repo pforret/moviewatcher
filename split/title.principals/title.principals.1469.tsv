@@ -835,14 +835,16 @@ tt14690430	4	nm2666925	actress	\N	\N
 tt14690430	5	nm0801870	director	\N	\N
 tt14690430	6	nm5901528	producer	producer	\N
 tt14690430	7	nm12591443	composer	\N	\N
+tt14690432	10	nm12591453	composer	\N	\N
 tt14690432	1	nm0222150	actor	\N	["Guest appearance"]
 tt14690432	2	nm0619047	actor	\N	\N
 tt14690432	3	nm12591451	actor	\N	\N
 tt14690432	4	nm1690484	actress	\N	\N
 tt14690432	5	nm12591450	director	\N	\N
-tt14690432	6	nm1196104	writer	\N	\N
-tt14690432	7	nm12591452	producer	producer	\N
-tt14690432	8	nm12591453	composer	\N	\N
+tt14690432	6	nm12339652	writer	screenplay	\N
+tt14690432	7	nm1196104	writer	\N	\N
+tt14690432	8	nm3395975	writer	dialogue	\N
+tt14690432	9	nm12591452	producer	producer	\N
 tt14690438	1	nm11431187	self	\N	["Self - Host"]
 tt14690438	2	nm0000331	archive_footage	\N	["Self"]
 tt14690440	1	nm6215753	self	\N	["Self"]
@@ -1945,13 +1947,16 @@ tt14690842	6	nm7062449	self	\N	["Self - Reporter"]
 tt14690842	7	nm11181499	self	\N	["Self"]
 tt14690842	8	nm5631110	self	\N	["Self"]
 tt14690842	9	nm11963691	self	\N	["Themselves"]
-tt14690844	1	nm0033243	actor	\N	\N
-tt14690844	2	nm0332868	actor	\N	\N
-tt14690844	3	nm1682769	actor	\N	\N
-tt14690844	4	nm2794335	actor	\N	\N
+tt14690844	10	nm11733880	editor	\N	\N
+tt14690844	1	nm0024259	actor	\N	\N
+tt14690844	2	nm0033243	actor	\N	\N
+tt14690844	3	nm1154608	actor	\N	\N
+tt14690844	4	nm0332868	actor	\N	\N
 tt14690844	5	nm2660920	director	\N	\N
-tt14690844	6	nm5702887	producer	producer	\N
-tt14690844	7	nm5675090	composer	\N	\N
+tt14690844	6	nm5703259	writer	dialogue	\N
+tt14690844	7	nm5702887	producer	producer	\N
+tt14690844	8	nm5675090	composer	\N	\N
+tt14690844	9	nm3590129	cinematographer	\N	\N
 tt14690848	1	nm8634247	self	\N	["Self"]
 tt14690848	2	nm0278755	actor	\N	["Narrator"]
 tt14690848	3	nm8246939	self	\N	["Self"]
@@ -2541,16 +2546,16 @@ tt14691050	3	nm10153439	director	\N	\N
 tt14691052	1	nm0061693	self	\N	["Self - Host"]
 tt14691052	2	nm1361784	actress	\N	["Self Co-Host"]
 tt14691052	3	nm1051237	self	\N	["Self - Co-Host"]
-tt14691054	10	nm1748588	actress	\N	\N
+tt14691054	10	nm1764379	cinematographer	\N	\N
 tt14691054	1	nm1693209	actor	\N	\N
 tt14691054	2	nm2794335	actor	\N	\N
 tt14691054	3	nm0471447	actress	\N	\N
 tt14691054	4	nm2867939	actor	\N	\N
 tt14691054	5	nm1321189	director	\N	\N
 tt14691054	6	nm0201710	writer	\N	\N
-tt14691054	7	nm3759965	producer	producer	\N
-tt14691054	8	nm0222148	composer	\N	\N
-tt14691054	9	nm4841794	actor	\N	\N
+tt14691054	7	nm1030281	writer	dialogue	\N
+tt14691054	8	nm3759965	producer	producer	\N
+tt14691054	9	nm0222148	composer	\N	\N
 tt14691056	1	nm1631844	self	\N	["Self - Presenter"]
 tt14691056	2	nm12279559	self	\N	["Self"]
 tt14691056	3	nm12411082	self	\N	["Self"]
@@ -2749,7 +2754,7 @@ tt14691138	7	nm2793542	writer	story and screenplay	\N
 tt14691138	8	nm4700750	writer	story and screenplay	\N
 tt14691138	9	nm3989694	composer	\N	\N
 tt14691140	10	nm0301806	writer	teleplay by	\N
-tt14691140	1	nm0971346	actress	\N	\N
+tt14691140	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691140	2	nm3020486	actress	\N	\N
 tt14691140	3	nm7134654	actress	\N	\N
 tt14691140	4	nm0171627	actor	\N	["Lucho"]
@@ -2769,7 +2774,7 @@ tt14691142	7	nm2793542	writer	story and screenplay	\N
 tt14691142	8	nm4700750	writer	story and screenplay	\N
 tt14691142	9	nm3989694	composer	\N	\N
 tt14691144	10	nm3672595	writer	teleplay by	\N
-tt14691144	1	nm0971346	actress	\N	\N
+tt14691144	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691144	2	nm1104613	actress	\N	\N
 tt14691144	3	nm3020486	actress	\N	\N
 tt14691144	4	nm0171627	actor	\N	["Lucho"]
@@ -2779,10 +2784,10 @@ tt14691144	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691144	8	nm3687821	writer	story by	\N
 tt14691144	9	nm1368206	writer	story by	\N
 tt14691146	10	nm0301806	writer	teleplay by	\N
-tt14691146	1	nm0971346	actress	\N	\N
+tt14691146	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691146	2	nm3020486	actress	\N	\N
 tt14691146	3	nm0171627	actor	\N	["Lucho"]
-tt14691146	4	nm0244459	actor	\N	\N
+tt14691146	4	nm0244459	actor	\N	["Jaime León"]
 tt14691146	5	nm1013662	director	\N	\N
 tt14691146	6	nm1662715	director	\N	\N
 tt14691146	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
@@ -2799,9 +2804,9 @@ tt14691148	7	nm2793542	writer	story and screenplay	\N
 tt14691148	8	nm4700750	writer	story and screenplay	\N
 tt14691148	9	nm3989694	composer	\N	\N
 tt14691150	10	nm3672595	writer	teleplay by	\N
-tt14691150	1	nm0971346	actress	\N	\N
+tt14691150	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691150	2	nm0171627	actor	\N	["Lucho"]
-tt14691150	3	nm0244459	actor	\N	\N
+tt14691150	3	nm0244459	actor	\N	["Jaime León"]
 tt14691150	4	nm9390656	actor	\N	["Fabio Sierra"]
 tt14691150	5	nm1013662	director	\N	\N
 tt14691150	6	nm1662715	director	\N	\N
@@ -2809,7 +2814,7 @@ tt14691150	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691150	8	nm3687821	writer	story by	\N
 tt14691150	9	nm1368206	writer	story by	\N
 tt14691152	10	nm2264763	writer	teleplay by	\N
-tt14691152	1	nm0971346	actress	\N	\N
+tt14691152	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691152	2	nm12830311	actress	\N	["Tania la kioskera"]
 tt14691152	3	nm3020486	actress	\N	\N
 tt14691152	4	nm0171627	actor	\N	["Lucho"]
@@ -2819,19 +2824,19 @@ tt14691152	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691152	8	nm3687821	writer	story by	\N
 tt14691152	9	nm1368206	writer	story by	\N
 tt14691154	10	nm3672595	writer	teleplay by	\N
-tt14691154	1	nm0971346	actress	\N	\N
+tt14691154	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691154	2	nm3020486	actress	\N	\N
 tt14691154	3	nm0171627	actor	\N	["Lucho"]
-tt14691154	4	nm0244459	actor	\N	\N
+tt14691154	4	nm0244459	actor	\N	["Jaime León"]
 tt14691154	5	nm1013662	director	\N	\N
 tt14691154	6	nm1662715	director	\N	\N
 tt14691154	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691154	8	nm3687821	writer	story by	\N
 tt14691154	9	nm1368206	writer	story by	\N
 tt14691156	10	nm3672595	writer	teleplay by	\N
-tt14691156	1	nm0971346	actress	\N	\N
+tt14691156	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691156	2	nm0171627	actor	\N	["Lucho"]
-tt14691156	3	nm0244459	actor	\N	\N
+tt14691156	3	nm0244459	actor	\N	["Jaime León"]
 tt14691156	4	nm9390656	actor	\N	["Fabio Sierra"]
 tt14691156	5	nm1013662	director	\N	\N
 tt14691156	6	nm1662715	director	\N	\N
@@ -2839,9 +2844,9 @@ tt14691156	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691156	8	nm3687821	writer	story by	\N
 tt14691156	9	nm1368206	writer	story by	\N
 tt14691158	10	nm3672595	writer	teleplay by	\N
-tt14691158	1	nm0971346	actress	\N	\N
+tt14691158	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691158	2	nm0171627	actor	\N	["Lucho"]
-tt14691158	3	nm0244459	actor	\N	\N
+tt14691158	3	nm0244459	actor	\N	["Jaime León"]
 tt14691158	4	nm9390656	actor	\N	["Fabio Sierra"]
 tt14691158	5	nm1013662	director	\N	\N
 tt14691158	6	nm1662715	director	\N	\N
@@ -2849,29 +2854,29 @@ tt14691158	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691158	8	nm3687821	writer	story by	\N
 tt14691158	9	nm1368206	writer	story by	\N
 tt14691162	10	nm2264763	writer	teleplay by	\N
-tt14691162	1	nm0971346	actress	\N	\N
+tt14691162	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691162	2	nm7134654	actress	\N	\N
 tt14691162	3	nm0171627	actor	\N	["Lucho"]
-tt14691162	4	nm0244459	actor	\N	\N
+tt14691162	4	nm0244459	actor	\N	["Jaime León"]
 tt14691162	5	nm1013662	director	\N	\N
 tt14691162	6	nm1662715	director	\N	\N
 tt14691162	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691162	8	nm3687821	writer	story by	\N
 tt14691162	9	nm1368206	writer	story by	\N
 tt14691164	10	nm3672595	writer	teleplay by	\N
-tt14691164	1	nm0971346	actress	\N	\N
+tt14691164	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691164	2	nm3020486	actress	\N	\N
 tt14691164	3	nm0171627	actor	\N	["Lucho"]
-tt14691164	4	nm0244459	actor	\N	\N
+tt14691164	4	nm0244459	actor	\N	["Jaime León"]
 tt14691164	5	nm1013662	director	\N	\N
 tt14691164	6	nm1662715	director	\N	\N
 tt14691164	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691164	8	nm3687821	writer	story by	\N
 tt14691164	9	nm1368206	writer	story by	\N
 tt14691168	10	nm2264763	writer	teleplay by	\N
-tt14691168	1	nm0971346	actress	\N	\N
+tt14691168	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691168	2	nm0171627	actor	\N	["Lucho"]
-tt14691168	3	nm0244459	actor	\N	\N
+tt14691168	3	nm0244459	actor	\N	["Jaime León"]
 tt14691168	4	nm9390656	actor	\N	["Fabio Sierra"]
 tt14691168	5	nm1013662	director	\N	\N
 tt14691168	6	nm1662715	director	\N	\N
@@ -2879,9 +2884,9 @@ tt14691168	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691168	8	nm3687821	writer	story by	\N
 tt14691168	9	nm1368206	writer	story by	\N
 tt14691170	10	nm3672595	writer	teleplay by	\N
-tt14691170	1	nm0971346	actress	\N	\N
+tt14691170	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691170	2	nm0171627	actor	\N	["Lucho"]
-tt14691170	3	nm0244459	actor	\N	\N
+tt14691170	3	nm0244459	actor	\N	["Jaime León"]
 tt14691170	4	nm9390656	actor	\N	["Fabio Sierra"]
 tt14691170	5	nm1013662	director	\N	\N
 tt14691170	6	nm1662715	director	\N	\N
@@ -2889,9 +2894,9 @@ tt14691170	7	nm0757111	writer	based on the TV drama "Mother" written by	\N
 tt14691170	8	nm3687821	writer	story by	\N
 tt14691170	9	nm1368206	writer	story by	\N
 tt14691172	10	nm0301806	writer	teleplay by	\N
-tt14691172	1	nm0971346	actress	\N	\N
+tt14691172	1	nm0971346	actress	\N	["Olga Escudero"]
 tt14691172	2	nm0171627	actor	\N	["Lucho"]
-tt14691172	3	nm0244459	actor	\N	\N
+tt14691172	3	nm0244459	actor	\N	["Jaime León"]
 tt14691172	4	nm9390656	actor	\N	["Fabio Sierra"]
 tt14691172	5	nm1013662	director	\N	\N
 tt14691172	6	nm1662715	director	\N	\N
@@ -3434,11 +3439,12 @@ tt14691632	3	nm12588411	director	\N	\N
 tt14691632	4	nm6037407	producer	producer	\N
 tt14691632	5	nm12588469	composer	\N	\N
 tt14691634	1	nm8816491	writer	co-creator	\N
-tt14691636	1	nm0707270	actor	\N	\N
-tt14691636	2	nm9860657	actor	\N	\N
-tt14691636	3	nm3912079	actor	\N	\N
-tt14691636	4	nm12592085	director	\N	\N
-tt14691636	5	nm12592086	composer	\N	\N
+tt14691636	1	nm5066719	actress	\N	\N
+tt14691636	2	nm0707270	actor	\N	\N
+tt14691636	3	nm9860657	actor	\N	\N
+tt14691636	4	nm3912079	actor	\N	\N
+tt14691636	5	nm12592085	director	\N	\N
+tt14691636	6	nm12592086	composer	\N	\N
 tt14691638	1	nm12592088	self	\N	["Self - Performers"]
 tt14691638	2	nm12592087	self	\N	["Self - Conductor"]
 tt14691638	3	nm12592089	self	\N	["Self - Presenter"]
@@ -3448,11 +3454,16 @@ tt14691642	1	nm12592093	actress	\N	\N
 tt14691642	2	nm12572332	actress	\N	\N
 tt14691644	1	nm8816491	writer	co-creator	\N
 tt14691646	1	nm8816491	writer	co-creator	\N
+tt14691648	10	nm12584655	actress	\N	\N
 tt14691648	1	nm1154608	actor	\N	\N
-tt14691648	2	nm12592095	actor	\N	\N
-tt14691648	3	nm12592096	actress	\N	\N
-tt14691648	4	nm12592094	director	\N	\N
-tt14691648	5	nm1961201	composer	\N	\N
+tt14691648	2	nm1616483	actor	\N	\N
+tt14691648	3	nm5840425	actress	\N	\N
+tt14691648	4	nm6284100	actor	\N	\N
+tt14691648	5	nm12592094	director	\N	\N
+tt14691648	6	nm1961201	composer	\N	\N
+tt14691648	7	nm5679987	editor	\N	\N
+tt14691648	8	nm1747510	actor	\N	\N
+tt14691648	9	nm12592095	actor	\N	\N
 tt14691650	1	nm5789798	writer	screenplay	\N
 tt14691650	2	nm8816491	writer	co-creator	\N
 tt14691652	1	nm10424098	actor	\N	["Pieter De Jonge"]
@@ -3465,12 +3476,15 @@ tt14691652	7	nm6110290	cinematographer	director of photography	\N
 tt14691652	8	nm7512403	actor	\N	["Cas"]
 tt14691654	1	nm5789798	writer	screenplay	\N
 tt14691654	2	nm8816491	writer	co-creator	\N
-tt14691656	1	nm5834406	actor	\N	\N
-tt14691656	2	nm1773444	actress	\N	\N
-tt14691656	3	nm3910563	actor	\N	\N
-tt14691656	4	nm12592099	director	\N	\N
-tt14691656	5	nm12592100	producer	producer	\N
-tt14691656	6	nm12592101	composer	\N	\N
+tt14691656	1	nm1747510	actor	\N	\N
+tt14691656	2	nm5834406	actor	\N	\N
+tt14691656	3	nm3369902	actor	\N	\N
+tt14691656	4	nm1773444	actress	\N	\N
+tt14691656	5	nm12592099	director	\N	\N
+tt14691656	6	nm12592100	producer	producer	\N
+tt14691656	7	nm12592101	composer	\N	\N
+tt14691656	8	nm3910563	actor	\N	\N
+tt14691656	9	nm3912079	actor	\N	["(as: Shobhraj)"]
 tt14691658	1	nm8816491	writer	co-creator	\N
 tt14691660	1	nm7091033	actress	\N	["Bianca Ramierez"]
 tt14691660	2	nm9073501	actor	\N	["Sol"]
@@ -3513,11 +3527,11 @@ tt14691676	6	nm3940844	cinematographer	\N	\N
 tt14691676	7	nm0847122	cinematographer	\N	\N
 tt14691676	8	nm1061006	editor	\N	\N
 tt14691676	9	nm0644518	editor	\N	\N
-tt14691678	10	nm1099556	actor	\N	\N
-tt14691678	1	nm0043199	actor	\N	["Dr. Subramanya"]
-tt14691678	2	nm1616483	actor	\N	["Principal"]
-tt14691678	3	nm5295862	actor	\N	\N
-tt14691678	4	nm1773444	actress	\N	\N
+tt14691678	10	nm10191264	editor	\N	\N
+tt14691678	1	nm6120787	actress	\N	\N
+tt14691678	2	nm0043199	actor	\N	["Dr. Subramanya"]
+tt14691678	3	nm5704793	actor	\N	\N
+tt14691678	4	nm5964115	actor	\N	\N
 tt14691678	5	nm5707402	director	\N	\N
 tt14691678	6	nm1436180	writer	\N	\N
 tt14691678	7	nm0127372	producer	producer	\N

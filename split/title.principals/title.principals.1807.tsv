@@ -1316,14 +1316,15 @@ tt18070980	5	nm13376639	director	\N	\N
 tt18070980	6	nm13376641	producer	producer	\N
 tt18070980	7	nm10467880	composer	\N	\N
 tt18070980	8	nm13376643	cinematographer	\N	\N
-tt18070984	1	nm1235154	actor	\N	["Joe Washington"]
-tt18070984	2	nm0873998	actor	\N	["Benjamin 'Touch' Tuchawuski"]
-tt18070984	3	nm0527945	actor	\N	["Nicolai Dzhugashvili"]
-tt18070984	4	nm0057217	actor	\N	["Leon Montgomery"]
+tt18070984	1	nm4930837	actor	\N	["Dimitri Dzhugashvili"]
+tt18070984	2	nm1235154	actor	\N	["Joe Washington"]
+tt18070984	3	nm0873998	actor	\N	["Benjamin 'Touch' Tuchawuski"]
+tt18070984	4	nm0527945	actor	\N	["Nicolai Dzhugashvili"]
 tt18070984	5	nm0191523	writer	created by	\N
-tt18070984	6	nm0870206	actress	\N	["Angela Washington"]
-tt18070984	7	nm1983843	actress	\N	["Cathy Montgomery"]
-tt18070984	8	nm10532309	actress	\N	["Jennifer Washington"]
+tt18070984	6	nm0057217	actor	\N	["Leon Montgomery"]
+tt18070984	7	nm0870206	actress	\N	["Angela Washington"]
+tt18070984	8	nm1983843	actress	\N	["Cathy Montgomery"]
+tt18070984	9	nm10532309	actress	\N	["Jennifer Washington"]
 tt18070992	10	nm8893489	self	\N	["Self - San Lorenzo"]
 tt18070992	1	nm13042020	self	\N	["Self - Boca"]
 tt18070992	2	nm4900654	self	\N	["Self - Coach Boca"]
@@ -12950,6 +12951,7 @@ tt18075434	2	nm9914617	producer	producer	\N
 tt18075434	3	nm12841117	producer	producer	\N
 tt18075434	4	nm13381799	producer	producer	\N
 tt18075434	5	nm9145640	editor	\N	\N
+tt18075434	6	nm13961946	production_designer	\N	\N
 tt18075436	10	nm1000124	writer	\N	\N
 tt18075436	1	nm0368575	actor	\N	["Dr. Bob Hughes"]
 tt18075436	2	nm0371624	actress	\N	["Kim Hughes"]
@@ -13818,7 +13820,6 @@ tt18075716	4	nm12847315	actress	\N	["Square Masked Man #2","Giant Red Light Gree
 tt18075716	5	nm12384691	director	\N	\N
 tt18075716	6	nm12391537	writer	\N	\N
 tt18075716	7	nm1930572	composer	\N	\N
-tt18075716	8	nm5930723	composer	\N	\N
 tt18075718	1	nm3519780	cinematographer	director of photography	\N
 tt18075720	10	nm8329218	actor	\N	["Mohsen Mohsen Momtaz"]
 tt18075720	1	nm1729163	actor	\N	["Al Kabeer","Johnny"]
@@ -14054,7 +14055,6 @@ tt18075784	3	nm12835961	actor	\N	["Squid Game Contestant"]
 tt18075784	4	nm13380365	actor	\N	["Squid Game Contestant"]
 tt18075784	5	nm12384691	director	\N	\N
 tt18075784	6	nm12391537	writer	\N	\N
-tt18075784	7	nm5930723	composer	\N	\N
 tt18075786	1	nm2145094	self	\N	["Self - Host"]
 tt18075786	2	nm1424872	self	\N	["Self - Guest"]
 tt18075788	1	nm2145094	self	\N	["Self - Host"]
@@ -15645,7 +15645,6 @@ tt18076304	5	nm12384691	director	\N	\N
 tt18076304	6	nm12391537	writer	\N	\N
 tt18076304	7	nm13380887	writer	idea	\N
 tt18076304	8	nm1930572	composer	\N	\N
-tt18076304	9	nm5930723	composer	\N	\N
 tt18076306	1	nm2568740	self	\N	["Self"]
 tt18076306	2	nm3862345	self	\N	["Self"]
 tt18076306	3	nm10734058	self	\N	["Self"]
@@ -15793,7 +15792,6 @@ tt18076420	3	nm13380927	self	\N	["Self"]
 tt18076420	4	nm13380929	actor	\N	["Son"]
 tt18076420	5	nm12429715	producer	producer	\N
 tt18076420	6	nm13138285	cinematographer	\N	\N
-tt18076428	10	nm5930723	composer	\N	\N
 tt18076428	1	nm12968053	actress	\N	["Warning Villager","Dinnerbone"]
 tt18076428	2	nm12857745	actor	\N	["Wolf Man","Hacker Villager"]
 tt18076428	3	nm12835961	actor	\N	["White Shirted Player","Jeb"]
@@ -15825,7 +15823,6 @@ tt18076484	1	nm8830690	writer	writer	\N
 tt18076484	2	nm6205889	editor	\N	\N
 tt18076500	1	nm12391537	actor	\N	["Achileis"]
 tt18076500	2	nm12384691	actor	\N	["ThePokeGod"]
-tt18076500	3	nm5930723	composer	\N	\N
 tt18076518	1	nm10498362	actor	\N	["The Priest"]
 tt18076518	2	nm13380948	director	\N	\N
 tt18076518	3	nm7354522	producer	producer	\N
@@ -15878,7 +15875,6 @@ tt18076580	3	nm13449710	producer	producer	\N
 tt18076580	4	nm0345713	producer	producer	\N
 tt18076580	5	nm13449711	producer	producer	\N
 tt18076584	1	nm8420437	director	\N	\N
-tt18076586	10	nm5930723	composer	\N	\N
 tt18076586	1	nm13057637	actor	\N	["Noobster48"]
 tt18076586	2	nm12968053	actress	\N	["Mad Scientist"]
 tt18076586	3	nm12835961	actor	\N	["Past Noobster48"]
@@ -16022,7 +16018,6 @@ tt18076712	2	nm0158632	archive_footage	\N	["Self"]
 tt18076712	3	nm4156953	archive_footage	\N	["Self"]
 tt18076712	4	nm0780544	archive_footage	\N	["Self"]
 tt18076712	5	nm12406931	producer	producer	\N
-tt18076714	10	nm5930723	composer	\N	\N
 tt18076714	1	nm13117263	actor	\N	["Hackillager"]
 tt18076714	2	nm12847135	actor	\N	["Shepherd Villager","Bear Guy"]
 tt18076714	3	nm12968053	actress	\N	["Detective Villager","Strong Shaded Villager Golem"]
@@ -16108,7 +16103,6 @@ tt18076754	4	nm13286780	actor	\N	["Random Squidgame Contestant","Snowman Guy","N
 tt18076754	5	nm12384691	director	\N	\N
 tt18076754	6	nm12391537	writer	\N	\N
 tt18076754	7	nm13381184	writer	idea	\N
-tt18076754	8	nm5930723	composer	\N	\N
 tt18076758	1	nm0383022	actress	\N	["Shiine"]
 tt18076758	2	nm0441449	actor	\N	["Riiya"]
 tt18076758	3	nm0464780	actor	\N	["Daimaô"]
@@ -16228,7 +16222,6 @@ tt18076804	6	nm13381253	cinematographer	\N	\N
 tt18076804	7	nm13370918	editor	\N	\N
 tt18076808	1	nm12391537	actor	\N	["Achileis"]
 tt18076808	2	nm12384691	actor	\N	["ThePokeGod"]
-tt18076808	3	nm5930723	composer	\N	\N
 tt18076810	1	nm11950605	self	\N	["Self - Host"]
 tt18076812	1	nm4913514	self	\N	["Self - Host"]
 tt18076820	10	nm0784453	actor	\N	["Seravy"]
@@ -16325,7 +16318,6 @@ tt18076870	4	nm1324273	cinematographer	\N	\N
 tt18076874	1	nm12391537	actor	\N	["Achileis"]
 tt18076874	2	nm12384691	actor	\N	["ThePokeGod"]
 tt18076874	3	nm1930572	composer	\N	\N
-tt18076874	4	nm5930723	composer	\N	\N
 tt18076876	1	nm13381420	actress	\N	\N
 tt18076876	2	nm13381419	actor	\N	\N
 tt18076876	3	nm7708876	director	\N	\N

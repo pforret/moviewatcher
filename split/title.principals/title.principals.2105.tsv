@@ -2691,10 +2691,12 @@ tt21051224	4	nm1563842	actor	\N	\N
 tt21051224	5	nm11537173	director	\N	\N
 tt21051224	6	nm10785618	writer	\N	\N
 tt21051224	7	nm0704654	producer	producer	\N
-tt21051226	1	nm11922576	actress	\N	["Stephen Mobius"]
-tt21051226	2	nm10955044	actor	\N	["Peter Lias"]
-tt21051226	3	nm13732039	actor	\N	["Officer Wakowski"]
+tt21051226	1	nm14160357	actress	\N	["Stephen Mobius"]
+tt21051226	2	nm13732039	actor	\N	["Officer Wakowski"]
+tt21051226	3	nm10955045	actor	\N	["Chads Tassone"]
 tt21051226	4	nm10987743	actor	\N	["JT Tassone"]
+tt21051226	5	nm10955044	director	\N	\N
+tt21051226	6	nm11922576	producer	producer	\N
 tt21051230	1	nm10047367	actor	\N	\N
 tt21051230	2	nm1559594	actor	\N	\N
 tt21051230	3	nm3849678	actress	\N	\N
@@ -4524,10 +4526,9 @@ tt21052450	1	nm7394211	actor	\N	["Liam"]
 tt21052450	2	nm13759867	actor	\N	["Pace"]
 tt21052450	3	nm13308711	actor	\N	["Jacob"]
 tt21052450	4	nm13759866	actor	\N	["Winston"]
-tt21052450	5	nm11871139	director	\N	\N
-tt21052450	6	nm8061654	director	\N	\N
-tt21052450	7	nm11791003	writer	\N	\N
-tt21052450	8	nm9923555	cinematographer	\N	\N
+tt21052450	5	nm8061654	director	\N	\N
+tt21052450	6	nm11791003	writer	\N	\N
+tt21052450	7	nm9923555	cinematographer	\N	\N
 tt21052454	1	nm13759323	self	\N	["Self"]
 tt21052456	1	nm13759323	self	\N	["Self"]
 tt21052458	1	nm0000408	self	\N	["Self - Guest"]
@@ -4920,15 +4921,15 @@ tt21052738	7	nm13630301	self	\N	["Self - Housemate"]
 tt21052738	8	nm13647934	self	\N	["Self - Housemate"]
 tt21052738	9	nm2342895	self	\N	["Self - Housemate"]
 tt21052740	10	nm13761877	self	\N	["Self"]
-tt21052740	1	nm13759986	self	\N	["Self"]
-tt21052740	2	nm13759985	self	\N	["Self"]
+tt21052740	1	nm13759985	self	\N	["Self"]
+tt21052740	2	nm13759986	self	\N	["Self"]
 tt21052740	3	nm13759984	self	\N	["Self"]
 tt21052740	4	nm13761860	self	\N	["Self"]
 tt21052740	5	nm13761976	self	\N	["Self"]
-tt21052740	6	nm13761878	self	\N	["Self"]
-tt21052740	7	nm13761888	self	\N	["Self"]
-tt21052740	8	nm13761899	self	\N	["Self"]
-tt21052740	9	nm13761975	self	\N	["Self"]
+tt21052740	6	nm13761888	self	\N	["Self"]
+tt21052740	7	nm13761975	self	\N	["Self"]
+tt21052740	8	nm13761878	self	\N	["Self"]
+tt21052740	9	nm13761899	self	\N	["Self"]
 tt21052742	1	nm4655938	self	\N	["Self - Host"]
 tt21052742	2	nm6407666	self	\N	["Self - Guest"]
 tt21052744	1	nm13759323	self	\N	["Self"]
@@ -18977,16 +18978,16 @@ tt21058734	8	nm13047487	self	\N	["Self - Nina Lee"]
 tt21058734	9	nm12300593	self	\N	["Self - Jason Bobbitt"]
 tt21058736	1	nm1225305	self	\N	["Self - Host"]
 tt21058736	2	nm1614819	self	\N	["Self - Host"]
-tt21058738	10	nm13763242	self	\N	["Self"]
-tt21058738	1	nm11670983	self	\N	["Self"]
-tt21058738	2	nm13763243	self	\N	["Self"]
-tt21058738	3	nm13879537	self	\N	["Self"]
-tt21058738	4	nm13763245	self	\N	["Self"]
-tt21058738	5	nm12724973	self	\N	["Self"]
-tt21058738	6	nm13763244	self	\N	["Self"]
-tt21058738	7	nm13879538	self	\N	["Self"]
-tt21058738	8	nm12725026	self	\N	["Self"]
-tt21058738	9	nm13436645	actor	\N	\N
+tt21058738	10	nm12725026	self	\N	["Self"]
+tt21058738	1	nm12724973	self	\N	["Self"]
+tt21058738	2	nm6719758	self	\N	["Self"]
+tt21058738	3	nm4179321	self	\N	["Self"]
+tt21058738	4	nm11670983	self	\N	["Self"]
+tt21058738	5	nm13763243	self	\N	["Self"]
+tt21058738	6	nm13879537	self	\N	["Self"]
+tt21058738	7	nm13763245	self	\N	["Self"]
+tt21058738	8	nm13763244	self	\N	["Self"]
+tt21058738	9	nm13879538	self	\N	["Self"]
 tt21058740	1	nm13763246	writer	\N	\N
 tt21058742	1	nm7288749	writer	\N	\N
 tt21058742	2	nm10291305	writer	\N	\N
@@ -20494,9 +20495,9 @@ tt21059658	3	nm7881223	actress	\N	["Paula"]
 tt21059658	4	nm5763582	writer	\N	\N
 tt21059658	5	nm5209533	writer	\N	\N
 tt21059660	1	nm0244696	actress	\N	["Stella Heikkinen"]
-tt21059660	2	nm0068431	actor	\N	\N
-tt21059660	3	nm0193135	actor	\N	\N
-tt21059660	4	nm1559256	actor	\N	\N
+tt21059660	2	nm12564036	actress	\N	["Extra"]
+tt21059660	3	nm0068431	actor	\N	\N
+tt21059660	4	nm0193135	actor	\N	\N
 tt21059660	5	nm1707462	director	\N	\N
 tt21059660	6	nm0992370	director	\N	\N
 tt21059660	7	nm0172757	producer	producer	\N
@@ -20510,9 +20511,9 @@ tt21059662	6	nm11380730	producer	producer	\N
 tt21059664	1	nm0499298	actor	\N	["Secret"]
 tt21059666	10	nm0172757	producer	producer	\N
 tt21059666	1	nm0244696	actress	\N	["Stella Heikkinen"]
-tt21059666	2	nm0068431	actor	\N	\N
-tt21059666	3	nm0193135	actor	\N	\N
-tt21059666	4	nm1559256	actor	\N	\N
+tt21059666	2	nm12564036	actress	\N	["Extra"]
+tt21059666	3	nm0068431	actor	\N	\N
+tt21059666	4	nm0193135	actor	\N	\N
 tt21059666	5	nm1707462	director	\N	\N
 tt21059666	6	nm0992370	director	\N	\N
 tt21059666	7	nm8773138	writer	writer	\N
@@ -20520,9 +20521,9 @@ tt21059666	8	nm0200350	writer	writer	\N
 tt21059666	9	nm0460795	writer	writer	\N
 tt21059668	10	nm0172757	producer	producer	\N
 tt21059668	1	nm0244696	actress	\N	["Stella Heikkinen"]
-tt21059668	2	nm0068431	actor	\N	\N
-tt21059668	3	nm0193135	actor	\N	\N
-tt21059668	4	nm1559256	actor	\N	\N
+tt21059668	2	nm12564036	actress	\N	["Extra"]
+tt21059668	3	nm0068431	actor	\N	\N
+tt21059668	4	nm0193135	actor	\N	\N
 tt21059668	5	nm1707462	director	\N	\N
 tt21059668	6	nm0992370	director	\N	\N
 tt21059668	7	nm8773138	writer	writer	\N
@@ -20530,9 +20531,9 @@ tt21059668	8	nm0200350	writer	writer	\N
 tt21059668	9	nm0460795	writer	writer	\N
 tt21059670	10	nm0172757	producer	producer	\N
 tt21059670	1	nm0244696	actress	\N	["Stella Heikkinen"]
-tt21059670	2	nm0068431	actor	\N	\N
-tt21059670	3	nm0193135	actor	\N	\N
-tt21059670	4	nm1559256	actor	\N	\N
+tt21059670	2	nm12564036	actress	\N	["Extra"]
+tt21059670	3	nm0068431	actor	\N	\N
+tt21059670	4	nm0193135	actor	\N	\N
 tt21059670	5	nm1707462	director	\N	\N
 tt21059670	6	nm0992370	director	\N	\N
 tt21059670	7	nm8773138	writer	writer	\N

@@ -3343,6 +3343,7 @@ tt15521294	1	nm12981791	actor	\N	["The Passenger"]
 tt15521294	2	nm12981792	actor	\N	["The Driver"]
 tt15521294	3	nm12981793	actor	\N	["Lucy"]
 tt15521294	4	nm12981790	actor	\N	["Sign Hanger"]
+tt15521296	10	nm0132289	production_designer	\N	\N
 tt15521296	1	nm6675440	actress	\N	["Jocelyn"]
 tt15521296	2	nm1070597	actor	\N	["Tedros"]
 tt15521296	3	nm10847160	actress	\N	["Chloe"]
@@ -3351,7 +3352,7 @@ tt15521296	5	nm0506094	director	\N	\N
 tt15521296	6	nm1541272	director	\N	\N
 tt15521296	7	nm8407249	writer	co-creator	\N
 tt15521296	8	nm5118099	cinematographer	director of photography	\N
-tt15521296	9	nm0132289	production_designer	\N	\N
+tt15521296	9	nm2815444	cinematographer	\N	\N
 tt15521298	1	nm9137796	actor	\N	["Joshua"]
 tt15521302	1	nm8093819	self	\N	["Self"]
 tt15521302	2	nm2689910	self	\N	["Self"]
@@ -6022,6 +6023,7 @@ tt15522996	2	nm10314266	self	\N	["Self - News anchor"]
 tt15522996	3	nm7001553	self	\N	["Self - Meteorologist"]
 tt15522998	1	nm1682679	self	\N	["Self - Presenter"]
 tt15522998	2	nm8351097	self	\N	["Self - Presenter"]
+tt15522998	3	nm10201958	self	\N	["Self"]
 tt15523000	1	nm0470130	self	\N	["Self - Host"]
 tt15523000	2	nm0603184	self	\N	["Self"]
 tt15523000	3	nm6532894	self	\N	["Self"]
@@ -13787,9 +13789,9 @@ tt15525872	2	nm9723807	actor	\N	["Kevin","Dusty Shane"]
 tt15525872	3	nm11332821	actress	\N	["Anya"]
 tt15525872	4	nm11677561	actress	\N	["Sandra","Dusty's Victim"]
 tt15525872	5	nm0277342	director	\N	\N
-tt15525872	6	nm1093039	writer	creator	\N
-tt15525872	7	nm3743024	writer	creator	\N
-tt15525872	8	nm0301842	writer	written by	\N
+tt15525872	6	nm0301842	writer	written for the screen by	\N
+tt15525872	7	nm1093039	writer	creator	\N
+tt15525872	8	nm3743024	writer	creator	\N
 tt15525872	9	nm0683204	writer	based on the work of	\N
 tt15525874	1	nm12878619	actress	\N	\N
 tt15525874	2	nm12878620	actress	\N	\N
@@ -15127,12 +15129,13 @@ tt15526514	7	nm8885063	producer	producer	\N
 tt15526514	8	nm1410712	editor	\N	\N
 tt15526520	1	nm1682679	self	\N	["Self - Presenter"]
 tt15526520	2	nm8351097	self	\N	["Self - Presenter"]
-tt15526520	3	nm9148693	director	\N	\N
-tt15526520	4	nm3174699	director	\N	\N
-tt15526520	5	nm7599551	director	\N	\N
-tt15526520	6	nm2954066	director	series director	\N
-tt15526520	7	nm8885063	producer	producer	\N
-tt15526520	8	nm1777596	editor	\N	\N
+tt15526520	3	nm10201958	self	\N	["Self"]
+tt15526520	4	nm9148693	director	\N	\N
+tt15526520	5	nm3174699	director	\N	\N
+tt15526520	6	nm7599551	director	\N	\N
+tt15526520	7	nm2954066	director	series director	\N
+tt15526520	8	nm8885063	producer	producer	\N
+tt15526520	9	nm1777596	editor	\N	\N
 tt15526524	1	nm1682679	self	\N	["Self - Presenter"]
 tt15526524	2	nm8351097	self	\N	["Self - Presenter"]
 tt15526524	3	nm9148693	director	\N	\N

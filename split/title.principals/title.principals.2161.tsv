@@ -252,6 +252,7 @@ tt21610204	2	nm12242247	self	\N	["Self - Guest"]
 tt21610218	1	nm0149822	self	\N	["Self - Grand Master"]
 tt21610218	2	nm0007134	self	\N	["Self - Judge"]
 tt21610218	3	nm3212715	self	\N	["Self - Judge"]
+tt21610218	4	nm14163348	director	\N	\N
 tt21610220	10	nm5473836	self	\N	["Self - Participant"]
 tt21610220	1	nm7501716	self	\N	["Self - Anchor"]
 tt21610220	2	nm10354298	self	\N	["Self - Global News Ottawa"]
@@ -2047,10 +2048,9 @@ tt21611588	2	nm1738430	actress	\N	["Lucila Morris"]
 tt21611588	3	nm0324813	actor	\N	["Matías Zambrano"]
 tt21611588	4	nm0895914	actor	\N	["Gómez"]
 tt21611588	5	nm6076240	director	\N	\N
-tt21611588	6	nm6498526	writer	written by	\N
-tt21611588	7	nm1286935	writer	\N	\N
-tt21611588	8	nm1287124	writer	\N	\N
-tt21611588	9	nm7506705	actor	\N	["Miguel"]
+tt21611588	6	nm1286935	writer	\N	\N
+tt21611588	7	nm1287124	writer	\N	\N
+tt21611588	8	nm7506705	actor	\N	["Miguel"]
 tt21611590	10	nm13880581	editor	\N	\N
 tt21611590	1	nm13880578	director	\N	\N
 tt21611590	2	nm7023486	director	\N	\N
@@ -5816,16 +5816,16 @@ tt21613394	2	nm13916685	director	\N	\N
 tt21613394	3	nm13919293	producer	producer	\N
 tt21613394	4	nm10258275	cinematographer	\N	\N
 tt21613394	5	nm11801831	editor	\N	\N
-tt21613402	10	nm3837213	actress	\N	["Mercedes"]
+tt21613402	10	nm13224933	actress	\N	\N
 tt21613402	1	nm1795865	actor	\N	["Bruno"]
 tt21613402	2	nm1448869	actress	\N	["Lucia"]
 tt21613402	3	nm2533090	actor	\N	["Alfredo"]
 tt21613402	4	nm1081016	actor	\N	["Lorenzo"]
 tt21613402	5	nm1014790	writer	created by	\N
-tt21613402	6	nm6848976	actress	\N	["Pilar"]
-tt21613402	7	nm2215307	actor	\N	\N
-tt21613402	8	nm13742901	actress	\N	["Asistente Bruno"]
-tt21613402	9	nm13224933	actress	\N	\N
+tt21613402	6	nm3837213	actress	\N	["Mercedes"]
+tt21613402	7	nm6848976	actress	\N	["Pilar"]
+tt21613402	8	nm2215307	actor	\N	\N
+tt21613402	9	nm13742901	actress	\N	["Asistente Bruno"]
 tt21613414	1	nm4483935	director	\N	\N
 tt21613422	1	nm13948128	archive_footage	\N	\N
 tt21613422	2	nm13948256	self	\N	["Self"]
@@ -6516,16 +6516,16 @@ tt21613696	4	nm2961560	writer	\N	\N
 tt21613696	5	nm3486538	writer	\N	\N
 tt21613696	6	nm4728596	composer	\N	\N
 tt21613696	7	nm7292876	composer	\N	\N
-tt21613698	10	nm12538198	actor	\N	["Gulbahar"]
+tt21613698	10	nm9780088	actor	\N	["Sefo"]
 tt21613698	1	nm4027020	actress	\N	["Elena"]
 tt21613698	2	nm1419480	actress	\N	["Nina"]
 tt21613698	3	nm9878816	actor	\N	["Ertan"]
 tt21613698	4	nm1687151	actor	\N	["Daniel"]
 tt21613698	5	nm0015091	director	\N	\N
-tt21613698	6	nm4784062	editor	\N	\N
-tt21613698	7	nm5798618	actor	\N	["Arif"]
-tt21613698	8	nm5879333	actress	\N	["Gulsun"]
-tt21613698	9	nm9780088	actor	\N	["Sefo"]
+tt21613698	6	nm5504279	cinematographer	\N	\N
+tt21613698	7	nm4784062	editor	\N	\N
+tt21613698	8	nm5798618	actor	\N	["Arif"]
+tt21613698	9	nm5879333	actress	\N	["Gulsun"]
 tt21613700	1	nm13950444	self	\N	["Self"]
 tt21613700	2	nm4780068	editor	\N	\N
 tt21613700	3	nm1430259	editor	\N	\N
@@ -8426,7 +8426,6 @@ tt21614624	1	nm7267083	actress	\N	\N
 tt21614624	2	nm3155822	actor	\N	\N
 tt21614628	1	nm4920615	actress	\N	\N
 tt21614628	2	nm6218001	actor	\N	\N
-tt21614628	3	nm13919658	actor	\N	\N
 tt21614630	1	nm0179132	actor	\N	["Riffer"]
 tt21614630	2	nm0614436	actor	\N	["Riffer"]
 tt21614630	3	nm0625621	actor	\N	["Riffer"]
@@ -9416,9 +9415,10 @@ tt21615480	1	nm10925349	actor	\N	["Zach"]
 tt21615480	2	nm10912916	actress	\N	["Hannah Fleishman"]
 tt21615480	3	nm7221923	actor	\N	["Phillip"]
 tt21615480	4	nm3330873	actor	\N	["Clay"]
-tt21615480	5	nm1209265	editor	\N	\N
-tt21615480	6	nm3261044	actress	\N	["Roxanne Hertz"]
-tt21615480	7	nm13144112	actress	\N	["Joanie"]
+tt21615480	5	nm1853027	cinematographer	\N	\N
+tt21615480	6	nm1209265	editor	\N	\N
+tt21615480	7	nm3261044	actress	\N	["Roxanne Hertz"]
+tt21615480	8	nm13144112	actress	\N	["Joanie"]
 tt21615490	10	nm7535294	actor	\N	\N
 tt21615490	1	nm13786351	actress	\N	\N
 tt21615490	2	nm3753553	actor	\N	\N
@@ -9429,15 +9429,16 @@ tt21615490	6	nm13787602	actor	\N	\N
 tt21615490	7	nm9230040	actress	\N	\N
 tt21615490	8	nm12468575	actress	\N	\N
 tt21615490	9	nm10147292	actress	\N	\N
+tt21615494	10	nm9065726	actress	\N	["St. Thaddeus Hallway Nurse"]
 tt21615494	1	nm5699143	actor	\N	["St Thaddeus Resident Mohsin Qassab"]
 tt21615494	2	nm0024188	actor	\N	["Dr. Romalino"]
 tt21615494	3	nm10912916	actress	\N	["Hannah Fleishman"]
 tt21615494	4	nm1719505	actor	\N	["St Thaddeus Resident Adam Parvelle"]
-tt21615494	5	nm0921418	editor	\N	\N
-tt21615494	6	nm3123510	actress	\N	["Delivery Nurse"]
-tt21615494	7	nm3261044	actress	\N	["Roxanne Hertz"]
-tt21615494	8	nm2771759	actor	\N	["Todd"]
-tt21615494	9	nm9065726	actress	\N	["St. Thaddeus Hallway Nurse"]
+tt21615494	5	nm1853027	cinematographer	\N	\N
+tt21615494	6	nm0921418	editor	\N	\N
+tt21615494	7	nm3123510	actress	\N	["Delivery Nurse"]
+tt21615494	8	nm3261044	actress	\N	["Roxanne Hertz"]
+tt21615494	9	nm2771759	actor	\N	["Todd"]
 tt21615496	1	nm8060940	director	\N	\N
 tt21615500	1	nm11940632	actress	\N	["Seven"]
 tt21615500	2	nm6171539	actress	\N	["Alexis Howard"]
@@ -9471,12 +9472,16 @@ tt21615534	4	nm1214769	archive_footage	\N	["Self"]
 tt21615534	5	nm0714698	archive_footage	\N	["Self"]
 tt21615534	6	nm9709536	archive_footage	\N	["Self"]
 tt21615534	7	nm8165603	archive_footage	\N	["Self"]
-tt21615536	1	nm1190532	director	\N	\N
-tt21615536	2	nm1522711	writer	novel	\N
-tt21615536	3	nm0411942	producer	producer	\N
-tt21615536	4	nm3960289	producer	producer	\N
-tt21615536	5	nm0591036	producer	producer	\N
-tt21615536	6	nm1950632	producer	producer	\N
+tt21615536	10	nm1950632	producer	producer	\N
+tt21615536	1	nm0480850	actor	\N	["Georges"]
+tt21615536	2	nm0008787	actor	\N	["Marwan"]
+tt21615536	3	nm6997839	actress	\N	["Imane"]
+tt21615536	4	nm5037040	actor	\N	["Nakad"]
+tt21615536	5	nm1190532	director	\N	\N
+tt21615536	6	nm1522711	writer	novel	\N
+tt21615536	7	nm0411942	producer	producer	\N
+tt21615536	8	nm3960289	producer	producer	\N
+tt21615536	9	nm0591036	producer	producer	\N
 tt21615542	1	nm1559315	actor	\N	["Girf"]
 tt21615542	2	nm1559903	actor	\N	["Simmons"]
 tt21615542	3	nm6349065	director	\N	\N
@@ -10381,7 +10386,7 @@ tt21616492	8	nm2319321	self	\N	["Self - Fox News Contributor"]
 tt21616494	1	nm0360458	self	\N	["Self - Host"]
 tt21616496	1	nm0360458	self	\N	["Self - Host"]
 tt21616496	2	nm13488557	self	\N	["Self - Laptop Repairman"]
-tt21616502	10	nm13920503	production_designer	\N	\N
+tt21616502	10	nm9405699	production_designer	\N	\N
 tt21616502	1	nm6218001	actor	\N	\N
 tt21616502	2	nm4920615	actress	\N	\N
 tt21616502	3	nm2464693	director	\N	\N
@@ -10467,16 +10472,16 @@ tt21616566	5	nm12312334	actor	\N	["Justin","Connor"]
 tt21616566	6	nm12312339	actress	\N	["Emmy","Violet"]
 tt21616572	1	nm0266263	self	\N	["Self - Host"]
 tt21616572	2	nm0969400	self	\N	["Self - Host"]
-tt21616574	10	nm10093179	actor	\N	\N
+tt21616574	10	nm10922522	actor	\N	["Dr. Dark"]
 tt21616574	1	nm9454937	actress	\N	["Ashley Williams"]
 tt21616574	2	nm10076697	actor	\N	["Sambo"]
-tt21616574	3	nm13100780	actor	\N	["Missing Person"]
+tt21616574	3	nm13100780	actor	\N	["Missing Person","Charlie Skinner"]
 tt21616574	4	nm8979736	actress	\N	["Carrie White"]
-tt21616574	5	nm13997610	actor	\N	["Pete Thompson"]
-tt21616574	6	nm10917465	actress	\N	\N
-tt21616574	7	nm13154383	actress	\N	\N
-tt21616574	8	nm12673471	actress	\N	["Minerva Midnight"]
-tt21616574	9	nm10922522	actor	\N	["Dr. Dark"]
+tt21616574	5	nm12633218	actor	\N	["Missing Person","Robert Michael Thompson"]
+tt21616574	6	nm13997610	actor	\N	["Pete Thompson"]
+tt21616574	7	nm10917465	actress	\N	\N
+tt21616574	8	nm13154383	actress	\N	\N
+tt21616574	9	nm12673471	actress	\N	["Minerva Midnight"]
 tt21616576	1	nm13920540	actor	\N	\N
 tt21616576	2	nm12136148	actor	\N	["The Man"]
 tt21616576	3	nm13920539	actor	\N	\N

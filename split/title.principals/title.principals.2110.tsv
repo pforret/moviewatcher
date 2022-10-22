@@ -9738,6 +9738,7 @@ tt21103314	5	nm13782433	self	\N	["Self"]
 tt21103320	1	nm0118467	self	\N	["Self"]
 tt21103320	2	nm0779951	self	\N	["Self"]
 tt21103322	1	nm2686595	director	\N	\N
+tt21103322	2	nm2649909	producer	producer	\N
 tt21103324	1	nm4371339	self	\N	["Self - Host"]
 tt21103324	2	nm1948917	producer	producer	\N
 tt21103324	3	nm0446227	editor	\N	\N
@@ -10758,12 +10759,16 @@ tt21103888	5	nm13556004	self	\N	["Self - Interviewee"]
 tt21103888	6	nm2613629	self	\N	["Self - Analyst"]
 tt21103888	7	nm4177156	self	\N	["Self - Analyst"]
 tt21103888	8	nm4928318	self	\N	["Self - Analyst"]
+tt21103890	10	nm11519456	actress	\N	["Kavita"]
 tt21103890	1	nm4366835	actor	\N	["Sai"]
-tt21103890	2	nm4040082	actress	\N	["Kavita"]
-tt21103890	3	nm7466412	actress	\N	["Leela"]
-tt21103890	4	nm5230555	actor	\N	["Mr. Murti"]
+tt21103890	2	nm3145714	actor	\N	["Dale"]
+tt21103890	3	nm8186235	actor	\N	["Suneet"]
+tt21103890	4	nm5233905	actress	\N	["Barista"]
 tt21103890	5	nm7815310	director	\N	\N
-tt21103890	6	nm4252145	producer	producer	\N
+tt21103890	6	nm7466412	writer	\N	\N
+tt21103890	7	nm4252145	producer	producer	\N
+tt21103890	8	nm8376084	cinematographer	\N	\N
+tt21103890	9	nm14163989	production_designer	\N	\N
 tt21103892	1	nm13782181	self	\N	["Self - Co-Host"]
 tt21103892	2	nm10450032	self	\N	["Self - Host"]
 tt21103892	3	nm10138443	self	\N	["Self - Guest"]
@@ -14684,7 +14689,8 @@ tt21106072	3	nm11562376	actress	\N	["Marcy"]
 tt21106072	4	nm8798886	director	\N	\N
 tt21106072	5	nm10232581	producer	producer	\N
 tt21106072	6	nm6977367	composer	\N	\N
-tt21106072	7	nm9408750	cinematographer	\N	\N
+tt21106072	7	nm6650379	composer	\N	\N
+tt21106072	8	nm9408750	cinematographer	\N	\N
 tt21106076	1	nm10695601	actress	\N	\N
 tt21106078	10	nm1010971	writer	\N	\N
 tt21106078	1	nm0126244	actress	\N	["Lily Walsh Snyder","Rose D'Angelo"]
@@ -19013,7 +19019,7 @@ tt21107782	2	nm13700953	actor	\N	["Grandmaster Chef Jojo"]
 tt21107782	3	nm13701453	self	\N	["Self - Guest"]
 tt21107782	4	nm2660107	director	\N	\N
 tt21107782	5	nm13809837	writer	Created by	\N
-tt21107782	6	nm5249372	writer	developed for television by	\N
+tt21107782	6	nm5249372	writer	writer	\N
 tt21107782	7	nm5046453	producer	producer	\N
 tt21107782	8	nm13614109	producer	producer	\N
 tt21107782	9	nm13804495	producer	executive producer	\N
@@ -19113,7 +19119,7 @@ tt21107818	2	nm13744231	self	\N	["Self - Guest"]
 tt21107818	3	nm13700953	actor	\N	["Grandmaster Chef Jojo"]
 tt21107818	4	nm2660107	director	\N	\N
 tt21107818	5	nm13809837	writer	Created by	\N
-tt21107818	6	nm5249372	writer	developed for television by	\N
+tt21107818	6	nm5249372	writer	writer	\N
 tt21107818	7	nm5046453	producer	producer	\N
 tt21107818	8	nm13614109	producer	producer	\N
 tt21107818	9	nm13804495	producer	executive producer	\N
@@ -21661,7 +21667,7 @@ tt21108714	2	nm13700953	actor	\N	["Grandmaster Chef Jojo"]
 tt21108714	3	nm13701453	self	\N	["Self - Guest"]
 tt21108714	4	nm2660107	director	\N	\N
 tt21108714	5	nm13809837	writer	Created by	\N
-tt21108714	6	nm5249372	writer	developed for television by	\N
+tt21108714	6	nm5249372	writer	writer	\N
 tt21108714	7	nm5046453	producer	producer	\N
 tt21108714	8	nm13614109	producer	producer	\N
 tt21108714	9	nm13804495	producer	executive producer	\N

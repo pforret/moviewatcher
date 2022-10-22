@@ -1648,7 +1648,7 @@ tt21371444	6	nm13880683	writer	\N	\N
 tt21371444	7	nm13880684	producer	producer	\N
 tt21371446	1	nm0079848	director	\N	\N
 tt21371446	2	nm10670275	producer	producer	\N
-tt21371450	10	nm0443867	composer	\N	\N
+tt21371450	10	nm11486753	writer	staff writer	\N
 tt21371450	1	nm0628420	actress	\N	["Maxine Roby"]
 tt21371450	2	nm2809645	actor	\N	["Joshua Folsom"]
 tt21371450	3	nm3778244	actress	\N	["Allie Rajan"]
@@ -1656,8 +1656,8 @@ tt21371450	4	nm5153709	actress	\N	["Detective Serena Chavez"]
 tt21371450	5	nm0946475	director	\N	\N
 tt21371450	6	nm1222770	writer	developed by	\N
 tt21371450	7	nm0958499	writer	based on the series 'CSI: Crime Scene Investigation' created by	\N
-tt21371450	8	nm3508097	producer	producer	\N
-tt21371450	9	nm8535351	producer	producer	\N
+tt21371450	8	nm2436599	writer	executive story editor	\N
+tt21371450	9	nm13052486	writer	staff writer	\N
 tt21371452	10	nm13052486	writer	staff writer	\N
 tt21371452	1	nm0628420	actress	\N	["Maxine Roby"]
 tt21371452	2	nm2809645	actor	\N	["Joshua Folsom"]
@@ -7206,10 +7206,10 @@ tt21374060	3	nm13580546	actor	\N	["Bhajen Son"]
 tt21374060	4	nm13580545	actor	\N	["Bhajen"]
 tt21374060	5	nm13580544	director	\N	\N
 tt21374064	10	nm2130844	editor	\N	\N
-tt21374064	1	nm9804298	actress	\N	\N
-tt21374064	2	nm0223565	actress	\N	["Frankie"]
-tt21374064	3	nm7069932	actor	\N	\N
-tt21374064	4	nm0606600	actor	\N	\N
+tt21374064	1	nm9804298	actress	\N	["Jessica Connolly"]
+tt21374064	2	nm7069932	actor	\N	["Mitch Jameson"]
+tt21374064	3	nm6021266	actress	\N	["Ally Carlisle"]
+tt21374064	4	nm0606600	actor	\N	["Liam Bodle"]
 tt21374064	5	nm5186251	director	\N	\N
 tt21374064	6	nm10591316	writer	\N	\N
 tt21374064	7	nm5078800	producer	producer	\N
@@ -8349,11 +8349,11 @@ tt21374546	6	nm3804112	director	co-director	\N
 tt21374546	7	nm5970973	producer	producer	\N
 tt21374546	8	nm5990164	producer	producer	\N
 tt21374546	9	nm2557671	composer	composer	\N
-tt21374548	10	nm0791328	actress	\N	\N
-tt21374548	1	nm3796147	actor	\N	\N
-tt21374548	2	nm2781731	actress	\N	\N
-tt21374548	3	nm6154971	actress	\N	\N
-tt21374548	4	nm6759070	actor	\N	\N
+tt21374548	10	nm0791328	actress	\N	["Marie"]
+tt21374548	1	nm6154971	actress	\N	["Sophia Grewal"]
+tt21374548	2	nm6759070	actor	\N	["Ansel Vallée"]
+tt21374548	3	nm2781731	actress	\N	["Yolanda Medweather"]
+tt21374548	4	nm2396351	actress	\N	["Taylor Goulding"]
 tt21374548	5	nm5028410	director	\N	\N
 tt21374548	6	nm1516732	writer	\N	\N
 tt21374548	7	nm5078800	producer	producer	\N
@@ -9549,15 +9549,16 @@ tt21375624	3	nm10327774	actor	\N	["Captain Johnson"]
 tt21375648	1	nm13882640	director	\N	\N
 tt21375648	2	nm9916775	cinematographer	director of photography	\N
 tt21375648	3	nm11107272	editor	\N	\N
-tt21375650	1	nm0000355	self	\N	["Self"]
-tt21375650	2	nm0004375	self	\N	["Self"]
-tt21375650	3	nm0249430	self	\N	["Self"]
-tt21375650	4	nm0524235	self	\N	["Self"]
+tt21375650	10	nm9505467	self	\N	["Self"]
+tt21375650	1	nm6766526	self	\N	["Self"]
+tt21375650	2	nm0000355	self	\N	["Self"]
+tt21375650	3	nm0004375	self	\N	["Self"]
+tt21375650	4	nm0249430	self	\N	["Self"]
 tt21375650	5	nm0901449	director	\N	\N
 tt21375650	6	nm3326500	producer	producer	\N
-tt21375650	7	nm0707822	self	\N	["Self"]
-tt21375650	8	nm6273285	self	\N	["Self"]
-tt21375650	9	nm9505467	self	\N	["Self"]
+tt21375650	7	nm0524235	self	\N	["Self"]
+tt21375650	8	nm0707822	self	\N	["Self"]
+tt21375650	9	nm6273285	self	\N	["Self"]
 tt21375652	1	nm11349647	actress	\N	["Captain Petra"]
 tt21375654	1	nm13882645	actress	\N	\N
 tt21375654	2	nm1131875	actress	\N	\N
@@ -11673,10 +11674,10 @@ tt21377364	6	nm5486990	self	\N	["Self"]
 tt21377364	7	nm0001251	archive_footage	\N	["Self - 2020"]
 tt21377364	8	nm2635467	archive_footage	\N	["Themselves"]
 tt21377364	9	nm1360270	archive_footage	\N	["Self (2014 of"]
-tt21377368	1	nm13883431	actor	\N	\N
-tt21377368	2	nm13883430	actor	\N	\N
-tt21377368	3	nm13883429	actor	\N	\N
-tt21377368	4	nm0224294	actor	\N	\N
+tt21377368	1	nm0000782	actress	\N	\N
+tt21377368	2	nm13883431	actor	\N	\N
+tt21377368	3	nm13883430	actor	\N	\N
+tt21377368	4	nm13883429	actor	\N	\N
 tt21377368	5	nm2021063	director	\N	\N
 tt21377368	6	nm1114006	director	\N	\N
 tt21377368	7	nm14093195	composer	\N	\N
@@ -12084,16 +12085,16 @@ tt21377772	4	nm0532410	actress	\N	\N
 tt21377772	5	nm2036160	director	\N	\N
 tt21377772	6	nm0261886	actor	\N	\N
 tt21377772	7	nm0690565	actress	\N	["Mujer elegante"]
-tt21377784	10	nm2068946	actor	\N	["Simpson"]
-tt21377784	1	nm3699149	actor	\N	["FBI Agent"]
-tt21377784	2	nm5730309	actor	\N	["Ricky Ramirez"]
-tt21377784	3	nm0144227	actor	\N	["FBI Agent"]
-tt21377784	4	nm13157417	actress	\N	["Superfans"]
+tt21377784	10	nm4834546	actor	\N	["Waiter"]
+tt21377784	1	nm3529685	actor	\N	["Somen Banerjee"]
+tt21377784	2	nm3699149	actor	\N	["FBI Agent"]
+tt21377784	3	nm5730309	actor	\N	["Ricky Ramirez"]
+tt21377784	4	nm0144227	actor	\N	["FBI Agent"]
 tt21377784	5	nm0512242	cinematographer	\N	\N
 tt21377784	6	nm1095365	production_designer	\N	\N
-tt21377784	7	nm2674750	actor	\N	["Bartender Bobby"]
-tt21377784	8	nm10177743	actor	\N	["Bartender"]
-tt21377784	9	nm4834546	actor	\N	["Waiter"]
+tt21377784	7	nm13157417	actress	\N	["Superfans"]
+tt21377784	8	nm2674750	actor	\N	["Bartender Bobby"]
+tt21377784	9	nm10177743	actor	\N	["Bartender"]
 tt21377786	1	nm10925381	self	\N	["Self - Host"]
 tt21377790	10	nm0413953	self	\N	["Self"]
 tt21377790	1	nm0330700	self	\N	["Self"]
@@ -13466,9 +13467,6 @@ tt21378846	1	nm1623376	self	\N	["Self"]
 tt21378846	2	nm1687254	self	\N	["Self"]
 tt21378846	3	nm0871070	self	\N	["Self"]
 tt21378846	4	nm9078036	director	\N	\N
-tt21378848	1	nm13411148	actor	\N	\N
-tt21378848	2	nm12585903	actress	\N	\N
-tt21378848	3	nm13179580	director	\N	\N
 tt21378850	1	nm1623376	self	\N	["Self"]
 tt21378850	2	nm1687254	self	\N	["Self"]
 tt21378850	3	nm0871070	self	\N	["Self"]

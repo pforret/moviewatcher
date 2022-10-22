@@ -13277,8 +13277,11 @@ tt5845562	3	nm8253046	actor	\N	["Richardo"]
 tt5845562	4	nm5136568	director	\N	\N
 tt5845562	5	nm6495672	writer	written by	\N
 tt5845564	1	nm1210942	writer	characters	\N
-tt5845568	1	nm2480066	producer	producer	\N
-tt5845570	1	nm2480066	producer	producer	\N
+tt5845568	1	nm0730841	self	\N	["Self - Host"]
+tt5845568	2	nm5293154	self	\N	["Self - Guest Host"]
+tt5845568	3	nm2480066	producer	producer	\N
+tt5845570	1	nm2526306	self	\N	["Self - Host"]
+tt5845570	2	nm2480066	producer	producer	\N
 tt5845572	10	nm1871740	actor	\N	["Nuri","Tango"]
 tt5845572	1	nm1758784	actor	\N	["Ciguli"]
 tt5845572	2	nm1728129	actor	\N	["Davut"]
@@ -13298,7 +13301,8 @@ tt5845574	6	nm8642614	cinematographer	co-cinematographer	\N
 tt5845576	1	nm0707738	director	\N	\N
 tt5845576	2	nm0071770	writer	\N	\N
 tt5845576	3	nm8253086	cinematographer	\N	\N
-tt5845578	1	nm2480066	producer	producer	\N
+tt5845578	1	nm0730841	self	\N	["Self - Host"]
+tt5845578	2	nm2480066	producer	producer	\N
 tt5845580	10	nm8253101	actor	\N	["Cadaver"]
 tt5845580	1	nm8222447	actor	\N	["Leo Mezza"]
 tt5845580	2	nm8253091	actor	\N	["Young Dante"]

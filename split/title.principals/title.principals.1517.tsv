@@ -1318,14 +1318,14 @@ tt15170558	1	nm12038281	director	\N	\N
 tt15170558	2	nm7883830	producer	producer	\N
 tt15170558	3	nm8096831	cinematographer	director of photography	\N
 tt15170560	10	nm11787237	producer	producer	\N
-tt15170560	1	nm1731624	actor	\N	["Cédric"]
+tt15170560	1	nm1731624	actor	\N	["Cédric Deruaz"]
 tt15170560	2	nm3270435	actress	\N	["Julie"]
-tt15170560	3	nm2771436	actor	\N	["Alain"]
-tt15170560	4	nm2028613	actor	\N	["Frédéric"]
+tt15170560	3	nm2771436	actor	\N	["Alain Boutot"]
+tt15170560	4	nm2028613	actor	\N	["Frédéric Urly"]
 tt15170560	5	nm2418217	director	\N	\N
-tt15170560	6	nm0221613	writer	\N	\N
-tt15170560	7	nm6074019	writer	\N	\N
-tt15170560	8	nm2681915	writer	\N	\N
+tt15170560	6	nm0221613	writer	screenplay	\N
+tt15170560	7	nm6074019	writer	screenplay	\N
+tt15170560	8	nm2681915	writer	collaboration	\N
 tt15170560	9	nm0139203	producer	producer	\N
 tt15170562	1	nm12594645	actor	\N	["Main Role"]
 tt15170564	1	nm0042213	actress	\N	\N
@@ -1830,14 +1830,14 @@ tt15170854	4	nm11299499	actor	\N	["Spider-Man","Peter Parker"]
 tt15170854	5	nm11299505	writer	\N	\N
 tt15170856	10	nm4717919	actress	\N	["Newsreader Susan","Shesso Advert Narrator"]
 tt15170856	1	nm9632331	actor	\N	["Newsreader Tom","Newsreader Tom Logan"]
-tt15170856	2	nm2703676	actor	\N	["Various","'Foxy' - Tattooist","Ben"]
+tt15170856	2	nm2703676	actor	\N	["Various","'Foxy' - Tattooist","Arnold Redbridge - Breeds Tories"]
 tt15170856	3	nm6514395	actor	\N	["Nathan"]
 tt15170856	4	nm3827236	actor	\N	["Professor Brubaker - Institute for Studies","Professor Henry Brubaker - Institute of Studies","Professor Brubaker - Institute of Studies"]
 tt15170856	5	nm2821397	actress	\N	["Carolyn Ryan","Donna Sheridan","Donna Sheridan - Owner of bum-lick cat"]
 tt15170856	6	nm3162211	actor	\N	["The Man in the Room Next Door","Stephen Malley","Alan Price"]
 tt15170856	7	nm5805071	self	\N	["Self - Presenter","Self"]
 tt15170856	8	nm6192445	self	\N	["Self - Presenter"]
-tt15170856	9	nm8966445	actor	\N	["Dr. Bill James","James Bond","Mark Fisher - Free and easy"]
+tt15170856	9	nm8966445	actor	\N	["Andrew McMahon - Pervert facilitator","Dr. Bill James","James Bond"]
 tt15170858	1	nm9641930	actress	\N	["Joyce Cummings"]
 tt15170860	1	nm11788340	actor	\N	\N
 tt15170860	2	nm7432725	director	\N	\N
@@ -4078,16 +4078,16 @@ tt15171694	8	nm10625521	actor	\N	\N
 tt15171696	1	nm0387609	self	\N	["Self - Presenter"]
 tt15171696	2	nm0328759	composer	\N	\N
 tt15171698	1	nm7366921	actor	\N	["Addison Von Drake","Anthonix Maximus"]
-tt15171700	10	nm12819927	self	\N	["Self - Anne-Marie's Husband"]
+tt15171700	10	nm12819856	self	\N	["Self - Chief of Meteorology, University of Florida"]
 tt15171700	1	nm10460823	actor	\N	["Host","Self - Infrared Drone Pilot & Animal Rescuer"]
 tt15171700	2	nm10465786	self	\N	["Self - Animal Rescuer, Director of Compassion Kind"]
 tt15171700	3	nm12819858	self	\N	["Self - Dog Trainer"]
 tt15171700	4	nm12819857	self	\N	["Self - Local Firefighter"]
 tt15171700	5	nm7474778	writer	created by	\N
 tt15171700	6	nm0938367	writer	created by	\N
-tt15171700	7	nm12819928	self	\N	["Self - Neighbor"]
-tt15171700	8	nm12819868	self	\N	["Self - Feline Behavioral Consultant"]
-tt15171700	9	nm12819856	self	\N	["Self - Chief of Meteorology, University of Florida"]
+tt15171700	7	nm12819868	self	\N	["Self - Feline Behavioral Consultant"]
+tt15171700	8	nm12819883	self	\N	["Self - Animal Rescuer"]
+tt15171700	9	nm12819923	self	\N	["Self - Thirteen's New Owner"]
 tt15171702	1	nm7482532	actress	\N	\N
 tt15171702	2	nm11579263	actor	\N	\N
 tt15171702	3	nm11579262	actress	\N	\N
@@ -10826,13 +10826,16 @@ tt15174768	1	nm2322406	actor	\N	["Isaac Clarke"]
 tt15174768	2	nm9395618	director	\N	\N
 tt15174768	3	nm7704066	writer	\N	\N
 tt15174774	1	nm10835842	self	\N	["Self","Host"]
+tt15174776	10	nm12812635	actress	\N	["Female Player","Criminal that stole Starbucks Coffee"]
 tt15174776	1	nm12815717	actor	\N	["ExplodingTNT","Female Player"]
 tt15174776	2	nm12549901	actor	\N	["Creeper321448"]
 tt15174776	3	nm12812970	actor	\N	["BaconCrafter"]
 tt15174776	4	nm12815916	actress	\N	["Cake Person","Pink Sheep"]
 tt15174776	5	nm12380167	director	\N	\N
 tt15174776	6	nm12818864	writer	idea	\N
-tt15174776	7	nm5930723	composer	\N	\N
+tt15174776	7	nm12818865	actress	\N	["Female Player"]
+tt15174776	8	nm12791830	actor	\N	["Male Girl Dimension Guard"]
+tt15174776	9	nm12784873	actor	\N	["Luigieight","Derpy Girl Dimension Guard"]
 tt15174786	10	nm12711782	self	\N	["Self - Contestant"]
 tt15174786	1	nm1705768	self	\N	["Self - Host"]
 tt15174786	2	nm5430464	self	\N	["Self - Host"]
@@ -11251,7 +11254,6 @@ tt15175070	2	nm12819183	composer	\N	\N
 tt15175072	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15175072	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15175072	3	nm12819184	writer	idea	\N
-tt15175072	4	nm5930723	composer	\N	\N
 tt15175074	1	nm0953373	actor	\N	\N
 tt15175076	1	nm2437847	actress	\N	\N
 tt15175076	2	nm3528332	actress	\N	\N
@@ -11272,13 +11274,16 @@ tt15175086	3	nm12819229	actress	\N	["Vampire"]
 tt15175086	4	nm11466170	actor	\N	["Vampire"]
 tt15175086	5	nm2611541	director	\N	\N
 tt15175086	6	nm3326056	cinematographer	\N	\N
+tt15175088	10	nm12809564	actor	\N	["Diamond Creeper","MrRuiz0256"]
 tt15175088	1	nm12815717	actor	\N	["Aurora_Playz"]
 tt15175088	2	nm12549901	actor	\N	["Noob Creeper321448","Pro Creeper321448"]
 tt15175088	3	nm12815916	actress	\N	["Pro Troll","FreshCake_"]
 tt15175088	4	nm12787501	actor	\N	["BaconCrafter"]
 tt15175088	5	nm12380167	director	\N	\N
 tt15175088	6	nm12819198	writer	idea	\N
-tt15175088	7	nm5930723	composer	\N	\N
+tt15175088	7	nm12818922	actor	\N	["Noob"]
+tt15175088	8	nm12819200	actor	\N	["ExplodingTNT"]
+tt15175088	9	nm12812635	actress	\N	["Madison_Madison"]
 tt15175094	1	nm7466455	self	\N	["Self - Host"]
 tt15175108	1	nm2138504	self	\N	["Self - Host"]
 tt15175108	2	nm3460329	self	\N	["Self - Host"]
@@ -14296,7 +14301,8 @@ tt15176344	3	nm12819200	actor	\N	["Failboat"]
 tt15176344	4	nm12812635	actress	\N	["Entity 303"]
 tt15176344	5	nm12380167	director	\N	\N
 tt15176344	6	nm12805910	writer	idea	\N
-tt15176344	7	nm5930723	composer	\N	\N
+tt15176344	7	nm12811168	actor	\N	["Superidiot55"]
+tt15176344	8	nm12818921	actor	\N	["SLiceJunior"]
 tt15176346	10	nm2026473	self	\N	["Self"]
 tt15176346	1	nm6366920	self	\N	["Self - Host"]
 tt15176346	2	nm0012199	self	\N	["Self"]
@@ -14435,16 +14441,16 @@ tt15176410	1	nm12448079	actress	\N	["Ari","Ari's Twin"]
 tt15176410	2	nm12819991	actor	\N	["Chef Chris"]
 tt15176410	3	nm5232957	actress	\N	["Auntie T"]
 tt15176410	4	nm12448080	actress	\N	["Clarissa"]
-tt15176412	10	nm12812635	actress	\N	["Madison_Madison"]
+tt15176412	10	nm12804095	actress	\N	["Mareeq"]
 tt15176412	1	nm12815717	actor	\N	["Aurora_Playz"]
 tt15176412	2	nm12549901	actor	\N	["Creeper321448"]
 tt15176412	3	nm12811458	actor	\N	["DA_SLAYER1"]
 tt15176412	4	nm12518716	actor	\N	["ExplodingTNT"]
 tt15176412	5	nm12380167	director	\N	\N
-tt15176412	6	nm5930723	composer	\N	\N
-tt15176412	7	nm12806213	actor	\N	["Joshcool7"]
-tt15176412	8	nm12819200	actor	\N	["Laokiwii"]
-tt15176412	9	nm12784873	actor	\N	["Mr. Krupp","Captain Underpants"]
+tt15176412	6	nm12806213	actor	\N	["Joshcool7"]
+tt15176412	7	nm12819200	actor	\N	["Laokiwii"]
+tt15176412	8	nm12784873	actor	\N	["Mr. Krupp","Captain Underpants"]
+tt15176412	9	nm12812635	actress	\N	["Madison_Madison"]
 tt15176414	10	nm5825241	actor	\N	["Manthos"]
 tt15176414	1	nm0699620	actor	\N	["Stathis Therianos"]
 tt15176414	2	nm0438689	actress	\N	["Diamanto Therianou"]
@@ -16903,7 +16909,6 @@ tt15177212	9	nm2888878	cinematographer	\N	\N
 tt15177214	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15177214	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15177214	3	nm12820230	writer	idea	\N
-tt15177214	4	nm5930723	composer	\N	\N
 tt15177216	1	nm0219507	self	\N	["Self - Host"]
 tt15177218	1	nm0219507	self	\N	["Self - Host"]
 tt15177220	1	nm0219507	self	\N	["Self - Host"]
@@ -17135,7 +17140,6 @@ tt15177430	6	nm11874096	producer	producer	\N
 tt15177430	7	nm12803697	producer	producer	\N
 tt15177430	8	nm12205143	cinematographer	\N	\N
 tt15177430	9	nm10817646	editor	\N	\N
-tt15177432	10	nm5930723	composer	\N	\N
 tt15177432	1	nm12549901	actor	\N	["Pink Guy","Notch","Cow"]
 tt15177432	2	nm12820283	actor	\N	["Barack Obama Super Noob","Player with Red Shirt"]
 tt15177432	3	nm12784873	actor	\N	["ExplodingTNT","Failboat"]
@@ -17605,13 +17609,16 @@ tt15177710	1	nm0760848	actor	\N	["Bobino"]
 tt15177710	2	nm0128851	writer	\N	\N
 tt15177712	1	nm0760848	actor	\N	["Bobino"]
 tt15177712	2	nm0128851	writer	\N	\N
+tt15177714	10	nm12820330	actress	\N	["Audience Member"]
 tt15177714	1	nm12815717	actor	\N	["Purple Shep","Audience Member"]
 tt15177714	2	nm12820331	actress	\N	["Audience Member"]
 tt15177714	3	nm12820329	actress	\N	["Audience Member"]
 tt15177714	4	nm12820191	actor	\N	["Failboat","Audience Member"]
 tt15177714	5	nm12380167	director	\N	\N
 tt15177714	6	nm12812972	writer	idea	\N
-tt15177714	7	nm5930723	composer	\N	\N
+tt15177714	7	nm12518716	actor	\N	["Pink Sheep"]
+tt15177714	8	nm12804038	actor	\N	["Hacker"]
+tt15177714	9	nm12787501	actor	\N	["ExplodingTNT"]
 tt15177716	1	nm0760848	actor	\N	["Bobino"]
 tt15177716	2	nm0128851	writer	\N	\N
 tt15177718	1	nm0760848	actor	\N	["Bobino"]
@@ -17710,7 +17717,6 @@ tt15177762	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15177762	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15177762	3	nm9195686	actor	\N	["Narrator"]
 tt15177762	4	nm12820350	writer	idea	\N
-tt15177762	5	nm5930723	composer	\N	\N
 tt15177764	10	nm12530374	actor	\N	["Drama Key"]
 tt15177764	1	nm1329835	actress	\N	["Yeimy Montoya"]
 tt15177764	2	nm2432071	actor	\N	["Charlie Flow"]
@@ -18016,13 +18022,16 @@ tt15177982	1	nm0760848	actor	\N	["Bobino"]
 tt15177982	2	nm0128851	writer	\N	\N
 tt15177986	1	nm0760848	actor	\N	["Bobino"]
 tt15177986	2	nm0128851	writer	\N	\N
+tt15177988	10	nm12812635	actress	\N	["Female Customer"]
 tt15177988	1	nm12815717	actor	\N	["Failboat"]
 tt15177988	2	nm12820385	actor	\N	["Customer"]
 tt15177988	3	nm12549901	actor	\N	["ExplodingTNT"]
 tt15177988	4	nm12820329	actress	\N	["Purple Shep"]
 tt15177988	5	nm12380167	director	\N	\N
 tt15177988	6	nm12820384	writer	idea	\N
-tt15177988	7	nm5930723	composer	\N	\N
+tt15177988	7	nm12820386	actor	\N	["Customer"]
+tt15177988	8	nm12787501	actor	\N	["McDonalds Employee"]
+tt15177988	9	nm12820387	actor	\N	["Customer"]
 tt15177990	1	nm0760848	actor	\N	["Bobino"]
 tt15177990	2	nm0128851	writer	\N	\N
 tt15177992	1	nm0760848	actor	\N	["Bobino"]
@@ -18273,16 +18282,16 @@ tt15178194	5	nm0606719	editor	\N	\N
 tt15178198	1	nm9527628	director	\N	\N
 tt15178198	2	nm3564238	composer	\N	\N
 tt15178198	3	nm1810699	editor	\N	\N
-tt15178200	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15178200	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15178200	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15178200	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15178200	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15178200	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15178200	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15178200	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15178200	6	nm4363130	actress	\N	["Katja Cleaver"]
 tt15178200	7	nm13227352	actress	\N	["Sam Nightingale"]
-tt15178204	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15178204	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15178204	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15178204	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15178204	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15178204	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15178204	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15178204	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15178204	6	nm4363130	actress	\N	["Katja Cleaver"]
@@ -18290,9 +18299,9 @@ tt15178204	7	nm13227352	actress	\N	["Sam Nightingale"]
 tt15178206	1	nm9527628	director	\N	\N
 tt15178206	2	nm3564238	composer	\N	\N
 tt15178206	3	nm0228773	editor	\N	\N
-tt15178208	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15178208	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15178208	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15178208	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15178208	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15178208	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15178208	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15178208	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15178208	6	nm4363130	actress	\N	["Katja Cleaver"]
@@ -18300,9 +18309,9 @@ tt15178208	7	nm13227352	actress	\N	["Sam Nightingale"]
 tt15178212	1	nm9527628	director	\N	\N
 tt15178212	2	nm3564238	composer	\N	\N
 tt15178212	3	nm1974123	editor	\N	\N
-tt15178214	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15178214	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15178214	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15178214	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15178214	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15178214	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15178214	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15178214	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15178214	6	nm4363130	actress	\N	["Katja Cleaver"]
@@ -20512,7 +20521,6 @@ tt15179038	4	nm10786413	director	\N	\N
 tt15179040	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15179040	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15179040	3	nm12820691	writer	idea	\N
-tt15179040	4	nm5930723	composer	\N	\N
 tt15179042	1	nm0486712	actor	\N	["Archangel Michael"]
 tt15179042	2	nm12820693	actor	\N	["Isaiah"]
 tt15179042	3	nm9075268	actor	\N	["Lightning Bolt Willy"]
@@ -21037,16 +21045,16 @@ tt15179272	2	nm4426369	self	\N	["Self"]
 tt15179274	1	nm5028365	self	\N	["Self"]
 tt15179274	2	nm10708427	cinematographer	\N	\N
 tt15179274	3	nm11405463	editor	\N	\N
-tt15179280	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15179280	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15179280	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15179280	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15179280	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15179280	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15179280	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15179280	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15179280	6	nm4363130	actress	\N	["Katja Cleaver"]
 tt15179280	7	nm13227352	actress	\N	["Sam Nightingale"]
-tt15179282	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15179282	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15179282	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15179282	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15179282	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15179282	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15179282	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15179282	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15179282	6	nm4363130	actress	\N	["Katja Cleaver"]
@@ -21061,17 +21069,17 @@ tt15179284	6	nm0599021	archive_footage	\N	\N
 tt15179284	7	nm0607289	archive_footage	\N	\N
 tt15179284	8	nm0000561	archive_footage	\N	\N
 tt15179284	9	nm2356866	archive_footage	\N	\N
-tt15179286	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15179286	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15179286	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15179286	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15179286	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15179286	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15179286	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15179286	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15179286	6	nm4363130	actress	\N	["Katja Cleaver"]
 tt15179286	7	nm13227352	actress	\N	["Sam Nightingale"]
 tt15179290	1	nm12820787	self	\N	["Self - Host"]
-tt15179292	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15179292	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15179292	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15179292	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15179292	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15179292	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15179292	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15179292	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15179292	6	nm4363130	actress	\N	["Katja Cleaver"]
@@ -21080,16 +21088,16 @@ tt15179294	1	nm4426369	self	\N	["Self"]
 tt15179294	2	nm4294308	self	\N	["Self"]
 tt15179294	3	nm11866420	self	\N	["Self"]
 tt15179294	4	nm2424883	director	co-director	\N
-tt15179296	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15179296	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15179296	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15179296	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15179296	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15179296	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15179296	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15179296	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15179296	6	nm4363130	actress	\N	["Katja Cleaver"]
 tt15179296	7	nm13227352	actress	\N	["Sam Nightingale"]
-tt15179300	1	nm5604876	actress	\N	["Danielle Barkstock"]
-tt15179300	2	nm10682827	actress	\N	["Antiope Jones"]
-tt15179300	3	nm3293702	actor	\N	["Zelda Donovan","Dungeon Master"]
+tt15179300	1	nm3293702	actor	\N	["Game Master","Zelda Donovan"]
+tt15179300	2	nm5604876	actress	\N	["Danielle Barkstock"]
+tt15179300	3	nm10682827	actress	\N	["Antiope Jones"]
 tt15179300	4	nm1712579	actress	\N	["Ostentatia Wallace"]
 tt15179300	5	nm5048085	actress	\N	["Penny Luckstone"]
 tt15179300	6	nm4363130	actress	\N	["Katja Cleaver"]
@@ -21114,13 +21122,16 @@ tt15179308	3	nm2425999	self	\N	["Self"]
 tt15179308	4	nm0081182	archive_footage	\N	["Self"]
 tt15179308	5	nm0574351	self	\N	["Self"]
 tt15179308	6	nm11986670	self	\N	["Self"]
+tt15179310	10	nm12820798	actor	\N	["JOHN__CENA__SWAG"]
 tt15179310	1	nm12820801	actor	\N	["Aaronaguirre05"]
 tt15179310	2	nm12820808	actor	\N	["Avrged"]
 tt15179310	3	nm12820805	actor	\N	["BoogEman"]
 tt15179310	4	nm12549901	actor	\N	["ExplodingTNT"]
 tt15179310	5	nm12380167	director	\N	\N
 tt15179310	6	nm12739965	writer	idea	\N
-tt15179310	7	nm5930723	composer	\N	\N
+tt15179310	7	nm12820329	actress	\N	["Super Noob"]
+tt15179310	8	nm12820387	actor	\N	["Jason3500PlayzMC"]
+tt15179310	9	nm12820807	actor	\N	["JohnAMarino"]
 tt15179312	10	nm13596301	composer	\N	\N
 tt15179312	1	nm0612691	actress	\N	["Aloe"]
 tt15179312	2	nm5614521	actress	\N	["Vera"]
@@ -21236,13 +21247,16 @@ tt15179386	1	nm0935922	self	\N	["Self"]
 tt15179386	2	nm3072963	cinematographer	\N	\N
 tt15179386	3	nm11405463	editor	\N	\N
 tt15179388	1	nm0078218	self	\N	["Self - Host"]
+tt15179390	10	nm5222324	actor	\N	["Pink Sheep"]
 tt15179390	1	nm12549901	actor	\N	["Creeper321448","Pink Sheep"]
 tt15179390	2	nm12820329	actress	\N	["Enderman"]
 tt15179390	3	nm12787501	actor	\N	["Troll"]
 tt15179390	4	nm12820903	actor	\N	["Notch"]
 tt15179390	5	nm12380167	director	\N	\N
 tt15179390	6	nm12820902	writer	idea	\N
-tt15179390	7	nm5930723	composer	\N	\N
+tt15179390	7	nm12820387	actor	\N	["Player Building House","Police Officer"]
+tt15179390	8	nm12784873	actor	\N	["ExplodingTNT"]
+tt15179390	9	nm12812635	actress	\N	["Madison_Madison","Purple Shep"]
 tt15179392	1	nm10631972	actress	\N	["Ali"]
 tt15179392	2	nm9350416	actress	\N	["Jordan"]
 tt15179392	3	nm12820905	actress	\N	["Kale"]
@@ -21279,13 +21293,16 @@ tt15179410	6	nm12820942	producer	producer	\N
 tt15179410	7	nm12820939	producer	producer	\N
 tt15179410	8	nm12820943	producer	producer	\N
 tt15179410	9	nm12820944	producer	producer	\N
+tt15179412	10	nm5222324	actor	\N	["Narrator"]
 tt15179412	1	nm12549901	actor	\N	["Creeper321448"]
 tt15179412	2	nm12820329	actress	\N	["Weird Rainbow Dude"]
 tt15179412	3	nm12787501	actor	\N	["Hulkenberg"]
 tt15179412	4	nm12820387	actor	\N	["Notch"]
 tt15179412	5	nm12380167	director	\N	\N
 tt15179412	6	nm12820947	writer	idea	\N
-tt15179412	7	nm5930723	composer	\N	\N
+tt15179412	7	nm12820330	actress	\N	["Ocelot"]
+tt15179412	8	nm12812635	actress	\N	["Skeleton"]
+tt15179412	9	nm12380168	actor	\N	["Failboat"]
 tt15179414	1	nm4762171	director	\N	\N
 tt15179414	2	nm4761947	writer	\N	\N
 tt15179414	3	nm12820948	writer	\N	\N
@@ -21317,7 +21334,6 @@ tt15179434	2	nm8172151	self	\N	["Self"]
 tt15179436	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15179436	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15179436	3	nm10450407	writer	idea	\N
-tt15179436	4	nm5930723	composer	\N	\N
 tt15179438	1	nm8634284	self	\N	["Self"]
 tt15179438	2	nm8172151	self	\N	["Self"]
 tt15179440	1	nm8634284	self	\N	["Self"]
@@ -21516,13 +21532,16 @@ tt15179520	6	nm2401789	director	\N	\N
 tt15179520	7	nm1628445	producer	producer	\N
 tt15179520	8	nm5835546	producer	producer	\N
 tt15179520	9	nm3713441	composer	\N	\N
+tt15179522	10	nm12812635	actress	\N	["Madison_Madison"]
 tt15179522	1	nm12821016	actress	\N	["BaconCrafter","Creeper"]
 tt15179522	2	nm12549901	actor	\N	["Creeper321448"]
 tt15179522	3	nm12820329	actress	\N	["Failboat"]
 tt15179522	4	nm12821020	actor	\N	["Creeper"]
 tt15179522	5	nm12380167	director	\N	\N
 tt15179522	6	nm12821014	writer	idea	\N
-tt15179522	7	nm5930723	composer	\N	\N
+tt15179522	7	nm12821018	actress	\N	["ExplodingTNT","Creeper"]
+tt15179522	8	nm12821015	actress	\N	["Creeper Leader"]
+tt15179522	9	nm12820903	actor	\N	["Notch"]
 tt15179526	10	nm4556776	self	\N	["Self"]
 tt15179526	1	nm0414099	actor	\N	["Tito Jackson"]
 tt15179526	2	nm0413832	actor	\N	["Marlon Jackson"]
@@ -21563,13 +21582,16 @@ tt15179536	4	nm7370586	actress	\N	["Lily Hampton"]
 tt15179536	5	nm3606955	editor	\N	\N
 tt15179536	6	nm11644913	actress	\N	["Frankie"]
 tt15179536	7	nm9699455	actor	\N	["Josh"]
+tt15179538	10	nm12820193	actor	\N	["Failboat"]
 tt15179538	1	nm12821045	actor	\N	["Pig"]
 tt15179538	2	nm12549901	actor	\N	["Herobrine","Steve"]
 tt15179538	3	nm12820329	actress	\N	["Notch","Old Man"]
 tt15179538	4	nm12787501	actor	\N	["ExplodingTNT"]
 tt15179538	5	nm12380167	director	\N	\N
 tt15179538	6	nm12821044	writer	idea	\N
-tt15179538	7	nm5930723	composer	\N	\N
+tt15179538	7	nm12812635	actress	\N	["Madison_Madison"]
+tt15179538	8	nm12803920	actor	\N	["Purple Shep"]
+tt15179538	9	nm9195686	actor	\N	["Purple Shep"]
 tt15179540	10	nm1754629	producer	producer	\N
 tt15179540	1	nm10295494	actor	\N	["Moritz Bode"]
 tt15179540	2	nm1742247	actor	\N	["Felix Lehmann"]

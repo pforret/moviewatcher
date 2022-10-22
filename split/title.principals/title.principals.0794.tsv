@@ -3829,7 +3829,7 @@ tt7941428	2	nm0005529	actress	\N	["Kara Lynch"]
 tt7941428	3	nm0001923	actress	\N	["Helen Patterson"]
 tt7941428	4	nm0745780	actor	\N	["Paul Patterson, Sr."]
 tt7941428	5	nm0788202	director	\N	\N
-tt7941428	6	nm0015327	writer	creator	\N
+tt7941428	6	nm0015327	writer	created by	\N
 tt7941428	7	nm0689319	writer	teleplay by	\N
 tt7941428	8	nm1010379	writer	story by	\N
 tt7941428	9	nm0788420	writer	story by	\N
@@ -15030,6 +15030,7 @@ tt7946772	3	nm0556750	self	\N	["Self"]
 tt7946772	4	nm0001672	self	\N	["Self"]
 tt7946772	5	nm1023999	director	\N	\N
 tt7946784	1	nm0515255	director	\N	\N
+tt7946786	1	nm0184323	director	\N	\N
 tt7946788	10	nm2826150	actress	\N	["Wakana Sonozaki"]
 tt7946788	1	nm2955232	actor	\N	["Shotaro Hidari","Kamen Rider W"]
 tt7946788	2	nm4027243	actor	\N	["Philip","Kamen Rider W"]
@@ -15128,6 +15129,9 @@ tt7946842	5	nm9595498	director	\N	\N
 tt7946842	6	nm6683452	writer	\N	\N
 tt7946842	7	nm5599344	cinematographer	\N	\N
 tt7946842	8	nm2477306	production_designer	\N	\N
+tt7946856	1	nm0607341	actor	\N	\N
+tt7946856	2	nm0001168	actor	\N	\N
+tt7946856	3	nm0393630	actor	\N	\N
 tt7946864	1	nm2560181	actor	\N	\N
 tt7946864	2	nm7315089	actress	\N	\N
 tt7946864	3	nm9595562	director	\N	\N
@@ -15218,8 +15222,12 @@ tt7946914	2	nm2187676	actor	\N	\N
 tt7946920	1	nm0112372	cinematographer	\N	\N
 tt7946922	1	nm7293208	actress	\N	\N
 tt7946922	2	nm2187676	actor	\N	\N
+tt7946926	1	nm1009786	director	\N	\N
+tt7946928	1	nm0560945	actor	\N	\N
+tt7946928	2	nm4210730	director	\N	\N
 tt7946932	1	nm7293208	actress	\N	\N
 tt7946932	2	nm2187676	actor	\N	\N
+tt7946934	1	nm0973475	self	\N	["Self"]
 tt7946936	10	nm1459609	actor	\N	["Nandu"]
 tt7946936	1	nm6836531	actress	\N	["Archana"]
 tt7946936	2	nm4659203	actress	\N	["Jayasudha"]
@@ -15230,6 +15238,9 @@ tt7946936	6	nm9595590	producer	producer	\N
 tt7946936	7	nm3692393	producer	producer	\N
 tt7946936	8	nm3289724	composer	\N	\N
 tt7946936	9	nm11648196	cinematographer	\N	\N
+tt7946938	1	nm0092607	director	\N	\N
+tt7946940	1	nm0092607	director	\N	\N
+tt7946942	1	nm0092607	director	\N	\N
 tt7946944	1	nm7293208	actress	\N	\N
 tt7946944	2	nm2187676	actor	\N	\N
 tt7946950	1	nm1009772	director	\N	\N
@@ -15322,6 +15333,7 @@ tt7946994	6	nm12606574	self	\N	["Self"]
 tt7946994	7	nm12606399	self	\N	["Self"]
 tt7946994	8	nm4029856	self	\N	["Self"]
 tt7946994	9	nm12606575	self	\N	["Self"]
+tt7946996	1	nm0550096	director	\N	\N
 tt7946998	1	nm7293208	actress	\N	\N
 tt7946998	2	nm2187676	actor	\N	\N
 tt7947006	1	nm7293208	actress	\N	\N

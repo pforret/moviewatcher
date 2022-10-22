@@ -1578,12 +1578,13 @@ tt21870440	7	nm11519814	producer	producer	\N
 tt21870440	8	nm11519815	cinematographer	\N	\N
 tt21870440	9	nm11519817	editor	\N	\N
 tt21870448	1	nm3682227	actress	\N	["Additional Voices"]
-tt21870448	2	nm0413996	actor	\N	["Blue"]
-tt21870448	3	nm1086483	actress	\N	["Marmee"]
-tt21870448	4	nm13083922	producer	producer	\N
-tt21870448	5	nm10878252	producer	producer	\N
-tt21870448	6	nm2637192	producer	producer	\N
-tt21870448	7	nm1891328	composer	\N	\N
+tt21870448	2	nm7858309	actress	\N	["Nyssa"]
+tt21870448	3	nm0413996	actor	\N	["Blue"]
+tt21870448	4	nm1086483	actress	\N	["Marmee"]
+tt21870448	5	nm13083922	producer	producer	\N
+tt21870448	6	nm10878252	producer	producer	\N
+tt21870448	7	nm2637192	producer	producer	\N
+tt21870448	8	nm1891328	composer	\N	\N
 tt21870450	10	nm0434712	writer	story developed by	\N
 tt21870450	1	nm0147961	actress	\N	\N
 tt21870450	2	nm1000594	actress	\N	["Petunia"]
@@ -4918,6 +4919,7 @@ tt21873372	2	nm3184275	director	\N	\N
 tt21873372	3	nm3208143	producer	producer	\N
 tt21873374	1	nm7272868	self	\N	["Self"]
 tt21873374	2	nm5196456	self	\N	["Self"]
+tt21873374	3	nm3858884	producer	producer	\N
 tt21873376	10	nm13975193	self	\N	["Self - Valdez Prospector"]
 tt21873376	1	nm0160364	actor	\N	["Narrator"]
 tt21873376	2	nm4747515	self	\N	["Self"]
@@ -7023,11 +7025,11 @@ tt21875580	1	nm0846556	cinematographer	director of photography	\N
 tt21875582	10	nm1417636	actor	\N	["Eagle 4 pilot"]
 tt21875582	1	nm2092239	actor	\N	["Wanted Person"]
 tt21875582	2	nm4370494	actor	\N	["Wanted Person"]
-tt21875582	3	nm8356058	actor	\N	["Egale 4 Pilot"]
-tt21875582	4	nm13657847	actor	\N	["Missing person"]
+tt21875582	3	nm8356058	actor	\N	["Eagle 4 Pilot"]
+tt21875582	4	nm13657847	actor	\N	["Missing Person"]
 tt21875582	5	nm10125135	director	\N	\N
-tt21875582	6	nm9454937	actress	\N	["Deputy callahan"]
-tt21875582	7	nm13100780	actor	\N	["Waspzilla victim"]
+tt21875582	6	nm9454937	actress	\N	["Deputy Callahan"]
+tt21875582	7	nm13100780	actor	\N	["Waspzilla Victim"]
 tt21875582	8	nm5478435	actor	\N	\N
 tt21875582	9	nm11550943	actress	\N	\N
 tt21875584	10	nm4973909	actor	\N	["Cameraman"]
@@ -9473,8 +9475,9 @@ tt21876442	1	nm5066863	actress	\N	["Amy Bensen"]
 tt21876442	2	nm4677694	actor	\N	["Liam"]
 tt21876442	3	nm6984446	actor	\N	["Jared"]
 tt21876442	4	nm6466748	actress	\N	["Meg"]
-tt21876442	5	nm10380277	actress	\N	["Flight Attendant"]
-tt21876442	6	nm12288531	actor	\N	["Scott"]
+tt21876442	5	nm13933634	actress	\N	["Airport Patron"]
+tt21876442	6	nm10380277	actress	\N	["Flight Attendant"]
+tt21876442	7	nm12288531	actor	\N	["Scott"]
 tt21876446	1	nm5658075	actor	\N	["Host"]
 tt21876446	2	nm5881454	director	\N	\N
 tt21876446	3	nm13976490	writer	\N	\N
@@ -10578,7 +10581,7 @@ tt21876844	4	nm12810563	self	\N	["Self"]
 tt21876844	5	nm1155746	self	\N	["Self"]
 tt21876844	6	nm11036541	self	\N	["Self"]
 tt21876844	7	nm7492952	self	\N	["Self - Host"]
-tt21876846	10	nm6848137	actor	\N	\N
+tt21876846	10	nm3218106	editor	\N	\N
 tt21876846	1	nm4840143	actor	\N	\N
 tt21876846	2	nm0839432	actor	\N	\N
 tt21876846	3	nm0514399	actress	\N	\N
@@ -10586,8 +10589,8 @@ tt21876846	4	nm4316691	actor	\N	\N
 tt21876846	5	nm0617428	director	\N	\N
 tt21876846	6	nm11813133	writer	\N	\N
 tt21876846	7	nm1848130	producer	producer	\N
-tt21876846	8	nm0405540	actress	\N	\N
-tt21876846	9	nm0797650	actress	\N	\N
+tt21876846	8	nm1731508	composer	\N	\N
+tt21876846	9	nm0784655	cinematographer	\N	\N
 tt21876850	1	nm1154588	self	\N	["Self - Host"]
 tt21876852	1	nm0411199	self	\N	["Self - Host"]
 tt21876852	2	nm11789705	self	\N	["Self"]
@@ -12206,8 +12209,8 @@ tt21877766	6	nm13977060	composer	\N	\N
 tt21877766	7	nm7088682	cinematographer	\N	\N
 tt21877768	10	nm6647978	composer	\N	\N
 tt21877768	1	nm1853544	actor	\N	["Claude","Jeff"]
-tt21877768	2	nm2765391	actor	\N	["Food Critic"]
-tt21877768	3	nm0628170	actress	\N	["Groupie With Dog"]
+tt21877768	2	nm2765391	actor	\N	["Art Critic"]
+tt21877768	3	nm0628170	actress	\N	["Groupie with Dog"]
 tt21877768	4	nm0440885	actor	\N	["Waiter"]
 tt21877768	5	nm2958964	director	\N	\N
 tt21877768	6	nm4137297	director	\N	\N
@@ -15448,7 +15451,7 @@ tt21879012	8	nm1799888	actress	\N	["Cheer-fella Ella"]
 tt21879012	9	nm4101396	actor	\N	["Eugene the Dream"]
 tt21879014	10	nm0133459	writer	based on the series 'Walker, Texas Ranger' created by	\N
 tt21879014	1	nm0655585	actor	\N	["Cordell Walker"]
-tt21879014	2	nm4289392	actress	\N	["Micki Ramirez"]
+tt21879014	2	nm2612382	actress	\N	["Cassie Perez"]
 tt21879014	3	nm0353243	actress	\N	["Abeline Walker"]
 tt21879014	4	nm1138805	actor	\N	["Liam Walker"]
 tt21879014	5	nm1779916	director	\N	\N
@@ -16002,7 +16005,7 @@ tt21879226	3	nm2969934	actress	\N	["Whitney Dean"]
 tt21879226	4	nm10073519	actor	\N	["Vinny Panesar"]
 tt21879226	5	nm5592230	writer	story editor	\N
 tt21879226	6	nm5586785	actress	\N	["Kirsty 'Dotty' Cotton"]
-tt21879226	7	nm13691103	actor	\N	["Felix Baker"]
+tt21879226	7	nm6561851	actor	\N	["Felix Baker"]
 tt21879226	8	nm6682745	actor	\N	["Finlay Baker"]
 tt21879226	9	nm0341747	actor	\N	["Mitch Baker"]
 tt21879234	10	nm10295565	actor	\N	["Bert Moon"]

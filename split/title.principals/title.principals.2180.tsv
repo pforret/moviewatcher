@@ -11307,7 +11307,7 @@ tt21806332	6	nm12812597	writer	written by	\N
 tt21806332	7	nm7763186	producer	producer	\N
 tt21806332	8	nm1851190	producer	producer	\N
 tt21806332	9	nm13954476	producer	producer	\N
-tt21806338	10	nm13920503	production_designer	\N	\N
+tt21806338	10	nm9405699	production_designer	\N	\N
 tt21806338	1	nm6218001	actor	\N	\N
 tt21806338	2	nm4920615	actress	\N	\N
 tt21806338	3	nm2464693	director	\N	\N
@@ -12674,8 +12674,16 @@ tt21807180	6	nm4479448	writer	\N	\N
 tt21807180	7	nm2562040	writer	\N	\N
 tt21807180	8	nm13925523	writer	\N	\N
 tt21807180	9	nm0617226	writer	\N	\N
-tt21807182	1	nm3184666	composer	\N	\N
-tt21807182	2	nm6465118	cinematographer	director of photography	\N
+tt21807182	10	nm0328219	actress	\N	["Inés Lombardo"]
+tt21807182	1	nm0038227	actress	\N	["Marcia Cisneros","Marisa Jones"]
+tt21807182	2	nm0657225	actor	\N	["Esteban Lombardo"]
+tt21807182	3	nm0215692	actress	\N	["Lucrecia Lombardo"]
+tt21807182	4	nm0432176	actress	\N	["Florencia Linares"]
+tt21807182	5	nm3184666	composer	\N	\N
+tt21807182	6	nm6465118	cinematographer	director of photography	\N
+tt21807182	7	nm0872446	actor	\N	["Donato Rivas"]
+tt21807182	8	nm0300297	actress	\N	["Emilia Zetina"]
+tt21807182	9	nm2002574	actor	\N	["Bruno Tejada"]
 tt21807184	1	nm3651316	self	\N	["Self"]
 tt21807184	2	nm2331256	director	\N	\N
 tt21807184	3	nm0262050	cinematographer	\N	\N
@@ -13008,7 +13016,7 @@ tt21807376	4	nm2086414	production_designer	\N	\N
 tt21807378	1	nm7775592	director	\N	\N
 tt21807378	2	nm7061806	composer	\N	\N
 tt21807378	3	nm8518378	cinematographer	director of photography	\N
-tt21807380	10	nm13920503	production_designer	\N	\N
+tt21807380	10	nm9405699	production_designer	\N	\N
 tt21807380	1	nm6218001	actor	\N	\N
 tt21807380	2	nm4920615	actress	\N	\N
 tt21807380	3	nm2464693	director	\N	\N
@@ -14706,15 +14714,16 @@ tt21808802	5	nm13657831	director	\N	\N
 tt21808802	6	nm12945605	actress	\N	["Babs Ardell"]
 tt21808824	1	nm10088459	actress	\N	\N
 tt21808824	2	nm7096541	actor	\N	\N
+tt21808830	10	nm11461566	actress	\N	["Katherine"]
 tt21808830	1	nm4403318	actor	\N	["Padre Ángel"]
-tt21808830	2	nm2790265	actor	\N	["Pozolero"]
-tt21808830	3	nm2064962	actor	\N	["Javier"]
-tt21808830	4	nm2556200	actor	\N	["Dr. Daniel"]
+tt21808830	2	nm5657339	actress	\N	["Mia"]
+tt21808830	3	nm2790265	actor	\N	["Pozolero"]
+tt21808830	4	nm2064962	actor	\N	["Javier"]
 tt21808830	5	nm13550332	director	\N	\N
-tt21808830	6	nm10691872	actress	\N	["Karla"]
-tt21808830	7	nm4490889	actress	\N	["Raquel"]
-tt21808830	8	nm1404082	actor	\N	["Jose"]
-tt21808830	9	nm11461566	actress	\N	["Katherine"]
+tt21808830	6	nm2556200	actor	\N	["Dr. Daniel"]
+tt21808830	7	nm10691872	actress	\N	["Karla"]
+tt21808830	8	nm4490889	actress	\N	["Raquel"]
+tt21808830	9	nm1404082	actor	\N	["Jose"]
 tt21808868	1	nm2620244	self	\N	["Self"]
 tt21808868	2	nm12332975	self	\N	["Self"]
 tt21808872	10	nm6628470	writer	head writer	\N

@@ -56,7 +56,6 @@ tt15120038	9	nm2349292	self	\N	["Self"]
 tt15120040	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15120040	2	nm9195686	actor	\N	["Purple Shep"]
 tt15120040	3	nm12380167	director	\N	\N
-tt15120040	4	nm5930723	composer	\N	\N
 tt15120042	10	nm6395843	actress	\N	["Ana","niña-child"]
 tt15120042	1	nm5470601	actress	\N	["Ana"]
 tt15120042	2	nm0657225	actor	\N	["Antonio","husband"]
@@ -142,10 +141,11 @@ tt15120084	1	nm3534224	writer	\N	\N
 tt15120086	1	nm2645663	actor	\N	["Freddie Dan Ansah"]
 tt15120086	2	nm2925168	actress	\N	["Timara Dan Ansah"]
 tt15120086	3	nm4133631	actress	\N	["Nina Dan Ansah"]
-tt15120086	4	nm2479375	actor	\N	["Clifford Dan Ansah"]
-tt15120086	5	nm8575332	composer	\N	\N
-tt15120086	6	nm12791594	cinematographer	\N	\N
-tt15120086	7	nm2139276	editor	\N	\N
+tt15120086	4	nm6750033	actor	\N	\N
+tt15120086	5	nm2479375	director	\N	\N
+tt15120086	6	nm8575332	composer	\N	\N
+tt15120086	7	nm12791594	cinematographer	\N	\N
+tt15120086	8	nm2139276	editor	\N	\N
 tt15120088	1	nm4711300	actress	\N	\N
 tt15120088	2	nm4676869	director	\N	\N
 tt15120088	3	nm1693752	director	\N	\N
@@ -724,13 +724,16 @@ tt15120374	4	nm13536580	self	\N	["Self"]
 tt15120374	5	nm1471699	director	\N	\N
 tt15120374	6	nm1870785	cinematographer	director of photography	\N
 tt15120374	7	nm2841297	self	\N	["Self"]
+tt15120376	10	nm12784873	actor	\N	["Narwhal Guy"]
 tt15120376	1	nm12787418	actress	\N	["Squid","Anonymous Dirt Stealer"]
 tt15120376	2	nm12791747	actor	\N	["Futurian Guy in Flying Cart"]
 tt15120376	3	nm12739965	actress	\N	["Failboat","Anonymous Dirt Stealer"]
 tt15120376	4	nm12549901	actor	\N	["Villager"]
 tt15120376	5	nm12380167	director	\N	\N
 tt15120376	6	nm12791746	writer	idea	\N
-tt15120376	7	nm5930723	composer	\N	\N
+tt15120376	7	nm12790221	actor	\N	["ExplodingTNT"]
+tt15120376	8	nm12788776	actor	\N	["Futurian","Futurian Pink Sheep","Anonymous Dirt Stealer"]
+tt15120376	9	nm12791748	actor	\N	["Anonymous Dirt Stealer"]
 tt15120380	10	nm10584588	self	\N	["Self - Contestant"]
 tt15120380	1	nm12470733	self	\N	["Self - Contestant"]
 tt15120380	2	nm9374600	self	\N	["Self - Contestant"]
@@ -789,9 +792,9 @@ tt15120408	2	nm12788354	actor	\N	["Failed Crafter"]
 tt15120408	3	nm12549901	actor	\N	["Jeb"]
 tt15120408	4	nm12787699	actor	\N	["BaconCrafter"]
 tt15120408	5	nm12380167	director	\N	\N
-tt15120408	6	nm5930723	composer	\N	\N
-tt15120408	7	nm12790221	actor	\N	["ExplodingTNT"]
-tt15120408	8	nm5222324	actor	\N	["Pink Sheep"]
+tt15120408	6	nm12790221	actor	\N	["ExplodingTNT"]
+tt15120408	7	nm5222324	actor	\N	["Pink Sheep"]
+tt15120408	8	nm12788779	actor	\N	["Failboat"]
 tt15120408	9	nm12788724	actor	\N	["Patrick Star"]
 tt15120414	1	nm12547833	actor	\N	["Ke'Varis Potters"]
 tt15120414	2	nm12547035	actor	\N	["Cristian Georges"]
@@ -1219,13 +1222,16 @@ tt15120604	6	nm7712734	actress	\N	["Sasha"]
 tt15120604	7	nm0614141	actress	\N	["Carolyn"]
 tt15120604	8	nm4788862	actress	\N	["Cameron"]
 tt15120604	9	nm4788703	actress	\N	["Joan"]
+tt15120606	10	nm12791828	actor	\N	["Troll"]
 tt15120606	1	nm12549901	actor	\N	["Creeper321448","Gentleman"]
 tt15120606	2	nm12791829	actor	\N	["Diamond Armor Miner","Griefer"]
 tt15120606	3	nm12790221	actor	\N	["Failboat"]
 tt15120606	4	nm12791830	actor	\N	["Villager"]
 tt15120606	5	nm12380167	director	\N	\N
 tt15120606	6	nm12791827	writer	idea	\N
-tt15120606	7	nm5930723	composer	\N	\N
+tt15120606	7	nm12784873	actor	\N	["Notch"]
+tt15120606	8	nm12761459	actress	\N	["Notch Golem"]
+tt15120606	9	nm12787500	actor	\N	["Noob"]
 tt15120608	1	nm0305362	self	\N	["Self - Host"]
 tt15120608	2	nm4737674	self	\N	["Self - Coach"]
 tt15120608	3	nm0113198	self	\N	["Self - Coach"]
@@ -1583,7 +1589,6 @@ tt15120796	1	nm11906448	actor	\N	["Halloween Ghost"]
 tt15120796	2	nm5222324	actor	\N	["Pink Sheep"]
 tt15120796	3	nm12380167	director	\N	\N
 tt15120796	4	nm1930572	composer	\N	\N
-tt15120796	5	nm5930723	composer	\N	\N
 tt15120798	10	nm2423846	self	\N	["Self - Contestant"]
 tt15120798	1	nm0733570	self	\N	["Self - Host"]
 tt15120798	2	nm2424520	self	\N	["Self - Contestant"]
@@ -1844,7 +1849,6 @@ tt15120930	4	nm5222324	actor	\N	["Pink Sheep"]
 tt15120930	5	nm12380167	director	\N	\N
 tt15120930	6	nm12791933	writer	idea	\N
 tt15120930	7	nm1930572	composer	\N	\N
-tt15120930	8	nm5930723	composer	\N	\N
 tt15120934	10	nm8179604	self	\N	["Self - CBS News National Correspondent"]
 tt15120934	1	nm1294061	self	\N	["Self - Anchor"]
 tt15120934	2	nm1927009	self	\N	["Self - CBS News Transportation Correspondent"]
@@ -2097,7 +2101,6 @@ tt15121050	4	nm5222324	actor	\N	["Pink Sheep"]
 tt15121050	5	nm12380167	director	\N	\N
 tt15121050	6	nm12791933	writer	idea	\N
 tt15121050	7	nm1930572	composer	\N	\N
-tt15121050	8	nm5930723	composer	\N	\N
 tt15121052	1	nm7024936	self	\N	["Self","Host"]
 tt15121052	2	nm10690567	archive_footage	\N	["Self"]
 tt15121052	3	nm12792074	self	\N	["Self"]
@@ -3799,12 +3802,13 @@ tt15121992	6	nm13910900	writer	\N	\N
 tt15121992	7	nm9034222	producer	producer	\N
 tt15121996	1	nm4784280	self	\N	["Self - Host"]
 tt15121996	2	nm1799675	self	\N	["Self"]
-tt15121998	1	nm4413266	actor	\N	["Psychologist"]
-tt15121998	2	nm3618131	actress	\N	["Humaira"]
-tt15121998	3	nm6798594	director	\N	\N
-tt15121998	4	nm10105274	writer	screenplay	\N
-tt15121998	5	nm9034222	editor	\N	\N
-tt15121998	6	nm9034223	production_designer	\N	\N
+tt15121998	1	nm14148973	actress	\N	["Nipa"]
+tt15121998	2	nm4413266	actor	\N	["Psychologist"]
+tt15121998	3	nm3618131	actress	\N	["Humaira"]
+tt15121998	4	nm6798594	director	\N	\N
+tt15121998	5	nm10105274	writer	screenplay	\N
+tt15121998	6	nm9034222	editor	\N	\N
+tt15121998	7	nm9034223	production_designer	\N	\N
 tt15122000	10	nm3506217	editor	\N	\N
 tt15122000	1	nm0000168	actor	\N	["Ptolemy Grey"]
 tt15122000	2	nm6195774	actress	\N	["Robyn"]
@@ -15262,16 +15266,16 @@ tt15128114	5	nm8833069	director	\N	\N
 tt15128114	6	nm12795694	producer	producer	\N
 tt15128114	7	nm12795693	producer	producer	\N
 tt15128114	8	nm8759002	cinematographer	\N	\N
-tt15128116	10	nm0802103	actor	\N	["Hardik Motla"]
+tt15128116	10	nm9367304	actress	\N	["Sarla Narang"]
 tt15128116	1	nm0223563	actress	\N	["Mamta Thakur"]
 tt15128116	2	nm0464075	actress	\N	["Bhudevi"]
 tt15128116	3	nm4375423	actress	\N	["Anjini Thakur"]
 tt15128116	4	nm10791162	actress	\N	["Eshwari Thakur"]
-tt15128116	5	nm10775530	actress	\N	["Mitali Pednekar"]
-tt15128116	6	nm13480200	actress	\N	["Chandu Thakur"]
-tt15128116	7	nm8956274	actor	\N	["Vicky"]
-tt15128116	8	nm12116099	actor	\N	\N
-tt15128116	9	nm9367304	actress	\N	["Sarla Narang"]
+tt15128116	5	nm0643348	actor	\N	["Daylan Shekhawat"]
+tt15128116	6	nm10775530	actress	\N	["Mitali Pednekar"]
+tt15128116	7	nm13480200	actress	\N	["Chandu Thakur"]
+tt15128116	8	nm8956274	actor	\N	["Vicky"]
+tt15128116	9	nm12116099	actor	\N	\N
 tt15128118	1	nm1538116	actress	\N	\N
 tt15128118	2	nm0795661	actor	\N	\N
 tt15128118	3	nm5685980	actor	\N	\N

@@ -690,9 +690,16 @@ tt20912592	2	nm13737991	actor	\N	["Henri"]
 tt20912592	3	nm13737990	actress	\N	["Lily"]
 tt20912592	4	nm13737735	actor	\N	["Markus"]
 tt20912592	5	nm13737992	actor	\N	["June"]
-tt20912600	1	nm1616485	actor	\N	["I.G. Chauhan"]
-tt20912600	2	nm10780649	actor	\N	["Sandeep Singh Mehlawat"]
-tt20912600	3	nm14047043	editor	\N	\N
+tt20912600	10	nm10780649	actor	\N	["Sandeep Singh Mehlawat"]
+tt20912600	1	nm0219967	actor	\N	["Baba Nirala"]
+tt20912600	2	nm3204740	actor	\N	["Bhopa"]
+tt20912600	3	nm4556443	actress	\N	["Pammi"]
+tt20912600	4	nm1069587	actor	\N	["Ujagar Singh"]
+tt20912600	5	nm14047043	editor	\N	\N
+tt20912600	6	nm5992649	actress	\N	["Babita"]
+tt20912600	7	nm3000617	actor	\N	["Akki"]
+tt20912600	8	nm1616485	actor	\N	["I.G. Chauhan"]
+tt20912600	9	nm5947725	actress	\N	["Dr. Natasha"]
 tt20912606	1	nm13748923	actor	\N	["Beniprasad"]
 tt20912606	2	nm3464243	actress	\N	["Shakuntla Amma"]
 tt20912606	3	nm13742569	actor	\N	["Sunder"]
@@ -701,9 +708,15 @@ tt20912606	5	nm5769873	director	\N	\N
 tt20912606	6	nm9918355	writer	additional dialogue	\N
 tt20912606	7	nm9943470	composer	\N	\N
 tt20912606	8	nm9943471	cinematographer	\N	\N
-tt20912610	1	nm1616485	actor	\N	["I.G. Chauhan"]
-tt20912610	2	nm2240997	actor	\N	["Deputy Inspector General Sinha"]
-tt20912610	3	nm14047043	editor	\N	\N
+tt20912610	1	nm0219967	actor	\N	["Baba Nirala"]
+tt20912610	2	nm3204740	actor	\N	["Bhopa"]
+tt20912610	3	nm4556443	actress	\N	["Pammi"]
+tt20912610	4	nm1069587	actor	\N	["Ujagar Singh"]
+tt20912610	5	nm14047043	editor	\N	\N
+tt20912610	6	nm1616485	actor	\N	["I.G. Chauhan"]
+tt20912610	7	nm5947725	actress	\N	["Dr. Natasha"]
+tt20912610	8	nm2240997	actor	\N	["Deputy Inspector General Sinha"]
+tt20912610	9	nm3000617	actor	\N	["Akki"]
 tt20912614	1	nm1372440	self	\N	["Self - Moderator"]
 tt20912614	2	nm0048918	self	\N	["Self"]
 tt20912614	3	nm2022341	self	\N	["Self"]
@@ -7782,7 +7795,7 @@ tt20918580	2	nm13744231	self	\N	["Self - Guest"]
 tt20918580	3	nm13700953	actor	\N	["Grandmaster Chef Jojo"]
 tt20918580	4	nm2660107	director	\N	\N
 tt20918580	5	nm13809837	writer	Created by	\N
-tt20918580	6	nm5249372	writer	developed for television by	\N
+tt20918580	6	nm5249372	writer	writer	\N
 tt20918580	7	nm5046453	producer	producer	\N
 tt20918580	8	nm13614109	producer	producer	\N
 tt20918580	9	nm13804495	producer	executive producer	\N
@@ -7875,16 +7888,16 @@ tt20918620	6	nm10271144	writer	original story	\N
 tt20918620	7	nm11583901	producer	producer	\N
 tt20918620	8	nm13755310	cinematographer	\N	\N
 tt20918620	9	nm13744256	editor	\N	\N
-tt20918622	10	nm0149447	actor	\N	\N
+tt20918622	10	nm0151250	actress	\N	\N
 tt20918622	1	nm13068792	actress	\N	["Luisa Molina"]
-tt20918622	2	nm13908841	actor	\N	\N
-tt20918622	3	nm2442560	actress	\N	\N
-tt20918622	4	nm0077397	actress	\N	\N
+tt20918622	2	nm2442560	actress	\N	\N
+tt20918622	3	nm0077397	actress	\N	\N
+tt20918622	4	nm7050296	actress	\N	\N
 tt20918622	5	nm3239275	director	\N	\N
 tt20918622	6	nm2715384	writer	created by	\N
 tt20918622	7	nm0739084	producer	producer	\N
 tt20918622	8	nm1892108	production_designer	\N	\N
-tt20918622	9	nm7050296	actress	\N	\N
+tt20918622	9	nm0149447	actor	\N	\N
 tt20918624	1	nm3239275	director	\N	\N
 tt20918624	2	nm2715384	writer	created by	\N
 tt20918624	3	nm0739084	producer	producer	\N
@@ -8057,7 +8070,7 @@ tt20918754	4	nm1549703	self	\N	["Self"]
 tt20918754	5	nm2858341	self	\N	["Self"]
 tt20918754	6	nm5442147	self	\N	["Self"]
 tt20918754	7	nm8973512	self	\N	["Self"]
-tt20918756	10	nm10554781	actor	\N	["Benny"]
+tt20918756	10	nm10554781	actor	\N	["Benny","Steve"]
 tt20918756	1	nm12880953	actress	\N	["Madison"]
 tt20918756	2	nm4474538	actress	\N	["Robyn Loxley"]
 tt20918756	3	nm2492168	actor	\N	["Little John"]

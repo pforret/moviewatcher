@@ -6970,10 +6970,10 @@ tt0261062	2	nm0780266	actor	\N	["Beebop"]
 tt0261062	3	nm0236089	actor	\N	["Red"]
 tt0261062	4	nm0737703	actor	\N	["Stretch"]
 tt0261062	5	nm0115421	director	\N	\N
-tt0261062	6	nm0899139	director	\N	\N
-tt0261062	7	nm0348993	writer	story	\N
-tt0261062	8	nm0058799	writer	story	\N
-tt0261062	9	nm0783334	writer	story	\N
+tt0261062	6	nm0348993	writer	story	\N
+tt0261062	7	nm0058799	writer	story	\N
+tt0261062	8	nm0783334	writer	story	\N
+tt0261062	9	nm0899139	producer	producer	\N
 tt0261063	1	nm0943180	actress	\N	["Lin Hui"]
 tt0261063	2	nm0955768	actor	\N	\N
 tt0261063	3	nm0304719	actor	\N	\N
@@ -8173,15 +8173,15 @@ tt0261219	4	nm1023860	director	\N	\N
 tt0261219	5	nm1024097	producer	producer	\N
 tt0261219	6	nm0004579	composer	\N	\N
 tt0261219	7	nm0619655	cinematographer	\N	\N
-tt0261220	10	nm0593175	actor	\N	["Red"]
+tt0261220	10	nm0780266	actor	\N	["Beebop"]
 tt0261220	1	nm0191858	actor	\N	["Leonard Limabean","Lick Broccoli"]
 tt0261220	2	nm0191906	actor	\N	["A.C."]
-tt0261220	3	nm10563178	actor	\N	\N
-tt0261220	4	nm0002126	actor	\N	["Stretch"]
+tt0261220	3	nm0002126	actor	\N	["Stretch"]
+tt0261220	4	nm0593175	actor	\N	["Red"]
 tt0261220	5	nm0899139	director	\N	\N
 tt0261220	6	nm0330820	writer	screenplay	\N
 tt0261220	7	nm0226043	producer	producer	\N
-tt0261220	8	nm0571097	cinematographer	\N	\N
+tt0261220	8	nm0571097	cinematographer	director of photography	\N
 tt0261220	9	nm0839176	editor	\N	\N
 tt0261221	1	nm0044609	director	\N	\N
 tt0261222	1	nm0044609	director	\N	\N
@@ -15237,7 +15237,7 @@ tt0262287	1	nm0045085	actor	\N	\N
 tt0262287	2	nm0080228	actress	\N	\N
 tt0262287	3	nm0595934	actor	\N	\N
 tt0262287	4	nm0201927	director	\N	\N
-tt0262288	1	nm0945089	actress	\N	["Nadezhda"]
+tt0262288	1	nm0945089	actress	\N	["Nadja"]
 tt0262288	2	nm0686832	actor	\N	["Director of the boarding school"]
 tt0262288	3	nm0092879	actress	\N	["Anechka"]
 tt0262288	4	nm0615678	actress	\N	["Allochka"]
@@ -19789,16 +19789,16 @@ tt0262976	6	nm0993193	actress	\N	["Natalia"]
 tt0262976	7	nm1046434	actor	\N	["Panos"]
 tt0262976	8	nm1041157	actress	\N	["Melina"]
 tt0262976	9	nm0018838	actor	\N	["Grandfather"]
-tt0262977	10	nm0442515	actor	\N	\N
+tt0262977	10	nm0933232	actor	\N	\N
 tt0262977	1	nm7130619	actor	\N	["Pepito (1995)","Pepito"]
 tt0262977	2	nm0508877	actress	\N	["Madeline"]
 tt0262977	3	nm0884852	actress	\N	["Miss Clavel","Genevieve"]
 tt0262977	4	nm0311081	actor	\N	["Narrator"]
-tt0262977	5	nm0003944	actor	\N	\N
-tt0262977	6	nm0149942	actor	\N	\N
+tt0262977	5	nm0149942	actor	\N	\N
+tt0262977	6	nm0003944	actor	\N	\N
 tt0262977	7	nm0126325	actor	\N	\N
 tt0262977	8	nm0106319	actor	\N	\N
-tt0262977	9	nm0933232	actor	\N	\N
+tt0262977	9	nm0442515	actor	\N	\N
 tt0262978	1	nm1302758	self	\N	["Self"]
 tt0262978	2	nm0010963	actor	\N	["Contributor"]
 tt0262978	3	nm1778064	self	\N	["Self"]
@@ -35924,7 +35924,7 @@ tt0265407	6	nm3851168	cinematographer	director of photography	\N
 tt0265407	7	nm3851448	editor	\N	\N
 tt0265407	8	nm3852470	actress	\N	["Sue"]
 tt0265407	9	nm0101926	actress	\N	["Joan"]
-tt0265408	10	nm0001267	actor	\N	["Miles"]
+tt0265408	10	nm0007082	actor	\N	["Malcolm Barrington"]
 tt0265408	1	nm0001373	actress	\N	["Narrator (Quoting Poe for the Nightmare Classics Intro)","Title Opening Voice"]
 tt0265408	2	nm0001367	actor	\N	["Jenner Brading"]
 tt0265408	3	nm0001746	actress	\N	["Marie"]
@@ -40725,8 +40725,8 @@ tt0266158	4	nm8082014	self	\N	["Themselves"]
 tt0266158	5	nm14027211	self	\N	["Themselves"]
 tt0266158	6	nm2518983	self	\N	["Self - Presenter","Self","Miss Marjorie"]
 tt0266158	7	nm14024575	self	\N	["Themselves","Villagers and Courtiers"]
-tt0266158	8	nm0738336	self	\N	["Self","Old Mother Riley","Nanny Riley"]
-tt0266158	9	nm14025708	self	\N	["Themselves"]
+tt0266158	8	nm14025708	self	\N	["Themselves","Th"]
+tt0266158	9	nm0738336	self	\N	["Self","Old Mother Riley","Nanny Riley"]
 tt0266159	1	nm1720004	self	\N	["Self"]
 tt0266160	1	nm0001077	actor	\N	["Narrator"]
 tt0266161	10	nm7506946	self	\N	["Self - Guest"]

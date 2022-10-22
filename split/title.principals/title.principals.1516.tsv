@@ -71,7 +71,9 @@ tt15160036	3	nm12811168	actor	\N	["Pink Donkey","Barack Obama"]
 tt15160036	4	nm5222324	actor	\N	["Pink Donkey"]
 tt15160036	5	nm12380167	director	\N	\N
 tt15160036	6	nm12811323	writer	idea	\N
-tt15160036	7	nm5930723	composer	\N	\N
+tt15160036	7	nm12809456	actor	\N	["BaconCrafter"]
+tt15160036	8	nm12809603	actor	\N	["Notch"]
+tt15160036	9	nm9195686	actor	\N	["Narrator"]
 tt15160038	1	nm1382630	self	\N	["Self - Co-Host"]
 tt15160038	2	nm4123490	self	\N	["Self - Co-Host"]
 tt15160038	3	nm4835928	self	\N	["Self - Co-Host"]
@@ -1737,13 +1739,16 @@ tt15160916	6	nm12811253	self	\N	["Self"]
 tt15160916	7	nm9671657	self	\N	["Themselves"]
 tt15160916	8	nm12811236	self	\N	["Self"]
 tt15160916	9	nm12811230	self	\N	["Self"]
+tt15160920	10	nm12761051	actor	\N	["Barack Obama","ZephPlayz"]
 tt15160920	1	nm12549901	actor	\N	["Miner","Purple Shep"]
 tt15160920	2	nm12811458	actor	\N	["The G-Man","Skeleton"]
 tt15160920	3	nm12811187	actor	\N	["Notch","Pink Sheep"]
 tt15160920	4	nm5222324	actor	\N	["Pink Sheep"]
 tt15160920	5	nm12380167	director	\N	\N
 tt15160920	6	nm12811457	writer	idea	\N
-tt15160920	7	nm5930723	composer	\N	\N
+tt15160920	7	nm12805910	actor	\N	["BaconCrafter"]
+tt15160920	8	nm12811459	actor	\N	["Skeleton"]
+tt15160920	9	nm9195686	actor	\N	["Purple Shep"]
 tt15160922	10	nm2214820	editor	\N	\N
 tt15160922	1	nm4986852	actor	\N	["Suzuki Iruma"]
 tt15160922	2	nm2316240	actor	\N	["Asmodeus Alice"]
@@ -3623,7 +3628,8 @@ tt15162504	2	nm12811458	actor	\N	["ExplodingTNT"]
 tt15162504	3	nm12804038	actor	\N	["Failboat"]
 tt15162504	4	nm12811187	actor	\N	["Notch"]
 tt15162504	5	nm12380167	director	\N	\N
-tt15162504	6	nm5930723	composer	\N	\N
+tt15162504	6	nm12811168	actor	\N	["Villager"]
+tt15162504	7	nm12812379	actor	\N	["Enderman","Mooshroom"]
 tt15162506	1	nm6774388	actor	\N	["Mario","Yoshi"]
 tt15162508	1	nm12812380	director	\N	\N
 tt15162510	10	nm12284262	self	\N	["Self - Emergency Medicine Specialist"]
@@ -3839,7 +3845,7 @@ tt15162610	3	nm12812429	actor	\N	["Notch","Failboat"]
 tt15162610	4	nm12811168	actor	\N	["BaconCrafter"]
 tt15162610	5	nm12380167	director	\N	\N
 tt15162610	6	nm12812427	writer	idea	\N
-tt15162610	7	nm5930723	composer	\N	\N
+tt15162610	7	nm12812428	actor	\N	["Enderdragon"]
 tt15162612	1	nm12812430	director	\N	\N
 tt15162612	2	nm12806863	producer	producer	\N
 tt15162614	10	nm13647887	actor	\N	["Mr. Sanderson"]
@@ -3904,7 +3910,6 @@ tt15162642	3	nm12804038	actor	\N	["Homie_Pig","Cursing Player","Purple Shep"]
 tt15162642	4	nm9195686	actor	\N	["Purple Shep"]
 tt15162642	5	nm12380167	director	\N	\N
 tt15162642	6	nm12812476	writer	idea	\N
-tt15162642	7	nm5930723	composer	\N	\N
 tt15162644	1	nm11248795	actress	\N	\N
 tt15162646	1	nm6691264	actress	\N	["Marie Sanchez"]
 tt15162646	2	nm3583561	actor	\N	["Fred"]
@@ -4030,16 +4035,16 @@ tt15162700	2	nm12812535	actor	\N	\N
 tt15162700	3	nm10756428	actor	\N	\N
 tt15162700	4	nm12147869	director	\N	\N
 tt15162700	5	nm4065597	cinematographer	\N	\N
-tt15162702	10	nm12812548	actor	\N	["MilesM524"]
+tt15162702	10	nm12812544	actress	\N	["Mo_Go"]
 tt15162702	1	nm12812546	actor	\N	["Ballr0g"]
 tt15162702	2	nm12812540	actor	\N	["Bendik"]
 tt15162702	3	nm12381584	actor	\N	["GameplayerHD"]
 tt15162702	4	nm12812542	actor	\N	["Gamestar09"]
 tt15162702	5	nm12380167	director	\N	\N
-tt15162702	6	nm5930723	composer	\N	\N
-tt15162702	7	nm12812549	actor	\N	["GeckoPlayzz"]
-tt15162702	8	nm12812543	actor	\N	["Gogn20"]
-tt15162702	9	nm12812539	actor	\N	["MATGee"]
+tt15162702	6	nm12812549	actor	\N	["GeckoPlayzz"]
+tt15162702	7	nm12812543	actor	\N	["Gogn20"]
+tt15162702	8	nm12812539	actor	\N	["MATGee"]
+tt15162702	9	nm12812548	actor	\N	["MilesM524"]
 tt15162704	10	nm0640521	self	\N	["Self"]
 tt15162704	1	nm12814392	self	\N	["Themselves"]
 tt15162704	2	nm12812411	self	\N	["Themselves"]
@@ -4123,13 +4128,16 @@ tt15162730	8	nm1462144	editor	\N	\N
 tt15162730	9	nm2873924	editor	\N	\N
 tt15162732	1	nm12812415	actor	\N	["Writer"]
 tt15162732	2	nm12147869	director	\N	\N
+tt15162736	10	nm9195686	actor	\N	["Purple Shep"]
 tt15162736	1	nm12549901	actor	\N	["ExplodingTNT"]
 tt15162736	2	nm12812565	actor	\N	["Failboat"]
 tt15162736	3	nm12811187	actor	\N	["Pink Sheep"]
 tt15162736	4	nm12380168	actor	\N	["Failboat"]
 tt15162736	5	nm12380167	director	\N	\N
 tt15162736	6	nm12812564	writer	idea	\N
-tt15162736	7	nm5930723	composer	\N	\N
+tt15162736	7	nm5222324	actor	\N	["Pink Sheep"]
+tt15162736	8	nm12809603	actor	\N	["Santa Claus"]
+tt15162736	9	nm12803920	actor	\N	["Purple Shep"]
 tt15162742	10	nm12711782	self	\N	["Self - Contestant"]
 tt15162742	1	nm1705768	self	\N	["Self - Host"]
 tt15162742	2	nm5430464	self	\N	["Self - Host"]
@@ -4187,7 +4195,6 @@ tt15162770	2	nm5222324	actor	\N	["Pink Sheep","Future Pink Sheep"]
 tt15162770	3	nm9195686	actor	\N	["Purple Shep"]
 tt15162770	4	nm12761051	actor	\N	["ZephPlayz"]
 tt15162770	5	nm12380167	director	\N	\N
-tt15162770	6	nm5930723	composer	\N	\N
 tt15162774	1	nm6031583	actor	\N	["Aunt Bedelia"]
 tt15162774	2	nm5272904	actress	\N	["Edith"]
 tt15162774	3	nm3524246	actor	\N	["Aunt Bedelia"]
@@ -4256,7 +4263,6 @@ tt15162810	2	nm5222324	actor	\N	["Pink Sheep"]
 tt15162810	3	nm9195686	actor	\N	["Purple Shep"]
 tt15162810	4	nm12380167	director	\N	\N
 tt15162810	5	nm12812607	writer	idea	\N
-tt15162810	6	nm5930723	composer	\N	\N
 tt15162812	1	nm7292200	self	\N	["Self - Co-Host"]
 tt15162812	2	nm10932074	self	\N	["Self - Co-Host"]
 tt15162812	3	nm5054964	self	\N	["Self"]
@@ -4362,13 +4368,16 @@ tt15162856	6	nm12812624	self	\N	["Self"]
 tt15162856	7	nm12812625	self	\N	["Self"]
 tt15162856	8	nm12812626	self	\N	["Self - Publikum, Martinas Gatte"]
 tt15162856	9	nm12812627	self	\N	["Self - Telefonjoker"]
+tt15162860	10	nm9195686	actor	\N	["Purple Shep"]
 tt15162860	1	nm12549901	actor	\N	["Customer"]
 tt15162860	2	nm12804038	actor	\N	["Purple Shep"]
 tt15162860	3	nm12787501	actor	\N	["ExplodingTNT"]
 tt15162860	4	nm12784873	actor	\N	["McDonalds Manager"]
 tt15162860	5	nm12380167	director	\N	\N
 tt15162860	6	nm12812633	writer	idea	\N
-tt15162860	7	nm5930723	composer	\N	\N
+tt15162860	7	nm12812635	actress	\N	["McDonalds Employee"]
+tt15162860	8	nm12380168	actor	\N	["Failboat"]
+tt15162860	9	nm12812634	actor	\N	["Failboat"]
 tt15162870	10	nm0492953	writer	\N	\N
 tt15162870	1	nm0628242	actor	\N	["Josh Lewis"]
 tt15162870	2	nm0219990	actress	\N	["Chelsea Reardon"]
@@ -4440,7 +4449,9 @@ tt15162892	3	nm12811168	actor	\N	["Gerald with a Mickey Mouse Skin","Dwayne John
 tt15162892	4	nm12388643	actor	\N	["Justin Bieber"]
 tt15162892	5	nm12380167	director	\N	\N
 tt15162892	6	nm12812656	writer	idea	\N
-tt15162892	7	nm5930723	composer	\N	\N
+tt15162892	7	nm12809603	actor	\N	["Donald Trump","Kevin Hart","Failboat"]
+tt15162892	8	nm12803920	actor	\N	["ExplodingTNT","Random Player","Justin Bieber Hater"]
+tt15162892	9	nm9195686	actor	\N	["Purple Shep"]
 tt15162894	1	nm12811794	self	\N	["Self - Correspondent"]
 tt15162894	2	nm13226151	self	\N	["Self - Correspondent"]
 tt15162894	3	nm12811795	self	\N	["Self - Correspondent"]
@@ -4469,7 +4480,6 @@ tt15162902	1	nm12806321	actor	\N	["Notch"]
 tt15162902	2	nm12380167	actor	\N	["ExplodingTNT playing Roblox"]
 tt15162902	3	nm12809603	actor	\N	["ExplodingTNT"]
 tt15162902	4	nm12812676	writer	idea	\N
-tt15162902	5	nm5930723	composer	\N	\N
 tt15162904	10	nm1920389	actress	\N	["Amal"]
 tt15162904	1	nm1981328	actor	\N	["Said"]
 tt15162904	2	nm0044634	actress	\N	["Aicha"]
@@ -4594,7 +4604,6 @@ tt15162940	6	nm2796502	writer	writer	\N
 tt15162942	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15162942	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15162942	3	nm12812750	writer	idea	\N
-tt15162942	4	nm5930723	composer	\N	\N
 tt15162944	1	nm1182862	actress	\N	["Victoria Rutherford"]
 tt15162944	2	nm1500290	actress	\N	["Chloe"]
 tt15162944	3	nm2113513	actress	\N	["Melissa"]
@@ -5073,7 +5082,6 @@ tt15163154	4	nm3132355	actress	\N	\N
 tt15163156	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15163156	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15163156	3	nm12812930	writer	idea	\N
-tt15163156	4	nm5930723	composer	\N	\N
 tt15163158	1	nm12812933	actress	\N	\N
 tt15163158	2	nm12057898	actress	\N	\N
 tt15163158	3	nm8799248	director	\N	\N
@@ -5120,13 +5128,16 @@ tt15163184	2	nm10354626	self	\N	["Self"]
 tt15163184	3	nm10354627	self	\N	["Self"]
 tt15163184	4	nm9981596	self	\N	["Self"]
 tt15163184	5	nm10887080	editor	\N	\N
+tt15163186	10	nm12812974	actor	\N	["Deadbush Supporter"]
 tt15163186	1	nm12549901	actor	\N	["Donald Trump"]
 tt15163186	2	nm12788353	actor	\N	["Failboat"]
 tt15163186	3	nm12812970	actor	\N	["Deadbush Supporter"]
 tt15163186	4	nm12812969	actress	\N	["Deadbush Supporter"]
 tt15163186	5	nm12380167	director	\N	\N
 tt15163186	6	nm12812967	writer	idea	\N
-tt15163186	7	nm5930723	composer	\N	\N
+tt15163186	7	nm12812973	actor	\N	["Deadbush Supporter"]
+tt15163186	8	nm12812972	actor	\N	["Deadbush Supporter"]
+tt15163186	9	nm12806321	actor	\N	["ExplodingTNT"]
 tt15163188	1	nm9981601	self	\N	["Self"]
 tt15163188	2	nm10354626	self	\N	["Self"]
 tt15163188	3	nm10354627	self	\N	["Self"]
@@ -5174,7 +5185,6 @@ tt15163216	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15163216	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15163216	3	nm12812979	actor	\N	["Pink Sheep"]
 tt15163216	4	nm12812978	writer	idea	\N
-tt15163216	5	nm5930723	composer	\N	\N
 tt15163218	1	nm9981601	self	\N	["Self"]
 tt15163218	2	nm10354626	self	\N	["Self"]
 tt15163218	3	nm10354627	self	\N	["Self"]
@@ -5243,13 +5253,16 @@ tt15163250	2	nm10354626	self	\N	["Self"]
 tt15163250	3	nm10354627	self	\N	["Self"]
 tt15163250	4	nm9981596	self	\N	["Self"]
 tt15163250	5	nm10887195	editor	\N	\N
+tt15163252	10	nm12803920	actor	\N	["ExplodingTNT"]
 tt15163252	1	nm12787702	actor	\N	["Naked Donald Trump"]
 tt15163252	2	nm12549901	actor	\N	["Purple Shep"]
 tt15163252	3	nm12812970	actor	\N	["Steve"]
 tt15163252	4	nm12812992	actor	\N	["Partygoer"]
 tt15163252	5	nm12380167	director	\N	\N
 tt15163252	6	nm12812991	writer	idea	\N
-tt15163252	7	nm5930723	composer	\N	\N
+tt15163252	7	nm12812635	actress	\N	["Guest"]
+tt15163252	8	nm12812969	actress	\N	["Partygoer"]
+tt15163252	9	nm12809603	actor	\N	["Notch","Partygoer"]
 tt15163254	1	nm1501622	actress	\N	\N
 tt15163254	2	nm9418305	actor	\N	\N
 tt15163254	3	nm1497844	actress	\N	\N
@@ -5296,7 +5309,6 @@ tt15163282	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15163282	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15163282	3	nm9195686	actor	\N	["Narrator"]
 tt15163282	4	nm12812997	writer	idea	\N
-tt15163282	5	nm5930723	composer	\N	\N
 tt15163284	1	nm9981601	self	\N	["Self"]
 tt15163284	2	nm10354626	self	\N	["Self"]
 tt15163284	3	nm10354627	self	\N	["Self"]
@@ -5350,13 +5362,16 @@ tt15163314	3	nm6774390	actor	\N	["Tony the Tiger","Mr. Pig"]
 tt15163314	4	nm6774388	actor	\N	["Mario","Meowth","Tony's Mother"]
 tt15163318	1	nm9360522	actor	\N	\N
 tt15163320	1	nm8135491	self	\N	["Self"]
+tt15163322	10	nm12809603	actor	\N	["ExplodingTNT"]
 tt15163322	1	nm12549901	actor	\N	["Notch"]
 tt15163322	2	nm12784873	actor	\N	["Jeb"]
 tt15163322	3	nm12804442	actor	\N	["Audience Member"]
 tt15163322	4	nm12813035	actress	\N	["Mia_o3o"]
 tt15163322	5	nm12380167	director	\N	\N
 tt15163322	6	nm12813034	writer	idea	\N
-tt15163322	7	nm5930723	composer	\N	\N
+tt15163322	7	nm12812973	actor	\N	["Audience Member"]
+tt15163322	8	nm5222324	actor	\N	["Pink Sheep"]
+tt15163322	9	nm12812974	actor	\N	["Failboat"]
 tt15163324	1	nm8758982	actor	\N	["Model"]
 tt15163324	2	nm12813038	actress	\N	["Model"]
 tt15163324	3	nm4529321	director	\N	\N
@@ -6226,10 +6241,10 @@ tt15163756	9	nm11605313	cinematographer	co-cinematographer	\N
 tt15163758	1	nm0434629	self	\N	["Self - Singer"]
 tt15163758	2	nm0637586	self	\N	["Self - Voice actress"]
 tt15163760	10	nm1329894	editor	\N	\N
-tt15163760	1	nm0958206	actor	\N	\N
-tt15163760	2	nm7027696	actor	\N	["Raphael"]
+tt15163760	1	nm11227475	actor	\N	\N
+tt15163760	2	nm8696641	actress	\N	\N
 tt15163760	3	nm4597126	actor	\N	\N
-tt15163760	4	nm11227475	actor	\N	\N
+tt15163760	4	nm6466616	actor	\N	["Merwan"]
 tt15163760	5	nm2379028	director	\N	\N
 tt15163760	6	nm1424282	writer	\N	\N
 tt15163760	7	nm3821548	producer	producer	\N
@@ -15921,7 +15936,6 @@ tt15168394	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15168394	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15168394	3	nm9195686	actor	\N	["Purple Shep"]
 tt15168394	4	nm12815361	writer	idea	\N
-tt15168394	5	nm5930723	composer	\N	\N
 tt15168396	1	nm1051975	self	\N	["Self - Host"]
 tt15168398	1	nm6774388	self	\N	["Self"]
 tt15168406	1	nm6774390	actor	\N	["Black Yoshi","Shrek"]
@@ -16031,7 +16045,6 @@ tt15168456	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15168456	2	nm9195686	actor	\N	["Purple Shep"]
 tt15168456	3	nm12380167	director	\N	\N
 tt15168456	4	nm12815389	writer	idea	\N
-tt15168456	5	nm5930723	composer	\N	\N
 tt15168458	1	nm6774388	director	\N	\N
 tt15168460	10	nm0410563	composer	\N	\N
 tt15168460	1	nm0993498	self	\N	["Self - Host"]
@@ -16233,7 +16246,6 @@ tt15168526	2	nm6774388	actor	\N	["Mario","Bowser","Luigi"]
 tt15168528	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15168528	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15168528	3	nm12815438	writer	idea	\N
-tt15168528	4	nm5930723	composer	\N	\N
 tt15168530	10	nm3539603	writer	staff writer	\N
 tt15168530	1	nm0333410	actor	\N	["Tom"]
 tt15168530	2	nm3618255	actress	\N	["Sarah"]
@@ -16386,7 +16398,9 @@ tt15168604	3	nm12739965	actress	\N	["Failboat","Jimmy's Mother"]
 tt15168604	4	nm12549901	actor	\N	["ExplodingTNT"]
 tt15168604	5	nm12380167	director	\N	\N
 tt15168604	6	nm12815469	writer	idea	\N
-tt15168604	7	nm5930723	composer	\N	\N
+tt15168604	7	nm12380168	actor	\N	["Failboat"]
+tt15168604	8	nm12815472	actor	\N	["Jimmy","Astronaut #3"]
+tt15168604	9	nm9195686	actor	\N	["Purple Shep"]
 tt15168608	1	nm8398680	actress	\N	["Delilah"]
 tt15168608	2	nm6774389	actor	\N	["Drug Dealer"]
 tt15168608	3	nm6774390	actor	\N	["Black Yoshi","Woody","Shrek"]
@@ -16411,7 +16425,6 @@ tt15168628	3	nm6774388	actor	\N	["Mario"]
 tt15168632	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15168632	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15168632	3	nm12815490	writer	idea	\N
-tt15168632	4	nm5930723	composer	\N	\N
 tt15168638	10	nm4498721	actor	\N	["Cadbury"]
 tt15168638	1	nm4264416	actress	\N	["Tabitha"]
 tt15168638	2	nm12815481	actor	\N	["Warren"]
@@ -16444,7 +16457,7 @@ tt15168678	3	nm5222324	actor	\N	["Pink Sheep"]
 tt15168678	4	nm12809603	actor	\N	["Purple Shep"]
 tt15168678	5	nm12380167	director	\N	\N
 tt15168678	6	nm12815506	writer	idea	\N
-tt15168678	7	nm5930723	composer	\N	\N
+tt15168678	7	nm9195686	actor	\N	["Purple Shep"]
 tt15168680	10	nm12815511	editor	\N	\N
 tt15168680	1	nm5851369	actress	\N	["Sandra"]
 tt15168680	2	nm9205995	actor	\N	["Killer"]
@@ -16519,7 +16532,6 @@ tt15168710	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15168710	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15168710	3	nm9195686	actor	\N	["Purple Shep"]
 tt15168710	4	nm12815524	writer	idea	\N
-tt15168710	5	nm5930723	composer	\N	\N
 tt15168712	1	nm3118048	self	\N	["Self"]
 tt15168712	2	nm12752089	self	\N	["Self"]
 tt15168712	3	nm12752086	self	\N	["Self"]
@@ -16664,7 +16676,6 @@ tt15168832	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15168832	2	nm9195686	actor	\N	["Purple Shep"]
 tt15168832	3	nm12380167	director	\N	\N
 tt15168832	4	nm12815544	writer	idea	\N
-tt15168832	5	nm5930723	composer	\N	\N
 tt15168834	1	nm12806446	director	\N	\N
 tt15168836	1	nm5330249	self	\N	["Self"]
 tt15168838	1	nm10046575	actress	\N	\N
@@ -16701,7 +16712,6 @@ tt15168864	9	nm5707403	composer	\N	\N
 tt15168866	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15168866	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15168866	3	nm12815546	writer	idea	\N
-tt15168866	4	nm5930723	composer	\N	\N
 tt15168868	1	nm12806446	director	\N	\N
 tt15168870	1	nm11925446	actress	\N	\N
 tt15168872	1	nm12806446	director	\N	\N
@@ -16719,13 +16729,16 @@ tt15168878	1	nm1838444	actor	\N	["Host","Various"]
 tt15168878	2	nm4926231	actress	\N	["Various"]
 tt15168878	3	nm3881525	actor	\N	["Various"]
 tt15168878	4	nm3211457	actress	\N	["Various"]
+tt15168880	10	nm12809603	actor	\N	["Adult Club Video Game Player","Partygoer"]
 tt15168880	1	nm12549901	actor	\N	["Creeper321448","Notch"]
 tt15168880	2	nm12804038	actor	\N	["Homie_Pig"]
 tt15168880	3	nm12787501	actor	\N	["18+ Dimension Guard","Partygoer"]
 tt15168880	4	nm12784873	actor	\N	["Partygoer","Kid #1"]
 tt15168880	5	nm12380167	director	\N	\N
 tt15168880	6	nm12812972	writer	idea	\N
-tt15168880	7	nm5930723	composer	\N	\N
+tt15168880	7	nm12812635	actress	\N	["BaconCrafter","Partygoer","Kid #2"]
+tt15168880	8	nm12380168	actor	\N	["Failboat"]
+tt15168880	9	nm12812969	actress	\N	["ExplodingTNT","Partygoer"]
 tt15168882	1	nm0157133	actor	\N	["Nikochan's Servant"]
 tt15168882	2	nm0299192	actor	\N	["Tarou Soramame"]
 tt15168882	3	nm0468708	actress	\N	["Arale Norimaki","Abale"]
@@ -16761,7 +16774,6 @@ tt15168896	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15168896	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15168896	3	nm9195686	actor	\N	["Narrator"]
 tt15168896	4	nm12815571	writer	idea	\N
-tt15168896	5	nm5930723	composer	\N	\N
 tt15168898	1	nm3400889	producer	producer	\N
 tt15168900	10	nm12711782	self	\N	["Self - Contestant"]
 tt15168900	1	nm1705768	self	\N	["Self - Host"]
@@ -16828,7 +16840,7 @@ tt15168914	1	nm3941856	self	\N	["Self"]
 tt15168914	2	nm3579598	editor	\N	\N
 tt15168918	1	nm3293702	actor	\N	["Game Master"]
 tt15168918	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15168918	3	nm4493520	actor	\N	["Peter Conlan"]
+tt15168918	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15168918	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15168918	5	nm5392995	producer	producer	\N
 tt15168918	6	nm4546304	actor	\N	["Ricky Matsui"]
@@ -16865,16 +16877,15 @@ tt15168924	7	nm1802752	writer	draft	\N
 tt15168924	8	nm1848141	producer	producer	\N
 tt15168924	9	nm0847728	composer	\N	\N
 tt15168926	1	nm6186073	actor	\N	["Jakob Roy"]
-tt15168928	10	nm9195686	actor	\N	["Purple Shep"]
 tt15168928	1	nm12549901	actor	\N	["Pink Sheep"]
 tt15168928	2	nm12815586	actor	\N	["Notch"]
 tt15168928	3	nm12812635	actress	\N	["Anonymous"]
 tt15168928	4	nm12812969	actress	\N	["Purple Shep"]
 tt15168928	5	nm12380167	director	\N	\N
-tt15168928	6	nm5930723	composer	\N	\N
-tt15168928	7	nm5222324	actor	\N	["Pink Sheep"]
-tt15168928	8	nm12812972	actor	\N	["Jeb"]
-tt15168928	9	nm12809603	actor	\N	["Roblox Guest"]
+tt15168928	6	nm5222324	actor	\N	["Pink Sheep"]
+tt15168928	7	nm12812972	actor	\N	["Jeb"]
+tt15168928	8	nm12809603	actor	\N	["Roblox Guest"]
+tt15168928	9	nm9195686	actor	\N	["Purple Shep"]
 tt15168932	1	nm10046575	actress	\N	\N
 tt15168932	2	nm12815588	actor	\N	\N
 tt15168932	3	nm10290911	actress	\N	\N
@@ -16921,16 +16932,16 @@ tt15168954	6	nm2860070	producer	producer	\N
 tt15168954	7	nm4606846	producer	producer	\N
 tt15168954	8	nm0820806	composer	\N	\N
 tt15168954	9	nm4273882	cinematographer	co-cinematographer	\N
-tt15168956	10	nm12812634	actor	\N	["Player Running for its Live"]
+tt15168956	10	nm9195686	actor	\N	["Narrator"]
 tt15168956	1	nm12815471	actress	\N	["Player Running for its Live"]
 tt15168956	2	nm12811458	actor	\N	["Notch"]
 tt15168956	3	nm12787501	actor	\N	["Barack Obama Super Noob"]
 tt15168956	4	nm12804095	actress	\N	["Player Running for its Live"]
 tt15168956	5	nm12380167	director	\N	\N
-tt15168956	6	nm5930723	composer	\N	\N
-tt15168956	7	nm12380168	actor	\N	["Failboat"]
-tt15168956	8	nm12805910	actor	\N	["ExplodingTNT"]
-tt15168956	9	nm12809603	actor	\N	["Roblox Guest"]
+tt15168956	6	nm12380168	actor	\N	["Failboat"]
+tt15168956	7	nm12805910	actor	\N	["ExplodingTNT"]
+tt15168956	8	nm12809603	actor	\N	["Roblox Guest"]
+tt15168956	9	nm12812634	actor	\N	["Player Running for its Live"]
 tt15168958	1	nm0109863	archive_footage	\N	["Self","Scarlet"]
 tt15168958	2	nm0242142	archive_footage	\N	["Self","Angie"]
 tt15168958	3	nm0245873	archive_footage	\N	["Self","Bruno"]
@@ -17032,7 +17043,6 @@ tt15169040	1	nm3294168	editor	\N	\N
 tt15169046	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15169046	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15169046	3	nm12815637	writer	idea	\N
-tt15169046	4	nm5930723	composer	\N	\N
 tt15169050	1	nm11571800	actor	\N	["Bahadur"]
 tt15169050	2	nm12102372	writer	collaborating writer	\N
 tt15169056	1	nm12911675	actress	\N	["Special Guest"]
@@ -17247,7 +17257,6 @@ tt15169240	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15169240	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15169240	3	nm9195686	actor	\N	["Narrator"]
 tt15169240	4	nm12815748	writer	idea	\N
-tt15169240	5	nm5930723	composer	\N	\N
 tt15169242	1	nm1294061	self	\N	["Self - Anchor"]
 tt15169242	2	nm6211346	self	\N	["Self - CBS News Correspondent"]
 tt15169242	3	nm12374815	self	\N	["Self"]
@@ -17515,13 +17524,16 @@ tt15169386	6	nm6652668	actor	\N	["Arthur"]
 tt15169386	7	nm9182005	actor	\N	["Alex"]
 tt15169386	8	nm1403394	actress	\N	["Rica"]
 tt15169386	9	nm5996527	actor	\N	["Henry"]
+tt15169388	10	nm12809603	actor	\N	["Pizza Delivery Guy"]
 tt15169388	1	nm12815917	actor	\N	["Zombie Pigman"]
 tt15169388	2	nm12549901	actor	\N	["Notch","Pink Sheep Fan"]
 tt15169388	3	nm12815916	actress	\N	["Audience Member"]
 tt15169388	4	nm12784873	actor	\N	["Luigieight"]
 tt15169388	5	nm12380167	director	\N	\N
 tt15169388	6	nm12815914	writer	idea	\N
-tt15169388	7	nm5930723	composer	\N	\N
+tt15169388	7	nm5222324	actor	\N	["Pink Sheep"]
+tt15169388	8	nm12812379	actor	\N	["SaucyCharmander"]
+tt15169388	9	nm12805910	actor	\N	["Purple Shep"]
 tt15169390	1	nm7453815	actor	\N	["Detective"]
 tt15169392	1	nm6460660	actress	\N	["Darwin"]
 tt15169392	2	nm4608844	actress	\N	["Newts"]
@@ -17613,7 +17625,6 @@ tt15169416	9	nm11305937	composer	\N	\N
 tt15169418	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15169418	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15169418	3	nm12815926	writer	idea	\N
-tt15169418	4	nm5930723	composer	\N	\N
 tt15169420	10	nm10053514	producer	producer	\N
 tt15169420	1	nm1409022	actress	\N	["Angel"]
 tt15169420	2	nm1282786	actor	\N	["Andrew"]
@@ -17785,8 +17796,9 @@ tt15169472	7	nm12815751	actor	\N	["Kea"]
 tt15169474	1	nm5287843	actor	\N	["Ashraf"]
 tt15169474	2	nm10507592	actress	\N	["Sicily"]
 tt15169474	3	nm7352866	actress	\N	["Jhorna"]
-tt15169474	4	nm6798594	director	\N	\N
-tt15169474	5	nm9034222	producer	producer	\N
+tt15169474	4	nm14148973	actress	\N	["Nipa"]
+tt15169474	5	nm6798594	director	\N	\N
+tt15169474	6	nm9034222	producer	producer	\N
 tt15169476	1	nm6460660	actress	\N	["Darwin"]
 tt15169476	2	nm4608844	actress	\N	["Newts"]
 tt15169476	3	nm9979985	actress	\N	["Heni"]
@@ -18227,7 +18239,7 @@ tt15169714	8	nm10973376	actor	\N	["Lionel"]
 tt15169714	9	nm11709863	actress	\N	["Serra"]
 tt15169716	1	nm3293702	actor	\N	["Game Master"]
 tt15169716	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169716	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169716	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169716	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169716	5	nm5392995	producer	producer	\N
 tt15169716	6	nm3580968	editor	\N	\N
@@ -18236,7 +18248,7 @@ tt15169716	8	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169716	9	nm7868231	actor	\N	["Kingston Brown"]
 tt15169718	1	nm3293702	actor	\N	["Game Master"]
 tt15169718	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169718	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169718	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169718	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169718	5	nm5392995	producer	producer	\N
 tt15169718	6	nm3580968	editor	\N	\N
@@ -18255,7 +18267,7 @@ tt15169720	8	nm10973376	actor	\N	["Lionel"]
 tt15169720	9	nm11709863	actress	\N	["Serra"]
 tt15169722	1	nm3293702	actor	\N	["Game Master"]
 tt15169722	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169722	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169722	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169722	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169722	5	nm5392995	producer	producer	\N
 tt15169722	6	nm4546304	actor	\N	["Ricky Matsui"]
@@ -18273,7 +18285,7 @@ tt15169724	8	nm10973376	actor	\N	["Lionel"]
 tt15169724	9	nm11709863	actress	\N	["Serra"]
 tt15169726	1	nm3293702	actor	\N	["Game Master"]
 tt15169726	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169726	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169726	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169726	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169726	5	nm5392995	producer	producer	\N
 tt15169726	6	nm3580968	editor	\N	\N
@@ -18282,7 +18294,7 @@ tt15169726	8	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169726	9	nm7868231	actor	\N	["Kingston Brown"]
 tt15169728	1	nm3293702	actor	\N	["Game Master"]
 tt15169728	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169728	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169728	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169728	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169728	5	nm5392995	producer	producer	\N
 tt15169728	6	nm4546304	actor	\N	["Ricky Matsui"]
@@ -18290,7 +18302,7 @@ tt15169728	7	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169728	8	nm7868231	actor	\N	["Kingston Brown"]
 tt15169730	1	nm3293702	actor	\N	["Game Master"]
 tt15169730	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169730	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169730	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169730	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169730	5	nm5392995	producer	producer	\N
 tt15169730	6	nm3580968	editor	\N	\N
@@ -18299,7 +18311,7 @@ tt15169730	8	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169730	9	nm7868231	actor	\N	["Kingston Brown"]
 tt15169732	1	nm3293702	actor	\N	["Game Master"]
 tt15169732	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169732	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169732	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169732	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169732	5	nm5392995	producer	producer	\N
 tt15169732	6	nm4546304	actor	\N	["Ricky Matsui"]
@@ -18307,7 +18319,7 @@ tt15169732	7	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169732	8	nm7868231	actor	\N	["Kingston Brown"]
 tt15169734	1	nm3293702	actor	\N	["Game Master"]
 tt15169734	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169734	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169734	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169734	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169734	5	nm5392995	producer	producer	\N
 tt15169734	6	nm3580968	editor	\N	\N
@@ -18316,7 +18328,7 @@ tt15169734	8	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169734	9	nm7868231	actor	\N	["Kingston Brown"]
 tt15169736	1	nm3293702	actor	\N	["Game Master"]
 tt15169736	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169736	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169736	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169736	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169736	5	nm5392995	producer	producer	\N
 tt15169736	6	nm4546304	actor	\N	["Ricky Matsui"]
@@ -18324,7 +18336,7 @@ tt15169736	7	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169736	8	nm7868231	actor	\N	["Kingston Brown"]
 tt15169738	1	nm3293702	actor	\N	["Game Master"]
 tt15169738	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169738	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169738	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169738	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169738	5	nm5392995	producer	producer	\N
 tt15169738	6	nm3580968	editor	\N	\N
@@ -18333,7 +18345,7 @@ tt15169738	8	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169738	9	nm7868231	actor	\N	["Kingston Brown"]
 tt15169740	1	nm3293702	actor	\N	["Game Master"]
 tt15169740	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169740	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169740	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169740	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169740	5	nm5392995	producer	producer	\N
 tt15169740	6	nm4546304	actor	\N	["Ricky Matsui"]
@@ -18341,7 +18353,7 @@ tt15169740	7	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169740	8	nm7868231	actor	\N	["Kingston Brown"]
 tt15169742	1	nm3293702	actor	\N	["Game Master"]
 tt15169742	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169742	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169742	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169742	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169742	5	nm5392995	producer	producer	\N
 tt15169742	6	nm3580968	editor	\N	\N
@@ -18350,7 +18362,7 @@ tt15169742	8	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169742	9	nm7868231	actor	\N	["Kingston Brown"]
 tt15169744	1	nm3293702	actor	\N	["Game Master"]
 tt15169744	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169744	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169744	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169744	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169744	5	nm5392995	producer	producer	\N
 tt15169744	6	nm4546304	actor	\N	["Ricky Matsui"]
@@ -18358,7 +18370,7 @@ tt15169744	7	nm5105238	actress	\N	["'Anastasia' Iga Lisowski"]
 tt15169744	8	nm7868231	actor	\N	["Kingston Brown"]
 tt15169746	1	nm3293702	actor	\N	["Game Master"]
 tt15169746	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169746	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169746	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169746	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169746	5	nm5392995	producer	producer	\N
 tt15169746	6	nm3580968	editor	\N	\N
@@ -18367,7 +18379,7 @@ tt15169746	8	nm5105238	actress	\N	["'Anastasia' Iga Lisowski","Rowan Berry"]
 tt15169746	9	nm7868231	actor	\N	["Kingston Brown"]
 tt15169748	1	nm3293702	actor	\N	["Game Master"]
 tt15169748	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169748	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169748	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169748	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169748	5	nm5392995	producer	producer	\N
 tt15169748	6	nm4546304	actor	\N	["Ricky Matsui"]
@@ -18375,7 +18387,7 @@ tt15169748	7	nm5105238	actress	\N	["Rowan Berry"]
 tt15169748	8	nm7868231	actor	\N	["Kingston Brown"]
 tt15169750	1	nm3293702	actor	\N	["Game Master"]
 tt15169750	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169750	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169750	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169750	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169750	5	nm5392995	producer	producer	\N
 tt15169750	6	nm3580968	editor	\N	\N
@@ -18384,7 +18396,7 @@ tt15169750	8	nm5105238	actress	\N	["Rowan Berry"]
 tt15169750	9	nm7868231	actor	\N	["Kingston Brown"]
 tt15169752	1	nm3293702	actor	\N	["Game Master"]
 tt15169752	2	nm3269739	actress	\N	["Sofia Lee"]
-tt15169752	3	nm4493520	actor	\N	["Pete Conlan"]
+tt15169752	3	nm4493520	actor	\N	["Peter 'Pete the Plug' Conlan"]
 tt15169752	4	nm4447770	actor	\N	["Cody 'Night Angel' Walsh"]
 tt15169752	5	nm5392995	producer	producer	\N
 tt15169752	6	nm3580968	editor	\N	\N
@@ -18401,70 +18413,70 @@ tt15169754	7	nm1712579	actress	\N	["Dr. Aleksandr Astrovsky"]
 tt15169756	1	nm8332043	self	\N	["Self - Presenter"]
 tt15169756	2	nm8332042	self	\N	["Self - Presenter"]
 tt15169756	3	nm5570506	self	\N	["Self - Presenter"]
-tt15169758	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169758	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169758	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169758	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169758	1	nm3293702	actor	\N	["Game Master"]
+tt15169758	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169758	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169758	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169758	5	nm5392995	producer	producer	\N
 tt15169758	6	nm3580968	editor	\N	\N
 tt15169758	7	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169758	8	nm1759474	actor	\N	["Buckster $ Boyd"]
 tt15169758	9	nm4363130	actress	\N	["Daisy D'umpstaire"]
-tt15169760	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169760	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169760	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169760	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169760	1	nm3293702	actor	\N	["Game Master"]
+tt15169760	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169760	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169760	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169760	5	nm5392995	producer	producer	\N
 tt15169760	6	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169760	7	nm1759474	actor	\N	["Buckster $ Boyd"]
 tt15169760	8	nm4363130	actress	\N	["Daisy D'umpstaire"]
-tt15169762	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169762	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169762	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169762	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169762	1	nm3293702	actor	\N	["Game Master"]
+tt15169762	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169762	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169762	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169762	5	nm5392995	producer	producer	\N
 tt15169762	6	nm3580968	editor	\N	\N
 tt15169762	7	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169762	8	nm1759474	actor	\N	["Buckster $ Boyd"]
 tt15169762	9	nm4363130	actress	\N	["Daisy D'umpstaire"]
-tt15169764	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169764	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169764	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169764	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169764	1	nm3293702	actor	\N	["Game Master"]
+tt15169764	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169764	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169764	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169764	5	nm5392995	producer	producer	\N
 tt15169764	6	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169764	7	nm1759474	actor	\N	["Buckster $ Boyd"]
 tt15169764	8	nm4363130	actress	\N	["Daisy D'umpstaire"]
-tt15169766	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169766	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169766	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169766	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169766	1	nm3293702	actor	\N	["Game Master"]
+tt15169766	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169766	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169766	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169766	5	nm5392995	producer	producer	\N
 tt15169766	6	nm3580968	editor	\N	\N
 tt15169766	7	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169766	8	nm1759474	actor	\N	["Buckster $ Boyd"]
 tt15169766	9	nm4363130	actress	\N	["Daisy D'umpstaire"]
-tt15169768	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169768	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169768	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169768	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169768	1	nm3293702	actor	\N	["Game Master"]
+tt15169768	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169768	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169768	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169768	5	nm5392995	producer	producer	\N
 tt15169768	6	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169768	7	nm1759474	actor	\N	["Buckster $ Boyd"]
 tt15169768	8	nm4363130	actress	\N	["Daisy D'umpstaire"]
-tt15169770	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169770	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169770	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169770	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169770	1	nm3293702	actor	\N	["Game Master"]
+tt15169770	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169770	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169770	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169770	5	nm5392995	producer	producer	\N
 tt15169770	6	nm3580968	editor	\N	\N
 tt15169770	7	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169770	8	nm1759474	actor	\N	["Buckster $ Boyd"]
 tt15169770	9	nm4363130	actress	\N	["Daisy D'umpstaire"]
-tt15169772	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169772	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169772	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169772	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169772	1	nm3293702	actor	\N	["Game Master"]
+tt15169772	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169772	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169772	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169772	5	nm5392995	producer	producer	\N
 tt15169772	6	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169772	7	nm1759474	actor	\N	["Buckster $ Boyd"]
@@ -18478,18 +18490,18 @@ tt15169774	6	nm11467948	writer	\N	\N
 tt15169774	7	nm12458936	producer	producer	\N
 tt15169774	8	nm5022763	composer	\N	\N
 tt15169774	9	nm9550027	editor	\N	\N
-tt15169776	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169776	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169776	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169776	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169776	1	nm3293702	actor	\N	["Game Master"]
+tt15169776	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169776	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169776	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169776	5	nm5392995	producer	producer	\N
 tt15169776	6	nm4789221	actor	\N	["Detective Sylvester Cross"]
 tt15169776	7	nm1759474	actor	\N	["Buckster $ Boyd"]
 tt15169776	8	nm4363130	actress	\N	["Daisy D'umpstaire"]
-tt15169780	1	nm4493520	actor	\N	["Lars Vandenchomp"]
-tt15169780	2	nm3113057	actor	\N	["Vicar Ian Prescott"]
-tt15169780	3	nm6014536	actress	\N	["Gangie Green"]
-tt15169780	4	nm3293702	actor	\N	["Dungeon Master"]
+tt15169780	1	nm3293702	actor	\N	["Game Master"]
+tt15169780	2	nm4493520	actor	\N	["Lars Vandenchomp"]
+tt15169780	3	nm3113057	actor	\N	["Vicar Ian Prescott"]
+tt15169780	4	nm6014536	actress	\N	["Gangie Green"]
 tt15169780	5	nm5392995	producer	producer	\N
 tt15169780	6	nm3580968	editor	\N	\N
 tt15169780	7	nm4789221	actor	\N	["Detective Sylvester Cross"]

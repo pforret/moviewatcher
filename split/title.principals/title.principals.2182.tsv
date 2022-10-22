@@ -2100,6 +2100,14 @@ tt21820994	4	nm13827624	writer	\N	\N
 tt21820994	5	nm0889375	writer	\N	\N
 tt21820994	6	nm12137266	producer	producer	\N
 tt21820994	7	nm8179306	producer	producer	\N
+tt21821000	1	nm0119013	self	\N	["Self - Co-Host"]
+tt21821000	2	nm12285463	self	\N	["Self - Executive Assistant"]
+tt21821000	3	nm12285618	self	\N	["Self"]
+tt21821000	4	nm14156285	self	\N	["Self - Social Media Guy"]
+tt21821000	5	nm2742730	self	\N	["Self - Host"]
+tt21821000	6	nm0652783	self	\N	["Self"]
+tt21821000	7	nm13551819	self	\N	["Self - Board Operator"]
+tt21821000	8	nm5190762	self	\N	["Self - Co-Host"]
 tt21821002	1	nm0798296	self	\N	["Self","Presenter"]
 tt21821002	2	nm5492696	writer	\N	\N
 tt21821002	3	nm1154937	writer	\N	\N
@@ -2107,6 +2115,13 @@ tt21821002	4	nm13827624	writer	\N	\N
 tt21821002	5	nm0889375	writer	\N	\N
 tt21821002	6	nm12137266	producer	producer	\N
 tt21821002	7	nm8179306	producer	producer	\N
+tt21821004	1	nm0119013	self	\N	["Self - Co-Host"]
+tt21821004	2	nm12285463	self	\N	["Self - Executive Assistant"]
+tt21821004	3	nm12285618	self	\N	["Self"]
+tt21821004	4	nm14156285	self	\N	["Self - Social Media Guy"]
+tt21821004	5	nm2742730	self	\N	["Self - Host"]
+tt21821004	6	nm1704876	self	\N	["Self"]
+tt21821004	7	nm11144585	self	\N	["Self"]
 tt21821006	10	nm7869714	actor	\N	["Gu Jun"]
 tt21821006	1	nm4082296	actress	\N	["Shang Gu"]
 tt21821006	2	nm10057575	actor	\N	["Bai Jue"]
@@ -5407,9 +5422,9 @@ tt21822078	1	nm4757938	self	\N	["Self - Host"]
 tt21822078	2	nm12451762	self	\N	["Self - Contestant"]
 tt21822078	3	nm14119626	self	\N	["Self - Contestant"]
 tt21822078	4	nm14119622	self	\N	["Self - Contestant"]
-tt21822078	5	nm14119621	self	\N	["Self - Contestant","Self"]
-tt21822078	6	nm12300633	self	\N	["Self - Contestant"]
-tt21822078	7	nm9746024	self	\N	["Self - Contestant"]
+tt21822078	5	nm9746024	self	\N	["Self - Contestant"]
+tt21822078	6	nm14119621	self	\N	["Self - Contestant","Self"]
+tt21822078	7	nm12300633	self	\N	["Self - Contestant"]
 tt21822078	8	nm14119620	self	\N	["Self - Contestant","Self"]
 tt21822078	9	nm14119623	self	\N	["Self - Contestant","Self"]
 tt21822080	10	nm5931748	actress	\N	\N
@@ -14654,12 +14669,13 @@ tt21828130	7	nm0673144	actor	\N	["Jaime"]
 tt21828130	8	nm0596544	actor	\N	["Benito"]
 tt21828130	9	nm0616475	actor	\N	["Alonso"]
 tt21828134	1	nm0044004	self	\N	["Self - Presenter"]
-tt21828134	2	nm3012420	director	series director	\N
-tt21828134	3	nm2912734	cinematographer	director of photography	\N
-tt21828134	4	nm11856762	editor	\N	\N
-tt21828134	5	nm1585876	editor	\N	\N
-tt21828134	6	nm7118868	editor	\N	\N
-tt21828134	7	nm1976168	editor	\N	\N
+tt21828134	2	nm0224584	self	\N	["Self"]
+tt21828134	3	nm3012420	director	series director	\N
+tt21828134	4	nm2912734	cinematographer	director of photography	\N
+tt21828134	5	nm11856762	editor	\N	\N
+tt21828134	6	nm1585876	editor	\N	\N
+tt21828134	7	nm7118868	editor	\N	\N
+tt21828134	8	nm1976168	editor	\N	\N
 tt21828138	1	nm1494496	director	\N	\N
 tt21828140	10	nm1976168	editor	\N	\N
 tt21828140	1	nm0044004	self	\N	["Self - Presenter"]
@@ -15713,6 +15729,16 @@ tt21828908	6	nm6342115	writer	written by	\N
 tt21828908	7	nm12917992	actor	\N	["Theo Poulos"]
 tt21828908	8	nm8471642	actor	\N	["Remi Carter"]
 tt21828908	9	nm8115722	actress	\N	["Eden Fowler"]
+tt21828910	10	nm1197205	editor	\N	\N
+tt21828910	1	nm2507221	self	\N	["Self - Guest Presenter"]
+tt21828910	2	nm0386810	self	\N	["Self - Team Captain"]
+tt21828910	3	nm0581615	self	\N	["Self - Team Captain"]
+tt21828910	4	nm9058871	self	\N	["Self"]
+tt21828910	5	nm2653301	director	\N	\N
+tt21828910	6	nm8641065	writer	additional material	\N
+tt21828910	7	nm9806448	writer	additional material	\N
+tt21828910	8	nm9760118	producer	producer	\N
+tt21828910	9	nm0054889	editor	\N	\N
 tt21828914	10	nm12917992	actor	\N	["Theo Poulos"]
 tt21828914	1	nm0575114	actor	\N	["Alf Stewart"]
 tt21828914	2	nm0630124	actress	\N	["Leah Patterson"]

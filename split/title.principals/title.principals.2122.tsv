@@ -1524,7 +1524,6 @@ tt21220694	3	nm13471777	cinematographer	\N	\N
 tt21220694	4	nm13822001	editor	\N	\N
 tt21220700	1	nm7468194	director	\N	\N
 tt21220700	2	nm11985204	director	\N	\N
-tt21220704	10	nm1287928	actress	\N	["Producer"]
 tt21220704	1	nm2588460	actress	\N	["Sammie"]
 tt21220704	2	nm3042278	actor	\N	["DeMar"]
 tt21220704	3	nm0860712	actress	\N	["Betty"]
@@ -1533,7 +1532,7 @@ tt21220704	5	nm0429541	director	\N	\N
 tt21220704	6	nm3345544	producer	producer	\N
 tt21220704	7	nm6591520	composer	\N	\N
 tt21220704	8	nm0461645	cinematographer	\N	\N
-tt21220704	9	nm4874686	actress	\N	["Roxy"]
+tt21220704	9	nm3272482	editor	\N	\N
 tt21220710	1	nm14103849	actor	\N	["Malik"]
 tt21220712	10	nm11100658	actress	\N	["Clover"]
 tt21220712	1	nm11200376	actress	\N	["Winter"]
@@ -1593,16 +1592,16 @@ tt21220764	4	nm13820909	actor	\N	\N
 tt21220764	5	nm13819311	director	\N	\N
 tt21220764	6	nm13819325	director	\N	\N
 tt21220764	7	nm13819327	producer	producer	\N
-tt21220772	10	nm1047969	actor	\N	\N
+tt21220772	10	nm10307335	actress	\N	\N
 tt21220772	1	nm2898497	actress	\N	\N
 tt21220772	2	nm4027020	actress	\N	["Elena"]
 tt21220772	3	nm1419480	actress	\N	["Nina"]
 tt21220772	4	nm9878816	actor	\N	["Ertan"]
-tt21220772	5	nm1687151	actor	\N	["Daniel"]
-tt21220772	6	nm5798618	actor	\N	["Arif"]
-tt21220772	7	nm5879333	actress	\N	["Gülsün"]
-tt21220772	8	nm12538198	actor	\N	["Gülbahar"]
-tt21220772	9	nm10307335	actress	\N	\N
+tt21220772	5	nm2764730	cinematographer	\N	\N
+tt21220772	6	nm1687151	actor	\N	["Daniel"]
+tt21220772	7	nm5798618	actor	\N	["Arif"]
+tt21220772	8	nm5879333	actress	\N	["Gülsün"]
+tt21220772	9	nm12538198	actor	\N	["Gülbahar"]
 tt21220774	1	nm12517834	self	\N	["Self - Host"]
 tt21220774	2	nm1984142	self	\N	["Self - Guest"]
 tt21220774	3	nm12617774	self	\N	["Self - Guest"]
@@ -4933,16 +4932,16 @@ tt21222988	1	nm0618929	actor	\N	["Sahl"]
 tt21222988	2	nm7163300	actor	\N	\N
 tt21222988	3	nm2789894	director	\N	\N
 tt21222990	1	nm2789894	director	\N	\N
-tt21222992	10	nm4471273	cinematographer	director of photography	\N
+tt21222992	10	nm13831442	cinematographer	\N	\N
 tt21222992	1	nm11150851	actress	\N	["Naina"]
 tt21222992	2	nm2817027	actress	\N	["Gauri"]
-tt21222992	3	nm1294647	actor	\N	["Anurag"]
-tt21222992	4	nm4470677	director	\N	\N
-tt21222992	5	nm7404866	director	second unit director	\N
-tt21222992	6	nm13824613	writer	story	\N
-tt21222992	7	nm3738902	writer	dialogue	\N
-tt21222992	8	nm13831396	cinematographer	director of photography	\N
-tt21222992	9	nm13831442	cinematographer	\N	\N
+tt21222992	3	nm14126322	actor	\N	["Sujit"]
+tt21222992	4	nm1294647	actor	\N	["Anurag"]
+tt21222992	5	nm4470677	director	\N	\N
+tt21222992	6	nm7404866	director	second unit director	\N
+tt21222992	7	nm13824613	writer	story	\N
+tt21222992	8	nm3738902	writer	dialogue	\N
+tt21222992	9	nm13831396	cinematographer	director of photography	\N
 tt21222994	10	nm13831442	cinematographer	\N	\N
 tt21222994	1	nm9806119	actor	\N	["Armaan"]
 tt21222994	2	nm10549171	actor	\N	["Siddharth"]
@@ -5023,7 +5022,7 @@ tt21223044	5	nm13823487	director	\N	\N
 tt21223044	6	nm6269315	composer	\N	\N
 tt21223044	7	nm4707175	cinematographer	\N	\N
 tt21223044	8	nm8490953	cinematographer	\N	\N
-tt21223048	10	nm4790853	cinematographer	\N	\N
+tt21223048	10	nm1536308	production_designer	\N	\N
 tt21223048	1	nm8134566	actress	\N	["Casey"]
 tt21223048	2	nm0103038	actor	\N	["Danny Carmody Jr."]
 tt21223048	3	nm14153079	actress	\N	["Gala Patron"]
@@ -5031,8 +5030,8 @@ tt21223048	4	nm14153080	actor	\N	["Gala Patron"]
 tt21223048	5	nm0289824	director	\N	\N
 tt21223048	6	nm4974258	writer	writer	\N
 tt21223048	7	nm4788302	writer	Writer	\N
-tt21223048	8	nm3317610	composer	\N	\N
-tt21223048	9	nm0795340	composer	\N	\N
+tt21223048	8	nm4790853	cinematographer	\N	\N
+tt21223048	9	nm1228334	editor	\N	\N
 tt21223050	10	nm7440640	actor	\N	\N
 tt21223050	1	nm13823508	actress	\N	\N
 tt21223050	2	nm10174308	actor	\N	\N
@@ -16835,14 +16834,16 @@ tt21229674	8	nm13826005	composer	\N	\N
 tt21229674	9	nm11158918	cinematographer	\N	\N
 tt21229678	1	nm12742088	director	\N	\N
 tt21229678	2	nm13825985	director	\N	\N
+tt21229680	10	nm12929372	actress	\N	["Aliyah Watson"]
 tt21229680	1	nm11708750	actor	\N	["Wille Watson"]
 tt21229680	2	nm13826008	actress	\N	["Olivia Watson"]
 tt21229680	3	nm12140103	actress	\N	["Jesse Watson"]
 tt21229680	4	nm13826009	actress	\N	["Young Jesse","Young Christopher"]
 tt21229680	5	nm12726498	director	\N	\N
 tt21229680	6	nm8927359	producer	producer	\N
-tt21229680	7	nm2379293	producer	producer	\N
-tt21229680	8	nm4689792	cinematographer	\N	\N
+tt21229680	7	nm4689792	cinematographer	\N	\N
+tt21229680	8	nm8829429	actress	\N	["Tyler Watson"]
+tt21229680	9	nm13826011	actress	\N	["Young Tyler"]
 tt21229682	1	nm13826026	director	\N	\N
 tt21229682	2	nm13826027	composer	\N	\N
 tt21229686	1	nm1036574	director	\N	\N

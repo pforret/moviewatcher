@@ -1870,15 +1870,16 @@ tt2100303	6	nm4844836	composer	\N	\N
 tt2100303	7	nm4407756	actress	\N	["Carla"]
 tt2100303	8	nm4347354	actor	\N	["Tommy"]
 tt2100303	9	nm4838968	actress	\N	["Mrs. Harrison"]
+tt2100304	10	nm4753602	self	\N	["Self"]
 tt2100304	1	nm2673191	self	\N	["Self","Self - Researcher"]
 tt2100304	2	nm4753715	self	\N	["Self","Self - Consultant Surgeon","Self - Cunsultant Surgeon"]
-tt2100304	3	nm5513350	self	\N	["Self","Self - General Practitioner","Self - G.P."]
+tt2100304	3	nm5513350	self	\N	["Self","Self - G.P.","Self - General Practitioner"]
 tt2100304	4	nm3537575	self	\N	["Self","Self - Dietitian"]
-tt2100304	5	nm3226123	self	\N	["Self - Professor of Paediatric Allergy"]
-tt2100304	6	nm5567326	self	\N	["Self - Professor of Oncology"]
-tt2100304	7	nm11209950	actress	\N	["Lucy Jones - Spanish VO"]
-tt2100304	8	nm0728004	actress	\N	["Narrator"]
-tt2100304	9	nm4753602	self	\N	["Self"]
+tt2100304	5	nm5558906	self	\N	["Self - Food PR & Marketing Consultant"]
+tt2100304	6	nm3226123	self	\N	["Self - Professor of Paediatric Allergy"]
+tt2100304	7	nm5567326	self	\N	["Self - Professor of Oncology"]
+tt2100304	8	nm11209950	actress	\N	["Lucy Jones - Spanish VO"]
+tt2100304	9	nm0728004	actress	\N	["Narrator"]
 tt2100306	1	nm0027884	actor	\N	["Boy"]
 tt2100306	2	nm0653942	actor	\N	["Father"]
 tt2100306	3	nm0001768	actor	\N	["First Man"]
@@ -32783,36 +32784,46 @@ tt2105996	6	nm1584281	director	series director	\N
 tt2105996	7	nm1129111	writer	creator	\N
 tt2105996	8	nm0870304	composer	\N	\N
 tt2105996	9	nm4801173	cinematographer	director of photography	\N
-tt2105997	1	nm0299956	actor	\N	["Narrator"]
-tt2105997	2	nm9958350	self	\N	["Self"]
-tt2105997	3	nm0994453	director	\N	\N
-tt2105997	4	nm1584281	director	series director	\N
-tt2105997	5	nm1129111	writer	creator	\N
-tt2105997	6	nm0870304	composer	\N	\N
-tt2105997	7	nm1078394	cinematographer	director of photography	\N
-tt2105997	8	nm0482655	editor	\N	\N
+tt2105997	10	nm0482655	editor	\N	\N
+tt2105997	1	nm3417303	self	\N	["Self -Terri's Daughter"]
+tt2105997	2	nm14161569	self	\N	["Self - Christine's Father"]
+tt2105997	3	nm0299956	actor	\N	["Narrator"]
+tt2105997	4	nm9958350	self	\N	["Self"]
+tt2105997	5	nm0994453	director	\N	\N
+tt2105997	6	nm1584281	director	series director	\N
+tt2105997	7	nm1129111	writer	creator	\N
+tt2105997	8	nm0870304	composer	\N	\N
+tt2105997	9	nm1078394	cinematographer	director of photography	\N
+tt2105998	10	nm0482655	editor	\N	\N
 tt2105998	1	nm0299956	actor	\N	["Narrator"]
-tt2105998	2	nm0994453	director	\N	\N
-tt2105998	3	nm1584281	director	series director	\N
-tt2105998	4	nm1129111	writer	creator	\N
-tt2105998	5	nm0870304	composer	\N	\N
-tt2105998	6	nm1078394	cinematographer	director of photography	\N
-tt2105998	7	nm0482655	editor	\N	\N
-tt2105999	1	nm0299956	actor	\N	["Narrator"]
-tt2105999	2	nm4855633	self	\N	["Self"]
-tt2105999	3	nm0994453	director	\N	\N
-tt2105999	4	nm1584281	director	series director	\N
-tt2105999	5	nm1129111	writer	creator	\N
-tt2105999	6	nm0870304	composer	\N	\N
-tt2105999	7	nm4801173	cinematographer	\N	\N
-tt2105999	8	nm0482655	editor	\N	\N
-tt2106000	1	nm0299956	actor	\N	["Narrator"]
-tt2106000	2	nm2030388	director	\N	\N
-tt2106000	3	nm1584281	director	series director	\N
-tt2106000	4	nm1129111	writer	creator	\N
-tt2106000	5	nm0870304	composer	\N	\N
-tt2106000	6	nm1078394	cinematographer	director of photography	\N
-tt2106000	7	nm0140948	editor	\N	\N
+tt2105998	2	nm14161658	self	\N	["Self"]
+tt2105998	3	nm14161656	self	\N	["Self"]
+tt2105998	4	nm14161657	self	\N	["Self"]
+tt2105998	5	nm0994453	director	\N	\N
+tt2105998	6	nm1584281	director	series director	\N
+tt2105998	7	nm1129111	writer	creator	\N
+tt2105998	8	nm0870304	composer	\N	\N
+tt2105998	9	nm1078394	cinematographer	director of photography	\N
+tt2105999	10	nm0482655	editor	\N	\N
+tt2105999	1	nm14161722	self	\N	["Self - Reporter"]
+tt2105999	2	nm0299956	actor	\N	["Narrator"]
+tt2105999	3	nm4855633	self	\N	["Self"]
+tt2105999	4	nm14067162	self	\N	["Self - Chip's Wife"]
+tt2105999	5	nm0994453	director	\N	\N
+tt2105999	6	nm1584281	director	series director	\N
+tt2105999	7	nm1129111	writer	creator	\N
+tt2105999	8	nm0870304	composer	\N	\N
+tt2105999	9	nm4801173	cinematographer	\N	\N
+tt2106000	10	nm0140948	editor	\N	\N
+tt2106000	1	nm14161746	self	\N	["Self"]
+tt2106000	2	nm14161747	self	\N	["Self - Dewayne's Mom"]
+tt2106000	3	nm0299956	actor	\N	["Narrator"]
+tt2106000	4	nm14161748	self	\N	["Self - Marianna Police Chief"]
+tt2106000	5	nm2030388	director	\N	\N
+tt2106000	6	nm1584281	director	series director	\N
+tt2106000	7	nm1129111	writer	creator	\N
+tt2106000	8	nm0870304	composer	\N	\N
+tt2106000	9	nm1078394	cinematographer	director of photography	\N
 tt2106001	10	nm1074050	editor	\N	\N
 tt2106001	1	nm5475510	self	\N	["Self"]
 tt2106001	2	nm8861571	self	\N	["Self - Caitlin's Father","Kathleen's Ex-Husband"]
@@ -32823,13 +32834,16 @@ tt2106001	6	nm1584281	director	series director	\N
 tt2106001	7	nm1129111	writer	creator	\N
 tt2106001	8	nm0870304	composer	\N	\N
 tt2106001	9	nm4801173	cinematographer	director of photography	\N
-tt2106002	1	nm0299956	actor	\N	["Narrator"]
-tt2106002	2	nm1584281	director	series director	\N
-tt2106002	3	nm1129111	writer	creator	\N
-tt2106002	4	nm0870304	composer	\N	\N
-tt2106002	5	nm1034504	cinematographer	director of photography	\N
-tt2106002	6	nm1078394	cinematographer	director of photography	\N
-tt2106002	7	nm1074050	editor	\N	\N
+tt2106002	10	nm1074050	editor	\N	\N
+tt2106002	1	nm14161711	self	\N	["Self"]
+tt2106002	2	nm2746986	self	\N	["Self - Terry's Boss"]
+tt2106002	3	nm0299956	actor	\N	["Narrator"]
+tt2106002	4	nm14161712	self	\N	["Self - Val's Sister"]
+tt2106002	5	nm1584281	director	series director	\N
+tt2106002	6	nm1129111	writer	creator	\N
+tt2106002	7	nm0870304	composer	\N	\N
+tt2106002	8	nm1034504	cinematographer	director of photography	\N
+tt2106002	9	nm1078394	cinematographer	director of photography	\N
 tt2106004	10	nm1992190	self	\N	["Self"]
 tt2106004	1	nm1555530	self	\N	["Self"]
 tt2106004	2	nm5706053	self	\N	["Self"]
@@ -33516,8 +33530,8 @@ tt2106177	3	nm0001776	archive_footage	\N	["Self"]
 tt2106177	4	nm0814047	archive_footage	\N	["Self"]
 tt2106178	1	nm0160086	self	\N	["Self - Host"]
 tt2106179	1	nm0794060	actor	\N	["Marin Reigan"]
-tt2106179	2	nm0468708	actress	\N	["Amy Ratein","Louiza"]
-tt2106179	3	nm0436776	actor	\N	["Douglas"]
+tt2106179	2	nm0436776	actor	\N	["Douglas"]
+tt2106179	3	nm0468708	actress	\N	["Amy Ratein","Louiza"]
 tt2106179	4	nm0409287	actor	\N	["Young Baddu"]
 tt2106181	10	nm1850126	writer	staff writer	\N
 tt2106181	1	nm0599889	actress	\N	["Carrie Wells"]

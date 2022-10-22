@@ -2316,6 +2316,7 @@ tt22801118	4	nm6293241	cinematographer	\N	\N
 tt22801120	1	nm14145767	director	\N	\N
 tt22801122	1	nm3677580	self	\N	["Self - Presenter"]
 tt22801122	2	nm3080074	self	\N	["Self - Presenter"]
+tt22801122	3	nm10201958	self	\N	["Self"]
 tt22801126	1	nm0007893	actress	\N	["Rowan"]
 tt22801126	2	nm1546206	actor	\N	["Patrick"]
 tt22801126	3	nm13578047	actor	\N	["Finn"]
@@ -2366,6 +2367,8 @@ tt22801144	6	nm2581729	self	\N	["Self"]
 tt22801146	1	nm0454730	self	\N	["Self - Co-Host"]
 tt22801146	2	nm8098276	self	\N	["Self - Co-Host"]
 tt22801146	3	nm2867394	self	\N	["Self - Co-Host"]
+tt22801146	4	nm0577908	self	\N	["Self"]
+tt22801146	5	nm1433588	self	\N	["Self"]
 tt22801150	1	nm11884166	actress	\N	\N
 tt22801150	2	nm13478502	actor	\N	\N
 tt22801150	3	nm10528287	director	\N	\N
@@ -2471,9 +2474,12 @@ tt22801208	7	nm1296282	self	\N	["Self"]
 tt22801208	8	nm12311099	self	\N	["Self - Announcer"]
 tt22801212	1	nm0727961	self	\N	["Self - Co-Host"]
 tt22801212	2	nm0780435	self	\N	["Self - Co-Host"]
-tt22801212	3	nm0312477	self	\N	["Self"]
-tt22801212	4	nm1296282	self	\N	["Self"]
-tt22801212	5	nm12311099	self	\N	["Self - Announcer"]
+tt22801212	3	nm6708435	self	\N	["Self"]
+tt22801212	4	nm6238194	self	\N	["Self"]
+tt22801212	5	nm1613356	self	\N	["Themselves - Musical Guests"]
+tt22801212	6	nm0312477	self	\N	["Self"]
+tt22801212	7	nm1296282	self	\N	["Self"]
+tt22801212	8	nm12311099	self	\N	["Self - Announcer"]
 tt22801216	1	nm14145826	actor	\N	\N
 tt22801216	2	nm1472651	actress	\N	\N
 tt22801216	3	nm14145824	actor	\N	\N
@@ -2493,8 +2499,8 @@ tt22801224	4	nm0086840	actress	\N	["Florence Matter","Blossey"]
 tt22801224	5	nm1146489	writer	developed by	\N
 tt22801224	6	nm0643449	actress	\N	["Asia Lipton","Asia's Great Grandmother"]
 tt22801224	7	nm0809911	actress	\N	["Livvi Quimby"]
-tt22801224	8	nm1137414	actress	\N	["Riley Bruckner","Riley"]
-tt22801224	9	nm0149942	actor	\N	["Estevesban","Hot Peppers"]
+tt22801224	8	nm0149942	actor	\N	["Estevesban","Hot Peppers"]
+tt22801224	9	nm1137414	actress	\N	["Riley Bruckner","Riley"]
 tt22801236	10	nm14145839	actress	\N	\N
 tt22801236	1	nm12482011	actor	\N	\N
 tt22801236	2	nm14145837	actor	\N	\N
@@ -2758,6 +2764,7 @@ tt22801550	3	nm7768324	producer	producer	\N
 tt22801554	1	nm14009913	director	\N	\N
 tt22801556	1	nm1413600	self	\N	["Self - Host"]
 tt22801556	2	nm2399035	self	\N	["Self - Musician"]
+tt22801558	1	nm2869371	cinematographer	\N	\N
 tt22801560	1	nm14145957	self	\N	["Self"]
 tt22801560	2	nm11800181	self	\N	["Self"]
 tt22801560	3	nm7768324	producer	producer	\N
@@ -2882,6 +2889,9 @@ tt22801666	3	nm0066877	self	\N	["Self - Co-Host"]
 tt22801666	4	nm2641639	self	\N	["Self - Co-Host"]
 tt22801666	5	nm11911501	self	\N	["Self - Co-Host"]
 tt22801666	6	nm5366561	self	\N	["Self - Co-Host"]
+tt22801666	7	nm2426242	self	\N	["Self - Minnesota Senator"]
+tt22801666	8	nm0131781	self	\N	["Self - Musical Guest"]
+tt22801666	9	nm2787479	self	\N	["Self"]
 tt22801668	1	nm13174279	self	\N	["Self"]
 tt22801668	2	nm14145996	self	\N	["Self"]
 tt22801668	3	nm7768324	producer	producer	\N
@@ -3389,10 +3399,10 @@ tt22802124	1	nm0004804	self	\N	["Self - Host"]
 tt22802124	2	nm0336426	self	\N	["Self - Announcer"]
 tt22802124	3	nm1757601	self	\N	["Self - Model"]
 tt22802128	1	nm0004804	self	\N	["Self - Host"]
-tt22802128	2	nm3778244	self	\N	["Self"]
-tt22802128	3	nm0336426	self	\N	["Self - Announcer"]
-tt22802128	4	nm0001339	self	\N	["Self"]
-tt22802128	5	nm2809645	self	\N	["Self"]
+tt22802128	2	nm0001339	self	\N	["Self"]
+tt22802128	3	nm3778244	self	\N	["Self"]
+tt22802128	4	nm2809645	self	\N	["Self"]
+tt22802128	5	nm0336426	self	\N	["Self - Announcer"]
 tt22802128	6	nm1757601	self	\N	["Self - Model"]
 tt22802130	10	nm0393854	actor	\N	["Sam Dingle"]
 tt22802130	1	nm0223327	actress	\N	["Faith Dingle"]
@@ -3883,7 +3893,7 @@ tt22802738	10	nm4508080	composer	\N	\N
 tt22802738	1	nm9608807	actress	\N	["Nirvana"]
 tt22802738	2	nm1310779	actress	\N	["Liane"]
 tt22802738	3	nm11500673	actress	\N	["Denise"]
-tt22802738	4	nm5131353	actor	\N	["Waldisney"]
+tt22802738	4	nm12508632	actress	\N	["Dr. Sandra"]
 tt22802738	5	nm3776474	director	\N	\N
 tt22802738	6	nm3973772	producer	producer	\N
 tt22802738	7	nm2857845	producer	producer	\N
@@ -4346,7 +4356,16 @@ tt22803180	7	nm1935420	self	\N	["Self - CBS News Correspondent"]
 tt22803182	1	nm0005102	director	\N	\N
 tt22803182	2	nm14146788	writer	\N	\N
 tt22803182	3	nm5947733	producer	producer	\N
-tt22803190	1	nm14152218	self	\N	["Self"]
+tt22803190	10	nm14161026	self	\N	["Self - Entrepreneur: Expedition Subsahara"]
+tt22803190	1	nm1171860	self	\N	["Self - Shark"]
+tt22803190	2	nm4883262	self	\N	["Self - Shark"]
+tt22803190	3	nm2891294	self	\N	["Self - Shark"]
+tt22803190	4	nm1369247	self	\N	["Self - Shark"]
+tt22803190	5	nm2891968	self	\N	["Self - Shark"]
+tt22803190	6	nm0970813	actor	\N	["Announcer"]
+tt22803190	7	nm14161024	self	\N	["Self - Entrepreneur: Storage Scholars"]
+tt22803190	8	nm14161025	self	\N	["Self - Entrepreneur: Storage Scholars"]
+tt22803190	9	nm14152218	self	\N	["Self - Entrepreneur: Ghia"]
 tt22803198	1	nm1000648	director	\N	\N
 tt22803216	1	nm14146799	self	\N	["Self"]
 tt22803216	2	nm14146798	self	\N	["Self"]
@@ -4357,16 +4376,16 @@ tt22803216	6	nm3554224	director	\N	\N
 tt22803216	7	nm0708174	archive_footage	\N	["Self"]
 tt22803216	8	nm9384919	self	\N	["Self"]
 tt22803216	9	nm5967427	archive_footage	\N	["Self"]
-tt22803220	10	nm4403105	producer	producer	\N
+tt22803220	10	nm0509176	producer	producer	\N
 tt22803220	1	nm6843400	actress	\N	["Sky"]
-tt22803220	2	nm2062531	actor	\N	["Pepe"]
-tt22803220	3	nm3078571	director	\N	\N
-tt22803220	4	nm5328670	writer	\N	\N
-tt22803220	5	nm3096049	writer	\N	\N
-tt22803220	6	nm6224896	producer	producer	\N
-tt22803220	7	nm5034586	producer	producer	\N
-tt22803220	8	nm0509176	producer	producer	\N
-tt22803220	9	nm0545502	producer	producer	\N
+tt22803220	2	nm4317622	actor	\N	["Carrie"]
+tt22803220	3	nm4055138	actor	\N	["Dylan"]
+tt22803220	4	nm2062531	actor	\N	["Pepe"]
+tt22803220	5	nm3078571	director	\N	\N
+tt22803220	6	nm5328670	writer	\N	\N
+tt22803220	7	nm3096049	writer	\N	\N
+tt22803220	8	nm6224896	producer	producer	\N
+tt22803220	9	nm5034586	producer	producer	\N
 tt22803226	1	nm1035396	self	\N	["Self - Host"]
 tt22803226	2	nm2521370	self	\N	["Self - Host"]
 tt22803230	1	nm13851850	actor	\N	["Alina Hornet","Jill Hornet"]
@@ -4526,6 +4545,8 @@ tt22803442	2	nm0826888	self	\N	["Self - Co-Anchor"]
 tt22803442	3	nm1476939	self	\N	["Self - Co-Anchor"]
 tt22803442	4	nm1712157	self	\N	["Self - Co-Anchor"]
 tt22803442	5	nm4334410	self	\N	["Self - ABC News Chief Meteorologist"]
+tt22803442	6	nm4273989	self	\N	["Self"]
+tt22803442	7	nm0761521	self	\N	["Self - Jackson State University Head Football Coach"]
 tt22803446	1	nm5589659	actor	\N	\N
 tt22803446	2	nm9884091	actor	\N	\N
 tt22803446	3	nm6013230	actress	\N	\N
@@ -4793,8 +4814,16 @@ tt22803874	6	nm2003228	self	\N	["Self - Correspondent"]
 tt22803874	7	nm14159883	self	\N	["Self"]
 tt22803874	8	nm11339166	self	\N	["Self - Correspondent"]
 tt22803874	9	nm3378918	self	\N	["Self - Correspondent"]
+tt22803876	10	nm3378918	self	\N	["Self - Correspondent"]
 tt22803876	1	nm3054394	self	\N	["Self - Co-Host"]
 tt22803876	2	nm1414428	self	\N	["Self - Co-Host"]
+tt22803876	3	nm7924105	self	\N	["Self - Guest Co-Host"]
+tt22803876	4	nm3628842	self	\N	["Self"]
+tt22803876	5	nm2166842	self	\N	["Self"]
+tt22803876	6	nm10604048	self	\N	["Self"]
+tt22803876	7	nm3758625	self	\N	["Self - White House Correspondent"]
+tt22803876	8	nm14126086	self	\N	["Self"]
+tt22803876	9	nm2005078	self	\N	["Self - Correspondent"]
 tt22803878	1	nm3054394	self	\N	["Self - Co-Host"]
 tt22803878	2	nm1414428	self	\N	["Self - Co-Host"]
 tt22803882	1	nm6518846	self	\N	["Self"]
@@ -4850,6 +4879,7 @@ tt22803918	2	nm3966212	director	\N	\N
 tt22803918	3	nm5986518	composer	\N	\N
 tt22803922	1	nm11095986	self	\N	["Self"]
 tt22803924	1	nm14154032	actress	\N	["Chef Tracy Little"]
+tt22803924	2	nm3858884	producer	producer	\N
 tt22803926	1	nm14147208	actor	\N	["Liseth Medema"]
 tt22803926	2	nm14147209	actor	\N	["Tom Medema"]
 tt22803926	3	nm2897754	producer	producer	\N
@@ -6682,6 +6712,7 @@ tt22805940	1	nm0147197	self	\N	["Self - Host"]
 tt22805942	1	nm0734472	writer	based upon "Star Trek" created by	\N
 tt22805942	2	nm0572982	writer	created by	\N
 tt22805944	1	nm0147197	self	\N	["Self - Host"]
+tt22805944	2	nm0000638	self	\N	["Self - Author, Boldly Go"]
 tt22805946	1	nm12541289	actress	\N	\N
 tt22805946	2	nm11084221	actress	\N	\N
 tt22805950	1	nm10135141	self	\N	["Self"]
@@ -6852,6 +6883,9 @@ tt22806114	1	nm2004474	self	\N	["Self - Co-Host"]
 tt22806114	2	nm2651530	self	\N	["Self - Co-Host"]
 tt22806114	3	nm2549258	self	\N	["Self - Co-Host"]
 tt22806114	4	nm1984860	self	\N	["Self - Co-Host"]
+tt22806114	5	nm1214461	self	\N	["Self - Co-Host"]
+tt22806114	6	nm4998117	self	\N	["Self - Guest Co-Host"]
+tt22806114	7	nm5400845	self	\N	["Self - Guest Co-Host"]
 tt22806118	10	nm14124705	actor	\N	["The Odditorium Guy"]
 tt22806118	1	nm10925817	actor	\N	["Eve Sterwin"]
 tt22806118	2	nm14124706	actor	\N	["Bigfoot"]
@@ -7639,16 +7673,16 @@ tt22806424	4	nm7271410	self	\N	["Self - Panelist"]
 tt22806424	5	nm1427433	director	\N	\N
 tt22806424	6	nm4702866	editor	\N	\N
 tt22806424	7	nm5948470	self	\N	["Self - Panelist"]
-tt22806426	10	nm4215806	editor	online editor	\N
-tt22806426	1	nm10164854	producer	producer	\N
-tt22806426	2	nm14135997	producer	producer	\N
-tt22806426	3	nm14135998	producer	producer	\N
-tt22806426	4	nm14135999	producer	producer	\N
-tt22806426	5	nm14136000	producer	producer	\N
-tt22806426	6	nm14136001	producer	producer	\N
-tt22806426	7	nm14148976	producer	producer	\N
-tt22806426	8	nm6180528	producer	producer	\N
-tt22806426	9	nm14136002	producer	producer	\N
+tt22806426	10	nm14136002	producer	producer	\N
+tt22806426	1	nm8147557	director	\N	\N
+tt22806426	2	nm10164854	producer	producer	\N
+tt22806426	3	nm14135997	producer	producer	\N
+tt22806426	4	nm14135998	producer	producer	\N
+tt22806426	5	nm14135999	producer	producer	\N
+tt22806426	6	nm14136000	producer	producer	\N
+tt22806426	7	nm14136001	producer	producer	\N
+tt22806426	8	nm14148976	producer	producer	\N
+tt22806426	9	nm6180528	producer	producer	\N
 tt22806428	1	nm4654083	actor	\N	\N
 tt22806428	2	nm14148242	actor	\N	\N
 tt22806428	3	nm14148241	actress	\N	\N
@@ -8000,9 +8034,10 @@ tt22806540	4	nm7271410	self	\N	["Self - Panelist"]
 tt22806540	5	nm1427433	director	\N	\N
 tt22806540	6	nm4702866	editor	\N	\N
 tt22806540	7	nm5948470	self	\N	["Self - Panelist"]
-tt22806544	1	nm5890167	actor	\N	\N
-tt22806544	2	nm8419928	actor	\N	\N
-tt22806544	3	nm7056474	actor	\N	\N
+tt22806544	1	nm9641921	actor	\N	\N
+tt22806544	2	nm5890167	actor	\N	\N
+tt22806544	3	nm8419928	actor	\N	\N
+tt22806544	4	nm7056474	actor	\N	\N
 tt22806546	1	nm0563600	self	\N	["Self - Host"]
 tt22806546	2	nm1614948	self	\N	["Self - Host"]
 tt22806546	3	nm4560873	self	\N	["Self - Panelist"]
@@ -8772,12 +8807,13 @@ tt22806800	5	nm1427433	director	\N	\N
 tt22806800	6	nm4702866	editor	\N	\N
 tt22806800	7	nm5948470	self	\N	["Self - Panelist"]
 tt22806802	1	nm14148295	self	\N	["Self - Guest"]
-tt22806802	2	nm14148334	self	\N	["Self - Host"]
-tt22806802	3	nm14138540	director	\N	\N
-tt22806802	4	nm14138541	producer	producer	\N
-tt22806802	5	nm8182069	composer	\N	\N
-tt22806802	6	nm14138542	cinematographer	\N	\N
-tt22806802	7	nm14138543	editor	\N	\N
+tt22806802	2	nm14161307	self	\N	["Self - Guest"]
+tt22806802	3	nm14148334	self	\N	["Self - Host"]
+tt22806802	4	nm14138540	director	\N	\N
+tt22806802	5	nm14138541	producer	producer	\N
+tt22806802	6	nm8182069	composer	\N	\N
+tt22806802	7	nm14138542	cinematographer	\N	\N
+tt22806802	8	nm14138543	editor	\N	\N
 tt22806804	1	nm0563600	self	\N	["Self - Host"]
 tt22806804	2	nm1614948	self	\N	["Self - Host"]
 tt22806804	3	nm4560873	self	\N	["Self - Panelist"]
@@ -11926,6 +11962,7 @@ tt22807724	1	nm14153373	actor	\N	\N
 tt22807724	2	nm14148475	actor	\N	\N
 tt22807724	3	nm14153375	actor	\N	\N
 tt22807724	4	nm14153374	actor	\N	\N
+tt22807724	5	nm14161208	actor	\N	\N
 tt22807726	10	nm14139331	writer	\N	\N
 tt22807726	1	nm0536093	actress	\N	\N
 tt22807726	2	nm2982557	actress	\N	["Zandile Msutwana"]
@@ -12441,7 +12478,7 @@ tt22808104	4	nm13661191	director	\N	\N
 tt22808104	5	nm13878445	producer	producer	\N
 tt22808104	6	nm12337060	cinematographer	\N	\N
 tt22808118	1	nm4799547	self	\N	["Self"]
-tt22808120	10	nm9322073	composer	\N	\N
+tt22808120	10	nm14001223	producer	producer	\N
 tt22808120	1	nm6369597	actor	\N	["The Mime"]
 tt22808120	2	nm2209554	director	\N	\N
 tt22808120	3	nm13657749	director	\N	\N
@@ -14227,15 +14264,15 @@ tt22808618	6	nm1958781	director	\N	\N
 tt22808618	7	nm1656979	director	\N	\N
 tt22808618	8	nm1601654	director	\N	\N
 tt22808618	9	nm8324962	writer	head writer	\N
-tt22808620	10	nm3251532	actress	\N	\N
+tt22808620	10	nm12953205	actor	\N	\N
 tt22808620	1	nm5380264	actress	\N	\N
-tt22808620	2	nm0946157	actor	\N	\N
-tt22808620	3	nm0592499	actress	\N	\N
-tt22808620	4	nm0265747	actor	\N	\N
+tt22808620	2	nm0592499	actress	\N	\N
+tt22808620	3	nm0946157	actor	\N	\N
+tt22808620	4	nm3437705	actress	\N	\N
 tt22808620	5	nm1769544	writer	creator	\N
-tt22808620	6	nm3437705	actress	\N	\N
-tt22808620	7	nm8831733	actress	\N	["Mariya"]
-tt22808620	8	nm12953205	actor	\N	\N
+tt22808620	6	nm6184798	actress	\N	["Alisa"]
+tt22808620	7	nm0265747	actor	\N	\N
+tt22808620	8	nm8831733	actress	\N	["Mariya"]
 tt22808620	9	nm13745999	actor	\N	\N
 tt22808624	10	nm0688367	editor	\N	\N
 tt22808624	1	nm0647573	actor	\N	["Rudolf Paulsen"]
@@ -14422,10 +14459,6 @@ tt22808784	7	nm1395460	producer	producer	\N
 tt22808784	8	nm0252395	composer	\N	\N
 tt22808784	9	nm0705482	cinematographer	\N	\N
 tt22808792	1	nm14147462	director	\N	\N
-tt22808834	1	nm4429739	actress	\N	\N
-tt22808834	2	nm1102191	actor	\N	\N
-tt22808834	3	nm0847570	actor	\N	\N
-tt22808834	4	nm5119048	director	\N	\N
 tt22808876	1	nm6841629	actress	\N	["Catwoman"]
 tt22808876	2	nm7695551	actor	\N	["Batman"]
 tt22808886	1	nm14148730	actress	\N	["Mom"]

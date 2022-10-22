@@ -8992,9 +8992,10 @@ tt16223728	1	nm13818880	self	\N	["Self - Host"]
 tt16223728	2	nm9446183	self	\N	["Self"]
 tt16223728	3	nm11959749	self	\N	["Self"]
 tt16223728	4	nm12156173	self	\N	["Self"]
-tt16223728	5	nm4701607	self	\N	["Self"]
+tt16223728	5	nm7682693	actor	\N	\N
 tt16223728	6	nm13492942	self	\N	["Self"]
-tt16223728	7	nm11090260	self	\N	["Self"]
+tt16223728	7	nm4701607	self	\N	["Self"]
+tt16223728	8	nm11090260	self	\N	["Self"]
 tt16223736	1	nm9927879	self	\N	["Self"]
 tt16223736	2	nm8299974	self	\N	["Self - Host"]
 tt16223736	3	nm13115499	self	\N	["Self"]
@@ -9191,7 +9192,6 @@ tt16223894	4	nm12384691	director	\N	\N
 tt16223894	5	nm12391537	writer	\N	\N
 tt16223894	6	nm13149492	writer	idea	\N
 tt16223894	7	nm1930572	composer	\N	\N
-tt16223894	8	nm5930723	composer	\N	\N
 tt16223900	1	nm2255137	actor	\N	\N
 tt16223900	2	nm13149507	actor	\N	\N
 tt16223904	1	nm13149512	actor	\N	\N
@@ -9224,7 +9224,6 @@ tt16223942	4	nm12384691	director	\N	\N
 tt16223942	5	nm12391537	writer	\N	\N
 tt16223942	6	nm13149532	writer	idea	\N
 tt16223942	7	nm1930572	composer	\N	\N
-tt16223942	8	nm5930723	composer	\N	\N
 tt16223944	1	nm12984181	director	\N	\N
 tt16223946	1	nm9091167	composer	\N	\N
 tt16223948	1	nm9091167	composer	\N	\N
@@ -11064,7 +11063,6 @@ tt16225568	4	nm12913977	actor	\N	["Present Block","Rabbit"]
 tt16225568	5	nm12384691	director	\N	\N
 tt16225568	6	nm12391537	writer	\N	\N
 tt16225568	7	nm1930572	composer	\N	\N
-tt16225568	8	nm5930723	composer	\N	\N
 tt16225570	1	nm4176291	self	\N	["Self"]
 tt16225570	2	nm2429688	self	\N	["Self"]
 tt16225572	10	nm9896960	editor	\N	\N
@@ -11323,7 +11321,6 @@ tt16225648	5	nm12384691	director	\N	\N
 tt16225648	6	nm12391537	writer	\N	\N
 tt16225648	7	nm13150089	writer	idea	\N
 tt16225648	8	nm1930572	composer	\N	\N
-tt16225648	9	nm5930723	composer	\N	\N
 tt16225650	10	nm0918515	producer	producer	\N
 tt16225650	1	nm4125734	actor	\N	["Jack"]
 tt16225650	2	nm4119406	actress	\N	["Violet"]
@@ -11445,7 +11442,6 @@ tt16225684	4	nm12384691	director	\N	\N
 tt16225684	5	nm12391537	writer	\N	\N
 tt16225684	6	nm13107236	writer	idea	\N
 tt16225684	7	nm1930572	composer	\N	\N
-tt16225684	8	nm5930723	composer	\N	\N
 tt16225686	10	nm0083888	self	\N	["Self"]
 tt16225686	1	nm0029875	actor	\N	["Kurt Angle"]
 tt16225686	2	nm5195221	archive_footage	\N	["Roman Reigns"]
@@ -11586,7 +11582,6 @@ tt16225738	5	nm12384691	director	\N	\N
 tt16225738	6	nm12391537	writer	\N	\N
 tt16225738	7	nm13150107	writer	idea	\N
 tt16225738	8	nm1930572	composer	\N	\N
-tt16225738	9	nm5930723	composer	\N	\N
 tt16225740	10	nm0661678	actress	\N	["Denise Fox"]
 tt16225740	1	nm2969934	actress	\N	["Whitney Dean"]
 tt16225740	2	nm7492072	actor	\N	["Gray Atkins"]
@@ -11844,7 +11839,6 @@ tt16225924	5	nm12384691	director	\N	\N
 tt16225924	6	nm12391537	writer	\N	\N
 tt16225924	7	nm13150212	writer	idea	\N
 tt16225924	8	nm1930572	composer	\N	\N
-tt16225924	9	nm5930723	composer	\N	\N
 tt16225926	1	nm11519831	actor	\N	\N
 tt16225926	2	nm12829587	actress	\N	\N
 tt16225928	10	nm13118527	self	\N	["Self - Housemate"]
@@ -12001,7 +11995,6 @@ tt16225990	4	nm13149904	actress	\N	["Yellow Shirted Player"]
 tt16225990	5	nm12384691	director	\N	\N
 tt16225990	6	nm12391537	writer	\N	\N
 tt16225990	7	nm1930572	composer	\N	\N
-tt16225990	8	nm5930723	composer	\N	\N
 tt16225994	1	nm1546555	self	\N	["Self - Storyteller"]
 tt16225996	1	nm1546555	self	\N	["Self - Storyteller"]
 tt16226000	1	nm7310204	actress	\N	["Mia"]
@@ -12278,16 +12271,16 @@ tt16226322	6	nm13146449	writer	screenplay	\N
 tt16226322	7	nm3100048	writer	story	\N
 tt16226322	8	nm9018469	cinematographer	\N	\N
 tt16226322	9	nm9218100	cinematographer	\N	\N
-tt16226328	10	nm13720507	actor	\N	["Kenna"]
+tt16226328	10	nm13720507	actor	\N	["D&D Player","Kenna"]
 tt16226328	1	nm7149567	actor	\N	["Roman"]
 tt16226328	2	nm9252357	actor	\N	["Youngblood"]
 tt16226328	3	nm10035740	actor	\N	["AJ - Dungeon Master","Aunt Patty","Fast Timmy"]
-tt16226328	4	nm9304920	actor	\N	["Lyra","Melle Vinne","Misty Monster's Female Voice"]
+tt16226328	4	nm9304920	actor	\N	["Lyra","Noise","Melle Vinne"]
 tt16226328	5	nm13163367	actor	\N	["Misty Blue Eyes"]
-tt16226328	6	nm11949594	actor	\N	["Snoot"]
-tt16226328	7	nm9286088	actor	\N	["Dom"]
-tt16226328	8	nm11144439	actress	\N	["Rene"]
-tt16226328	9	nm13572803	actor	\N	["Grace"]
+tt16226328	6	nm11949594	actor	\N	["Snoot","Snoot - Scene Recreation"]
+tt16226328	7	nm9286088	actor	\N	["D&D Player","Dom"]
+tt16226328	8	nm11144439	actress	\N	["D&D Player","Rene"]
+tt16226328	9	nm13572803	actor	\N	["D&D Player","Grace"]
 tt16226330	1	nm0133408	actress	\N	\N
 tt16226330	2	nm0009494	composer	\N	\N
 tt16226330	3	nm1352204	editor	\N	\N
@@ -14529,6 +14522,7 @@ tt16227452	4	nm1697585	composer	\N	\N
 tt16227452	5	nm10641802	cinematographer	\N	\N
 tt16227452	6	nm3765357	cinematographer	\N	\N
 tt16227452	7	nm12681453	editor	\N	\N
+tt16227454	10	nm0132289	production_designer	\N	\N
 tt16227454	1	nm6675440	actress	\N	["Jocelyn"]
 tt16227454	2	nm1070597	actor	\N	["Tedros"]
 tt16227454	3	nm10847160	actress	\N	["Chloe"]
@@ -14537,7 +14531,7 @@ tt16227454	5	nm0506094	director	\N	\N
 tt16227454	6	nm1541272	director	\N	\N
 tt16227454	7	nm8407249	writer	co-creator	\N
 tt16227454	8	nm5118099	cinematographer	director of photography	\N
-tt16227454	9	nm0132289	production_designer	\N	\N
+tt16227454	9	nm2815444	cinematographer	\N	\N
 tt16227456	1	nm13151476	actor	\N	["Mohannad"]
 tt16227456	2	nm13151477	actor	\N	["Nikola"]
 tt16227456	3	nm10906749	director	\N	\N
@@ -14547,6 +14541,7 @@ tt16227456	6	nm2369681	editor	\N	\N
 tt16227460	1	nm1058250	actress	\N	["Narrator"]
 tt16227462	1	nm1058250	actress	\N	["Narrator"]
 tt16227462	2	nm1510409	producer	producer	\N
+tt16227466	10	nm0132289	production_designer	\N	\N
 tt16227466	1	nm6675440	actress	\N	["Jocelyn"]
 tt16227466	2	nm1070597	actor	\N	["Tedros"]
 tt16227466	3	nm10847160	actress	\N	["Chloe"]
@@ -14555,7 +14550,7 @@ tt16227466	5	nm0506094	director	\N	\N
 tt16227466	6	nm1541272	director	\N	\N
 tt16227466	7	nm8407249	writer	co-creator	\N
 tt16227466	8	nm5118099	cinematographer	director of photography	\N
-tt16227466	9	nm0132289	production_designer	\N	\N
+tt16227466	9	nm2815444	cinematographer	\N	\N
 tt16227468	10	nm12284859	editor	\N	\N
 tt16227468	1	nm5752865	actress	\N	\N
 tt16227468	2	nm2064587	actor	\N	\N
@@ -14571,6 +14566,7 @@ tt16227470	2	nm0276472	actor	\N	\N
 tt16227470	3	nm0431235	actor	\N	\N
 tt16227474	1	nm6254202	self	\N	["Self"]
 tt16227474	2	nm6254201	self	\N	["Self"]
+tt16227476	10	nm0132289	production_designer	\N	\N
 tt16227476	1	nm6675440	actress	\N	["Jocelyn"]
 tt16227476	2	nm1070597	actor	\N	["Tedros"]
 tt16227476	3	nm10847160	actress	\N	["Chloe"]
@@ -14579,7 +14575,7 @@ tt16227476	5	nm0506094	director	\N	\N
 tt16227476	6	nm1541272	director	\N	\N
 tt16227476	7	nm8407249	writer	co-creator	\N
 tt16227476	8	nm5118099	cinematographer	director of photography	\N
-tt16227476	9	nm0132289	production_designer	\N	\N
+tt16227476	9	nm2815444	cinematographer	\N	\N
 tt16227478	1	nm13141781	self	\N	["Self"]
 tt16227478	2	nm10576151	self	\N	["Self"]
 tt16227478	3	nm13151516	self	\N	["Self"]
@@ -14623,6 +14619,7 @@ tt16227508	2	nm10259119	self	\N	["Self"]
 tt16227508	3	nm6425132	self	\N	["Self"]
 tt16227508	4	nm10152665	self	\N	["Self"]
 tt16227508	5	nm8083499	self	\N	["Self"]
+tt16227512	10	nm0132289	production_designer	\N	\N
 tt16227512	1	nm6675440	actress	\N	["Jocelyn"]
 tt16227512	2	nm1070597	actor	\N	["Tedros"]
 tt16227512	3	nm10847160	actress	\N	["Chloe"]
@@ -14631,7 +14628,7 @@ tt16227512	5	nm0506094	director	\N	\N
 tt16227512	6	nm1541272	director	\N	\N
 tt16227512	7	nm8407249	writer	co-creator	\N
 tt16227512	8	nm5118099	cinematographer	director of photography	\N
-tt16227512	9	nm0132289	production_designer	\N	\N
+tt16227512	9	nm2815444	cinematographer	\N	\N
 tt16227516	1	nm0390396	actor	\N	\N
 tt16227516	2	nm1701264	director	\N	\N
 tt16227516	3	nm1700008	producer	producer	\N
@@ -14645,6 +14642,7 @@ tt16227518	3	nm10283492	self	\N	["Self"]
 tt16227518	4	nm10638250	self	\N	["Self"]
 tt16227518	5	nm13143341	self	\N	["Self"]
 tt16227518	6	nm10057333	actor	\N	\N
+tt16227520	10	nm0132289	production_designer	\N	\N
 tt16227520	1	nm6675440	actress	\N	["Jocelyn"]
 tt16227520	2	nm1070597	actor	\N	["Tedros"]
 tt16227520	3	nm10847160	actress	\N	["Chloe"]
@@ -14653,7 +14651,7 @@ tt16227520	5	nm0506094	director	\N	\N
 tt16227520	6	nm1541272	director	\N	\N
 tt16227520	7	nm8407249	writer	co-creator	\N
 tt16227520	8	nm5118099	cinematographer	director of photography	\N
-tt16227520	9	nm0132289	production_designer	\N	\N
+tt16227520	9	nm2815444	cinematographer	\N	\N
 tt16227522	1	nm13151179	self	\N	["Self"]
 tt16227522	2	nm9544598	self	\N	["Self"]
 tt16227522	3	nm7711224	self	\N	["Self"]

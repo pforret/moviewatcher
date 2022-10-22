@@ -15107,15 +15107,17 @@ tt21307270	1	nm8565479	actress	\N	["Mae Park"]
 tt21307270	2	nm8302815	actor	\N	["Mo Haleem"]
 tt21307270	3	nm1113893	writer	Created by	\N
 tt21307270	4	nm3151092	writer	\N	\N
-tt21307270	5	nm0250108	producer	producer	\N
-tt21307270	6	nm0680407	cinematographer	\N	\N
+tt21307270	5	nm8787704	writer	created by	\N
+tt21307270	6	nm0250108	producer	producer	\N
+tt21307270	7	nm0680407	cinematographer	\N	\N
 tt21307272	1	nm0255578	actor	\N	["Moses Haleem"]
 tt21307272	2	nm8565479	actress	\N	["Mae Park"]
 tt21307272	3	nm8302815	actor	\N	["Mo Haleem"]
 tt21307272	4	nm1113893	writer	Created by	\N
 tt21307272	5	nm11339544	writer	\N	\N
-tt21307272	6	nm0250108	producer	producer	\N
-tt21307272	7	nm0680407	cinematographer	\N	\N
+tt21307272	6	nm8787704	writer	created by	\N
+tt21307272	7	nm0250108	producer	producer	\N
+tt21307272	8	nm0680407	cinematographer	\N	\N
 tt21307276	1	nm8036536	actor	\N	["Banker"]
 tt21307276	2	nm8565479	actress	\N	["Mae Park"]
 tt21307276	3	nm11075117	actor	\N	["Banker 2"]
@@ -15129,6 +15131,7 @@ tt21307278	2	nm12963419	actor	\N	["Jonathan"]
 tt21307278	3	nm8376920	actor	\N	["Brooklyn T. Guy","Cody"]
 tt21307278	4	nm6774390	actor	\N	["Jeffy","Simmons"]
 tt21307278	5	nm6774388	director	\N	\N
+tt21307282	10	nm0680407	cinematographer	\N	\N
 tt21307282	1	nm8565479	actress	\N	["Mae Park"]
 tt21307282	2	nm4414689	actor	\N	["Ref"]
 tt21307282	3	nm8302815	actor	\N	["Mo Haleem"]
@@ -15136,12 +15139,13 @@ tt21307282	4	nm13150954	actress	\N	["Leki"]
 tt21307282	5	nm5629648	writer	\N	\N
 tt21307282	6	nm1113893	writer	Created by	\N
 tt21307282	7	nm5337731	writer	\N	\N
-tt21307282	8	nm0250108	producer	producer	\N
-tt21307282	9	nm0680407	cinematographer	\N	\N
+tt21307282	8	nm8787704	writer	created by	\N
+tt21307282	9	nm0250108	producer	producer	\N
 tt21307286	1	nm8671673	actress	\N	["Penelope"]
 tt21307286	2	nm8376920	actor	\N	["Cody","Brooklyn T. Guy"]
 tt21307286	3	nm6774390	actor	\N	["Jeffy"]
 tt21307286	4	nm6774388	actor	\N	["Bowser Junior"]
+tt21307288	10	nm0680407	cinematographer	\N	\N
 tt21307288	1	nm8302815	actor	\N	["Mo Haleem"]
 tt21307288	2	nm14120029	actress	\N	["Kim"]
 tt21307288	3	nm5629648	director	\N	\N
@@ -15149,12 +15153,12 @@ tt21307288	4	nm4177551	director	\N	\N
 tt21307288	5	nm1113893	writer	Created by	\N
 tt21307288	6	nm8268327	writer	\N	\N
 tt21307288	7	nm11339544	writer	\N	\N
-tt21307288	8	nm0250108	producer	producer	\N
-tt21307288	9	nm0680407	cinematographer	\N	\N
+tt21307288	8	nm8787704	writer	created by	\N
+tt21307288	9	nm0250108	producer	producer	\N
 tt21307290	1	nm13856914	actor	\N	\N
 tt21307290	2	nm10543880	composer	\N	\N
 tt21307290	3	nm6525861	cinematographer	\N	\N
-tt21307292	10	nm0680407	cinematographer	\N	\N
+tt21307292	10	nm0250108	producer	producer	\N
 tt21307292	1	nm0255578	actor	\N	["Moses Haleem"]
 tt21307292	2	nm8565479	actress	\N	["Mae Park"]
 tt21307292	3	nm8302815	actor	\N	["Mo Haleem"]
@@ -15163,15 +15167,16 @@ tt21307292	5	nm4177551	director	\N	\N
 tt21307292	6	nm6412370	writer	\N	\N
 tt21307292	7	nm1113893	writer	Created by	\N
 tt21307292	8	nm8644470	writer	\N	\N
-tt21307292	9	nm0250108	producer	producer	\N
+tt21307292	9	nm8787704	writer	created by	\N
 tt21307294	1	nm0255578	actor	\N	["Moses Haleem"]
 tt21307294	2	nm8302815	actor	\N	["Mo Haleem"]
 tt21307294	3	nm14120029	actress	\N	["Kim"]
 tt21307294	4	nm4177551	director	\N	\N
 tt21307294	5	nm1113893	writer	Created by	\N
 tt21307294	6	nm11339544	writer	\N	\N
-tt21307294	7	nm0250108	producer	producer	\N
-tt21307294	8	nm3797495	cinematographer	\N	\N
+tt21307294	7	nm8787704	writer	created by	\N
+tt21307294	8	nm0250108	producer	producer	\N
+tt21307294	9	nm3797495	cinematographer	\N	\N
 tt21307298	1	nm13843355	actor	\N	["Billy Stom"]
 tt21307298	2	nm10195626	actor	\N	["Jerry Topple"]
 tt21307298	3	nm8189319	director	\N	\N
@@ -17985,6 +17990,16 @@ tt21308934	3	nm13098163	director	\N	\N
 tt21308934	4	nm13857796	producer	producer	\N
 tt21308934	5	nm9989037	cinematographer	\N	\N
 tt21308934	6	nm13857800	editor	\N	\N
+tt21308936	10	nm9708251	editor	\N	\N
+tt21308936	1	nm6812436	actor	\N	["Tufan"]
+tt21308936	2	nm9575019	actor	\N	["Samet"]
+tt21308936	3	nm7465536	actress	\N	["Seda"]
+tt21308936	4	nm9685371	actor	\N	["Furkan"]
+tt21308936	5	nm7143927	director	\N	\N
+tt21308936	6	nm2418206	producer	producer	\N
+tt21308936	7	nm9586186	composer	\N	\N
+tt21308936	8	nm4933375	cinematographer	\N	\N
+tt21308936	9	nm2908532	editor	\N	\N
 tt21308940	10	nm10520703	editor	\N	\N
 tt21308940	1	nm11903189	actress	\N	["Wife"]
 tt21308940	2	nm5426394	actor	\N	["Fin"]
@@ -17999,6 +18014,16 @@ tt21308944	1	nm1773287	self	\N	["Self - Moderatorin"]
 tt21308944	2	nm2664810	self	\N	["Self - Moderator"]
 tt21308944	3	nm10010723	director	\N	\N
 tt21308944	4	nm9045523	cinematographer	\N	\N
+tt21308948	10	nm9708251	editor	\N	\N
+tt21308948	1	nm6812436	actor	\N	["Tufan"]
+tt21308948	2	nm9575019	actor	\N	["Samet"]
+tt21308948	3	nm3532880	actress	\N	["Hülya"]
+tt21308948	4	nm5785849	actress	\N	["Merve"]
+tt21308948	5	nm7143927	director	\N	\N
+tt21308948	6	nm2418206	producer	producer	\N
+tt21308948	7	nm9586186	composer	\N	\N
+tt21308948	8	nm4933375	cinematographer	\N	\N
+tt21308948	9	nm2908532	editor	\N	\N
 tt21308954	1	nm13820963	producer	producer	\N
 tt21308964	1	nm13820963	producer	producer	\N
 tt21308978	1	nm13820963	producer	producer	\N

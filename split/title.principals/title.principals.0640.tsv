@@ -19586,12 +19586,10 @@ tt6408508	1	nm0017644	actress	\N	["Storyteller"]
 tt6408510	1	nm0017644	actress	\N	["Storyteller"]
 tt6408512	1	nm0017644	actress	\N	["Storyteller"]
 tt6408514	1	nm0017644	actress	\N	["Storyteller"]
-tt6408516	1	nm1285571	director	\N	\N
-tt6408516	2	nm0243903	director	\N	\N
-tt6408516	3	nm1250331	writer	writer	\N
-tt6408516	4	nm0305844	writer	writer	\N
-tt6408516	5	nm1303197	writer	story editor	\N
-tt6408516	6	nm0490094	composer	\N	\N
+tt6408516	1	nm1250331	writer	writer	\N
+tt6408516	2	nm0305844	writer	writer	\N
+tt6408516	3	nm1303197	writer	story editor	\N
+tt6408516	4	nm0490094	composer	\N	\N
 tt6408518	1	nm6185422	actress	\N	\N
 tt6408520	1	nm0017644	actress	\N	["Storyteller"]
 tt6408522	1	nm0017644	actress	\N	["Storyteller"]
@@ -20028,14 +20026,15 @@ tt6408848	4	nm9240584	self	\N	["Self - Dancer"]
 tt6408854	1	nm1667295	self	\N	["Self - Host"]
 tt6408854	2	nm1991807	self	\N	["Self - Hostess"]
 tt6408854	3	nm3948647	self	\N	["Self"]
-tt6408856	1	nm0913283	actress	\N	\N
-tt6408856	2	nm0353750	actor	\N	\N
-tt6408856	3	nm9253280	actor	\N	\N
-tt6408856	4	nm5934158	actor	\N	\N
+tt6408856	1	nm2466842	actor	\N	["Pauly"]
+tt6408856	2	nm0913283	actress	\N	\N
+tt6408856	3	nm0353750	actor	\N	\N
+tt6408856	4	nm2584305	actor	\N	["Whitey"]
 tt6408856	5	nm2672601	director	\N	\N
-tt6408856	6	nm5130512	writer	story by	\N
-tt6408856	7	nm5129363	writer	story by	\N
-tt6408856	8	nm5110530	producer	producer	\N
+tt6408856	6	nm5934158	writer	screenplay	\N
+tt6408856	7	nm5130512	writer	story by	\N
+tt6408856	8	nm5129363	writer	story by	\N
+tt6408856	9	nm5110530	producer	producer	\N
 tt6408858	1	nm5969740	writer	writer	\N
 tt6408858	2	nm1768201	writer	written by	\N
 tt6408860	1	nm0035391	self	\N	["Self - Vocalist"]

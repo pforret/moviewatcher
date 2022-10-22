@@ -2126,7 +2126,6 @@ tt18081158	5	nm12384691	director	\N	\N
 tt18081158	6	nm12391537	writer	\N	\N
 tt18081158	7	nm13185147	writer	idea	\N
 tt18081158	8	nm1930572	composer	\N	\N
-tt18081158	9	nm5930723	composer	\N	\N
 tt18081162	1	nm0740168	self	\N	["Self"]
 tt18081162	2	nm2126217	self	\N	["Themselves"]
 tt18081162	3	nm0507080	director	\N	\N
@@ -5700,9 +5699,11 @@ tt18082512	1	nm6004756	director	\N	\N
 tt18082512	2	nm8511897	producer	producer	\N
 tt18082512	3	nm4701189	producer	producer	\N
 tt18082512	4	nm9150646	producer	line producer	\N
-tt18082514	1	nm8619030	director	\N	\N
-tt18082514	2	nm3692282	producer	producer	\N
-tt18082514	3	nm7568944	editor	\N	\N
+tt18082514	1	nm8619030	self	\N	["Self"]
+tt18082514	2	nm14162941	self	\N	["Self"]
+tt18082514	3	nm14162942	self	\N	["Self"]
+tt18082514	4	nm3692282	producer	producer	\N
+tt18082514	5	nm7568944	editor	\N	\N
 tt18082516	1	nm12389390	self	\N	["Self - Host"]
 tt18082518	1	nm1203430	director	\N	\N
 tt18082520	1	nm12393073	self	\N	["Self - Host"]
@@ -11138,7 +11139,8 @@ tt18084150	1	nm1317785	self	\N	["Self - Host"]
 tt18084150	2	nm13406398	self	\N	["Self - Sun expert"]
 tt18084150	3	nm13406395	self	\N	["Self - The Fast and the Furious expert"]
 tt18084150	4	nm13406396	self	\N	["Self - Bananas expert"]
-tt18084150	5	nm13406397	self	\N	["Self - Leon Trotsky expert"]
+tt18084150	5	nm4183506	writer	Writer	\N
+tt18084150	6	nm13406397	self	\N	["Self - Leon Trotsky expert"]
 tt18084152	1	nm3073753	self	\N	["Self - Host"]
 tt18084154	1	nm2196932	director	\N	\N
 tt18084162	1	nm12167686	director	\N	\N

@@ -341,16 +341,16 @@ tt22522180	1	nm0903300	self	\N	["Self - Host"]
 tt22522180	2	nm14112826	director	\N	\N
 tt22522180	3	nm8340941	cinematographer	director of photography	\N
 tt22522180	4	nm8341999	cinematographer	director of photography	\N
-tt22522184	10	nm5585182	editor	\N	\N
+tt22522184	10	nm5569756	editor	\N	\N
 tt22522184	1	nm10135528	actor	\N	["Barney"]
 tt22522184	2	nm2770900	actor	\N	["Pugsley"]
 tt22522184	3	nm4378539	actress	\N	["Norma"]
 tt22522184	4	nm0652089	actress	\N	["Courtney"]
 tt22522184	5	nm0924289	director	\N	\N
 tt22522184	6	nm0715532	director	\N	\N
-tt22522184	7	nm2482205	producer	producer	\N
-tt22522184	8	nm5908015	composer	\N	\N
-tt22522184	9	nm5569756	editor	\N	\N
+tt22522184	7	nm10248520	writer	written by	\N
+tt22522184	8	nm2482205	producer	producer	\N
+tt22522184	9	nm5908015	composer	\N	\N
 tt22522186	1	nm0903300	self	\N	["Self - Host"]
 tt22522186	2	nm14112826	director	\N	\N
 tt22522186	3	nm8340941	cinematographer	director of photography	\N
@@ -2145,7 +2145,7 @@ tt22523244	6	nm14115392	actor	\N	["The Esteemed Prince"]
 tt22523244	7	nm14115343	actor	\N	["The Unfortunate Mute"]
 tt22523244	8	nm14115394	actor	\N	["Oscar, the Rifleman"]
 tt22523248	1	nm2406271	self	\N	["Self"]
-tt22523256	10	nm2632545	actor	\N	["Travis Montgomery"]
+tt22523256	10	nm9204208	writer	executive story editor	\N
 tt22523256	1	nm1632786	actress	\N	["Andy Herrera"]
 tt22523256	2	nm0313464	actor	\N	["Ben Warren"]
 tt22523256	3	nm0462673	actor	\N	["Robert Sullivan"]
@@ -2153,8 +2153,8 @@ tt22523256	4	nm3012064	actor	\N	["Jack Gibson"]
 tt22523256	5	nm1651745	director	\N	\N
 tt22523256	6	nm1464895	writer	created by	\N
 tt22523256	7	nm0722274	writer	based on 'Grey's Anatomy' created by	\N
-tt22523256	8	nm5540491	producer	producer	\N
-tt22523256	9	nm5495383	actress	\N	["Victoria Hugues"]
+tt22523256	8	nm1064117	writer	written by	\N
+tt22523256	9	nm9354541	writer	executive story editor	\N
 tt22523264	1	nm2050223	actor	\N	["Holger Nilsson"]
 tt22523264	2	nm1072502	actor	\N	["Mortensen"]
 tt22523264	3	nm0335098	actress	\N	["Mary-Diana Graaf"]
@@ -6569,8 +6569,9 @@ tt22525090	1	nm5568509	producer	producer	\N
 tt22525092	1	nm5568509	producer	producer	\N
 tt22525100	1	nm5568509	producer	producer	\N
 tt22525102	1	nm5568509	producer	producer	\N
-tt22525104	1	nm5568509	producer	producer	\N
-tt22525104	2	nm2814914	cinematographer	\N	\N
+tt22525104	1	nm1408603	actor	\N	["Koji"]
+tt22525104	2	nm5568509	producer	producer	\N
+tt22525104	3	nm2814914	cinematographer	\N	\N
 tt22525108	1	nm5568509	producer	producer	\N
 tt22525112	10	nm11393002	writer	dramaturge	\N
 tt22525112	1	nm8942381	actress	\N	["Josie Klee"]
@@ -6875,7 +6876,8 @@ tt22525754	8	nm14116232	actor	\N	["Beth"]
 tt22525754	9	nm14116234	actor	\N	["João Pedro"]
 tt22525756	1	nm0806163	self	\N	["Self - Host"]
 tt22525760	1	nm14156235	actress	\N	["Narrator"]
-tt22525760	2	nm1879575	self	\N	["Self - Titanic Artifact Specialist","Tour Guide"]
+tt22525760	2	nm14164262	actress	\N	["Narrator"]
+tt22525760	3	nm1879575	self	\N	["Self - Titanic Artifact Specialist","Tour Guide"]
 tt22525762	1	nm0806163	self	\N	["Self - Host"]
 tt22525764	1	nm9535975	self	\N	["Self - Guest"]
 tt22525764	2	nm2321533	self	\N	["Self - Host"]
@@ -8216,7 +8218,7 @@ tt22527556	3	nm3484621	self	\N	["Self"]
 tt22527556	4	nm6806403	self	\N	["Self"]
 tt22527556	5	nm13894775	director	\N	\N
 tt22527556	6	nm1918064	self	\N	["Self - Presenter"]
-tt22527558	10	nm3216737	actor	\N	["Othella Akpem"]
+tt22527558	10	nm12062367	self	\N	["Self"]
 tt22527558	1	nm1368418	actor	\N	["PA Announcer"]
 tt22527558	2	nm9429235	actor	\N	["Dr. Disrespect"]
 tt22527558	3	nm1309437	actor	\N	["Jackson Ellis"]
@@ -8225,7 +8227,7 @@ tt22527558	5	nm0660460	director	\N	\N
 tt22527558	6	nm10413644	writer	\N	\N
 tt22527558	7	nm12238570	writer	\N	\N
 tt22527558	8	nm1483551	actress	\N	["Candace Green"]
-tt22527558	9	nm12062367	self	\N	["Self"]
+tt22527558	9	nm5947505	actress	\N	["Player Chatter"]
 tt22527562	1	nm0329730	actor	\N	["Main Host"]
 tt22527576	1	nm10946117	self	\N	["Self"]
 tt22527576	2	nm1393857	self	\N	["Self"]
@@ -8667,16 +8669,16 @@ tt22527908	1	nm4596703	self	\N	["Self - Studio Analyst"]
 tt22527908	2	nm2730290	self	\N	["Self - Studio Analyst"]
 tt22527908	3	nm11910480	self	\N	["Self"]
 tt22527914	1	nm11363530	actor	\N	\N
-tt22527916	10	nm14139681	self	\N	["Themselves"]
+tt22527916	10	nm14117051	self	\N	["Self"]
 tt22527916	1	nm8273111	self	\N	["Self - Host"]
 tt22527916	2	nm9208985	self	\N	["Self"]
-tt22527916	3	nm5939618	self	\N	["Self"]
-tt22527916	4	nm0584017	self	\N	["Self"]
-tt22527916	5	nm4277431	self	\N	["Self"]
-tt22527916	6	nm4877917	self	\N	["Self"]
-tt22527916	7	nm14117050	self	\N	["Self"]
-tt22527916	8	nm14117051	self	\N	["Self"]
-tt22527916	9	nm3319678	self	\N	["Self"]
+tt22527916	3	nm3691746	self	\N	["Self"]
+tt22527916	4	nm0844294	self	\N	["Self"]
+tt22527916	5	nm0584017	self	\N	["Self"]
+tt22527916	6	nm5939618	self	\N	["Self"]
+tt22527916	7	nm4277431	self	\N	["Self"]
+tt22527916	8	nm4877917	self	\N	["Self"]
+tt22527916	9	nm14117050	self	\N	["Self"]
 tt22527920	1	nm11363530	actor	\N	\N
 tt22527928	1	nm11363530	actor	\N	\N
 tt22527930	1	nm11363530	actor	\N	\N
@@ -10695,13 +10697,16 @@ tt22529508	5	nm13987502	actor	\N	\N
 tt22529508	6	nm8618844	actress	\N	\N
 tt22529508	7	nm5836314	actor	\N	\N
 tt22529508	8	nm8618847	actress	\N	\N
+tt22529512	10	nm7577675	actor	\N	["Diego Rodriguez"]
 tt22529512	1	nm0002127	actress	\N	["Captain Olivia Benson"]
 tt22529512	2	nm1534207	actress	\N	["Detective Amanda Rollins"]
 tt22529512	3	nm0001384	actor	\N	["Sergeant Odafin 'Fin' Tutuola"]
 tt22529512	4	nm1813581	actor	\N	["ADA Dominick 'Sonny' Carisi, Jr."]
-tt22529512	5	nm0937725	writer	created by	\N
-tt22529512	6	nm4537360	actor	\N	["Detective Joe Velasco"]
-tt22529512	7	nm7577675	actor	\N	["Diego Rodriguez"]
+tt22529512	5	nm0211523	director	\N	\N
+tt22529512	6	nm0937725	writer	created by	\N
+tt22529512	7	nm0357671	writer	story by	\N
+tt22529512	8	nm11008357	writer	teleplay by	\N
+tt22529512	9	nm4537360	actor	\N	["Detective Joe Velasco"]
 tt22529518	10	nm2586289	actress	\N	["Felisa Ruiz"]
 tt22529518	1	nm2223458	actress	\N	["Irene Medina Díaz"]
 tt22529518	2	nm0305825	actor	\N	["Andrés Hernández Salvatierra"]
@@ -10729,15 +10734,16 @@ tt22529526	2	nm5866176	actor	\N	\N
 tt22529526	3	nm5620561	actress	\N	\N
 tt22529526	4	nm13987502	actor	\N	\N
 tt22529526	5	nm5836314	actor	\N	\N
+tt22529528	10	nm2413420	writer	written by	\N
 tt22529528	1	nm8556330	actress	\N	["Kelly Mallet"]
 tt22529528	2	nm6463620	actor	\N	["Lloyd 'Shrub' Mallet"]
 tt22529528	3	nm0005326	actress	\N	["Barb Flatch"]
-tt22529528	4	nm6085243	actor	\N	["Len"]
-tt22529528	5	nm4731562	writer	based on the UK series "This Country" created by	\N
-tt22529528	6	nm7350296	writer	based on the UK series "This Country" created by	\N
-tt22529528	7	nm0081081	writer	developed by	\N
-tt22529528	8	nm0353248	cinematographer	director of photography	\N
-tt22529528	9	nm10990361	actress	\N	["Realtor"]
+tt22529528	4	nm8300051	actor	\N	["Mickey St. Jean"]
+tt22529528	5	nm7521338	director	\N	\N
+tt22529528	6	nm4731562	writer	based on the UK series "This Country" created by	\N
+tt22529528	7	nm7350296	writer	based on the UK series "This Country" created by	\N
+tt22529528	8	nm0081081	writer	developed by	\N
+tt22529528	9	nm3229151	writer	written by	\N
 tt22529530	10	nm2586289	actress	\N	["Felisa Ruiz"]
 tt22529530	1	nm2223458	actress	\N	["Irene Medina Díaz"]
 tt22529530	2	nm0305825	actor	\N	["Andrés Hernández Salvatierra"]
@@ -10748,7 +10754,9 @@ tt22529530	6	nm0592110	actress	\N	["Manolita Sanabria"]
 tt22529530	7	nm0380007	actor	\N	["Pelayo Gómez"]
 tt22529530	8	nm3440919	actor	\N	["Jaime Hernández Prado"]
 tt22529530	9	nm1982472	actress	\N	["Benita Sánchez"]
-tt22529532	1	nm5540491	producer	producer	\N
+tt22529532	1	nm4426495	actress	\N	["Lucia Castelino"]
+tt22529532	2	nm6264728	actress	\N	["Diamond Thompson"]
+tt22529532	3	nm5540491	producer	producer	\N
 tt22529534	10	nm2586289	actress	\N	["Felisa Ruiz"]
 tt22529534	1	nm2223458	actress	\N	["Irene Medina Díaz"]
 tt22529534	2	nm0305825	actor	\N	["Andrés Hernández Salvatierra"]
@@ -10759,15 +10767,16 @@ tt22529534	6	nm0592110	actress	\N	["Manolita Sanabria"]
 tt22529534	7	nm0380007	actor	\N	["Pelayo Gómez"]
 tt22529534	8	nm3440919	actor	\N	["Jaime Hernández Prado"]
 tt22529534	9	nm1982472	actress	\N	["Benita Sánchez"]
+tt22529538	10	nm5900860	writer	executive story editor	\N
 tt22529538	1	nm3031063	actress	\N	["Abby Walker"]
 tt22529538	2	nm1204778	actor	\N	["Hoyt Rawlins"]
 tt22529538	3	nm3818748	actress	\N	["Kate"]
-tt22529538	4	nm6666541	actor	\N	["Griffin"]
+tt22529538	4	nm5108650	actor	\N	["Tom Davidson"]
 tt22529538	5	nm1270350	director	\N	\N
 tt22529538	6	nm2870984	writer	created by	\N
 tt22529538	7	nm1212929	writer	created by	\N
-tt22529538	8	nm4461700	actor	\N	["Luis Reyes"]
-tt22529538	9	nm6043752	actress	\N	["Townswoman Gunfighter"]
+tt22529538	8	nm0138733	writer	written by	\N
+tt22529538	9	nm1404095	writer	written by	\N
 tt22529540	10	nm2586289	actress	\N	["Felisa Ruiz"]
 tt22529540	1	nm2223458	actress	\N	["Irene Medina Díaz"]
 tt22529540	2	nm0305825	actor	\N	["Andrés Hernández Salvatierra"]
@@ -10780,11 +10789,16 @@ tt22529540	8	nm3440919	actor	\N	["Jaime Hernández Prado"]
 tt22529540	9	nm1982472	actress	\N	["Benita Sánchez"]
 tt22529544	1	nm8501759	self	\N	["Self - Host"]
 tt22529544	2	nm2809401	self	\N	["Self"]
+tt22529546	10	nm7138226	writer	story by	\N
 tt22529546	1	nm0080524	actress	\N	["Kat"]
 tt22529546	2	nm0001436	actress	\N	["Sheila"]
 tt22529546	3	nm0430074	actor	\N	["Phil"]
-tt22529546	4	nm0402405	writer	developed by	\N
-tt22529546	5	nm1635000	writer	based on the BBC UK original series "Miranda" created by	\N
+tt22529546	4	nm0695497	actress	\N	["Randi"]
+tt22529546	5	nm0148252	director	\N	\N
+tt22529546	6	nm0402405	writer	developed by	\N
+tt22529546	7	nm0068578	writer	teleplay by	\N
+tt22529546	8	nm1148625	writer	teleplay by	\N
+tt22529546	9	nm1017487	writer	story by	\N
 tt22529552	10	nm1020138	actress	\N	["Narrator"]
 tt22529552	1	nm14117729	actor	\N	["self (PhD Biology, Forest and GIS Expert)"]
 tt22529552	2	nm14117730	self	\N	["Self (professor)"]
@@ -10914,6 +10928,10 @@ tt22529616	1	nm0000422	actor	\N	["Dan Conner"]
 tt22529616	2	nm0582418	actress	\N	["Jackie Harris"]
 tt22529616	3	nm0004960	actress	\N	["Darlene Conner"]
 tt22529616	4	nm0000513	actor	\N	["Smitty"]
+tt22529616	5	nm0375062	writer	developed by	\N
+tt22529616	6	nm0711298	writer	developed by	\N
+tt22529616	7	nm0135203	writer	developed by	\N
+tt22529616	8	nm0931285	writer	created by	\N
 tt22529618	10	nm1709623	composer	\N	\N
 tt22529618	1	nm11471188	actress	\N	["Velga"]
 tt22529618	2	nm13063437	actor	\N	["Kirill"]
@@ -10942,16 +10960,16 @@ tt22529632	5	nm12152153	director	\N	\N
 tt22529632	6	nm8104045	director	co-director	\N
 tt22529632	7	nm8129774	cinematographer	\N	\N
 tt22529632	8	nm11118740	editor	\N	\N
-tt22529634	10	nm4725564	actress	\N	["Cindy Burman"]
+tt22529634	10	nm0957670	producer	producer	\N
 tt22529634	1	nm5561229	actress	\N	["Courtney Whitmore","Stargirl"]
 tt22529634	2	nm6060991	actress	\N	["Yolanda Montez","Wildcat"]
 tt22529634	3	nm5682314	actress	\N	["Beth Chapel","Dr. Mid-Nite"]
 tt22529634	4	nm9288587	actor	\N	["Mike Dugan"]
 tt22529634	5	nm0935732	director	\N	\N
-tt22529634	6	nm8278617	writer	\N	\N
-tt22529634	7	nm11716871	writer	\N	\N
-tt22529634	8	nm0957670	producer	producer	\N
-tt22529634	9	nm0216976	cinematographer	\N	\N
+tt22529634	6	nm0424315	writer	"Courtney Whitmore" created for DC by	\N
+tt22529634	7	nm8788884	writer	"Courtney Whitmore" created for DC by	\N
+tt22529634	8	nm11716871	writer	\N	\N
+tt22529634	9	nm8278617	writer	\N	\N
 tt22529636	10	nm2586289	actress	\N	["Felisa Ruiz"]
 tt22529636	1	nm2223458	actress	\N	["Irene Medina Díaz"]
 tt22529636	2	nm0305825	actor	\N	["Andrés Hernández Salvatierra"]
@@ -11026,7 +11044,7 @@ tt22529660	7	nm0380007	actor	\N	["Pelayo Gómez"]
 tt22529660	8	nm3440919	actor	\N	["Jaime Hernández Prado"]
 tt22529660	9	nm1982472	actress	\N	["Benita Sánchez"]
 tt22529664	1	nm12762197	self	\N	["Self"]
-tt22529666	10	nm11077484	actress	\N	["Gretchen"]
+tt22529666	10	nm0692493	actress	\N	["Lupe"]
 tt22529666	1	nm0333410	actor	\N	["Tom"]
 tt22529666	2	nm3618255	actress	\N	["Sarah"]
 tt22529666	3	nm5555161	actor	\N	["Connor"]
@@ -11034,8 +11052,8 @@ tt22529666	4	nm0646568	actress	\N	["Marina"]
 tt22529666	5	nm0625065	director	\N	\N
 tt22529666	6	nm1685000	writer	created by	\N
 tt22529666	7	nm1595526	writer	created by	\N
-tt22529666	8	nm3550886	actress	\N	["Denise"]
-tt22529666	9	nm0692493	actress	\N	["Lupe"]
+tt22529666	8	nm1147384	cinematographer	director of photography	\N
+tt22529666	9	nm3550886	actress	\N	["Denise"]
 tt22529676	1	nm0935395	actress	\N	["Jenny Hoyt"]
 tt22529676	2	nm3954896	actress	\N	["Cassie Dewell"]
 tt22529676	3	nm0679410	actress	\N	["Denise Brisbane"]
@@ -11044,6 +11062,7 @@ tt22529676	5	nm0005082	writer	created by	\N
 tt22529676	6	nm11353819	writer	based on the Highway series of books by	\N
 tt22529676	7	nm0671545	actor	\N	["Deputy Mo Poppernak"]
 tt22529676	8	nm0010075	actor	\N	["Sheriff Beau Arlen"]
+tt22529676	9	nm2406379	actor	\N	["Diego Mendoza"]
 tt22529684	10	nm2586289	actress	\N	["Felisa Ruiz"]
 tt22529684	1	nm2223458	actress	\N	["Irene Medina Díaz"]
 tt22529684	2	nm0305825	actor	\N	["Andrés Hernández Salvatierra"]
@@ -11064,16 +11083,16 @@ tt22529686	6	nm1749185	writer	\N	\N
 tt22529686	7	nm0895953	writer	\N	\N
 tt22529686	8	nm0000285	actor	\N	["Mayor Strawberry"]
 tt22529686	9	nm2177528	actress	\N	["Orange","Apple Kid"]
-tt22529688	10	nm5312098	actress	\N	["Dr. Carina DeLuca"]
+tt22529688	10	nm2632545	actor	\N	["Travis Montgomery"]
 tt22529688	1	nm1632786	actress	\N	["Andy Herrera"]
 tt22529688	2	nm0313464	actor	\N	["Ben Warren"]
 tt22529688	3	nm0462673	actor	\N	["Robert Sullivan"]
 tt22529688	4	nm3012064	actor	\N	["Jack Gibson"]
 tt22529688	5	nm0575598	director	\N	\N
-tt22529688	6	nm5540491	producer	producer	\N
-tt22529688	7	nm5495383	actress	\N	["Victoria Hugues"]
-tt22529688	8	nm2632545	actor	\N	["Travis Montgomery"]
-tt22529688	9	nm1642290	actress	\N	["Maya Bishop"]
+tt22529688	6	nm1464895	writer	created by	\N
+tt22529688	7	nm0722274	writer	based on 'Grey's Anatomy' created by	\N
+tt22529688	8	nm5540491	producer	producer	\N
+tt22529688	9	nm5495383	actress	\N	["Victoria Hugues"]
 tt22529692	1	nm5540491	producer	producer	\N
 tt22529702	1	nm5981751	self	\N	["Self","Presenter"]
 tt22529708	10	nm9655364	self	\N	["Self"]

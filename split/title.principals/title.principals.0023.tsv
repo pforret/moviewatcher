@@ -18885,8 +18885,8 @@ tt0233058	9	nm0730075	self	\N	["Self"]
 tt0233061	10	nm0000615	self	\N	["Self"]
 tt0233061	1	nm0389503	actor	\N	["Panelist","Self - Panelist"]
 tt0233061	2	nm0006752	self	\N	["Self","Self - Guest"]
-tt0233061	3	nm0001865	self	\N	["Self - Panelist"]
-tt0233061	4	nm0000414	self	\N	["Self - Panelist"]
+tt0233061	3	nm0000414	self	\N	["Self - Panelist"]
+tt0233061	4	nm0001865	self	\N	["Self - Panelist"]
 tt0233061	5	nm0658133	self	\N	["Self - Guest"]
 tt0233061	6	nm0006463	self	\N	["Self - Panelist"]
 tt0233061	7	nm0004985	self	\N	["Self"]
@@ -21163,14 +21163,16 @@ tt0233433	6	nm2188260	writer	story, screenplay, dialogue	\N
 tt0233433	7	nm0536818	cinematographer	\N	\N
 tt0233433	8	nm1093959	actor	\N	\N
 tt0233433	9	nm0214348	actress	\N	\N
-tt0233434	1	nm0088484	actor	\N	\N
-tt0233434	2	nm0156367	actor	\N	\N
+tt0233434	10	nm0710792	cinematographer	\N	\N
+tt0233434	1	nm0088484	actor	\N	["Vladimir Kraynev"]
+tt0233434	2	nm0156367	actor	\N	["Grigoriy Kraynev"]
 tt0233434	3	nm0231313	actress	\N	["Kraynyov Brothers' Mother"]
-tt0233434	4	nm0525688	actor	\N	\N
+tt0233434	4	nm0621901	actor	\N	["Zotov"]
 tt0233434	5	nm0252177	director	\N	\N
-tt0233434	6	nm0710792	cinematographer	\N	\N
-tt0233434	7	nm0621901	actor	\N	\N
-tt0233434	8	nm0901521	actor	\N	\N
+tt0233434	6	nm14163759	writer	\N	\N
+tt0233434	7	nm0893055	writer	\N	\N
+tt0233434	8	nm0326691	composer	\N	\N
+tt0233434	9	nm0701099	composer	\N	\N
 tt0233435	1	nm0488285	actor	\N	["Red Shield"]
 tt0233435	2	nm0949220	actor	\N	["Big Bear Claw"]
 tt0233436	10	nm0080382	editor	\N	\N
@@ -54266,8 +54268,8 @@ tt0238781	4	nm0274097	self	\N	["Self"]
 tt0238781	5	nm0909423	self	\N	["Self"]
 tt0238781	6	nm0005429	actress	\N	["Guest Presenter","Self"]
 tt0238781	7	nm3232454	actor	\N	["Sister Bendy"]
-tt0238781	8	nm8143517	actress	\N	["The Eggheads"]
-tt0238781	9	nm8143516	actress	\N	["The Eggheads"]
+tt0238781	8	nm8143516	actress	\N	["The Eggheads"]
+tt0238781	9	nm8143517	actress	\N	["The Eggheads"]
 tt0238782	10	nm0082507	actor	\N	["Inka Chief"]
 tt0238782	1	nm0458936	actor	\N	["Flint Hammerhead"]
 tt0238782	2	nm0485670	actor	\N	["Dino Fisherman"]

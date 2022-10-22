@@ -371,6 +371,7 @@ tt22202678	9	nm3865357	actress	\N	\N
 tt22202688	1	nm3455215	actor	\N	["Klim Levashov"]
 tt22202694	1	nm3548692	actress	\N	["Narrator"]
 tt22202694	2	nm13249010	writer	Senior Story Editor	\N
+tt22202694	3	nm9212968	writer	story editor	\N
 tt22202724	10	nm13592235	actor	\N	["Tom Bevans"]
 tt22202724	1	nm11977487	actor	\N	["Narrator"]
 tt22202724	2	nm13592073	actress	\N	["Kathleen Lipscomb"]
@@ -676,7 +677,8 @@ tt22202930	2	nm1075468	actor	\N	["Dead Meat"]
 tt22202930	3	nm0385513	composer	\N	\N
 tt22202930	4	nm0627032	composer	\N	\N
 tt22202936	1	nm3524780	actor	\N	["Additional Voices"]
-tt22202938	1	nm3524780	actor	\N	["Additional Voices"]
+tt22202938	1	nm2171510	actor	\N	["Secretary Lee"]
+tt22202938	2	nm3524780	actor	\N	["Additional Voices"]
 tt22202940	10	nm14070374	actress	\N	["Nkechi"]
 tt22202940	1	nm14070369	actress	\N	["Chinelo"]
 tt22202940	2	nm14062167	actress	\N	["Ngene"]
@@ -833,16 +835,16 @@ tt22203076	4	nm14090223	self	\N	["Self"]
 tt22203076	5	nm0005068	actor	\N	["Narrator"]
 tt22203076	6	nm2328436	self	\N	["Self"]
 tt22203076	7	nm8367949	self	\N	["Self"]
-tt22203078	10	nm13770388	actor	\N	\N
-tt22203078	1	nm5710079	actress	\N	["Elsa Quiroga"]
-tt22203078	2	nm6783968	actor	\N	["Andrés"]
-tt22203078	3	nm0094399	actor	\N	\N
-tt22203078	4	nm0119209	actress	\N	["Estela"]
-tt22203078	5	nm4460068	actress	\N	["Elena"]
-tt22203078	6	nm7552985	actor	\N	\N
-tt22203078	7	nm1913217	actor	\N	\N
-tt22203078	8	nm10574878	actress	\N	["Antonia"]
-tt22203078	9	nm0215692	actress	\N	\N
+tt22203078	10	nm0215692	actress	\N	\N
+tt22203078	1	nm0119209	actress	\N	["Estela"]
+tt22203078	2	nm0758364	actor	\N	\N
+tt22203078	3	nm5710079	actress	\N	["Elsa Quiroga"]
+tt22203078	4	nm6783968	actor	\N	["Andrés"]
+tt22203078	5	nm0094399	actor	\N	\N
+tt22203078	6	nm4460068	actress	\N	["Elena"]
+tt22203078	7	nm7552985	actor	\N	\N
+tt22203078	8	nm1913217	actor	\N	\N
+tt22203078	9	nm10574878	actress	\N	["Antonia"]
 tt22203096	1	nm2080770	actor	\N	\N
 tt22203098	1	nm14050336	self	\N	["Self"]
 tt22203098	2	nm14050337	self	\N	["Self"]
@@ -1754,7 +1756,7 @@ tt22207260	6	nm1237934	actor	\N	["Bing Mauricius"]
 tt22207260	7	nm1942606	actress	\N	["Nina Sanders"]
 tt22207260	8	nm4175083	actor	\N	["Daan Stern"]
 tt22207260	9	nm6830387	actress	\N	["Merel Verduyn"]
-tt22207264	10	nm0576795	actor	\N	["Barry"]
+tt22207264	10	nm0332168	actor	\N	["Gregory Heelings"]
 tt22207264	1	nm0576775	actress	\N	["Laura Selmhorst"]
 tt22207264	2	nm0891713	actress	\N	["Linda Dekker"]
 tt22207264	3	nm0814130	actor	\N	["Rik de Jong"]
@@ -1997,16 +1999,16 @@ tt22207428	6	nm3540330	writer	\N	\N
 tt22207428	7	nm1853670	composer	\N	\N
 tt22207428	8	nm8127742	editor	\N	\N
 tt22207428	9	nm10504326	editor	\N	\N
-tt22207430	10	nm13209796	self	\N	["Self - Contestant"]
+tt22207430	10	nm14026075	self	\N	["Self - Contestant"]
 tt22207430	1	nm0750412	self	\N	["Self - Host","Judge"]
 tt22207430	2	nm0114256	self	\N	["Self - Guest Judge"]
 tt22207430	3	nm1168834	self	\N	["Self - Judge"]
 tt22207430	4	nm0899513	self	\N	["Self - Judge"]
-tt22207430	5	nm8317818	self	\N	["Self - Contestant"]
-tt22207430	6	nm14026074	self	\N	["Self - Contestant"]
-tt22207430	7	nm14026075	self	\N	["Self - Contestant"]
-tt22207430	8	nm7740439	self	\N	["Self - Special Guest"]
-tt22207430	9	nm0198513	self	\N	["Self - Special Guest"]
+tt22207430	5	nm7740439	self	\N	["Self - Special Guest"]
+tt22207430	6	nm0198513	self	\N	["Self - Special Guest"]
+tt22207430	7	nm4180655	self	\N	["Self - Special Guest"]
+tt22207430	8	nm8317818	self	\N	["Self - Contestant"]
+tt22207430	9	nm14026074	self	\N	["Self - Contestant"]
 tt22207438	1	nm14070817	self	\N	["Self - Host"]
 tt22207440	1	nm0048871	archive_footage	\N	["Self"]
 tt22207440	2	nm0151080	archive_footage	\N	["Self"]
@@ -2405,6 +2407,7 @@ tt22207912	1	nm11095986	self	\N	["Self"]
 tt22207916	1	nm0501500	self	\N	["Self - Anchor"]
 tt22207920	1	nm14071016	actress	\N	\N
 tt22207920	2	nm13488562	actress	\N	\N
+tt22207934	1	nm3855893	actress	\N	["Mia Yim"]
 tt22207936	1	nm14071020	actor	\N	["Tiny Tim"]
 tt22207936	2	nm5182310	actress	\N	["Mrs. Cratchet"]
 tt22207936	3	nm7105838	actor	\N	["Mr. Cratchet"]
@@ -2963,6 +2966,7 @@ tt22208596	6	nm13059773	cinematographer	\N	\N
 tt22208596	7	nm11655608	actress	\N	["Sophia"]
 tt22208596	8	nm14071288	actor	\N	["Chief"]
 tt22208596	9	nm14071287	actor	\N	["Zoro"]
+tt22208600	1	nm4940021	actor	\N	["SWAT"]
 tt22208612	1	nm1569178	self	\N	["Self - Host"]
 tt22208612	2	nm12342704	self	\N	["Self - Dragon"]
 tt22208612	3	nm13187181	self	\N	["Self - Dragon"]

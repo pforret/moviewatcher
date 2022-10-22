@@ -2300,6 +2300,7 @@ tt20765058	6	nm13853367	writer	writer	\N
 tt20765058	7	nm4993806	producer	producer	\N
 tt20765058	8	nm4436982	producer	producer	\N
 tt20765058	9	nm4346616	composer	\N	\N
+tt20765060	10	nm0607703	actor	\N	["General Shepherd"]
 tt20765060	1	nm1289351	actor	\N	["Captain John Price"]
 tt20765060	2	nm3231931	actor	\N	["Sergeant Kyle 'Gaz' Garrick"]
 tt20765060	3	nm1717183	actor	\N	["Lieutenant Simon 'Ghost' Riley"]
@@ -2308,7 +2309,7 @@ tt20765060	5	nm2554980	director	\N	\N
 tt20765060	6	nm0089141	writer	writer	\N
 tt20765060	7	nm4089434	actor	\N	["Colonel Alejandro Vargas"]
 tt20765060	8	nm4129480	actor	\N	["Major Hassan Zyani"]
-tt20765060	9	nm0607703	actor	\N	["General Shepherd"]
+tt20765060	9	nm1504650	actor	\N	["Phillip Graves"]
 tt20765064	1	nm13618129	actress	\N	["The Influencer"]
 tt20765064	2	nm7225615	actress	\N	["The Chaser"]
 tt20765064	3	nm13697792	director	\N	\N
@@ -5616,7 +5617,8 @@ tt20766402	3	nm6649341	actress	\N	["Jessica Hicks"]
 tt20766402	4	nm0659544	actress	\N	["Kendra Malley"]
 tt20766402	5	nm0779830	director	\N	\N
 tt20766402	6	nm3523308	writer	story editor	\N
-tt20766402	7	nm13207336	actress	\N	["Coastguard"]
+tt20766402	7	nm0002952	production_designer	\N	\N
+tt20766402	8	nm13207336	actress	\N	["Coastguard"]
 tt20766404	1	nm13665879	actress	\N	\N
 tt20766404	2	nm13665878	actor	\N	\N
 tt20766404	3	nm10117136	actor	\N	\N
@@ -5655,8 +5657,9 @@ tt20766412	3	nm6649341	actress	\N	["Jessica Hicks"]
 tt20766412	4	nm0659544	actress	\N	["Kendra Malley"]
 tt20766412	5	nm0779830	director	\N	\N
 tt20766412	6	nm3523308	writer	story editor	\N
-tt20766412	7	nm1120797	actress	\N	["Francine Quigley"]
-tt20766412	8	nm13207336	actress	\N	["Coastguard"]
+tt20766412	7	nm0002952	production_designer	\N	\N
+tt20766412	8	nm1120797	actress	\N	["Francine Quigley"]
+tt20766412	9	nm13207336	actress	\N	["Coastguard"]
 tt20766414	1	nm13665879	actress	\N	\N
 tt20766414	2	nm13665878	actor	\N	\N
 tt20766414	3	nm10117136	actor	\N	\N
@@ -5713,7 +5716,8 @@ tt20766428	3	nm6649341	actress	\N	["Jessica Hicks"]
 tt20766428	4	nm0659544	actress	\N	["Kendra Malley"]
 tt20766428	5	nm0779830	director	\N	\N
 tt20766428	6	nm3523308	writer	story editor	\N
-tt20766428	7	nm13207336	actress	\N	["Coastguard"]
+tt20766428	7	nm0002952	production_designer	\N	\N
+tt20766428	8	nm13207336	actress	\N	["Coastguard"]
 tt20766430	1	nm13665879	actress	\N	\N
 tt20766430	2	nm13665878	actor	\N	\N
 tt20766430	3	nm10117136	actor	\N	\N
@@ -5748,6 +5752,7 @@ tt20766436	5	nm13665877	writer	\N	\N
 tt20766436	6	nm12601486	producer	producer	\N
 tt20766436	7	nm12601489	cinematographer	\N	\N
 tt20766436	8	nm11598182	editor	\N	\N
+tt20766438	10	nm13207336	actress	\N	["Coastguard"]
 tt20766438	1	nm5149980	actor	\N	["Arlo Shank"]
 tt20766438	2	nm10627227	actor	\N	["Michelle"]
 tt20766438	3	nm6649341	actress	\N	["Jessica Hicks"]
@@ -5755,8 +5760,8 @@ tt20766438	4	nm0659544	actress	\N	["Kendra Malley"]
 tt20766438	5	nm0779830	director	\N	\N
 tt20766438	6	nm3523308	writer	story editor	\N
 tt20766438	7	nm0561978	writer	Writer	\N
-tt20766438	8	nm1120797	actress	\N	["Francine Quigley"]
-tt20766438	9	nm13207336	actress	\N	["Coastguard"]
+tt20766438	8	nm0002952	production_designer	\N	\N
+tt20766438	9	nm1120797	actress	\N	["Francine Quigley"]
 tt20766442	1	nm6596476	actress	\N	["Air Traffic Controller"]
 tt20766444	1	nm1176998	self	\N	["Self"]
 tt20766446	10	nm4514562	producer	producer	\N

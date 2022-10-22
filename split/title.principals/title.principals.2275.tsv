@@ -27,6 +27,7 @@ tt22750006	5	nm0594084	director	\N	\N
 tt22750006	6	nm0765815	actor	\N	["Uchiki"]
 tt22750006	7	nm0945881	actor	\N	["Wanderyu"]
 tt22750012	1	nm2393631	actress	\N	["Presentadora"]
+tt22750012	2	nm1725184	director	\N	\N
 tt22750016	10	nm4178653	actress	\N	["Fenneca"]
 tt22750016	1	nm4684804	actor	\N	["Dan Kouzo","Apollyon"]
 tt22750016	2	nm9788358	actress	\N	["Lia Venegas"]
@@ -48,12 +49,15 @@ tt22750018	7	nm5187143	producer	producer	\N
 tt22750018	8	nm2584711	producer	producer	\N
 tt22750018	9	nm3222555	producer	producer	\N
 tt22750024	1	nm2393631	actress	\N	["Presentadora"]
+tt22750024	2	nm1725184	director	\N	\N
 tt22750028	1	nm1354187	writer	head writer	\N
 tt22750034	1	nm2393631	actress	\N	["Presentadora"]
+tt22750034	2	nm1725184	director	\N	\N
 tt22750036	1	nm1354187	writer	head writer	\N
 tt22750040	1	nm1354187	writer	head writer	\N
 tt22750042	1	nm1354187	writer	head writer	\N
 tt22750052	1	nm2393631	actress	\N	["Presentadora"]
+tt22750052	2	nm1725184	director	\N	\N
 tt22750054	1	nm1354187	writer	head writer	\N
 tt22750060	1	nm2670109	actor	\N	["Rajesh Wagle"]
 tt22750060	2	nm3198154	actress	\N	["Vandana Wagle"]
@@ -68,6 +72,7 @@ tt22750068	1	nm1354187	writer	head writer	\N
 tt22750070	1	nm1354187	writer	head writer	\N
 tt22750074	1	nm1354187	writer	head writer	\N
 tt22750076	1	nm2393631	actress	\N	["Presentadora"]
+tt22750076	2	nm1725184	director	\N	\N
 tt22750078	1	nm1354187	writer	head writer	\N
 tt22750082	1	nm1354187	writer	head writer	\N
 tt22750084	1	nm1354187	writer	head writer	\N
@@ -75,9 +80,11 @@ tt22750086	1	nm1354187	writer	head writer	\N
 tt22750088	1	nm1354187	writer	head writer	\N
 tt22750090	1	nm1354187	writer	head writer	\N
 tt22750092	1	nm2393631	actress	\N	["Presentadora"]
+tt22750092	2	nm1725184	director	\N	\N
 tt22750094	1	nm1354187	writer	head writer	\N
 tt22750098	1	nm1354187	writer	head writer	\N
 tt22750100	1	nm2393631	actress	\N	["Presentadora"]
+tt22750100	2	nm1725184	director	\N	\N
 tt22750104	1	nm1354187	writer	head writer	\N
 tt22750108	1	nm2713782	self	\N	["Self - Host"]
 tt22750110	1	nm1354187	writer	head writer	\N
@@ -1088,7 +1095,7 @@ tt22751422	10	nm14140874	composer	\N	\N
 tt22751422	1	nm8437705	actor	\N	["Aden"]
 tt22751422	2	nm0629006	actor	\N	["Tây"]
 tt22751422	3	nm7059572	actor	\N	["Eddie"]
-tt22751422	4	nm2513071	actress	\N	["Lan Mã"]
+tt22751422	4	nm5889454	actor	\N	["News Anchor"]
 tt22751422	5	nm4421897	director	\N	\N
 tt22751422	6	nm14132716	writer	\N	\N
 tt22751422	7	nm0383226	producer	producer	\N
@@ -1490,6 +1497,8 @@ tt22751914	2	nm8698185	actress	\N	["Tiffany Richards"]
 tt22751914	3	nm11265753	actor	\N	["Ronald 'Ronnie' Mackie"]
 tt22751914	4	nm8914644	actor	\N	["Tremaine 'Tre' Collier"]
 tt22751914	5	nm5723767	director	\N	\N
+tt22751914	6	nm8333029	composer	\N	\N
+tt22751914	7	nm12034503	composer	\N	\N
 tt22751920	10	nm12413976	actress	\N	["First Servant"]
 tt22751920	1	nm0027474	actor	\N	["Clotaldo Sigismund's Jailer"]
 tt22751920	2	nm14104494	actor	\N	["Second Soldier"]
@@ -1515,7 +1524,9 @@ tt22751932	2	nm8698185	actress	\N	["Tiffany Richards"]
 tt22751932	3	nm11265753	actor	\N	["Ronald 'Ronnie' Mackie"]
 tt22751932	4	nm8914644	actor	\N	["Tremaine 'Tre' Collier"]
 tt22751932	5	nm5723767	writer	\N	\N
-tt22751932	6	nm5796292	actress	\N	["Camille Sullivan"]
+tt22751932	6	nm6127709	composer	\N	\N
+tt22751932	7	nm12034503	composer	\N	\N
+tt22751932	8	nm5796292	actress	\N	["Camille Sullivan"]
 tt22751940	1	nm7768324	self	\N	["Self"]
 tt22751944	1	nm13171129	self	\N	["Self"]
 tt22751944	2	nm7768324	producer	producer	\N
@@ -2861,7 +2872,7 @@ tt22753512	3	nm3162285	actor	\N	["Kheerat Panesar"]
 tt22753512	4	nm4551364	actress	\N	["Lola Pearce"]
 tt22753512	5	nm1976276	director	\N	\N
 tt22753512	6	nm0321244	writer	\N	\N
-tt22753512	7	nm13691103	actor	\N	["Felix Baker"]
+tt22753512	7	nm6561851	actor	\N	["Felix Baker"]
 tt22753512	8	nm6469319	actor	\N	["Ravi Gulati"]
 tt22753514	1	nm6911828	actor	\N	["Celebrity Guest"]
 tt22753516	1	nm6368351	writer	\N	\N
@@ -4393,6 +4404,18 @@ tt22755610	4	nm14140406	self	\N	["Self - Mission Planner"]
 tt22755610	5	nm14140410	self	\N	["Self - Chopper Pilot"]
 tt22755610	6	nm14157434	self	\N	["Self - Cattle Wrangler"]
 tt22755610	7	nm14146815	self	\N	["Self - Rookie Croc Catcher"]
+tt22755612	1	nm4786449	self	\N	["Self - Host"]
+tt22755612	2	nm14140404	self	\N	["Self"]
+tt22755612	3	nm14140403	self	\N	["Self"]
+tt22755612	4	nm14140406	self	\N	["Self - Mission Planner"]
+tt22755612	5	nm14140410	self	\N	["Self - Chopper Pilot"]
+tt22755612	6	nm14146815	self	\N	["Self - Rookie Croc Catcher"]
+tt22755614	1	nm4786449	self	\N	["Self - Host"]
+tt22755614	2	nm14140404	self	\N	["Self"]
+tt22755614	3	nm14140403	self	\N	["Self"]
+tt22755614	4	nm14140406	self	\N	["Self - Mission Planner"]
+tt22755614	5	nm14140410	self	\N	["Self - Chopper Pilot"]
+tt22755614	6	nm14146815	self	\N	["Self - Rookie Croc Catcher"]
 tt22755622	10	nm11317639	self	\N	["Self - Performer"]
 tt22755622	1	nm0632440	self	\N	["Self - Leading Laugher"]
 tt22755622	2	nm1173559	self	\N	["Self - Leading Laugher","Self - Performer"]
@@ -4421,8 +4444,9 @@ tt22755632	3	nm1544650	actor	\N	["Dr. Floyd Reynolds"]
 tt22755632	4	nm3880641	actor	\N	["Resident Huxley"]
 tt22755632	5	nm1243435	writer	created for television by	\N
 tt22755632	6	nm9571642	writer	based on the book 'Twelve Patients: Life and Death at Bellevue Hospital' by	\N
-tt22755632	7	nm3017290	actress	\N	["Paramedic Whitaker"]
-tt22755632	8	nm0878152	actress	\N	["Callie Cruz"]
+tt22755632	7	nm2455124	producer	producer	\N
+tt22755632	8	nm3017290	actress	\N	["Paramedic Whitaker"]
+tt22755632	9	nm0878152	actress	\N	["Callie Cruz"]
 tt22755634	10	nm11766158	self	\N	["Self - Performer"]
 tt22755634	1	nm0632440	self	\N	["Self - Leading Laugher"]
 tt22755634	2	nm1173559	self	\N	["Self - Leading Laugher"]

@@ -80,6 +80,9 @@ tt22010046	1	nm3856214	actress	\N	["Mireia"]
 tt22010046	2	nm6848260	actor	\N	\N
 tt22010046	3	nm4001257	actress	\N	["Joana"]
 tt22010048	1	nm2406271	self	\N	["Self"]
+tt22010048	2	nm13730171	editor	supervising editor	\N
+tt22010048	3	nm14159068	editor	\N	\N
+tt22010048	4	nm14159026	editor	\N	\N
 tt22010054	1	nm0739418	actress	\N	\N
 tt22010054	2	nm0207338	actress	\N	\N
 tt22010054	3	nm0430482	actress	\N	\N
@@ -310,6 +313,9 @@ tt22010150	3	nm0430482	actress	\N	\N
 tt22010150	4	nm0010500	director	\N	\N
 tt22010150	5	nm1571117	writer	\N	\N
 tt22010152	1	nm2406271	self	\N	["Self"]
+tt22010152	2	nm13730171	editor	supervising editor	\N
+tt22010152	3	nm14159068	editor	\N	\N
+tt22010152	4	nm14159026	editor	\N	\N
 tt22010154	1	nm0739418	actress	\N	\N
 tt22010154	2	nm0207338	actress	\N	\N
 tt22010154	3	nm0430482	actress	\N	\N
@@ -490,6 +496,9 @@ tt22010258	7	nm3666120	actor	\N	\N
 tt22010258	8	nm14135993	self	\N	["Self"]
 tt22010258	9	nm14133606	actor	\N	["Designer"]
 tt22010260	1	nm2406271	self	\N	["Self"]
+tt22010260	2	nm13730171	editor	supervising editor	\N
+tt22010260	3	nm14159068	editor	\N	\N
+tt22010260	4	nm14159026	editor	\N	\N
 tt22010262	1	nm2351647	actress	\N	\N
 tt22010262	2	nm4064621	actress	\N	\N
 tt22010262	3	nm7627041	actress	\N	\N
@@ -855,6 +864,9 @@ tt22010374	7	nm7106350	writer	adaptation	\N
 tt22010374	8	nm0786333	composer	\N	\N
 tt22010374	9	nm0874192	actress	\N	["Francisca García Muriel"]
 tt22010380	1	nm2406271	self	\N	["Self"]
+tt22010380	2	nm13730171	editor	supervising editor	\N
+tt22010380	3	nm14159068	editor	\N	\N
+tt22010380	4	nm14159026	editor	\N	\N
 tt22010382	1	nm0029406	actor	\N	["Efrain Herreros (1991)"]
 tt22010382	2	nm0351032	actress	\N	["Etelvina López"]
 tt22010382	3	nm0380164	actress	\N	["Florentina Herreros"]
@@ -6607,16 +6619,16 @@ tt22016010	6	nm13089228	composer	\N	\N
 tt22016010	7	nm4917839	actor	\N	["Memphis Guide"]
 tt22016024	1	nm11107705	writer	script writer	\N
 tt22016024	2	nm11107706	writer	script writer	\N
-tt22016038	10	nm8123094	actor	\N	["Chris"]
-tt22016038	1	nm5868109	actor	\N	["Adam"]
-tt22016038	2	nm13965981	actress	\N	["Bethany"]
-tt22016038	3	nm2319758	actress	\N	["Sandra"]
-tt22016038	4	nm10732676	actress	\N	["Kristie"]
-tt22016038	5	nm4113365	director	\N	\N
-tt22016038	6	nm4399620	cinematographer	\N	\N
-tt22016038	7	nm13538521	editor	\N	\N
-tt22016038	8	nm12895096	actor	\N	["Buskers"]
-tt22016038	9	nm3837220	actor	\N	["Duncan"]
+tt22016038	10	nm3837220	actor	\N	["Duncan"]
+tt22016038	1	nm4113365	actress	\N	["Girl"]
+tt22016038	2	nm8123094	actor	\N	["Chris"]
+tt22016038	3	nm5868109	actor	\N	["Adam"]
+tt22016038	4	nm13965981	actress	\N	["Bethany"]
+tt22016038	5	nm4399620	cinematographer	\N	\N
+tt22016038	6	nm13538521	editor	\N	\N
+tt22016038	7	nm2319758	actress	\N	["Sandra"]
+tt22016038	8	nm10732676	actress	\N	["Kristie"]
+tt22016038	9	nm12895096	actor	\N	["Buskers"]
 tt22016052	1	nm14021992	actor	\N	["Nick"]
 tt22016052	2	nm14026719	actor	\N	["Bill"]
 tt22016052	3	nm13023593	actor	\N	["Daniel"]
@@ -6718,16 +6730,16 @@ tt22016148	6	nm2225920	director	\N	\N
 tt22016148	7	nm7828156	writer	writer	\N
 tt22016148	8	nm1758536	writer	writer	\N
 tt22016148	9	nm6494069	writer	writer	\N
-tt22016156	10	nm4739992	actress	\N	\N
+tt22016156	10	nm1742190	cinematographer	\N	\N
 tt22016156	1	nm0637259	actress	\N	["Frigga"]
 tt22016156	2	nm0291918	actor	\N	\N
 tt22016156	3	nm4454344	actor	\N	\N
 tt22016156	4	nm2748295	actor	\N	["Dabir"]
 tt22016156	5	nm0391557	director	\N	\N
-tt22016156	6	nm0361437	producer	producer	\N
-tt22016156	7	nm3121224	composer	\N	\N
-tt22016156	8	nm1742190	cinematographer	\N	\N
-tt22016156	9	nm0632152	editor	\N	\N
+tt22016156	6	nm14165087	writer	\N	\N
+tt22016156	7	nm14165088	writer	\N	\N
+tt22016156	8	nm0361437	producer	producer	\N
+tt22016156	9	nm3121224	composer	\N	\N
 tt22016158	1	nm14026738	actor	\N	\N
 tt22016158	2	nm5026631	actor	\N	\N
 tt22016158	3	nm11035974	actor	\N	\N
@@ -7760,6 +7772,7 @@ tt22017082	2	nm1081016	actor	\N	["Lorenzo"]
 tt22017082	3	nm1795865	actor	\N	["Bruno"]
 tt22017082	4	nm2533090	actor	\N	["Alfredo"]
 tt22017082	5	nm0950426	director	\N	\N
+tt22017082	6	nm3837213	actress	\N	["Mercedes"]
 tt22017090	1	nm4568089	actor	\N	\N
 tt22017090	2	nm13478381	actress	\N	\N
 tt22017094	1	nm4568089	actor	\N	\N
@@ -7878,6 +7891,7 @@ tt22017192	2	nm0136693	self	\N	["Self"]
 tt22017192	3	nm0324119	self	\N	["Self"]
 tt22017192	4	nm0661190	self	\N	["Self"]
 tt22017194	1	nm8093244	actor	\N	["Narrator"]
+tt22017208	1	nm8093244	writer	written by	\N
 tt22017212	1	nm0098439	self	\N	["Self"]
 tt22017212	2	nm11398604	self	\N	["Self"]
 tt22017212	3	nm0559211	self	\N	["Self"]
@@ -8562,6 +8576,9 @@ tt22017620	7	nm12797140	writer	\N	\N
 tt22017620	8	nm12797141	producer	producer	\N
 tt22017620	9	nm11112003	producer	producer	\N
 tt22017622	1	nm2406271	self	\N	["Self"]
+tt22017622	2	nm13730171	editor	supervising editor	\N
+tt22017622	3	nm14159068	editor	\N	\N
+tt22017622	4	nm14159026	editor	\N	\N
 tt22017624	1	nm12797142	actress	\N	\N
 tt22017624	2	nm2247767	actress	\N	\N
 tt22017624	3	nm12102009	actor	\N	\N
@@ -8594,6 +8611,9 @@ tt22017636	5	nm6434790	director	\N	\N
 tt22017636	6	nm14014187	cinematographer	\N	\N
 tt22017638	1	nm10565001	director	\N	\N
 tt22017640	1	nm2406271	self	\N	["Self"]
+tt22017640	2	nm13730171	editor	supervising editor	\N
+tt22017640	3	nm14159068	editor	\N	\N
+tt22017640	4	nm14159026	editor	\N	\N
 tt22017644	1	nm12797142	actress	\N	\N
 tt22017644	2	nm2247767	actress	\N	\N
 tt22017644	3	nm12102009	actor	\N	\N
@@ -8754,6 +8774,9 @@ tt22017692	7	nm12797140	writer	\N	\N
 tt22017692	8	nm12797141	producer	producer	\N
 tt22017692	9	nm11112003	producer	producer	\N
 tt22017694	1	nm2406271	self	\N	["Self"]
+tt22017694	2	nm13730171	editor	supervising editor	\N
+tt22017694	3	nm14159068	editor	\N	\N
+tt22017694	4	nm14159026	editor	\N	\N
 tt22017696	1	nm12797142	actress	\N	\N
 tt22017696	2	nm2247767	actress	\N	\N
 tt22017696	3	nm12102009	actor	\N	\N

@@ -34811,10 +34811,10 @@ tt0033891	9	nm0175333	writer	contributor to dialogue and screenplay constuction	
 tt0033892	1	nm0000305	actor	\N	["Porky Pig","Soldiers","Horse"]
 tt0033892	2	nm0088285	actor	\N	["Short Soldier"]
 tt0033892	3	nm2767970	actor	\N	["Narrator - Citizen Sugar Cane"]
-tt0033892	4	nm0503921	actor	\N	["Various"]
-tt0033892	5	nm0163332	director	\N	\N
-tt0033892	6	nm0288111	writer	story	\N
-tt0033892	7	nm0772266	producer	producer	\N
+tt0033892	4	nm0163332	actor	\N	["Siege Gun acting like Chicken"]
+tt0033892	5	nm0288111	writer	story	\N
+tt0033892	6	nm0772266	producer	producer	\N
+tt0033892	7	nm0503921	actor	\N	["Various"]
 tt0033893	10	nm0040374	self	\N	["Self"]
 tt0033893	1	nm0663832	self	\N	["Self","Narrator"]
 tt0033893	2	nm0001678	self	\N	["Self"]
@@ -56042,15 +56042,16 @@ tt0036294	5	nm0730860	director	\N	\N
 tt0036294	6	nm0335469	writer	\N	\N
 tt0036294	7	nm0400056	writer	\N	\N
 tt0036294	8	nm2205087	actress	\N	["Miss Reason"]
+tt0036295	10	nm0751086	actress	\N	["Red"]
 tt0036295	1	nm0021519	actress	\N	["Grandma"]
 tt0036295	2	nm0076700	actress	\N	["Red","Tall and Short Cigarette Girls"]
 tt0036295	3	nm0124889	actor	\N	["Wolf Howl"]
-tt0036295	4	nm0004931	actress	\N	["Tall Cigarette Girl"]
+tt0036295	4	nm0173416	actor	\N	["Wolf Howl"]
 tt0036295	5	nm0000813	director	\N	\N
 tt0036295	6	nm0389607	writer	story	\N
-tt0036295	7	nm0334035	actor	\N	["Wolf"]
-tt0036295	8	nm0737008	actor	\N	["Wolf (some lines)"]
-tt0036295	9	nm0751086	actress	\N	["Red"]
+tt0036295	7	nm0004931	actress	\N	["Tall Cigarette Girl"]
+tt0036295	8	nm0334035	actor	\N	["Wolf"]
+tt0036295	9	nm0737008	actor	\N	["Wolf (some lines)"]
 tt0036296	10	nm0587779	editor	\N	\N
 tt0036296	1	nm0392529	actor	\N	["Jim Carey"]
 tt0036296	2	nm0249893	actor	\N	["Ike"]
@@ -75404,12 +75405,11 @@ tt0038488	7	nm0884577	writer	dialogue	\N
 tt0038488	8	nm0093724	producer	producer	\N
 tt0038488	9	nm0749600	composer	\N	\N
 tt0038489	1	nm0173416	actor	\N	["Goofy"]
-tt0038489	2	nm0793195	actor	\N	["Narrator"]
-tt0038489	3	nm0360286	director	\N	\N
-tt0038489	4	nm0455741	director	\N	\N
-tt0038489	5	nm0073714	writer	story	\N
-tt0038489	6	nm0052520	writer	story	\N
-tt0038489	7	nm0006337	composer	\N	\N
+tt0038489	2	nm0360286	director	\N	\N
+tt0038489	3	nm0455741	director	\N	\N
+tt0038489	4	nm0073714	writer	story	\N
+tt0038489	5	nm0052520	writer	story	\N
+tt0038489	6	nm0006337	composer	\N	\N
 tt0038490	10	nm0324021	actress	\N	["Gloria Baxter"]
 tt0038490	1	nm0640930	actress	\N	["Jane Colwell"]
 tt0038490	2	nm0001017	actor	\N	["Thorndyke 'Thorny' P. Dunning"]
@@ -85673,7 +85673,7 @@ tt0039642	5	nm0876440	director	\N	\N
 tt0039642	6	nm0806419	writer	novel "Query"	\N
 tt0039642	7	nm0413800	producer	producer	\N
 tt0039642	8	nm0561963	composer	\N	\N
-tt0039642	9	nm0658254	cinematographer	\N	\N
+tt0039642	9	nm0658254	cinematographer	director of photography	\N
 tt0039643	1	nm0022216	director	\N	\N
 tt0039644	10	nm0005677	cinematographer	\N	\N
 tt0039644	1	nm0010492	actor	\N	["Jamal"]

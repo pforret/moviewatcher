@@ -7953,7 +7953,6 @@ tt15104668	4	nm12769192	actor	\N	["Creeper"]
 tt15104668	5	nm12380167	director	\N	\N
 tt15104668	6	nm12784872	writer	idea	\N
 tt15104668	7	nm1930572	composer	\N	\N
-tt15104668	8	nm5930723	composer	\N	\N
 tt15104670	10	nm4485984	producer	producer	\N
 tt15104670	1	nm0032643	self	\N	["Self - Host"]
 tt15104670	2	nm2407536	director	\N	\N
@@ -8924,7 +8923,6 @@ tt15105018	4	nm12549901	actor	\N	["Alex","ExplodingTNT"]
 tt15105018	5	nm12380167	director	\N	\N
 tt15105018	6	nm12784967	writer	idea	\N
 tt15105018	7	nm1930572	composer	\N	\N
-tt15105018	8	nm5930723	composer	\N	\N
 tt15105022	10	nm4112207	editor	\N	\N
 tt15105022	1	nm0032643	self	\N	["Self - Host"]
 tt15105022	2	nm1313509	self	\N	["Self - Host"]
@@ -15269,7 +15267,6 @@ tt15107694	3	nm12784873	actor	\N	["Billy"]
 tt15107694	4	nm12380167	director	\N	\N
 tt15107694	5	nm12786082	writer	idea	\N
 tt15107694	6	nm1930572	composer	\N	\N
-tt15107694	7	nm5930723	composer	\N	\N
 tt15107696	1	nm9827719	actress	\N	\N
 tt15107696	2	nm7771997	actor	\N	\N
 tt15107696	3	nm12775602	actress	\N	\N
@@ -15380,7 +15377,6 @@ tt15107738	4	nm12549901	actor	\N	["Failboat"]
 tt15107738	5	nm12380167	director	\N	\N
 tt15107738	6	nm12786104	writer	idea	\N
 tt15107738	7	nm1930572	composer	\N	\N
-tt15107738	8	nm5930723	composer	\N	\N
 tt15107740	10	nm12776208	self	\N	["Self - Contestant"]
 tt15107740	1	nm3070482	self	\N	["Self - Host"]
 tt15107740	2	nm12776207	self	\N	["Self - Contestant"]
@@ -15580,7 +15576,6 @@ tt15107838	4	nm12518716	actor	\N	["Ocelot"]
 tt15107838	5	nm12380167	director	\N	\N
 tt15107838	6	nm12786155	writer	idea	\N
 tt15107838	7	nm1930572	composer	\N	\N
-tt15107838	8	nm5930723	composer	\N	\N
 tt15107840	1	nm2252386	director	\N	\N
 tt15107840	2	nm4527585	writer	written by	\N
 tt15107842	1	nm7771997	actor	\N	\N
@@ -15680,7 +15675,6 @@ tt15107894	4	nm12784873	actor	\N	["Notch"]
 tt15107894	5	nm12380167	director	\N	\N
 tt15107894	6	nm12786183	writer	idea	\N
 tt15107894	7	nm1930572	composer	\N	\N
-tt15107894	8	nm5930723	composer	\N	\N
 tt15107896	10	nm2562820	actress	\N	["Harper Whitley"]
 tt15107896	1	nm0924201	actress	\N	["Cece King"]
 tt15107896	2	nm1121416	actor	\N	["Chris Warner"]
@@ -15919,7 +15913,7 @@ tt15108058	3	nm12412811	actor	\N	["Pink Sheep"]
 tt15108058	4	nm5222324	actor	\N	["Pink Sheep"]
 tt15108058	5	nm12380167	director	\N	\N
 tt15108058	6	nm1930572	composer	\N	\N
-tt15108058	7	nm5930723	composer	\N	\N
+tt15108058	7	nm12762454	actor	\N	["Player that teleports the Dragon Egg"]
 tt15108060	1	nm12786224	actress	\N	\N
 tt15108060	2	nm12786223	actress	\N	\N
 tt15108060	3	nm1904711	director	\N	\N
@@ -16041,13 +16035,16 @@ tt15108100	2	nm1817908	self	\N	["Self - Co-Host"]
 tt15108104	1	nm10505211	self	\N	["Self - Co Host"]
 tt15108104	2	nm7052631	self	\N	["Self - Host"]
 tt15108104	3	nm12786248	self	\N	["Self"]
+tt15108106	10	nm9195686	actor	\N	["Purple Shep"]
 tt15108106	1	nm12549901	actor	\N	["Enderdragon"]
 tt15108106	2	nm12769192	actor	\N	["Actor #1"]
 tt15108106	3	nm12786249	actor	\N	["Actor #2"]
 tt15108106	4	nm12784873	actor	\N	["Purple Shep"]
 tt15108106	5	nm12380167	director	\N	\N
 tt15108106	6	nm1930572	composer	\N	\N
-tt15108106	7	nm5930723	composer	\N	\N
+tt15108106	7	nm12761459	actress	\N	["ExplodingTNT","Herobrine"]
+tt15108106	8	nm12412811	actor	\N	["Pink Sheep"]
+tt15108106	9	nm5222324	actor	\N	["Pink Sheep"]
 tt15108108	10	nm1235963	editor	\N	\N
 tt15108108	1	nm1129362	self	\N	["Self - Host"]
 tt15108108	2	nm2818727	self	\N	["Self - Correspondent"]
@@ -16105,7 +16102,6 @@ tt15108118	4	nm12761051	actor	\N	["The New Mob","BaconCrafter's Friend"]
 tt15108118	5	nm12380288	director	\N	\N
 tt15108118	6	nm12380167	director	\N	\N
 tt15108118	7	nm1930572	composer	\N	\N
-tt15108118	8	nm5930723	composer	\N	\N
 tt15108120	1	nm12786279	actor	\N	["Big Meech"]
 tt15108120	2	nm12786280	actor	\N	["Southwest T"]
 tt15108120	3	nm12786278	director	creative director	\N
@@ -16129,7 +16125,6 @@ tt15108130	5	nm12380288	director	\N	\N
 tt15108130	6	nm12380167	director	\N	\N
 tt15108130	7	nm6068020	composer	\N	\N
 tt15108130	8	nm1930572	composer	\N	\N
-tt15108130	9	nm5930723	composer	\N	\N
 tt15108132	1	nm12703805	actress	\N	\N
 tt15108132	2	nm4651611	actor	\N	\N
 tt15108134	1	nm2632573	actor	\N	["Crazy Kearney"]
@@ -19843,13 +19838,16 @@ tt15109732	1	nm0219507	self	\N	["Self - Host"]
 tt15109736	1	nm0219507	self	\N	["Self - Host"]
 tt15109740	1	nm0219507	self	\N	["Self - Host"]
 tt15109742	1	nm0219507	self	\N	["Self - Host"]
+tt15109744	10	nm12762454	actor	\N	["DanTDM"]
 tt15109744	1	nm12784968	actor	\N	["Sarcastic DanTDM Fan","Dr. Trayaurus"]
 tt15109744	2	nm12787324	actor	\N	["Pink Sheep","Audience Member","DanTDM Fan"]
 tt15109744	3	nm12787322	actor	\N	["Audience Member","DanTDM Fan","Anomyous Player"]
 tt15109744	4	nm12769192	actor	\N	["Notch"]
 tt15109744	5	nm12380167	director	\N	\N
 tt15109744	6	nm1930572	composer	\N	\N
-tt15109744	7	nm5930723	composer	\N	\N
+tt15109744	7	nm12787321	actor	\N	["Timmy's Mother","Audience Member","DanTDM Fan"]
+tt15109744	8	nm12784873	actor	\N	["Audience Member","DanTDM Fan","Anomyous Player"]
+tt15109744	9	nm5222324	actor	\N	["Pink Sheep"]
 tt15109746	1	nm0219507	self	\N	["Self - Host"]
 tt15109748	1	nm0219507	self	\N	["Self - Host"]
 tt15109750	1	nm0219507	self	\N	["Self - Host"]
@@ -20081,7 +20079,6 @@ tt15109980	4	nm12787354	actor	\N	["Steve's Grandma"]
 tt15109980	5	nm12380167	director	\N	\N
 tt15109980	6	nm12761051	writer	idea	\N
 tt15109980	7	nm1930572	composer	\N	\N
-tt15109980	8	nm5930723	composer	\N	\N
 tt15109982	1	nm0207344	self	\N	["Self - Host"]
 tt15109982	2	nm6984813	self	\N	["Self - Co-Host"]
 tt15109982	3	nm1230029	self	\N	["Self - Host"]

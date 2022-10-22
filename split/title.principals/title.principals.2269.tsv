@@ -708,13 +708,16 @@ tt22693868	6	nm6812436	writer	\N	\N
 tt22693868	7	nm9639341	writer	\N	\N
 tt22693868	8	nm3087478	producer	producer	\N
 tt22693868	9	nm6725612	producer	producer	\N
-tt22693870	1	nm14041830	director	\N	\N
-tt22693870	2	nm6812436	writer	\N	\N
-tt22693870	3	nm9639341	writer	\N	\N
-tt22693870	4	nm3087478	producer	producer	\N
-tt22693870	5	nm6725612	producer	producer	\N
-tt22693870	6	nm9119503	cinematographer	\N	\N
-tt22693870	7	nm2850707	editor	\N	\N
+tt22693870	10	nm9119503	cinematographer	\N	\N
+tt22693870	1	nm5503573	actor	\N	["Nazif","Mukaddes","Pelin"]
+tt22693870	2	nm0149142	actress	\N	["Tijen"]
+tt22693870	3	nm10977557	actor	\N	["Bedir"]
+tt22693870	4	nm2432719	actor	\N	["Ferit"]
+tt22693870	5	nm14041830	director	\N	\N
+tt22693870	6	nm6812436	writer	\N	\N
+tt22693870	7	nm9639341	writer	\N	\N
+tt22693870	8	nm3087478	producer	producer	\N
+tt22693870	9	nm6725612	producer	producer	\N
 tt22693874	1	nm14041830	director	\N	\N
 tt22693874	2	nm6812436	writer	\N	\N
 tt22693874	3	nm9639341	writer	\N	\N
@@ -722,16 +725,16 @@ tt22693874	4	nm3087478	producer	producer	\N
 tt22693874	5	nm6725612	producer	producer	\N
 tt22693874	6	nm9119503	cinematographer	\N	\N
 tt22693874	7	nm2850707	editor	\N	\N
-tt22693876	10	nm3474279	composer	\N	\N
+tt22693876	10	nm4057668	composer	\N	\N
 tt22693876	1	nm4304940	actress	\N	["Ece"]
 tt22693876	2	nm8496759	actor	\N	["Umut"]
 tt22693876	3	nm14138136	actor	\N	["Enzel"]
 tt22693876	4	nm4577610	actress	\N	["Su"]
 tt22693876	5	nm7776169	director	\N	\N
-tt22693876	6	nm14052173	writer	written by	\N
-tt22693876	7	nm3532337	writer	written by	\N
-tt22693876	8	nm10222097	composer	\N	\N
-tt22693876	9	nm9214923	composer	\N	\N
+tt22693876	6	nm3532337	writer	written by	\N
+tt22693876	7	nm10222097	composer	\N	\N
+tt22693876	8	nm9214923	composer	\N	\N
+tt22693876	9	nm3474279	composer	\N	\N
 tt22693880	10	nm0455810	self	\N	["Self"]
 tt22693880	1	nm1715025	self	\N	["Self - Host"]
 tt22693880	2	nm3891108	self	\N	["Self - Host"]
@@ -1103,13 +1106,37 @@ tt22694266	3	nm8890294	director	\N	\N
 tt22694266	4	nm11897875	director	\N	\N
 tt22694266	5	nm14127747	writer	written by	\N
 tt22694266	6	nm5762850	cinematographer	director of photography	\N
-tt22694270	1	nm7978607	writer	written by	\N
-tt22694274	1	nm7978607	writer	written by	\N
-tt22694276	1	nm7978607	writer	written by	\N
+tt22694270	1	nm4082640	director	\N	\N
+tt22694270	2	nm7978607	writer	written by	\N
+tt22694270	3	nm2837311	writer	story	\N
+tt22694270	4	nm4853598	writer	story	\N
+tt22694270	5	nm6901822	composer	\N	\N
+tt22694270	6	nm4677173	cinematographer	\N	\N
+tt22694270	7	nm4913137	editor	\N	\N
+tt22694274	1	nm4082640	director	\N	\N
+tt22694274	2	nm7978607	writer	written by	\N
+tt22694274	3	nm2837311	writer	story	\N
+tt22694274	4	nm4853598	writer	story	\N
+tt22694274	5	nm6901822	composer	\N	\N
+tt22694274	6	nm4677173	cinematographer	\N	\N
+tt22694274	7	nm4913137	editor	\N	\N
+tt22694276	1	nm4082640	director	\N	\N
+tt22694276	2	nm7978607	writer	written by	\N
+tt22694276	3	nm2837311	writer	story	\N
+tt22694276	4	nm4853598	writer	story	\N
+tt22694276	5	nm6901822	composer	\N	\N
+tt22694276	6	nm4677173	cinematographer	\N	\N
+tt22694276	7	nm4913137	editor	\N	\N
 tt22694278	1	nm4615584	actress	\N	\N
 tt22694278	2	nm4744535	director	\N	\N
 tt22694278	3	nm3294556	cinematographer	\N	\N
-tt22694282	1	nm7978607	writer	written by	\N
+tt22694282	1	nm4082640	director	\N	\N
+tt22694282	2	nm7978607	writer	written by	\N
+tt22694282	3	nm2837311	writer	story	\N
+tt22694282	4	nm4853598	writer	story	\N
+tt22694282	5	nm6901822	composer	\N	\N
+tt22694282	6	nm4677173	cinematographer	\N	\N
+tt22694282	7	nm4913137	editor	\N	\N
 tt22694294	1	nm14127751	self	\N	["Self"]
 tt22694294	2	nm14127752	self	\N	["Self"]
 tt22694294	3	nm14127753	self	\N	["Self"]
@@ -1751,7 +1778,8 @@ tt22694910	5	nm0820113	cinematographer	\N	\N
 tt22694910	6	nm2433617	editor	\N	\N
 tt22694916	1	nm14127987	director	\N	\N
 tt22694918	1	nm10021823	actor	\N	["Walt Clawford"]
-tt22694918	2	nm9589775	production_designer	\N	\N
+tt22694918	2	nm3928402	composer	\N	\N
+tt22694918	3	nm9589775	production_designer	\N	\N
 tt22694922	1	nm8903252	actor	\N	["RedRacc"]
 tt22694922	2	nm13537658	actor	\N	["Batty Bitts"]
 tt22694922	3	nm9323865	actor	\N	["Harley Coconut"]
@@ -1806,14 +1834,14 @@ tt22694970	6	nm4566343	director	\N	\N
 tt22694970	7	nm0013611	producer	producer	\N
 tt22694970	8	nm2245654	producer	producer	\N
 tt22694970	9	nm10677046	cinematographer	\N	\N
-tt22694974	10	nm9593750	actor	\N	["Sélim"]
-tt22694974	1	nm1614814	actress	\N	["Karine"]
+tt22694974	10	nm9593750	actor	\N	["Selim"]
+tt22694974	1	nm1614814	actress	\N	["Karine Lurdou"]
 tt22694974	2	nm1715145	actress	\N	["Jane"]
 tt22694974	3	nm0968797	actress	\N	["Mapi"]
-tt22694974	4	nm7393453	actress	\N	["Naïma"]
-tt22694974	5	nm2235565	writer	created by	\N
-tt22694974	6	nm3638127	writer	created by	\N
-tt22694974	7	nm4970133	actress	\N	["Violette"]
+tt22694974	4	nm4970133	actress	\N	["Violette Mercier"]
+tt22694974	5	nm3638127	writer	dialogue	\N
+tt22694974	6	nm2235565	writer	adaptation	\N
+tt22694974	7	nm7393453	actress	\N	["Naïma"]
 tt22694974	8	nm0693751	actor	\N	["Didier Lurdou"]
 tt22694974	9	nm9274353	actress	\N	["Laura Lurdou"]
 tt22694982	1	nm13087860	director	\N	\N
@@ -3262,6 +3290,9 @@ tt22695814	1	nm0949440	actress	\N	["Barbie 'Malibu' Roberts"]
 tt22695814	2	nm3172325	actor	\N	["Ken"]
 tt22695814	3	nm3937111	actress	\N	["Skipper Roberts"]
 tt22695814	4	nm1597419	actress	\N	["Barbie 'Brooklyn' Roberts"]
+tt22695814	5	nm0375876	director	\N	\N
+tt22695814	6	nm0460458	writer	written by	\N
+tt22695814	7	nm0909233	writer	written by	\N
 tt22695816	1	nm3634990	self	\N	["Self - Host"]
 tt22695816	2	nm0885201	director	\N	\N
 tt22695816	3	nm11576505	producer	producer	\N
@@ -4774,6 +4805,7 @@ tt22696534	5	nm2359471	writer	\N	\N
 tt22696534	6	nm13999652	writer	\N	\N
 tt22696534	7	nm12659616	writer	\N	\N
 tt22696534	8	nm13999653	writer	\N	\N
+tt22696536	1	nm9755228	producer	producer	\N
 tt22696538	1	nm8966407	self	\N	["Self - Host"]
 tt22696538	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696538	3	nm13999654	director	\N	\N
@@ -4814,6 +4846,7 @@ tt22696546	5	nm2359471	writer	\N	\N
 tt22696546	6	nm13999652	writer	\N	\N
 tt22696546	7	nm12659616	writer	\N	\N
 tt22696546	8	nm13999653	writer	\N	\N
+tt22696548	1	nm9755228	producer	producer	\N
 tt22696550	1	nm8966407	self	\N	["Self - Host"]
 tt22696550	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696550	3	nm13999654	director	\N	\N
@@ -4838,6 +4871,7 @@ tt22696554	5	nm2359471	writer	\N	\N
 tt22696554	6	nm13999652	writer	\N	\N
 tt22696554	7	nm12659616	writer	\N	\N
 tt22696554	8	nm13999653	writer	\N	\N
+tt22696556	1	nm9755228	producer	producer	\N
 tt22696558	1	nm13561209	actor	\N	\N
 tt22696558	2	nm7641595	actress	\N	\N
 tt22696560	1	nm8966407	self	\N	["Self - Host"]
@@ -4872,6 +4906,7 @@ tt22696566	5	nm2359471	writer	\N	\N
 tt22696566	6	nm13999652	writer	\N	\N
 tt22696566	7	nm12659616	writer	\N	\N
 tt22696566	8	nm13999653	writer	\N	\N
+tt22696568	1	nm9755228	producer	producer	\N
 tt22696572	1	nm8966407	self	\N	["Self - Host"]
 tt22696572	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696572	3	nm13999654	director	\N	\N
@@ -4924,6 +4959,7 @@ tt22696586	5	nm2359471	writer	\N	\N
 tt22696586	6	nm13999652	writer	\N	\N
 tt22696586	7	nm12659616	writer	\N	\N
 tt22696586	8	nm13999653	writer	\N	\N
+tt22696588	1	nm3748986	producer	producer	\N
 tt22696590	1	nm13174279	self	\N	["Self - Guest"]
 tt22696590	2	nm11800181	self	\N	["Self - Host"]
 tt22696590	3	nm2361474	self	\N	["Self - Guest"]
@@ -4969,6 +5005,7 @@ tt22696604	5	nm2359471	writer	\N	\N
 tt22696604	6	nm13999652	writer	\N	\N
 tt22696604	7	nm12659616	writer	\N	\N
 tt22696604	8	nm13999653	writer	\N	\N
+tt22696606	1	nm3748986	producer	producer	\N
 tt22696608	1	nm8966407	self	\N	["Self - Host"]
 tt22696608	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696608	3	nm13999654	director	\N	\N
@@ -4996,6 +5033,7 @@ tt22696616	5	nm2359471	writer	\N	\N
 tt22696616	6	nm13999652	writer	\N	\N
 tt22696616	7	nm12659616	writer	\N	\N
 tt22696616	8	nm13999653	writer	\N	\N
+tt22696618	1	nm3748986	producer	producer	\N
 tt22696620	1	nm8966407	self	\N	["Self - Host"]
 tt22696620	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696620	3	nm13999654	director	\N	\N
@@ -5028,6 +5066,7 @@ tt22696628	5	nm2359471	writer	\N	\N
 tt22696628	6	nm13999652	writer	\N	\N
 tt22696628	7	nm12659616	writer	\N	\N
 tt22696628	8	nm13999653	writer	\N	\N
+tt22696630	1	nm3748986	producer	producer	\N
 tt22696632	1	nm8966407	self	\N	["Self - Host"]
 tt22696632	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696632	3	nm13999654	director	\N	\N
@@ -5109,6 +5148,7 @@ tt22696660	5	nm2359471	writer	\N	\N
 tt22696660	6	nm13999652	writer	\N	\N
 tt22696660	7	nm12659616	writer	\N	\N
 tt22696660	8	nm13999653	writer	\N	\N
+tt22696662	1	nm0203195	producer	producer	\N
 tt22696664	1	nm8966407	self	\N	["Self - Host"]
 tt22696664	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696664	3	nm13999654	director	\N	\N
@@ -5125,6 +5165,7 @@ tt22696666	5	nm2359471	writer	\N	\N
 tt22696666	6	nm13999652	writer	\N	\N
 tt22696666	7	nm12659616	writer	\N	\N
 tt22696666	8	nm13999653	writer	\N	\N
+tt22696668	1	nm0203195	producer	producer	\N
 tt22696670	1	nm8966407	self	\N	["Self - Host"]
 tt22696670	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696670	3	nm13999654	director	\N	\N
@@ -5169,6 +5210,7 @@ tt22696682	1	nm1820227	director	\N	\N
 tt22696682	2	nm11179898	producer	producer	\N
 tt22696682	3	nm14128333	cinematographer	\N	\N
 tt22696682	4	nm1761723	editor	\N	\N
+tt22696684	1	nm0203195	producer	producer	\N
 tt22696686	1	nm8966407	self	\N	["Self - Host"]
 tt22696686	2	nm8966408	self	\N	["Self - Co-Host"]
 tt22696686	3	nm13999654	director	\N	\N
@@ -7691,6 +7733,7 @@ tt22697516	6	nm0231787	writer	\N	\N
 tt22697516	7	nm0603933	writer	\N	\N
 tt22697516	8	nm0663365	writer	\N	\N
 tt22697516	9	nm0881925	writer	\N	\N
+tt22697518	1	nm0346065	editor	\N	\N
 tt22697524	10	nm7588643	producer	producer	\N
 tt22697524	1	nm0599466	actor	\N	["Federico López"]
 tt22697524	2	nm0142389	actress	\N	["Alejandra León"]
@@ -8757,7 +8800,13 @@ tt22698128	1	nm12858617	director	\N	\N
 tt22698128	2	nm13565125	producer	producer	\N
 tt22698128	3	nm14128818	producer	producer	\N
 tt22698128	4	nm6314921	editor	\N	\N
-tt22698130	1	nm0702012	director	\N	\N
+tt22698130	1	nm5438257	actor	\N	["Cortijo"]
+tt22698130	2	nm0335120	actor	\N	["Juan Ponce De Leon"]
+tt22698130	3	nm0735357	actress	\N	["Mujer con antorcha"]
+tt22698130	4	nm8514840	actress	\N	["Isabel Ponce De Leon"]
+tt22698130	5	nm0702012	director	\N	\N
+tt22698130	6	nm2877071	cinematographer	\N	\N
+tt22698130	7	nm7408839	editor	\N	\N
 tt22698132	1	nm10100962	actress	\N	\N
 tt22698132	2	nm2883549	actor	\N	\N
 tt22698134	1	nm14128819	self	\N	["Self"]
@@ -8925,6 +8974,7 @@ tt22698396	6	nm0927311	director	\N	\N
 tt22698396	7	nm0477804	writer	head writer	\N
 tt22698396	8	nm2087483	writer	dramaturge	\N
 tt22698396	9	nm12100947	writer	dramaturge	\N
+tt22698400	1	nm0346065	editor	\N	\N
 tt22698404	1	nm14128903	actor	\N	["M.C."]
 tt22698404	2	nm14128901	actor	\N	["The Anxiety Fairy"]
 tt22698404	3	nm14128900	actor	\N	["Benjamin Ellis"]

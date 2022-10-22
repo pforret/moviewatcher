@@ -12110,11 +12110,14 @@ tt18333790	2	nm13434814	actress	\N	["Katie"]
 tt18333790	3	nm10345124	actor	\N	["Emma"]
 tt18333790	4	nm13434815	cinematographer	\N	\N
 tt18333792	1	nm13434816	actor	\N	\N
-tt18333796	1	nm3156122	actor	\N	["Him"]
-tt18333796	2	nm1708815	director	\N	\N
-tt18333796	3	nm0677481	cinematographer	\N	\N
-tt18333796	4	nm1562395	editor	\N	\N
-tt18333796	5	nm8895254	production_designer	\N	\N
+tt18333796	1	nm1708815	actress	\N	["Her"]
+tt18333796	2	nm3156122	actor	\N	["Him"]
+tt18333796	3	nm1501077	actor	\N	["Bodhi"]
+tt18333796	4	nm0677481	cinematographer	\N	\N
+tt18333796	5	nm6005748	editor	\N	\N
+tt18333796	6	nm4612962	editor	\N	\N
+tt18333796	7	nm1562395	editor	\N	\N
+tt18333796	8	nm8895254	production_designer	\N	\N
 tt18333814	1	nm9516779	self	\N	["Self - Host"]
 tt18333814	2	nm2583539	self	\N	["Self - Team captain"]
 tt18333814	3	nm0438785	self	\N	["Self - Team captain"]
@@ -15851,6 +15854,7 @@ tt18336260	2	nm9728242	director	\N	\N
 tt18336260	3	nm13436388	writer	\N	\N
 tt18336260	4	nm3775585	producer	producer	\N
 tt18336260	5	nm7823210	producer	producer	\N
+tt18336268	10	nm9601308	editor	\N	\N
 tt18336268	1	nm2142722	actress	\N	["Amélie"]
 tt18336268	2	nm7391785	actress	\N	["Princess Ellena"]
 tt18336268	3	nm8524467	actor	\N	["Prince John of Calderon"]
@@ -15983,10 +15987,10 @@ tt18336344	2	nm8432387	self	\N	["Self - Host"]
 tt18336344	3	nm6005643	director	\N	\N
 tt18336346	1	nm10288970	self	\N	["Self"]
 tt18336352	1	nm1027293	actress	\N	\N
-tt18336352	2	nm13436440	actor	\N	\N
-tt18336352	3	nm13436439	actor	\N	\N
-tt18336352	4	nm13436441	actor	\N	\N
-tt18336352	5	nm11553559	actor	\N	\N
+tt18336352	2	nm13436439	actor	\N	\N
+tt18336352	3	nm13436440	actor	\N	\N
+tt18336352	4	nm11553559	actor	\N	\N
+tt18336352	5	nm13436441	actor	\N	\N
 tt18336354	1	nm0718680	actor	\N	["Guest"]
 tt18336354	2	nm8432387	self	\N	["Self - Host"]
 tt18336354	3	nm6005643	director	\N	\N
@@ -26861,6 +26865,7 @@ tt18339168	5	nm13437162	actor	\N	["Agnes"]
 tt18339172	1	nm13437168	actor	\N	["Edwin"]
 tt18339172	2	nm13437167	actress	\N	["Genesis"]
 tt18339172	3	nm10141088	director	\N	\N
+tt18339172	4	nm10198142	producer	producer	\N
 tt18339174	1	nm4624473	actress	\N	["Narrator"]
 tt18339174	2	nm13437170	writer	\N	\N
 tt18339176	1	nm6028078	self	\N	["Self - Host"]
@@ -27508,7 +27513,7 @@ tt18339530	2	nm11152095	actor	\N	\N
 tt18339530	3	nm7530250	director	\N	\N
 tt18339530	4	nm10033478	director	\N	\N
 tt18339530	5	nm6293241	cinematographer	\N	\N
-tt18339532	1	nm10198142	actor	\N	\N
+tt18339532	1	nm10198142	actor	\N	["The Man","Shadow"]
 tt18339532	2	nm10141088	director	\N	\N
 tt18339532	3	nm13437385	composer	\N	\N
 tt18339536	1	nm4403841	director	\N	\N
@@ -27712,10 +27717,12 @@ tt18339680	1	nm10148777	actress	\N	["Elizabeth"]
 tt18339680	2	nm10141088	actress	\N	["Krystal"]
 tt18339680	3	nm13473037	actress	\N	["Nicole"]
 tt18339680	4	nm13473038	actor	\N	["Neil"]
+tt18339680	5	nm10198142	producer	producer	\N
 tt18339686	1	nm12600908	director	\N	\N
 tt18339688	1	nm5983291	actor	\N	["David"]
 tt18339688	2	nm13437168	actor	\N	["Jay"]
 tt18339688	3	nm10223591	actress	\N	["Zoe"]
+tt18339688	4	nm10198142	producer	producer	\N
 tt18339690	10	nm13215036	writer	\N	\N
 tt18339690	1	nm3400133	actress	\N	\N
 tt18339690	2	nm7477063	actor	\N	\N
@@ -27736,11 +27743,12 @@ tt18339694	6	nm13556727	director	co-director	\N
 tt18339694	7	nm5054027	writer	\N	\N
 tt18339694	8	nm2190786	writer	\N	\N
 tt18339694	9	nm7129302	writer	created by	\N
-tt18339696	1	nm8513878	actor	\N	["Karma"]
+tt18339696	1	nm10198142	actor	\N	["Angel"]
 tt18339696	2	nm10552845	actor	\N	["Angel #2"]
-tt18339696	3	nm10198142	actor	\N	["Angel"]
+tt18339696	3	nm13473037	actress	\N	["Angel #3"]
 tt18339696	4	nm8513866	actor	\N	["Damien"]
-tt18339696	5	nm13473037	actress	\N	["Angel #3"]
+tt18339696	5	nm5605909	actress	\N	["Vanessa"]
+tt18339696	6	nm8513878	actor	\N	["Karma"]
 tt18339704	1	nm7800787	actor	\N	["Caleb Daza"]
 tt18339704	2	nm10267408	actor	\N	["Camilo"]
 tt18339704	3	nm13437451	actress	\N	["Ofelia"]
@@ -27754,11 +27762,11 @@ tt18339706	1	nm5983291	actor	\N	["Mr. Lovitt"]
 tt18339706	2	nm10148777	actress	\N	["Mrs. Dawson"]
 tt18339706	3	nm13437168	actor	\N	["Sour"]
 tt18339706	4	nm13475743	actor	\N	["Mr. Leeds"]
-tt18339706	5	nm10141088	actress	\N	["Ms. Andrews"]
-tt18339706	6	nm10223591	actress	\N	["Michelle"]
-tt18339706	7	nm10552845	actor	\N	["James"]
-tt18339706	8	nm6922491	actor	\N	["The Boss"]
-tt18339706	9	nm10198142	actor	\N	["Gerard"]
+tt18339706	5	nm10198142	producer	producer	\N
+tt18339706	6	nm10141088	actress	\N	["Ms. Andrews"]
+tt18339706	7	nm10223591	actress	\N	["Michelle"]
+tt18339706	8	nm10552845	actor	\N	["James"]
+tt18339706	9	nm6922491	actor	\N	["The Boss"]
 tt18339710	1	nm1935446	self	\N	["Self - Contestant"]
 tt18339710	2	nm8564681	self	\N	["Self - Contestant"]
 tt18339710	3	nm0285456	self	\N	["Self - Contestant"]
@@ -27800,9 +27808,10 @@ tt18339728	1	nm10148777	actress	\N	["Mary"]
 tt18339728	2	nm13473181	actor	\N	["Detective Crane"]
 tt18339728	3	nm10141088	actress	\N	["Charlotte"]
 tt18339728	4	nm13473183	actor	\N	["Alex"]
-tt18339728	5	nm8513866	actor	\N	["Detective Suarez"]
-tt18339728	6	nm9960269	actress	\N	["Denise"]
-tt18339728	7	nm13473182	actor	\N	["James"]
+tt18339728	5	nm10198142	producer	producer	\N
+tt18339728	6	nm8513866	actor	\N	["Detective Suarez"]
+tt18339728	7	nm9960269	actress	\N	["Denise"]
+tt18339728	8	nm13473182	actor	\N	["James"]
 tt18339730	1	nm5345600	self	\N	["Self - Contestant"]
 tt18339730	2	nm1717005	self	\N	["Self - Contestant"]
 tt18339730	3	nm0697419	self	\N	["Self - Contestant"]
@@ -27826,14 +27835,14 @@ tt18339748	1	nm10148777	actress	\N	["Nora"]
 tt18339748	2	nm13437168	actor	\N	["Ray"]
 tt18339748	3	nm13475743	actor	\N	["Justice"]
 tt18339748	4	nm10141088	actress	\N	["Melissa"]
-tt18339748	5	nm10198142	actor	\N	["Detective Crane"]
+tt18339748	5	nm10198142	producer	producer	\N
 tt18339748	6	nm13473038	actor	\N	["Miles"]
 tt18339750	1	nm12084015	self	\N	["Self - Host"]
 tt18339752	1	nm10148777	actress	\N	["Sarah"]
 tt18339752	2	nm13475743	actor	\N	["Nick"]
 tt18339752	3	nm10141088	actress	\N	["Woman"]
 tt18339752	4	nm13475763	actress	\N	["Doctor"]
-tt18339752	5	nm10198142	actor	\N	["Lenny"]
+tt18339752	5	nm10198142	producer	producer	\N
 tt18339754	1	nm9723525	self	\N	["Self - Panelist"]
 tt18339754	2	nm0422181	self	\N	["Self - Panelist"]
 tt18339754	3	nm0568403	self	\N	["Self - Panelist"]
@@ -27844,12 +27853,13 @@ tt18339758	1	nm10148777	actress	\N	["Diana"]
 tt18339758	2	nm10141088	actress	\N	["Allen #2"]
 tt18339758	3	nm6922491	actor	\N	["Diana #2"]
 tt18339758	4	nm10198142	actor	\N	["Sage"]
-tt18339758	5	nm8513866	actor	\N	["Allen"]
+tt18339758	5	nm7683614	cinematographer	director of photography	\N
+tt18339758	6	nm8513866	actor	\N	["Allen"]
 tt18339760	1	nm13475770	actress	\N	["Destiny"]
 tt18339760	2	nm13475743	actor	\N	["Tyrone"]
 tt18339760	3	nm10141088	actress	\N	["Assistant"]
 tt18339760	4	nm5605909	actress	\N	["Hayden"]
-tt18339760	5	nm10198142	actor	\N	["Theif"]
+tt18339760	5	nm10198142	producer	producer	\N
 tt18339764	1	nm13437469	actor	\N	["Toronto"]
 tt18339764	2	nm13437465	actress	\N	["Ikem"]
 tt18339764	3	nm10893096	actor	\N	["Austin"]

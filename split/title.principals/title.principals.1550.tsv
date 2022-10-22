@@ -1381,10 +1381,11 @@ tt15500836	1	nm1542347	self	\N	["Self - Host"]
 tt15500836	2	nm1617141	self	\N	["Self"]
 tt15500836	3	nm7568670	director	\N	\N
 tt15500838	1	nm5885024	actress	\N	\N
-tt15500838	2	nm6360159	actress	\N	\N
-tt15500838	3	nm13488562	actress	\N	\N
-tt15500838	4	nm4984346	actress	\N	\N
-tt15500838	5	nm5735341	actress	\N	\N
+tt15500838	2	nm7626594	actress	\N	\N
+tt15500838	3	nm6360159	actress	\N	\N
+tt15500838	4	nm13488562	actress	\N	\N
+tt15500838	5	nm4984346	actress	\N	\N
+tt15500838	6	nm5735341	actress	\N	\N
 tt15500842	1	nm0408591	actor	\N	["Narrator"]
 tt15500842	2	nm12284818	self	\N	["Self - Antique Dealer"]
 tt15500842	3	nm12967288	self	\N	["Self - Antique Dealer"]
@@ -1901,7 +1902,6 @@ tt15501060	5	nm12384691	director	\N	\N
 tt15501060	6	nm12391537	writer	\N	\N
 tt15501060	7	nm12972062	writer	idea	\N
 tt15501060	8	nm1930572	composer	\N	\N
-tt15501060	9	nm5930723	composer	\N	\N
 tt15501062	10	nm12831436	production_designer	\N	\N
 tt15501062	1	nm12972065	actor	\N	["Trey"]
 tt15501062	2	nm9814335	actor	\N	["Mikey"]
@@ -6640,7 +6640,6 @@ tt15503792	5	nm12384691	director	\N	\N
 tt15503792	6	nm12391537	writer	\N	\N
 tt15503792	7	nm12973584	writer	idea	\N
 tt15503792	8	nm1930572	composer	\N	\N
-tt15503792	9	nm5930723	composer	\N	\N
 tt15503794	1	nm12878619	actress	\N	\N
 tt15503794	2	nm12878620	actress	\N	\N
 tt15503794	3	nm12878618	actor	\N	\N
@@ -13945,7 +13944,6 @@ tt15506002	5	nm12384691	director	\N	\N
 tt15506002	6	nm12391537	writer	\N	\N
 tt15506002	7	nm12974124	writer	idea	\N
 tt15506002	8	nm1930572	composer	\N	\N
-tt15506002	9	nm5930723	composer	\N	\N
 tt15506004	1	nm1330276	self	\N	["Self"]
 tt15506004	2	nm12753977	self	\N	["Self"]
 tt15506004	3	nm13719483	actress	\N	["Dr. Jenn"]
@@ -15882,7 +15880,7 @@ tt15506948	1	nm5735341	actress	\N	\N
 tt15506950	1	nm13110999	actress	\N	["Emma"]
 tt15506950	2	nm5439395	actor	\N	["Connor"]
 tt15506954	1	nm12479898	director	\N	\N
-tt15506958	10	nm1240215	actor	\N	["Manotaur"]
+tt15506958	10	nm3677768	actress	\N	["Lucia"]
 tt15506958	1	nm6264728	actress	\N	["Demi"]
 tt15506958	2	nm10914525	actor	\N	["Rusty"]
 tt15506958	3	nm9718233	actress	\N	["Cinnamon"]
@@ -16156,9 +16154,9 @@ tt15507126	2	nm9723807	actor	\N	["Kevin"]
 tt15507126	3	nm11332821	actress	\N	["Anya"]
 tt15507126	4	nm11677561	actress	\N	["Sandra","Michelle Dixon"]
 tt15507126	5	nm0629152	director	\N	\N
-tt15507126	6	nm1093039	writer	creator	\N
-tt15507126	7	nm3743024	writer	creator	\N
-tt15507126	8	nm0301842	writer	written by	\N
+tt15507126	6	nm0301842	writer	written for the screen by	\N
+tt15507126	7	nm1093039	writer	creator	\N
+tt15507126	8	nm3743024	writer	creator	\N
 tt15507126	9	nm0683204	writer	based on the work of	\N
 tt15507128	10	nm0293352	editor	\N	\N
 tt15507128	1	nm0876138	actor	\N	["Tom"]
@@ -20388,8 +20386,9 @@ tt15509662	9	nm11483861	editor	\N	\N
 tt15509666	1	nm12976385	director	\N	\N
 tt15509668	1	nm1560201	actress	\N	["Ellice Ceñidoza-Villarosa"]
 tt15509668	2	nm1204305	actress	\N	["Marissa D. Pineda-Zulyani"]
-tt15509668	3	nm2261723	actress	\N	["Carmelita Villarosa (2021)"]
-tt15509668	4	nm2049965	actor	\N	["Gabriel Villarosa"]
+tt15509668	3	nm0815018	actress	\N	["Lucinda Dela Cruz-Pineda","Lucing"]
+tt15509668	4	nm2261723	actress	\N	["Carmelita Villarosa (2021)"]
+tt15509668	5	nm2049965	actor	\N	["Gabriel Villarosa"]
 tt15509682	1	nm12976395	self	\N	["Self"]
 tt15509682	2	nm12976396	self	\N	["Self"]
 tt15509682	3	nm12069253	director	\N	\N

@@ -784,7 +784,7 @@ tt12300410	4	nm2131418	actor	\N	["Client"]
 tt12300410	5	nm11565874	writer	\N	\N
 tt12300410	6	nm1974554	cinematographer	\N	\N
 tt12300412	1	nm0696305	writer	\N	\N
-tt12300414	10	nm0908270	actress	\N	["Olivia St John"]
+tt12300414	10	nm0717702	actor	\N	["Sean Donely"]
 tt12300414	1	nm0029896	actress	\N	["Cheryl Stansbury"]
 tt12300414	2	nm0043484	actor	\N	["Victor Jerome"]
 tt12300414	3	nm0076375	actress	\N	["Terry O'Connor"]
@@ -792,7 +792,7 @@ tt12300414	4	nm0118011	actor	\N	["Duke Lavery"]
 tt12300414	5	nm0163725	actor	\N	["Chet Clark"]
 tt12300414	6	nm0188050	actress	\N	["Dimitra"]
 tt12300414	7	nm0001370	actress	\N	["Anna Devane"]
-tt12300414	8	nm0449123	actress	\N	["Amy Vining"]
+tt12300414	8	nm0449123	actress	\N	["Amy Vining, R.N."]
 tt12300414	9	nm0005205	actress	\N	["Robin Scorpio"]
 tt12300416	1	nm0612880	self	\N	["Self","Critique de Cinéma"]
 tt12300418	1	nm11570872	self	\N	["Self","Assistant Distributeur de Film"]
@@ -1121,7 +1121,7 @@ tt12300666	5	nm0163725	actor	\N	["Chet Clark"]
 tt12300666	6	nm0198948	actor	\N	["Dr. Alan Quartermaine"]
 tt12300666	7	nm0383522	actress	\N	["Lady Arielle Ashton"]
 tt12300666	8	nm0001370	actress	\N	["Anna Devane"]
-tt12300666	9	nm0449123	actress	\N	["Amy Vining"]
+tt12300666	9	nm0449123	actress	\N	["Amy Vining, R.N."]
 tt12300668	1	nm11570953	self	\N	["Self","Ingénieur En Cybernétique"]
 tt12300670	1	nm0761420	self	\N	["Self","Comédien"]
 tt12300672	1	nm1013114	self	\N	["Self","Homme Politique"]
@@ -4034,8 +4034,9 @@ tt12302100	2	nm7756547	actress	\N	["Elsie"]
 tt12302100	3	nm4007601	actor	\N	["Slavemaster"]
 tt12302100	4	nm4104785	actor	\N	["Algie"]
 tt12302100	5	nm9951044	director	\N	\N
-tt12302100	6	nm0114976	cinematographer	\N	\N
-tt12302100	7	nm4347385	editor	\N	\N
+tt12302100	6	nm9718185	composer	\N	\N
+tt12302100	7	nm0114976	cinematographer	\N	\N
+tt12302100	8	nm4347385	editor	\N	\N
 tt12302102	10	nm0867718	writer	\N	\N
 tt12302102	1	nm0078158	actor	\N	\N
 tt12302102	2	nm0146965	actor	\N	\N
@@ -8890,8 +8891,6 @@ tt12304042	6	nm0326258	producer	producer	\N
 tt12304042	7	nm0374254	producer	producer	\N
 tt12304042	8	nm0375625	producer	producer	\N
 tt12304042	9	nm0435060	producer	producer	\N
-tt12304044	1	nm1395817	actress	\N	["Marie"]
-tt12304044	2	nm5750399	actor	\N	["Lu"]
 tt12304046	10	nm0582984	producer	producer	\N
 tt12304046	1	nm0253072	self	\N	["Self"]
 tt12304046	2	nm0470676	director	\N	\N
@@ -10923,8 +10922,9 @@ tt12305430	1	nm4548166	actor	\N	["Mr. Torture"]
 tt12305430	2	nm11564340	actor	\N	["Webberly Rattenkraft"]
 tt12305430	3	nm3495777	actress	\N	["Miss Misery"]
 tt12305430	4	nm3558651	producer	producer	\N
-tt12305432	1	nm6353138	actor	\N	\N
-tt12305432	2	nm11574831	director	\N	\N
+tt12305432	1	nm0685673	self	\N	["Self - Songwriter"]
+tt12305432	2	nm6353138	actor	\N	\N
+tt12305432	3	nm11574831	director	\N	\N
 tt12305436	1	nm0004653	writer	screenplay by	\N
 tt12305436	2	nm1397706	writer	screenplay by	\N
 tt12305436	3	nm0326214	producer	producer	\N

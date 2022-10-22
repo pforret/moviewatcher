@@ -2778,6 +2778,7 @@ tt22053130	4	nm1020522	producer	producer	\N
 tt22053134	1	nm7183747	actor	\N	["Nate"]
 tt22053134	2	nm3630828	director	\N	\N
 tt22053134	3	nm1453801	writer	created by	\N
+tt22053134	4	nm0116312	editor	\N	\N
 tt22053138	1	nm11845342	actress	\N	["Trash Panda"]
 tt22053138	2	nm1752584	actor	\N	["Storyteller"]
 tt22053138	3	nm11704174	actor	\N	["Insomnia"]
@@ -2851,12 +2852,16 @@ tt22053180	6	nm11883950	self	\N	["Self"]
 tt22053180	7	nm14159282	self	\N	["Self"]
 tt22053180	8	nm14159285	self	\N	["Self"]
 tt22053180	9	nm12843037	archive_footage	\N	["Self"]
+tt22053182	10	nm12055511	self	\N	["Self"]
 tt22053182	1	nm11883953	self	\N	["Self"]
 tt22053182	2	nm11883952	self	\N	["Self"]
 tt22053182	3	nm11883948	self	\N	["Self"]
 tt22053182	4	nm11883951	self	\N	["Self"]
 tt22053182	5	nm3172175	cinematographer	\N	\N
 tt22053182	6	nm11883950	self	\N	["Self"]
+tt22053182	7	nm12231874	self	\N	["Self"]
+tt22053182	8	nm12995470	self	\N	["Self"]
+tt22053182	9	nm12058301	self	\N	["Self"]
 tt22053188	1	nm11883953	self	\N	["Self"]
 tt22053188	2	nm11883952	self	\N	["Self"]
 tt22053188	3	nm11883948	self	\N	["Self"]
@@ -3084,7 +3089,8 @@ tt22053430	3	nm4010671	self	\N	["Self"]
 tt22053430	4	nm4554437	self	\N	["Self - Correspondent"]
 tt22053430	5	nm0760796	self	\N	["Self"]
 tt22053430	6	nm1093951	self	\N	["Self"]
-tt22053432	1	nm7652917	actress	\N	["Deb"]
+tt22053432	1	nm4960648	actress	\N	["Charlie"]
+tt22053432	2	nm7652917	actress	\N	["Deb"]
 tt22053446	1	nm9801301	director	\N	\N
 tt22053448	1	nm14041464	self	\N	["Self"]
 tt22053448	2	nm0874339	self	\N	["Self"]
@@ -4777,16 +4783,16 @@ tt22055042	1	nm11918866	actress	\N	\N
 tt22055042	2	nm3554866	actor	\N	\N
 tt22055052	1	nm7178508	actress	\N	\N
 tt22055052	2	nm3554866	actor	\N	\N
-tt22055054	10	nm12538198	actor	\N	["Gülbahar"]
+tt22055054	10	nm9780088	actor	\N	["Sefo"]
 tt22055054	1	nm4027020	actress	\N	["Elena"]
 tt22055054	2	nm1419480	actress	\N	["Nina"]
 tt22055054	3	nm9878816	actor	\N	["Ertan"]
 tt22055054	4	nm1687151	actor	\N	["Daniel"]
 tt22055054	5	nm0015091	director	\N	\N
-tt22055054	6	nm4784062	editor	\N	\N
-tt22055054	7	nm5798618	actor	\N	["Arif"]
-tt22055054	8	nm5879333	actress	\N	["Gülsun"]
-tt22055054	9	nm9780088	actor	\N	["Sefo"]
+tt22055054	6	nm5504279	cinematographer	\N	\N
+tt22055054	7	nm4784062	editor	\N	\N
+tt22055054	8	nm5798618	actor	\N	["Arif"]
+tt22055054	9	nm5879333	actress	\N	["Gülsun"]
 tt22055056	1	nm13822522	self	\N	["Self"]
 tt22055056	2	nm13823645	self	\N	["Self"]
 tt22055058	1	nm14042141	actor	\N	["Goalkeeper"]
@@ -5063,7 +5069,7 @@ tt22055284	9	nm2785236	writer	executive story editor	\N
 tt22055286	10	nm11018676	cinematographer	\N	\N
 tt22055286	1	nm14036909	actor	\N	["Tre"]
 tt22055286	2	nm4286904	actor	\N	["Wayne"]
-tt22055286	3	nm10914283	actress	\N	["Brooke"]
+tt22055286	3	nm14159085	actress	\N	["Brooke"]
 tt22055286	4	nm12863782	actor	\N	["Damon"]
 tt22055286	5	nm4768576	director	\N	\N
 tt22055286	6	nm12743915	director	asisstant director	\N
@@ -7519,9 +7525,9 @@ tt22056058	2	nm0210655	actor	\N	["D. Pedro I"]
 tt22056058	3	nm5299382	actress	\N	["Peregrina"]
 tt22056058	4	nm14042563	actress	\N	["Peregrina menina"]
 tt22056058	5	nm0438255	actress	\N	["Carlota Joaquina"]
-tt22056058	6	nm1270624	actress	\N	["Maria Leopoldina"]
+tt22056058	6	nm1270624	actress	\N	["Leopoldina"]
 tt22056058	7	nm5987206	actor	\N	["D. Miguel I"]
-tt22056058	8	nm0207281	actress	\N	["Maria I de Portugal"]
+tt22056058	8	nm0207281	actress	\N	["D. Maria I"]
 tt22056058	9	nm0292329	actor	\N	["José Bonifácio de Andrada"]
 tt22056060	1	nm5026382	actress	\N	["Mariko"]
 tt22056060	2	nm1797214	actress	\N	["Keiko"]
@@ -8026,8 +8032,8 @@ tt22056196	6	nm0274229	writer	\N	\N
 tt22056196	7	nm8975106	composer	\N	\N
 tt22056196	8	nm2558531	composer	\N	\N
 tt22056196	9	nm0758868	actor	\N	\N
-tt22056198	1	nm14050337	self	\N	["Self"]
-tt22056198	2	nm14050336	self	\N	["Self"]
+tt22056198	1	nm14050336	self	\N	["Self"]
+tt22056198	2	nm14050337	self	\N	["Self"]
 tt22056200	1	nm2406271	self	\N	["Self"]
 tt22056208	1	nm2406271	self	\N	["Self"]
 tt22056210	10	nm4417136	producer	producer	\N
@@ -12114,6 +12120,7 @@ tt22057950	6	nm2941131	producer	producer	\N
 tt22057950	7	nm2940535	producer	producer	\N
 tt22057950	8	nm2273814	composer	\N	\N
 tt22057950	9	nm3395141	actor	\N	\N
+tt22057952	1	nm1016894	cinematographer	\N	\N
 tt22057954	10	nm4407823	actress	\N	["Susie"]
 tt22057954	1	nm2370920	actor	\N	["Larry (2009)"]
 tt22057954	2	nm2960196	actor	\N	["Tony Lee"]
@@ -12241,6 +12248,7 @@ tt22057988	7	nm2940535	producer	producer	\N
 tt22057988	8	nm2273814	composer	\N	\N
 tt22057988	9	nm3395141	actor	\N	\N
 tt22057990	1	nm14146704	self	\N	["Self"]
+tt22057990	2	nm1016894	cinematographer	\N	\N
 tt22057992	10	nm1335616	actress	\N	\N
 tt22057992	1	nm7424026	actress	\N	\N
 tt22057992	2	nm5687944	actor	\N	\N
@@ -12266,6 +12274,7 @@ tt22057996	6	nm2941131	producer	producer	\N
 tt22057996	7	nm2940535	producer	producer	\N
 tt22057996	8	nm2273814	composer	\N	\N
 tt22057996	9	nm3395141	actor	\N	\N
+tt22057998	1	nm1016894	cinematographer	\N	\N
 tt22058002	10	nm1335616	actress	\N	\N
 tt22058002	1	nm7424026	actress	\N	\N
 tt22058002	2	nm5687944	actor	\N	\N
@@ -12276,6 +12285,7 @@ tt22058002	6	nm2941131	producer	producer	\N
 tt22058002	7	nm2940535	producer	producer	\N
 tt22058002	8	nm2273814	composer	\N	\N
 tt22058002	9	nm3395141	actor	\N	\N
+tt22058004	1	nm1016894	cinematographer	\N	\N
 tt22058006	10	nm1335616	actress	\N	\N
 tt22058006	1	nm7424026	actress	\N	\N
 tt22058006	2	nm5687944	actor	\N	\N
@@ -14339,7 +14349,6 @@ tt22059186	2	nm13014701	director	\N	\N
 tt22059186	3	nm13435125	writer	\N	\N
 tt22059188	1	nm11215140	actor	\N	["Lionel"]
 tt22059188	2	nm14044405	actor	\N	["Diego"]
-tt22059188	3	nm10132692	actor	\N	["Diego"]
 tt22059190	1	nm12397835	actor	\N	["Bean Mario"]
 tt22059190	2	nm8655048	actor	\N	["Narrator"]
 tt22059190	3	nm9195686	actor	\N	["Bob"]

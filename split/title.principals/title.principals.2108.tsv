@@ -548,16 +548,16 @@ tt21080290	1	nm0519887	self	\N	["Self - Host"]
 tt21080290	2	nm0635973	self	\N	["Self"]
 tt21080290	3	nm1521240	self	\N	["Self"]
 tt21080290	4	nm2089149	self	\N	["Self"]
-tt21080296	10	nm13238862	composer	composer	\N
-tt21080296	1	nm0389507	actress	\N	["Margaret Davis"]
-tt21080296	2	nm2943385	actress	\N	["Ava Wilson"]
+tt21080296	10	nm10864271	cinematographer	director of photography	\N
+tt21080296	1	nm2943385	actress	\N	["Ava Wilson"]
+tt21080296	2	nm7153454	actor	\N	["Mike Wilson"]
 tt21080296	3	nm0480808	actress	\N	\N
 tt21080296	4	nm5305484	actor	\N	["André Wilson"]
 tt21080296	5	nm13202578	director	\N	\N
-tt21080296	6	nm7153454	director	\N	\N
-tt21080296	7	nm6877082	writer	contributing writer	\N
-tt21080296	8	nm2423528	producer	producer	\N
-tt21080296	9	nm8586495	producer	producer	\N
+tt21080296	6	nm6877082	writer	contributing writer	\N
+tt21080296	7	nm2423528	producer	producer	\N
+tt21080296	8	nm8586495	producer	producer	\N
+tt21080296	9	nm13238862	composer	composer	\N
 tt21080312	1	nm8964936	actor	\N	["Chase"]
 tt21080312	2	nm9423041	actress	\N	["Charlotte Evanshaw"]
 tt21080312	3	nm13759236	actress	\N	["Agnetha Deveaux"]
@@ -1161,25 +1161,32 @@ tt21080736	1	nm12903241	self	\N	["Self"]
 tt21080736	2	nm0974461	self	\N	["Self"]
 tt21080736	3	nm6009520	director	\N	\N
 tt21080736	4	nm6968225	writer	\N	\N
-tt21080738	1	nm1385210	composer	\N	\N
-tt21080738	2	nm5471062	composer	\N	\N
-tt21080738	3	nm3349155	composer	\N	\N
+tt21080738	1	nm6446676	actor	\N	["Ren"]
+tt21080738	2	nm2288275	actor	\N	["Cinderace"]
+tt21080738	3	nm2516299	actress	\N	["Ash"]
+tt21080738	4	nm1075459	actor	\N	["Francois","Magnemites"]
+tt21080738	5	nm1385210	composer	\N	\N
+tt21080738	6	nm5471062	composer	\N	\N
+tt21080738	7	nm3349155	composer	\N	\N
 tt21080740	1	nm13765921	self	\N	["Self - Host"]
 tt21080740	2	nm3746398	cinematographer	\N	\N
 tt21080740	3	nm2177550	editor	\N	\N
 tt21080740	4	nm13774333	editor	\N	\N
 tt21080742	1	nm1779239	actress	\N	["Gohs Smart Rotom"]
-tt21080742	2	nm1385210	composer	\N	\N
-tt21080742	3	nm5471062	composer	\N	\N
-tt21080742	4	nm3349155	composer	\N	\N
+tt21080742	2	nm1075459	actor	\N	["Absol","Pansear"]
+tt21080742	3	nm1385210	composer	\N	\N
+tt21080742	4	nm5471062	composer	\N	\N
+tt21080742	5	nm3349155	composer	\N	\N
 tt21080744	1	nm1779239	actress	\N	["Gohs Smart Rotom"]
-tt21080744	2	nm1385210	composer	\N	\N
-tt21080744	3	nm5471062	composer	\N	\N
-tt21080744	4	nm3349155	composer	\N	\N
+tt21080744	2	nm1075459	actor	\N	["Lucario","Slaking","Slakoth"]
+tt21080744	3	nm1385210	composer	\N	\N
+tt21080744	4	nm5471062	composer	\N	\N
+tt21080744	5	nm3349155	composer	\N	\N
 tt21080746	1	nm1779239	actress	\N	["Gohs Smart Rotom"]
-tt21080746	2	nm1385210	composer	\N	\N
-tt21080746	3	nm5471062	composer	\N	\N
-tt21080746	4	nm3349155	composer	\N	\N
+tt21080746	2	nm1075459	actor	\N	["Male Staffer"]
+tt21080746	3	nm1385210	composer	\N	\N
+tt21080746	4	nm5471062	composer	\N	\N
+tt21080746	5	nm3349155	composer	\N	\N
 tt21080748	1	nm13759236	actress	\N	["Agnetha Deveaux"]
 tt21080748	2	nm4913642	actor	\N	["Max Philips"]
 tt21080748	3	nm13759234	actor	\N	["Turmell Izzard Robertson"]
@@ -1191,17 +1198,21 @@ tt21080750	4	nm3349155	composer	\N	\N
 tt21080752	1	nm1385210	composer	\N	\N
 tt21080752	2	nm5471062	composer	\N	\N
 tt21080752	3	nm3349155	composer	\N	\N
-tt21080754	1	nm1385210	composer	\N	\N
-tt21080754	2	nm5471062	composer	\N	\N
-tt21080754	3	nm3349155	composer	\N	\N
+tt21080754	1	nm1075459	actor	\N	["Obstagoon"]
+tt21080754	2	nm1385210	composer	\N	\N
+tt21080754	3	nm5471062	composer	\N	\N
+tt21080754	4	nm3349155	composer	\N	\N
 tt21080756	1	nm13739162	director	\N	\N
 tt21080756	2	nm13830427	director	co-director	\N
-tt21080760	1	nm1385210	composer	\N	\N
-tt21080760	2	nm5471062	composer	\N	\N
-tt21080760	3	nm3349155	composer	\N	\N
-tt21080762	1	nm1385210	composer	\N	\N
-tt21080762	2	nm5471062	composer	\N	\N
-tt21080762	3	nm3349155	composer	\N	\N
+tt21080760	1	nm1075459	actor	\N	["Corvikinght","Infernape"]
+tt21080760	2	nm1385210	composer	\N	\N
+tt21080760	3	nm5471062	composer	\N	\N
+tt21080760	4	nm3349155	composer	\N	\N
+tt21080762	1	nm2516299	actress	\N	["Ash"]
+tt21080762	2	nm1075459	actor	\N	["Rillaboom"]
+tt21080762	3	nm1385210	composer	\N	\N
+tt21080762	4	nm5471062	composer	\N	\N
+tt21080762	5	nm3349155	composer	\N	\N
 tt21080764	1	nm14144681	actress	\N	["Nerys"]
 tt21080764	2	nm13798531	actress	\N	["Prime Minister Anderson"]
 tt21080764	3	nm13759236	actress	\N	["Agnetha Deveaux"]
@@ -1212,9 +1223,10 @@ tt21080764	7	nm13496295	actress	\N	["Morrigan the Black"]
 tt21080764	8	nm14144028	actor	\N	["Town Cryer"]
 tt21080764	9	nm10208959	actor	\N	["Michael Front"]
 tt21080766	1	nm1779239	actress	\N	["Gohs Smart Rotom"]
-tt21080766	2	nm1385210	composer	\N	\N
-tt21080766	3	nm5471062	composer	\N	\N
-tt21080766	4	nm3349155	composer	\N	\N
+tt21080766	2	nm1075459	actor	\N	["Lucario","Boldore"]
+tt21080766	3	nm1385210	composer	\N	\N
+tt21080766	4	nm5471062	composer	\N	\N
+tt21080766	5	nm3349155	composer	\N	\N
 tt21080770	1	nm1779239	actress	\N	["Gohs Smart Rotom"]
 tt21080770	2	nm1385210	composer	\N	\N
 tt21080770	3	nm5471062	composer	\N	\N
@@ -9523,9 +9535,9 @@ tt21083556	8	nm0182873	writer	written by	\N
 tt21083556	9	nm3083350	writer	written by	\N
 tt21083558	10	nm1744284	cinematographer	\N	\N
 tt21083558	1	nm0869871	actor	\N	["Patrick Read"]
-tt21083558	2	nm6609666	actress	\N	["Hannah"]
-tt21083558	3	nm0641354	actor	\N	["Henry"]
-tt21083558	4	nm3083350	actor	\N	["Adam Carpenter"]
+tt21083558	2	nm0544079	actor	\N	["Gino Barelli"]
+tt21083558	3	nm6609666	actress	\N	["Hannah"]
+tt21083558	4	nm0641354	actor	\N	["Henry"]
 tt21083558	5	nm1259417	director	\N	\N
 tt21083558	6	nm0614682	writer	created by	\N
 tt21083558	7	nm1004299	writer	created by	\N
@@ -9535,16 +9547,16 @@ tt21083560	1	nm11538176	self	\N	["Self - Narrator"]
 tt21083560	2	nm12902894	writer	written by	\N
 tt21083560	3	nm12900064	writer	written by	\N
 tt21083560	4	nm12902898	editor	\N	\N
-tt21083562	10	nm2987454	editor	\N	\N
+tt21083562	10	nm0264248	producer	producer	\N
 tt21083562	1	nm0869871	actor	\N	["Patrick Read"]
-tt21083562	2	nm6609666	actress	\N	["Hannah"]
-tt21083562	3	nm0641354	actor	\N	["Henry"]
-tt21083562	4	nm3083350	actor	\N	["Adam Carpenter"]
+tt21083562	2	nm0544079	actor	\N	["Gino Barelli"]
+tt21083562	3	nm6609666	actress	\N	["Hannah"]
+tt21083562	4	nm0641354	actor	\N	["Henry"]
 tt21083562	5	nm0528337	director	\N	\N
 tt21083562	6	nm0614682	writer	created by	\N
 tt21083562	7	nm1004299	writer	created by	\N
-tt21083562	8	nm6276564	writer	written by	\N
-tt21083562	9	nm0264248	producer	producer	\N
+tt21083562	8	nm3083350	writer	written by	\N
+tt21083562	9	nm6276564	writer	written by	\N
 tt21083564	1	nm8926248	self	\N	["Self"]
 tt21083564	2	nm8934941	self	\N	["Self"]
 tt21083564	3	nm7613671	director	\N	\N

@@ -2697,11 +2697,13 @@ tt18561490	1	nm1114945	self	\N	["Self - Host"]
 tt18561490	2	nm12704098	self	\N	["Self"]
 tt18561492	1	nm1114945	self	\N	["Self - Host"]
 tt18561494	1	nm5699416	actress	\N	\N
-tt18561494	2	nm11000170	actor	\N	\N
-tt18561494	3	nm6832484	actor	\N	\N
-tt18561494	4	nm2067165	actor	\N	\N
-tt18561494	5	nm3699904	actress	\N	\N
-tt18561494	6	nm9247260	actress	\N	\N
+tt18561494	2	nm6832484	actor	\N	\N
+tt18561494	3	nm11000170	actor	\N	\N
+tt18561494	4	nm9247260	actress	\N	\N
+tt18561494	5	nm2067165	actor	\N	\N
+tt18561494	6	nm3699904	actress	\N	\N
+tt18561494	7	nm14148974	actress	\N	["Minai"]
+tt18561494	8	nm14148973	actress	\N	["Tishu"]
 tt18561496	1	nm1114945	self	\N	["Self - Host"]
 tt18561498	1	nm11395875	actor	\N	["Salvatore Russo"]
 tt18561498	2	nm9780788	actor	\N	["Sonny Caparelli"]
@@ -3720,6 +3722,7 @@ tt18562064	7	nm5788448	cinematographer	director of photography	\N
 tt18562066	1	nm1240215	actor	\N	["Saleem"]
 tt18562066	2	nm13788181	actor	\N	["Sona"]
 tt18562066	3	nm5363930	writer	co-writer	\N
+tt18562066	4	nm1159380	writer	Writer	\N
 tt18562068	10	nm13438087	self	\N	["Self - SFU Political Science Professor (Via Zoom)"]
 tt18562068	1	nm9727896	self	\N	["Self - Anchor"]
 tt18562068	2	nm12718535	self	\N	["Self - Anchor"]
@@ -4433,16 +4436,13 @@ tt18562474	6	nm12985149	director	\N	\N
 tt18562474	7	nm2245120	producer	producer	\N
 tt18562474	8	nm3348075	producer	producer	\N
 tt18562474	9	nm8084897	cinematographer	\N	\N
-tt18562476	10	nm13471832	producer	producer	\N
 tt18562476	1	nm13471912	self	\N	["Self"]
 tt18562476	2	nm4422227	self	\N	["Self"]
 tt18562476	3	nm2806626	self	\N	["Self"]
 tt18562476	4	nm11943673	self	\N	["Self"]
-tt18562476	5	nm13471910	director	\N	\N
-tt18562476	6	nm13471909	director	\N	\N
-tt18562476	7	nm13471833	producer	producer	\N
-tt18562476	8	nm3990200	producer	producer	\N
-tt18562476	9	nm13471831	producer	producer	\N
+tt18562476	5	nm13062011	writer	created by	\N
+tt18562476	6	nm13471909	writer	created by	\N
+tt18562476	7	nm13471911	self	\N	["Self"]
 tt18562478	10	nm13272036	production_designer	\N	\N
 tt18562478	1	nm2420168	actress	\N	["Irina Vladimirovna"]
 tt18562478	2	nm11200909	actress	\N	["Dasha"]
@@ -15857,6 +15857,7 @@ tt18567916	5	nm13211648	director	\N	\N
 tt18567916	6	nm13473944	composer	\N	\N
 tt18567916	7	nm13211709	cinematographer	\N	\N
 tt18567916	8	nm13211710	editor	\N	\N
+tt18567918	1	nm9658783	composer	\N	\N
 tt18567920	1	nm5278379	director	\N	\N
 tt18567920	2	nm10466222	director	\N	\N
 tt18567920	3	nm13394050	director	\N	\N
@@ -15870,9 +15871,13 @@ tt18567924	6	nm3089314	director	\N	\N
 tt18567924	7	nm1245533	director	\N	\N
 tt18567924	8	nm1870111	writer	creator	\N
 tt18567924	9	nm4772724	writer	creator	\N
+tt18567928	1	nm9658783	composer	\N	\N
+tt18567930	1	nm9658783	composer	\N	\N
 tt18567934	1	nm3185680	self	\N	["Self - Host"]
+tt18567936	1	nm9658783	composer	\N	\N
 tt18567940	1	nm3185680	self	\N	["Self - Host"]
 tt18567940	2	nm0002243	self	\N	["Self - Guest"]
+tt18567944	1	nm9658783	composer	\N	\N
 tt18567946	1	nm9490439	actress	\N	\N
 tt18567948	1	nm9490439	actress	\N	\N
 tt18567952	1	nm9490439	actress	\N	\N
@@ -18166,7 +18171,8 @@ tt18569724	4	nm13873793	actor	\N	\N
 tt18569724	5	nm6842664	director	\N	\N
 tt18569724	6	nm1909911	producer	producer	\N
 tt18569724	7	nm1158882	producer	producer	\N
-tt18569724	8	nm0530561	actor	\N	\N
+tt18569724	8	nm5975302	cinematographer	\N	\N
+tt18569724	9	nm0530561	actor	\N	\N
 tt18569726	1	nm1006024	self	\N	["Self"]
 tt18569726	2	nm0218039	director	\N	\N
 tt18569726	3	nm4610105	editor	\N	\N

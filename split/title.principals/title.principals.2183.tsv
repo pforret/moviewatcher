@@ -628,16 +628,16 @@ tt21830212	5	nm10865869	writer	\N	\N
 tt21830212	6	nm11109213	writer	\N	\N
 tt21830212	7	nm11109214	producer	producer	\N
 tt21830212	8	nm5264611	producer	producer	\N
-tt21830214	10	nm2054066	actor	\N	["Policajac Vili"]
-tt21830214	1	nm0084484	actor	\N	["Petar Galic"]
-tt21830214	2	nm2418338	actor	\N	["Tomo Matakovic"]
-tt21830214	3	nm0009900	actor	\N	["Josip Pavic"]
-tt21830214	4	nm1980957	actress	\N	["Dunja Matakovic"]
-tt21830214	5	nm0431343	actress	\N	["Olga Cukor"]
-tt21830214	6	nm0678424	actor	\N	["Policajac Mijo"]
-tt21830214	7	nm1249341	actress	\N	["Marija Galic"]
-tt21830214	8	nm1064768	actor	\N	["Roko Bilic"]
-tt21830214	9	nm7264470	actor	\N	["Jakov Serdar"]
+tt21830214	10	nm2054066	actor	\N	\N
+tt21830214	1	nm1980957	actress	\N	["Dunja Matakovic"]
+tt21830214	2	nm0431343	actress	\N	["Olga Cukor"]
+tt21830214	3	nm1249341	actress	\N	["Marija Galic"]
+tt21830214	4	nm0084484	actor	\N	\N
+tt21830214	5	nm0009900	actor	\N	\N
+tt21830214	6	nm0678424	actor	\N	\N
+tt21830214	7	nm4581755	actress	\N	["Iva Korunic"]
+tt21830214	8	nm1007197	actress	\N	["Evica Vrabec"]
+tt21830214	9	nm7264470	actor	\N	\N
 tt21830216	1	nm11673610	actor	\N	\N
 tt21830216	2	nm11673609	actress	\N	\N
 tt21830216	3	nm9506110	director	\N	\N
@@ -5791,12 +5791,13 @@ tt21833404	4	nm10840246	self	\N	["Self - Co-Host"]
 tt21833406	1	nm11793693	self	\N	["Self"]
 tt21833410	1	nm10925381	self	\N	["Self - Host"]
 tt21833414	1	nm0005551	actress	\N	\N
-tt21833414	2	nm10031217	actor	\N	["Gavin"]
-tt21833414	3	nm0265422	director	\N	\N
-tt21833414	4	nm4102608	writer	\N	\N
-tt21833414	5	nm1602192	writer	\N	\N
-tt21833414	6	nm0487628	producer	producer	\N
-tt21833414	7	nm5442775	cinematographer	\N	\N
+tt21833414	2	nm1150775	actor	\N	\N
+tt21833414	3	nm10031217	actor	\N	["Gavin"]
+tt21833414	4	nm0265422	director	\N	\N
+tt21833414	5	nm4102608	writer	\N	\N
+tt21833414	6	nm1602192	writer	\N	\N
+tt21833414	7	nm0487628	producer	producer	\N
+tt21833414	8	nm5442775	cinematographer	\N	\N
 tt21833420	10	nm10199134	self	\N	["Self"]
 tt21833420	1	nm10995546	self	\N	["Self"]
 tt21833420	2	nm10691339	self	\N	["Self - Host"]
@@ -9133,6 +9134,7 @@ tt21836434	8	nm5334582	self	\N	["Self - Argentina U20's Player"]
 tt21836434	9	nm2177779	self	\N	["Self - Argentina U20's Player"]
 tt21836440	1	nm1490770	self	\N	["Self"]
 tt21836440	2	nm13919824	self	\N	["Self"]
+tt21836444	1	nm13163831	actress	\N	\N
 tt21836446	10	nm8649891	self	\N	["Self"]
 tt21836446	1	nm9235439	self	\N	["Self - Presenter"]
 tt21836446	2	nm4596878	self	\N	["Self - Analyst"]
@@ -9143,6 +9145,9 @@ tt21836446	6	nm13959193	self	\N	["Self"]
 tt21836446	7	nm4683196	self	\N	["Self"]
 tt21836446	8	nm13959194	self	\N	["Self"]
 tt21836446	9	nm8617831	self	\N	["Self"]
+tt21836448	1	nm13163831	actress	\N	\N
+tt21836452	1	nm13163831	actress	\N	\N
+tt21836456	1	nm13163831	actress	\N	\N
 tt21836458	10	nm5187733	producer	producer	\N
 tt21836458	1	nm5619822	actress	\N	["Akari Shinno"]
 tt21836458	2	nm4514363	actor	\N	["Ryô Kazehaya"]
@@ -9171,6 +9176,8 @@ tt21836466	4	nm0854476	producer	producer	\N
 tt21836468	1	nm8349201	writer	writer	\N
 tt21836468	2	nm8347016	writer	writer	\N
 tt21836468	3	nm2250638	producer	producer	\N
+tt21836480	1	nm13163831	actress	\N	\N
+tt21836482	1	nm13163831	actress	\N	\N
 tt21836484	10	nm2778199	writer	writer	\N
 tt21836484	1	nm10238434	actress	\N	["Leyla Öztürk"]
 tt21836484	2	nm0036358	actress	\N	["Daniela Bremer"]
@@ -9190,6 +9197,7 @@ tt21836486	6	nm10914573	director	asisstant director	\N
 tt21836486	7	nm13959213	director	asisstant director	\N
 tt21836486	8	nm10222314	director	\N	\N
 tt21836486	9	nm10951029	editor	co-editor	\N
+tt21836488	1	nm13163831	actress	\N	\N
 tt21836490	10	nm2080999	writer	writer	\N
 tt21836490	1	nm10238434	actress	\N	["Leyla Öztürk"]
 tt21836490	2	nm0036358	actress	\N	["Daniela Bremer"]
@@ -9200,6 +9208,8 @@ tt21836490	6	nm0718107	writer	idea	\N
 tt21836490	7	nm6568522	writer	head writer	\N
 tt21836490	8	nm3197228	writer	head writer	\N
 tt21836490	9	nm11721153	writer	writer	\N
+tt21836496	1	nm13163831	actress	\N	\N
+tt21836500	1	nm13163831	actress	\N	\N
 tt21836502	1	nm2048220	actor	\N	["Sheriff Harrison Brady"]
 tt21836502	2	nm6637509	actor	\N	["Clyde Hartley"]
 tt21836504	10	nm2890092	writer	writer	\N
@@ -9222,6 +9232,7 @@ tt21836506	6	nm1200092	director	\N	\N
 tt21836506	7	nm10975267	self	\N	["Self"]
 tt21836506	8	nm1212474	self	\N	["Self"]
 tt21836506	9	nm0092626	self	\N	["Self"]
+tt21836508	1	nm13163831	actress	\N	\N
 tt21836510	10	nm7205627	production_designer	\N	\N
 tt21836510	1	nm9139941	actress	\N	["Chhavi"]
 tt21836510	2	nm13967720	actress	\N	["Aunty 1"]
@@ -9232,6 +9243,7 @@ tt21836510	6	nm2837311	producer	producer	\N
 tt21836510	7	nm8142866	composer	\N	\N
 tt21836510	8	nm7402820	cinematographer	\N	\N
 tt21836510	9	nm6507404	editor	\N	\N
+tt21836514	1	nm13163831	actress	\N	\N
 tt21836516	10	nm2080999	writer	writer	\N
 tt21836516	1	nm0036358	actress	\N	["Daniela Bremer"]
 tt21836516	2	nm1064793	actor	\N	["Henning Ziegler"]
@@ -9242,6 +9254,7 @@ tt21836516	6	nm0718107	writer	idea	\N
 tt21836516	7	nm6568522	writer	head writer	\N
 tt21836516	8	nm3197228	writer	head writer	\N
 tt21836516	9	nm11042878	writer	writer	\N
+tt21836518	1	nm13163831	actress	\N	\N
 tt21836522	10	nm9566720	writer	writer	\N
 tt21836522	1	nm0036358	actress	\N	["Daniela Bremer"]
 tt21836522	2	nm1064793	actor	\N	["Henning Ziegler"]

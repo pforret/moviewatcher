@@ -5770,10 +5770,16 @@ tt8662354	5	nm0896874	director	\N	\N
 tt8662354	6	nm0056598	production_designer	\N	\N
 tt8662354	7	nm0303418	production_designer	\N	\N
 tt8662354	8	nm5366199	production_designer	\N	\N
-tt8662356	1	nm0195439	self	\N	["Self - Narrator"]
-tt8662356	2	nm0697611	archive_footage	\N	["Self"]
-tt8662356	3	nm2155332	director	\N	\N
-tt8662356	4	nm2861604	editor	\N	\N
+tt8662356	10	nm0963370	self	\N	["Self - Biographer of Queen Elizabeth II"]
+tt8662356	1	nm0086363	self	\N	["Self - Former British Prime Minister"]
+tt8662356	2	nm5097212	self	\N	["Self - Friend of Queen Elizabeth II","Cousin of Lord Mountbatten"]
+tt8662356	3	nm0697608	archive_footage	\N	["Self - Son of Queen Elizabeth II"]
+tt8662356	4	nm0195439	self	\N	["Self - Narrator"]
+tt8662356	5	nm2155332	director	\N	\N
+tt8662356	6	nm2861604	editor	\N	\N
+tt8662356	7	nm0272601	archive_footage	\N	["Self - Former Wife of Prince Andrew"]
+tt8662356	8	nm3145432	self	\N	["Self - Friend of Queen Elizabeth II"]
+tt8662356	9	nm1296124	archive_footage	\N	["Self - Former British Prime Minister"]
 tt8662358	10	nm0602424	writer	\N	\N
 tt8662358	1	nm0349076	actor	\N	["Firmino do Espírito Santo"]
 tt8662358	2	nm0136665	actress	\N	["Cláudia"]
@@ -24147,7 +24153,7 @@ tt8668772	6	nm5689715	self	\N	["Self"]
 tt8668772	7	nm6264344	self	\N	["Self"]
 tt8668772	8	nm8064505	self	\N	["Self"]
 tt8668772	9	nm9816276	archive_footage	\N	["Self"]
-tt8668788	10	nm7417303	self	\N	["Self - Panellist","Self - Panellist, Adoni Media","Self - Panellist, Managing Director Adoni Media"]
+tt8668788	10	nm9444453	self	\N	["Self - Panellist","Self - Panellist, Howdy Partners Media","Self - Panellist, Author and Radio Presenter"]
 tt8668788	1	nm1514489	self	\N	["Self - Host"]
 tt8668788	2	nm2483344	self	\N	["Self - Panellist","Self - Panellist, Former Speaker of the House","Self - Panellist, Former Speaker and Liberal MP"]
 tt8668788	3	nm5491584	self	\N	["Self - Panellist","Self - Panellist, Social Media Commentator","Self - Panellist, Sky News Contributor and YouTuber"]
@@ -24155,8 +24161,8 @@ tt8668788	4	nm3148547	self	\N	["Self - Panellist","Self - Panellist, Political C
 tt8668788	5	nm10008065	self	\N	["Self - Panellist, Health Industry Consultant","Self - Panellist","Self - Panellist, GP and Health Industry Consultant"]
 tt8668788	6	nm11049354	self	\N	["Self - Panellist","Self - Panellist, Lawyer and Spectator Australia Columnist","Self - Panellist, Lawyer and Spectator Columnist"]
 tt8668788	7	nm10026215	self	\N	["Self - Panellist","Self - Panellist, Liberal Party Vice President","Self - Panellist, Federal Vice-President Liberal Party"]
-tt8668788	8	nm9629233	self	\N	["Self - Panellist, Victorian Liberal MP","Self - Panellist","Self - Panellist, Liberal MP"]
-tt8668788	9	nm9444453	self	\N	["Self - Panellist","Self - Panellist, Howdy Partners Media","Self - Panellist, Author and Radio Presenter"]
+tt8668788	8	nm7417303	self	\N	["Self - Panellist","Self - Panellist, Adoni Media","Self - Panellist, Managing Director Adoni Media"]
+tt8668788	9	nm9629233	self	\N	["Self - Panellist, Victorian Liberal MP","Self - Panellist","Self - Panellist, Liberal MP"]
 tt8668790	1	nm1543516	producer	producer	\N
 tt8668792	1	nm1543516	producer	producer	\N
 tt8668794	1	nm5399017	actor	\N	["All"]

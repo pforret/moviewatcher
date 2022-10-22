@@ -3593,16 +3593,16 @@ tt21092184	3	nm13572632	producer	producer	\N
 tt21092186	1	nm7550723	director	\N	\N
 tt21092188	1	nm0152422	self	\N	["Self - Host"]
 tt21092188	2	nm11246331	director	\N	\N
-tt21092190	10	nm4776267	archive_footage	\N	["Self - Treasure Hunter"]
+tt21092190	10	nm12145093	archive_footage	\N	["Self - San Carlos Apache"]
 tt21092190	1	nm0167139	actor	\N	["Narrator"]
 tt21092190	2	nm1357091	self	\N	["Self - Host & Oak Island Researcher"]
 tt21092190	3	nm6307843	self	\N	["Self"]
 tt21092190	4	nm6307842	self	\N	["Self"]
-tt21092190	5	nm8668371	self	\N	["Self - Metal Detection Expert"]
-tt21092190	6	nm5323769	archive_footage	\N	["Self - Historical Archaeologist"]
-tt21092190	7	nm6403225	archive_footage	\N	["Self - Operations Manager, 1715 Fleet - Queens Jewels, LLC"]
-tt21092190	8	nm13344816	archive_footage	\N	["Self - 1715 Fleet - Queens Jewels, LLC"]
-tt21092190	9	nm12145093	archive_footage	\N	["Self - San Carlos Apache"]
+tt21092190	5	nm0122745	writer	developed for television by	\N
+tt21092190	6	nm8668371	self	\N	["Self - Metal Detection Expert"]
+tt21092190	7	nm5323769	archive_footage	\N	["Self - Historical Archaeologist"]
+tt21092190	8	nm6403225	archive_footage	\N	["Self - Operations Manager, 1715 Fleet - Queens Jewels, LLC"]
+tt21092190	9	nm13344816	archive_footage	\N	["Self - 1715 Fleet - Queens Jewels, LLC"]
 tt21092192	10	nm3196423	self	\N	["Self - Contestant"]
 tt21092192	1	nm1866634	self	\N	["Self - Host"]
 tt21092192	2	nm3198306	self	\N	["Self - Contestant"]
@@ -3686,7 +3686,7 @@ tt21092234	5	nm0716813	director	\N	\N
 tt21092234	6	nm5641755	writer	\N	\N
 tt21092234	7	nm4110183	composer	\N	\N
 tt21092234	8	nm3928402	composer	\N	\N
-tt21092234	9	nm10554781	actor	\N	["Steve"]
+tt21092234	9	nm10554781	actor	\N	["Benny"]
 tt21092238	1	nm5723598	self	\N	["Self - Host"]
 tt21092238	2	nm1766055	self	\N	["Self - Co-Host"]
 tt21092238	3	nm7303563	self	\N	["Self - Guest"]
@@ -4446,7 +4446,8 @@ tt21092700	5	nm13777102	writer	writer	\N
 tt21092700	6	nm13777103	producer	producer	\N
 tt21092702	1	nm2724024	producer	executive producer	\N
 tt21092702	2	nm7781602	editor	\N	\N
-tt21092706	1	nm13121233	composer	\N	\N
+tt21092706	1	nm9824541	actor	\N	["Meguru Bachira"]
+tt21092706	2	nm13121233	composer	\N	\N
 tt21092712	10	nm13686903	self	\N	["Self"]
 tt21092712	1	nm13623415	self	\N	["Self - Philadelphia Stars Head Coach"]
 tt21092712	2	nm13817480	self	\N	["Self - Birmingham Stallions WR"]
@@ -15956,16 +15957,16 @@ tt21097086	4	nm13787187	actress	\N	["Co-Owner"]
 tt21097086	5	nm9483962	director	\N	\N
 tt21097086	6	nm7609913	director	\N	\N
 tt21097086	7	nm12365726	cinematographer	\N	\N
-tt21097088	10	nm1047969	actor	\N	\N
+tt21097088	10	nm10307335	actress	\N	\N
 tt21097088	1	nm2898497	actress	\N	\N
 tt21097088	2	nm4027020	actress	\N	["Elena"]
 tt21097088	3	nm1419480	actress	\N	["Nina"]
 tt21097088	4	nm9878816	actor	\N	["Ertan"]
-tt21097088	5	nm1687151	actor	\N	["Daniel"]
-tt21097088	6	nm5798618	actor	\N	["Arif"]
-tt21097088	7	nm5879333	actress	\N	["Gülsüm"]
-tt21097088	8	nm12538198	actor	\N	["Gülbahar"]
-tt21097088	9	nm10307335	actress	\N	\N
+tt21097088	5	nm2764730	cinematographer	\N	\N
+tt21097088	6	nm1687151	actor	\N	["Daniel"]
+tt21097088	7	nm5798618	actor	\N	["Arif"]
+tt21097088	8	nm5879333	actress	\N	["Gülsüm"]
+tt21097088	9	nm12538198	actor	\N	["Gülbahar"]
 tt21097092	1	nm10925381	self	\N	["Self - Host"]
 tt21097094	10	nm12993049	editor	\N	\N
 tt21097094	1	nm3708709	actor	\N	\N
@@ -16848,36 +16849,41 @@ tt21097776	1	nm11277545	actress	\N	["Kacey"]
 tt21097776	2	nm1637768	director	\N	\N
 tt21097776	3	nm0443047	writer	written by	\N
 tt21097776	4	nm2430365	cinematographer	\N	\N
-tt21097778	1	nm11277545	actress	\N	["Kacey"]
-tt21097778	2	nm13825197	actress	\N	\N
-tt21097778	3	nm9099081	actor	\N	["Nasir"]
-tt21097778	4	nm7832585	actor	\N	["Government Employee"]
+tt21097778	1	nm13606361	actress	\N	["Lizzy Blakefield"]
+tt21097778	2	nm11277545	actress	\N	["Kacey"]
+tt21097778	3	nm13825197	actress	\N	\N
+tt21097778	4	nm9099081	actor	\N	["Nasir"]
 tt21097778	5	nm1637768	director	\N	\N
 tt21097778	6	nm2430365	cinematographer	\N	\N
-tt21097780	1	nm13825197	actress	\N	\N
-tt21097780	2	nm9099081	actor	\N	["Nasir"]
-tt21097780	3	nm7832585	actor	\N	["Government Employee"]
-tt21097780	4	nm1637768	director	\N	\N
-tt21097780	5	nm2430365	cinematographer	\N	\N
+tt21097778	7	nm7832585	actor	\N	["Government Employee"]
+tt21097780	1	nm13606361	actress	\N	["Lizzy Blakefield"]
+tt21097780	2	nm13825197	actress	\N	\N
+tt21097780	3	nm9099081	actor	\N	["Nasir"]
+tt21097780	4	nm7832585	actor	\N	["Government Employee"]
+tt21097780	5	nm1637768	director	\N	\N
+tt21097780	6	nm2430365	cinematographer	\N	\N
 tt21097782	1	nm0012255	writer	\N	\N
 tt21097782	2	nm0770573	writer	\N	\N
 tt21097782	3	nm0578772	producer	producer	\N
 tt21097784	1	nm4000339	self	\N	["Self"]
 tt21097786	1	nm4000339	self	\N	["Self"]
-tt21097788	1	nm11277545	actress	\N	["Kacey"]
-tt21097788	2	nm13825197	actress	\N	\N
-tt21097788	3	nm9099081	actor	\N	["Nasir"]
-tt21097788	4	nm1637768	director	\N	\N
-tt21097788	5	nm2430365	cinematographer	\N	\N
-tt21097790	1	nm13825197	actress	\N	\N
-tt21097790	2	nm9099081	actor	\N	["Nasir"]
-tt21097790	3	nm1637768	director	\N	\N
-tt21097790	4	nm2430365	cinematographer	\N	\N
+tt21097788	1	nm13606361	actress	\N	["Lizzy Blakefield"]
+tt21097788	2	nm11277545	actress	\N	["Kacey"]
+tt21097788	3	nm13825197	actress	\N	\N
+tt21097788	4	nm9099081	actor	\N	["Nasir"]
+tt21097788	5	nm1637768	director	\N	\N
+tt21097788	6	nm2430365	cinematographer	\N	\N
+tt21097790	1	nm13606361	actress	\N	["Lizzy Blakefield"]
+tt21097790	2	nm13825197	actress	\N	\N
+tt21097790	3	nm9099081	actor	\N	["Nasir"]
+tt21097790	4	nm1637768	director	\N	\N
+tt21097790	5	nm2430365	cinematographer	\N	\N
 tt21097792	1	nm4000339	self	\N	["Self"]
-tt21097796	1	nm13825197	actress	\N	\N
-tt21097796	2	nm9099081	actor	\N	["Nasir"]
-tt21097796	3	nm1637768	director	\N	\N
-tt21097796	4	nm2430365	cinematographer	\N	\N
+tt21097796	1	nm13606361	actress	\N	["Lizzy Blakefield"]
+tt21097796	2	nm13825197	actress	\N	\N
+tt21097796	3	nm9099081	actor	\N	["Nasir"]
+tt21097796	4	nm1637768	director	\N	\N
+tt21097796	5	nm2430365	cinematographer	\N	\N
 tt21097798	1	nm4000339	self	\N	["Self"]
 tt21097800	1	nm4000339	self	\N	["Self"]
 tt21097802	10	nm9019559	self	\N	["Self - Captain"]
@@ -16957,9 +16963,8 @@ tt21097864	1	nm13779520	actress	\N	["Fiona"]
 tt21097864	2	nm12541487	actress	\N	["Lily"]
 tt21097864	3	nm13779519	actor	\N	["Lin Jiashu"]
 tt21097864	4	nm11681152	actor	\N	["Boss Zhao"]
-tt21097864	5	nm13779518	director	\N	\N
-tt21097864	6	nm12602914	director	director:  	\N
-tt21097864	7	nm13779521	writer	\N	\N
+tt21097864	5	nm12602914	director	director:  	\N
+tt21097864	6	nm13779521	writer	\N	\N
 tt21097866	1	nm4000339	actress	\N	\N
 tt21097868	1	nm4000339	actress	\N	\N
 tt21097870	1	nm12517834	self	\N	["Self - Host"]
@@ -18583,7 +18588,8 @@ tt21098656	1	nm8314036	self	\N	["Self"]
 tt21098656	2	nm0620466	self	\N	["Self"]
 tt21098656	3	nm3951608	self	\N	["Self"]
 tt21098656	4	nm5356512	director	\N	\N
-tt21098658	1	nm0697611	archive_footage	\N	["Self"]
+tt21098658	1	nm0195439	self	\N	["Self - Narrator"]
+tt21098658	2	nm0697611	archive_footage	\N	["Self"]
 tt21098660	1	nm8314036	self	\N	["Self"]
 tt21098660	2	nm0620466	self	\N	["Self"]
 tt21098660	3	nm5356512	director	\N	\N
@@ -19359,7 +19365,7 @@ tt21099108	10	nm3774558	cinematographer	\N	\N
 tt21099108	1	nm10994671	actress	\N	["Donna Hartman"]
 tt21099108	2	nm12997379	actor	\N	["Stevie Fishpaw"]
 tt21099108	3	nm13780542	actor	\N	["Trip Baker"]
-tt21099108	4	nm13780541	actor	\N	["Brendy Myer"]
+tt21099108	4	nm13492017	actor	\N	["Mr. Toe"]
 tt21099108	5	nm9192767	director	\N	\N
 tt21099108	6	nm3712601	writer	\N	\N
 tt21099108	7	nm13245211	producer	producer	\N

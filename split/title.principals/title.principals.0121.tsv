@@ -2422,10 +2422,10 @@ tt1210339	6	nm0370650	actor	\N	["Nowaki Kusama"]
 tt1210339	7	nm1377139	actor	\N	["Shinobu Takatsuki"]
 tt1210339	8	nm0411794	actor	\N	["Hiroki Kamijou"]
 tt1210339	9	nm1097137	actor	\N	["Akihiko Usami"]
-tt1210340	10	nm0260348	actor	\N	["Bruno"]
-tt1210340	1	nm0880811	actress	\N	["Caro","Gabriela","Silvina"]
-tt1210340	2	nm0604103	actor	\N	["Debrase","Monterrubio","Oscar"]
-tt1210340	3	nm0128070	actor	\N	["Almeida","Ladron","Miguel"]
+tt1210340	10	nm0874197	actor	\N	["Gerardo","Hector","husband"]
+tt1210340	1	nm0128070	actor	\N	["Almeida","Ladron","Miguel"]
+tt1210340	2	nm0880811	actress	\N	["Caro","Gabriela","Silvina"]
+tt1210340	3	nm0604103	actor	\N	["Debrase","Monterrubio","Oscar"]
 tt1210340	4	nm0539894	actor	\N	["Diego","Moreira"]
 tt1210340	5	nm0096372	writer	creator	\N
 tt1210340	6	nm0096375	writer	creator	\N
@@ -23543,10 +23543,10 @@ tt1213545	7	nm2910837	self	\N	["Self - Homeowner"]
 tt1213545	8	nm2956097	self	\N	["Self - Lead Carpenter"]
 tt1213545	9	nm2929113	self	\N	["Self - Homeowner"]
 tt1213546	10	nm3657688	production_designer	\N	\N
-tt1213546	1	nm1408525	actor	\N	["Striper"]
-tt1213546	2	nm0990712	actress	\N	["Ana"]
-tt1213546	3	nm1870777	actor	\N	["Gonzalo"]
-tt1213546	4	nm1408237	actress	\N	["Mariana"]
+tt1213546	1	nm0847799	actress	\N	["Paula","Gonzalos fiancée"]
+tt1213546	2	nm1870777	actor	\N	["Gonzalo","Paula's fiancé"]
+tt1213546	3	nm1408525	actor	\N	["Striper"]
+tt1213546	4	nm0990712	actress	\N	["Ana","Paula's friend"]
 tt1213546	5	nm1202695	director	\N	\N
 tt1213546	6	nm1410702	producer	producer	\N
 tt1213546	7	nm1950647	producer	producer	\N
@@ -37376,29 +37376,34 @@ tt1215573	7	nm0688035	producer	producer	\N
 tt1215573	8	nm0238635	actress	\N	["Angie"]
 tt1215573	9	nm0269922	actor	\N	["Fred Gee"]
 tt1215575	1	nm0011516	actor	\N	["Len Fairclough"]
-tt1215575	2	nm0461598	actress	\N	["Rita Fairclough"]
-tt1215575	3	nm0905344	actor	\N	["Eric Summers"]
-tt1215575	4	nm0867354	writer	stories by	\N
-tt1215575	5	nm0912726	writer	creator	\N
-tt1215575	6	nm0688035	producer	producer	\N
-tt1215578	10	nm0601044	actress	\N	["Nurse Purcell"]
+tt1215575	2	nm0269922	actor	\N	["Fred Gee"]
+tt1215575	3	nm0329591	actress	\N	["Bet Lynch"]
+tt1215575	4	nm0461598	actress	\N	["Rita Fairclough"]
+tt1215575	5	nm0867354	writer	stories by	\N
+tt1215575	6	nm0912726	writer	creator	\N
+tt1215575	7	nm0688035	producer	producer	\N
+tt1215575	8	nm0608818	actor	\N	["Alf Roberts"]
+tt1215575	9	nm0905344	actor	\N	["Eric Summers"]
+tt1215578	10	nm0456574	actress	\N	["Deirdre Langton"]
 tt1215578	1	nm0011516	actor	\N	["Len Fairclough"]
 tt1215578	2	nm0124628	actor	\N	["Ray Langton"]
-tt1215578	3	nm0146125	actress	\N	["Muriel Clough"]
-tt1215578	4	nm0220263	actress	\N	["Emily Bishop"]
+tt1215578	3	nm0136902	actress	\N	["Brenda Summers"]
+tt1215578	4	nm0146125	actress	\N	["Muriel Clough"]
 tt1215578	5	nm0867354	writer	stories by	\N
 tt1215578	6	nm0912726	writer	creator	\N
 tt1215578	7	nm0688035	producer	producer	\N
-tt1215578	8	nm0456574	actress	\N	["Deirdre Langton"]
-tt1215578	9	nm0461598	actress	\N	["Rita Fairclough"]
+tt1215578	8	nm6603122	actor	\N	["Dick Rawlins"]
+tt1215578	9	nm0220263	actress	\N	["Emily Bishop"]
+tt1215579	10	nm0914755	actor	\N	["Ralph Lancaster"]
 tt1215579	1	nm0031536	actress	\N	["Mrs. Holt"]
-tt1215579	2	nm0136902	actress	\N	["Brenda Summers"]
-tt1215579	3	nm0220263	actress	\N	["Emily Bishop"]
-tt1215579	4	nm0456574	actress	\N	["Deirdre Langton"]
+tt1215579	2	nm0099473	actor	\N	["John Summers"]
+tt1215579	3	nm0136902	actress	\N	["Brenda Summers"]
+tt1215579	4	nm0220263	actress	\N	["Emily Bishop"]
 tt1215579	5	nm0867354	writer	stories by	\N
 tt1215579	6	nm0912726	writer	creator	\N
 tt1215579	7	nm0688035	producer	producer	\N
-tt1215579	8	nm0461598	actress	\N	["Rita Fairclough"]
+tt1215579	8	nm0456574	actress	\N	["Deirdre Langton"]
+tt1215579	9	nm0461598	actress	\N	["Rita Fairclough"]
 tt1215580	10	nm0941680	actress	\N	["Gail Potter"]
 tt1215580	1	nm0136902	actress	\N	["Brenda Summers"]
 tt1215580	2	nm0141340	actress	\N	["Ena Sharples"]
@@ -54854,8 +54859,8 @@ tt1218254	7	nm0821775	producer	producer	\N
 tt1218254	8	nm2368715	composer	\N	\N
 tt1218254	9	nm2207531	cinematographer	\N	\N
 tt1218255	10	nm3657688	production_designer	\N	\N
-tt1218255	1	nm1631949	actor	\N	["Pablo, jorge"]
-tt1218255	2	nm0809991	actress	\N	["Claudia"]
+tt1218255	1	nm1631949	actor	\N	["Pablo","Jorge"]
+tt1218255	2	nm0809991	actress	\N	["Claudia","Jorge's wife"]
 tt1218255	3	nm1909039	director	\N	\N
 tt1218255	4	nm1410702	producer	producer	\N
 tt1218255	5	nm1950647	producer	producer	\N
@@ -54874,10 +54879,10 @@ tt1218256	7	nm2368715	composer	\N	\N
 tt1218256	8	nm2207531	cinematographer	\N	\N
 tt1218256	9	nm2964846	editor	\N	\N
 tt1218257	10	nm2966007	cinematographer	\N	\N
-tt1218257	1	nm0043695	actress	\N	\N
-tt1218257	2	nm0128070	actor	\N	["Ladron"]
-tt1218257	3	nm0258709	actress	\N	["Ana"]
-tt1218257	4	nm0874197	actor	\N	["Hector"]
+tt1218257	1	nm0874197	actor	\N	["Hector","husband"]
+tt1218257	2	nm0043695	actress	\N	["Violeta","Hector's mistress"]
+tt1218257	3	nm0128070	actor	\N	["Ladron","robber"]
+tt1218257	4	nm0258709	actress	\N	["Ana","wife"]
 tt1218257	5	nm1202695	director	\N	\N
 tt1218257	6	nm1410702	producer	producer	\N
 tt1218257	7	nm1950647	producer	producer	\N

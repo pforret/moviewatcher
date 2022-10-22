@@ -4649,27 +4649,34 @@ tt14992866	2	nm12888736	actress	\N	\N
 tt14992866	3	nm8892107	composer	\N	\N
 tt14992866	4	nm5449292	composer	\N	\N
 tt14992866	5	nm0859070	cinematographer	\N	\N
+tt14992866	6	nm0863902	editor	\N	\N
 tt14992868	1	nm4792408	actress	\N	["Canan"]
 tt14992868	2	nm8892107	composer	\N	\N
 tt14992868	3	nm5449292	composer	\N	\N
 tt14992868	4	nm0859070	cinematographer	\N	\N
+tt14992868	5	nm3778030	editor	\N	\N
 tt14992870	1	nm4792408	actress	\N	["Canan"]
 tt14992870	2	nm8892107	composer	\N	\N
 tt14992870	3	nm5449292	composer	\N	\N
 tt14992870	4	nm0859070	cinematographer	\N	\N
+tt14992870	5	nm2206668	editor	\N	\N
 tt14992872	1	nm4792408	actress	\N	["Canan"]
 tt14992872	2	nm8892107	composer	\N	\N
 tt14992872	3	nm5449292	composer	\N	\N
 tt14992872	4	nm0859070	cinematographer	\N	\N
+tt14992872	5	nm0863902	editor	\N	\N
 tt14992874	1	nm8892107	composer	\N	\N
 tt14992874	2	nm5449292	composer	\N	\N
 tt14992874	3	nm0859070	cinematographer	\N	\N
+tt14992874	4	nm3778030	editor	\N	\N
 tt14992876	1	nm8892107	composer	\N	\N
 tt14992876	2	nm5449292	composer	\N	\N
 tt14992876	3	nm0859070	cinematographer	\N	\N
+tt14992876	4	nm2206668	editor	\N	\N
 tt14992878	1	nm8892107	composer	\N	\N
 tt14992878	2	nm5449292	composer	\N	\N
 tt14992878	3	nm0859070	cinematographer	\N	\N
+tt14992878	4	nm9761665	editor	\N	\N
 tt14992880	1	nm12535580	actor	\N	["Juan Alvarez"]
 tt14992880	2	nm12535581	actress	\N	["Fatima"]
 tt14992880	3	nm5236026	actor	\N	["Tincho"]
@@ -4680,6 +4687,9 @@ tt14992880	7	nm1587820	actor	\N	["Javier"]
 tt14992882	1	nm8892107	composer	\N	\N
 tt14992882	2	nm5449292	composer	\N	\N
 tt14992882	3	nm0859070	cinematographer	\N	\N
+tt14992882	4	nm2206668	editor	\N	\N
+tt14992882	5	nm3778030	editor	\N	\N
+tt14992882	6	nm0863902	editor	\N	\N
 tt14992884	1	nm12623619	actor	\N	["Storyteller"]
 tt14992884	2	nm12636507	actress	\N	["Mikaela"]
 tt14992884	3	nm12636466	actor	\N	["Quinn Hamish"]
@@ -7360,16 +7370,16 @@ tt14994542	6	nm0194689	writer	\N	\N
 tt14994542	7	nm2102477	writer	\N	\N
 tt14994542	8	nm0844517	production_designer	\N	\N
 tt14994542	9	nm0431681	actress	\N	\N
-tt14994544	10	nm14126310	director	first assistant director	\N
+tt14994544	10	nm7045325	director	\N	\N
 tt14994544	1	nm0289856	actor	\N	["Eliseo"]
 tt14994544	2	nm0968570	actress	\N	["Paola"]
 tt14994544	3	nm4234452	actress	\N	["Florencia"]
 tt14994544	4	nm4702337	actor	\N	["Gabriel"]
-tt14994544	5	nm1889955	director	\N	\N
-tt14994544	6	nm1286935	director	\N	\N
-tt14994544	7	nm1287124	director	\N	\N
-tt14994544	8	nm14126314	director	third assistant director	\N
-tt14994544	9	nm14126313	director	second assistant director	\N
+tt14994544	5	nm1286935	director	\N	\N
+tt14994544	6	nm1287124	director	\N	\N
+tt14994544	7	nm14126314	director	third assistant director	\N
+tt14994544	8	nm6076240	director	second assistant director	\N
+tt14994544	9	nm14126310	director	first assistant director	\N
 tt14994548	10	nm0527839	actor	\N	["Bilheteiro"]
 tt14994548	1	nm0146672	actor	\N	["Comandante Alves Teodósio"]
 tt14994548	2	nm0139554	actress	\N	["Josefa Linhares"]
@@ -7411,7 +7421,7 @@ tt14994564	5	nm1889955	director	\N	\N
 tt14994564	6	nm1286935	director	\N	\N
 tt14994564	7	nm1287124	director	\N	\N
 tt14994564	8	nm14126314	director	third assistant director	\N
-tt14994564	9	nm14126313	director	second assistant director	\N
+tt14994564	9	nm6076240	director	second assistant director	\N
 tt14994566	10	nm5938634	cinematographer	\N	\N
 tt14994566	1	nm4643543	actress	\N	["Mrs. Owen"]
 tt14994566	2	nm3430916	actress	\N	["Hayley"]
@@ -7433,7 +7443,7 @@ tt14994572	5	nm1889955	director	\N	\N
 tt14994572	6	nm1286935	director	\N	\N
 tt14994572	7	nm1287124	director	\N	\N
 tt14994572	8	nm14126314	director	third assistant director	\N
-tt14994572	9	nm14126313	director	second assistant director	\N
+tt14994572	9	nm6076240	director	second assistant director	\N
 tt14994574	10	nm3250960	actress	\N	["Betinha"]
 tt14994574	1	nm0146672	actor	\N	["Comandante Alves Teodósio"]
 tt14994574	2	nm0139554	actress	\N	["Josefa Linhares"]
@@ -7453,17 +7463,17 @@ tt14994578	5	nm1889955	director	\N	\N
 tt14994578	6	nm1286935	director	\N	\N
 tt14994578	7	nm1287124	director	\N	\N
 tt14994578	8	nm14126314	director	third assistant director	\N
-tt14994578	9	nm14126313	director	second assistant director	\N
-tt14994580	10	nm14126313	director	second assistant director	\N
+tt14994578	9	nm6076240	director	second assistant director	\N
+tt14994580	10	nm14126310	director	first assistant director	\N
 tt14994580	1	nm0289856	actor	\N	["Eliseo"]
 tt14994580	2	nm0968570	actress	\N	["Paola"]
 tt14994580	3	nm0324813	actor	\N	["Matías Zambrano"]
 tt14994580	4	nm8412879	actress	\N	\N
 tt14994580	5	nm3321391	director	\N	\N
-tt14994580	6	nm1889955	director	\N	\N
-tt14994580	7	nm1286935	director	\N	\N
-tt14994580	8	nm1287124	director	\N	\N
-tt14994580	9	nm14126314	director	third assistant director	\N
+tt14994580	6	nm1286935	director	\N	\N
+tt14994580	7	nm1287124	director	\N	\N
+tt14994580	8	nm14126314	director	third assistant director	\N
+tt14994580	9	nm6076240	director	second assistant director	\N
 tt14994584	10	nm0527839	actor	\N	["Bilheteiro"]
 tt14994584	1	nm0146672	actor	\N	["Comandante Alves Teodósio"]
 tt14994584	2	nm0139554	actress	\N	["Josefa Linhares"]
@@ -7474,16 +7484,16 @@ tt14994584	6	nm0194689	writer	\N	\N
 tt14994584	7	nm2102477	writer	\N	\N
 tt14994584	8	nm0844517	production_designer	\N	\N
 tt14994584	9	nm0431681	actress	\N	["Senhora"]
-tt14994586	10	nm14126310	director	first assistant director	\N
+tt14994586	10	nm7045325	director	\N	\N
 tt14994586	1	nm0289856	actor	\N	["Eliseo"]
 tt14994586	2	nm0968570	actress	\N	["Paola"]
 tt14994586	3	nm0324813	actor	\N	["Matías Zambrano"]
 tt14994586	4	nm9860860	actor	\N	["Pablo Slavsky"]
-tt14994586	5	nm1889955	director	\N	\N
-tt14994586	6	nm1286935	director	\N	\N
-tt14994586	7	nm1287124	director	\N	\N
-tt14994586	8	nm14126314	director	third assistant director	\N
-tt14994586	9	nm14126313	director	second assistant director	\N
+tt14994586	5	nm1286935	director	\N	\N
+tt14994586	6	nm1287124	director	\N	\N
+tt14994586	7	nm14126314	director	third assistant director	\N
+tt14994586	8	nm6076240	director	second assistant director	\N
+tt14994586	9	nm14126310	director	first assistant director	\N
 tt14994588	10	nm14126310	director	first assistant director	\N
 tt14994588	1	nm0289856	actor	\N	["Eliseo"]
 tt14994588	2	nm0968570	actress	\N	["Paola"]
@@ -7493,7 +7503,7 @@ tt14994588	5	nm1889955	director	\N	\N
 tt14994588	6	nm1286935	director	\N	\N
 tt14994588	7	nm1287124	director	\N	\N
 tt14994588	8	nm14126314	director	third assistant director	\N
-tt14994588	9	nm14126313	director	second assistant director	\N
+tt14994588	9	nm6076240	director	second assistant director	\N
 tt14994590	1	nm0000933	self	\N	["Self - Host"]
 tt14994590	2	nm1938316	self	\N	["Self - Guest"]
 tt14994592	1	nm10213617	self	\N	["Self"]
@@ -7517,7 +7527,7 @@ tt14994596	5	nm1889955	director	\N	\N
 tt14994596	6	nm1286935	director	\N	\N
 tt14994596	7	nm1287124	director	\N	\N
 tt14994596	8	nm14126314	director	third assistant director	\N
-tt14994596	9	nm14126313	director	second assistant director	\N
+tt14994596	9	nm6076240	director	second assistant director	\N
 tt14994600	1	nm0000933	self	\N	["Self - Host"]
 tt14994602	10	nm14126310	director	first assistant director	\N
 tt14994602	1	nm0289856	actor	\N	["Eliseo"]
@@ -7528,7 +7538,7 @@ tt14994602	5	nm1889955	director	\N	\N
 tt14994602	6	nm1286935	director	\N	\N
 tt14994602	7	nm1287124	director	\N	\N
 tt14994602	8	nm14126314	director	third assistant director	\N
-tt14994602	9	nm14126313	director	second assistant director	\N
+tt14994602	9	nm6076240	director	second assistant director	\N
 tt14994604	10	nm7045325	director	\N	\N
 tt14994604	1	nm0289856	actor	\N	["Eliseo"]
 tt14994604	2	nm0968570	actress	\N	["Paola"]
@@ -7537,7 +7547,7 @@ tt14994604	4	nm0324813	actor	\N	["Matías Zambrano"]
 tt14994604	5	nm1889955	director	\N	\N
 tt14994604	6	nm1287124	director	\N	\N
 tt14994604	7	nm14126314	director	third assistant director	\N
-tt14994604	8	nm14126313	director	second assistant director	\N
+tt14994604	8	nm6076240	director	second assistant director	\N
 tt14994604	9	nm14126310	director	first assistant director	\N
 tt14994608	10	nm12888720	self	\N	["Self"]
 tt14994608	1	nm12888727	self	\N	["Self"]
@@ -17485,8 +17495,9 @@ tt14998702	7	nm5582772	actress	\N	\N
 tt14998704	1	nm12131890	actress	\N	\N
 tt14998704	2	nm5354324	actor	\N	\N
 tt14998704	3	nm12736222	actress	\N	\N
-tt14998706	1	nm7388177	actress	\N	["Peruvian Prisoner"]
-tt14998706	2	nm12734970	actress	\N	["Melissa Reid"]
+tt14998706	1	nm5875314	self	\N	["Self"]
+tt14998706	2	nm7388177	actress	\N	["Peruvian Prisoner"]
+tt14998706	3	nm12734970	actress	\N	["Melissa Reid"]
 tt14998708	1	nm8242827	actor	\N	["Surya"]
 tt14998708	2	nm12736549	director	\N	\N
 tt14998708	3	nm12736550	writer	writer	\N
@@ -17508,13 +17519,16 @@ tt14998712	4	nm12138635	composer	\N	\N
 tt14998714	1	nm11789705	self	\N	["Self - Host"]
 tt14998716	1	nm5598250	self	\N	["Self - Anchor"]
 tt14998716	2	nm12055540	self	\N	["Self - Anchor"]
-tt14998718	1	nm12734970	actress	\N	["Melissa Reid"]
+tt14998718	1	nm5875314	self	\N	["Self"]
+tt14998718	2	nm12734970	actress	\N	["Melissa Reid"]
 tt14998720	1	nm7039521	self	\N	["Self - Anchor"]
 tt14998720	2	nm11910868	self	\N	["Self - Anchor"]
-tt14998724	1	nm12734970	actress	\N	["Melissa Reid"]
+tt14998724	1	nm5875314	self	\N	["Self"]
+tt14998724	2	nm12734970	actress	\N	["Melissa Reid"]
 tt14998726	1	nm6826129	self	\N	["Self - Anchor"]
 tt14998726	2	nm10059348	self	\N	["Self - Anchor"]
-tt14998730	1	nm12734970	actress	\N	["Melissa Reid"]
+tt14998730	1	nm5875314	self	\N	["Self"]
+tt14998730	2	nm12734970	actress	\N	["Melissa Reid"]
 tt14998732	1	nm7746400	self	\N	["Self - Host"]
 tt14998732	2	nm12138635	composer	\N	\N
 tt14998734	1	nm6629872	self	\N	["Self - Anchor"]
@@ -17522,7 +17536,8 @@ tt14998734	2	nm8120422	self	\N	["Self - Correspondent"]
 tt14998734	3	nm1428346	self	\N	["Self - Live Interviewee"]
 tt14998734	4	nm7254916	self	\N	["Self - Correspondent"]
 tt14998736	1	nm12055540	self	\N	["Self - Anchor"]
-tt14998738	1	nm12734970	actress	\N	["Melissa Reid"]
+tt14998738	1	nm5875314	self	\N	["Self"]
+tt14998738	2	nm12734970	actress	\N	["Melissa Reid"]
 tt14998742	10	nm2003463	producer	producer	\N
 tt14998742	1	nm0402271	actor	\N	\N
 tt14998742	2	nm1154749	actress	\N	["Kora"]

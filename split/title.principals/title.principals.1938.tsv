@@ -2222,9 +2222,9 @@ tt19381126	7	nm0735420	cinematographer	\N	\N
 tt19381126	8	nm7078900	editor	\N	\N
 tt19381126	9	nm13547208	production_designer	\N	\N
 tt19381130	1	nm11831034	actor	\N	["Helper Kid"]
-tt19381130	2	nm4034915	actress	\N	["Scientists' Supervisor"]
-tt19381130	3	nm3741902	actor	\N	["Zany Scientist"]
-tt19381130	4	nm11196834	actor	\N	["Postmaster"]
+tt19381130	2	nm3741902	actor	\N	["Zany Scientist"]
+tt19381130	3	nm11196834	actor	\N	["Postmaster"]
+tt19381130	4	nm5663223	actor	\N	["4th Buddha Follower"]
 tt19381130	5	nm5440987	director	\N	\N
 tt19381130	6	nm13547106	writer	\N	\N
 tt19381130	7	nm10653360	cinematographer	co-director of photography	\N
@@ -6418,7 +6418,7 @@ tt19383930	2	nm7765256	actress	\N	["Vicky Love"]
 tt19383932	1	nm7792623	actress	\N	\N
 tt19383934	1	nm7431933	actress	\N	["Fetish Liza"]
 tt19383934	2	nm7765256	actress	\N	["Vicky Love"]
-tt19383936	10	nm9824569	actress	\N	["Kirsten"]
+tt19383936	10	nm0013015	actress	\N	["Edith"]
 tt19383936	1	nm8557211	actor	\N	["Axel Byvang"]
 tt19383936	2	nm1863966	actress	\N	["Birthe Windfeld"]
 tt19383936	3	nm8486876	actor	\N	["Frans"]
@@ -6426,8 +6426,8 @@ tt19383936	4	nm0499601	actress	\N	["Vita"]
 tt19383936	5	nm1232670	writer	creator	\N
 tt19383936	6	nm1046521	actor	\N	["Jørgen"]
 tt19383936	7	nm2784943	actress	\N	["Kathrine"]
-tt19383936	8	nm1478733	actress	\N	["Karen"]
-tt19383936	9	nm0013015	actress	\N	["Edith"]
+tt19383936	8	nm9824569	actress	\N	["Kirsten"]
+tt19383936	9	nm1478733	actress	\N	["Karen"]
 tt19383938	1	nm7765256	actress	\N	["Vicky Love"]
 tt19383938	2	nm2395117	actress	\N	["Nesty"]
 tt19383940	10	nm12703664	archive_footage	\N	["Self"]
@@ -16441,37 +16441,61 @@ tt19389284	4	nm13550857	director	\N	\N
 tt19389286	1	nm1058250	actress	\N	["Narrator"]
 tt19389288	1	nm1058250	actress	\N	["Narrator"]
 tt19389292	1	nm1058250	actress	\N	["Narrator"]
-tt19389294	1	nm9539340	actor	\N	["Durga"]
-tt19389294	2	nm10995739	actor	\N	["Dileep Nambiar"]
-tt19389294	3	nm9919795	actor	\N	["DCP Alam"]
-tt19389294	4	nm11346262	writer	additional screenplay	\N
+tt19389294	1	nm4556443	actress	\N	["Bhumika Pardesi"]
+tt19389294	2	nm6369174	actor	\N	["Jason Fernandez"]
+tt19389294	3	nm3132784	actor	\N	["Nayak"]
+tt19389294	4	nm9539340	actor	\N	["Durga"]
+tt19389294	5	nm11346262	writer	additional screenplay	\N
+tt19389294	6	nm10995739	actor	\N	["Dileep Nambiar"]
+tt19389294	7	nm6294928	actress	\N	["Rupali Pardesi"]
+tt19389294	8	nm9919795	actor	\N	["DCP Alam"]
 tt19389296	1	nm12596994	actress	\N	["Akane Kotonoha"]
 tt19389296	2	nm12793478	actress	\N	["Maki Tsurumaki"]
 tt19389296	3	nm12793477	director	\N	\N
-tt19389298	1	nm9539340	actor	\N	["Durga"]
-tt19389298	2	nm10995739	actor	\N	["Dileep Nambiar"]
-tt19389298	3	nm9919795	actor	\N	["DCP Alam"]
-tt19389298	4	nm11346262	writer	additional screenplay	\N
-tt19389300	1	nm10995739	actor	\N	["Dileep Nambiar"]
-tt19389300	2	nm9919795	actor	\N	["DCP Alam"]
-tt19389300	3	nm4737566	actor	\N	["Henchmen"]
-tt19389300	4	nm13340927	actor	\N	\N
+tt19389298	1	nm4556443	actress	\N	["Bhumika Pardesi"]
+tt19389298	2	nm6369174	actor	\N	["Jason Fernandez"]
+tt19389298	3	nm3132784	actor	\N	["Nayak"]
+tt19389298	4	nm9539340	actor	\N	["Durga"]
+tt19389298	5	nm11346262	writer	additional screenplay	\N
+tt19389298	6	nm10995739	actor	\N	["Dileep Nambiar"]
+tt19389298	7	nm6294928	actress	\N	["Rupali Pardesi"]
+tt19389298	8	nm9919795	actor	\N	["DCP Alam"]
+tt19389300	1	nm4556443	actress	\N	["Bhumika Pardesi"]
+tt19389300	2	nm6369174	actor	\N	["Jason Fernandez"]
+tt19389300	3	nm3132784	actor	\N	["Nayak"]
+tt19389300	4	nm10995739	actor	\N	["Dileep Nambiar"]
 tt19389300	5	nm11346262	writer	additional screenplay	\N
-tt19389302	1	nm9539340	actor	\N	["Durga"]
-tt19389302	2	nm10995739	actor	\N	["Dileep Nambiar"]
-tt19389302	3	nm9919795	actor	\N	["DCP Alam"]
-tt19389302	4	nm11346262	writer	additional screenplay	\N
+tt19389300	6	nm6294928	actress	\N	["Rupali Pardesi"]
+tt19389300	7	nm9919795	actor	\N	["DCP Alam"]
+tt19389300	8	nm4737566	actor	\N	["Henchmen"]
+tt19389300	9	nm13340927	actor	\N	\N
+tt19389302	1	nm4556443	actress	\N	["Bhumika Pardesi"]
+tt19389302	2	nm6369174	actor	\N	["Jason Fernandez"]
+tt19389302	3	nm3132784	actor	\N	["Nayak"]
+tt19389302	4	nm9539340	actor	\N	["Durga"]
+tt19389302	5	nm11346262	writer	additional screenplay	\N
+tt19389302	6	nm10995739	actor	\N	["Dileep Nambiar"]
+tt19389302	7	nm6294928	actress	\N	["Rupali Pardesi"]
+tt19389302	8	nm9919795	actor	\N	["DCP Alam"]
 tt19389304	1	nm10219059	actor	\N	["Boss"]
 tt19389304	2	nm4184085	director	\N	\N
-tt19389306	1	nm9539340	actor	\N	["Durga"]
-tt19389306	2	nm10995739	actor	\N	["Dileep Nambiar"]
-tt19389306	3	nm9919795	actor	\N	["DCP Alam"]
-tt19389306	4	nm11362922	actor	\N	["Mumbai Darknet Operator (Guddu Singh)"]
+tt19389306	1	nm4556443	actress	\N	["Bhumika Pardesi"]
+tt19389306	2	nm6369174	actor	\N	["Jason Fernandez"]
+tt19389306	3	nm3132784	actor	\N	["Nayak"]
+tt19389306	4	nm9539340	actor	\N	["Durga"]
 tt19389306	5	nm11346262	writer	additional screenplay	\N
-tt19389308	1	nm9539340	actor	\N	["Durga"]
-tt19389308	2	nm10995739	actor	\N	["Dileep Nambiar"]
-tt19389308	3	nm9919795	actor	\N	["DCP Alam"]
-tt19389308	4	nm11346262	writer	additional screenplay	\N
+tt19389306	6	nm10995739	actor	\N	["Dileep Nambiar"]
+tt19389306	7	nm6294928	actress	\N	["Rupali Pardesi"]
+tt19389306	8	nm9919795	actor	\N	["DCP Alam"]
+tt19389306	9	nm11362922	actor	\N	["Mumbai Darknet Operator (Guddu Singh)"]
+tt19389308	1	nm4556443	actress	\N	["Bhumika Pardesi"]
+tt19389308	2	nm6369174	actor	\N	["Jason Fernandez"]
+tt19389308	3	nm3132784	actor	\N	["Nayak"]
+tt19389308	4	nm9539340	actor	\N	["Durga"]
+tt19389308	5	nm11346262	writer	additional screenplay	\N
+tt19389308	6	nm10995739	actor	\N	["Dileep Nambiar"]
+tt19389308	7	nm6294928	actress	\N	["Rupali Pardesi"]
+tt19389308	8	nm9919795	actor	\N	["DCP Alam"]
 tt19389310	1	nm3973889	actor	\N	["Tyson"]
 tt19389310	2	nm10418327	actor	\N	["Joe"]
 tt19389310	3	nm13550861	director	\N	\N
@@ -17163,16 +17187,16 @@ tt19389706	6	nm0000549	archive_footage	\N	["Lord Brett Sinclair"]
 tt19389706	7	nm0605059	archive_footage	\N	["Carl Foster"]
 tt19389706	8	nm0619802	archive_footage	\N	["Judge Fulton"]
 tt19389706	9	nm0856103	archive_footage	\N	["Archibald Sinclair Beachum"]
-tt19389708	10	nm12403338	actor	\N	["Runaway Teen"]
+tt19389708	10	nm0648249	actor	\N	["Derek"]
 tt19389708	1	nm5939164	actress	\N	["Harmony"]
-tt19389708	2	nm0000132	actress	\N	["Sam"]
-tt19389708	3	nm0300712	actor	\N	["Manny Broward"]
-tt19389708	4	nm7851611	actor	\N	\N
+tt19389708	2	nm1849823	actor	\N	["Welch"]
+tt19389708	3	nm0000132	actress	\N	["Sam"]
+tt19389708	4	nm0300712	actor	\N	["Manny Broward"]
 tt19389708	5	nm0001752	director	\N	\N
 tt19389708	6	nm0004412	writer	\N	\N
-tt19389708	7	nm9944288	actor	\N	["Len"]
-tt19389708	8	nm7575751	actor	\N	["Siegel"]
-tt19389708	9	nm0648249	actor	\N	["Derek"]
+tt19389708	7	nm7851611	actor	\N	\N
+tt19389708	8	nm9944288	actor	\N	["Len"]
+tt19389708	9	nm7575751	actor	\N	["Siegel"]
 tt19389712	1	nm0336414	self	\N	["Self"]
 tt19389718	1	nm2696194	actor	\N	["Waiter"]
 tt19389718	2	nm12403338	actor	\N	["Runaway Teen"]

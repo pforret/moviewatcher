@@ -2125,11 +2125,11 @@ tt20833942	3	nm13354770	producer	producer	\N
 tt20833942	4	nm5212406	editor	\N	\N
 tt20833946	1	nm0561717	actor	\N	["Star Host"]
 tt20833948	1	nm4695438	actor	\N	["ERod"]
-tt20833952	10	nm1352940	actress	\N	["The Agitator - Female Zealot"]
+tt20833952	10	nm0565482	actor	\N	["The Fanatic - Male Zealot"]
 tt20833952	1	nm9298458	actor	\N	["The Judge - Male Zealot"]
 tt20833952	2	nm1527951	actress	\N	["The Judge - Female Zealot"]
-tt20833952	3	nm2396083	actor	\N	["The Seer - Male Psyker"]
-tt20833952	4	nm3540491	actor	\N	["The Agitator - Male Zealot"]
+tt20833952	3	nm1352940	actress	\N	["The Agitator - Female Zealot"]
+tt20833952	4	nm1527516	actress	\N	["The Professional - Female Veteran"]
 tt20833952	5	nm1781281	director	\N	\N
 tt20833952	6	nm3966115	writer	writer	\N
 tt20833952	7	nm2262156	writer	narrative director	\N
@@ -4812,10 +4812,13 @@ tt20835824	7	nm0637843	self	\N	["Self"]
 tt20835824	8	nm13847311	self	\N	["Self - Pre-Week Champion"]
 tt20835824	9	nm1347259	self	\N	["Self"]
 tt20835826	1	nm2689816	writer	story editor	\N
-tt20835826	2	nm3041455	editor	\N	\N
+tt20835826	2	nm7625991	producer	producer	\N
+tt20835826	3	nm3041455	editor	\N	\N
 tt20835828	1	nm2689816	writer	story editor	\N
-tt20835828	2	nm3041455	editor	\N	\N
+tt20835828	2	nm7625991	producer	producer	\N
+tt20835828	3	nm3041455	editor	\N	\N
 tt20835830	1	nm2689816	writer	story editor	\N
+tt20835830	2	nm7625991	producer	producer	\N
 tt20835832	1	nm0255776	self	\N	["Self - Host"]
 tt20835832	2	nm8850386	self	\N	["Themselves"]
 tt20835832	3	nm13889044	self	\N	["Self - Candidate"]

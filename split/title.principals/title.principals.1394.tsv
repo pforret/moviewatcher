@@ -8875,7 +8875,8 @@ tt13944476	2	nm9981596	self	\N	["Self"]
 tt13944476	3	nm10825814	editor	\N	\N
 tt13944482	1	nm11434088	actor	\N	\N
 tt13944486	1	nm6030198	director	\N	\N
-tt13944486	2	nm12276958	cinematographer	\N	\N
+tt13944486	2	nm9804772	composer	\N	\N
+tt13944486	3	nm12276958	cinematographer	\N	\N
 tt13944490	1	nm12271190	director	\N	\N
 tt13944490	2	nm12276964	writer	story	\N
 tt13944490	3	nm7540787	cinematographer	\N	\N
@@ -16089,7 +16090,7 @@ tt13947856	6	nm4794697	writer	Writer	\N
 tt13947856	7	nm7466412	writer	\N	\N
 tt13947856	8	nm11090542	writer	writer	\N
 tt13947856	9	nm5465523	writer	Writer	\N
-tt13947858	10	nm3904131	cinematographer	\N	\N
+tt13947858	10	nm1664053	composer	\N	\N
 tt13947858	1	nm0121972	actor	\N	["Horst"]
 tt13947858	2	nm3018268	actress	\N	["Dancer"]
 tt13947858	3	nm0447507	actress	\N	["Dörte Grün"]
@@ -16097,8 +16098,8 @@ tt13947858	4	nm0153139	actor	\N	["Bob"]
 tt13947858	5	nm5742859	director	\N	\N
 tt13947858	6	nm12796317	producer	producer	\N
 tt13947858	7	nm1903194	producer	producer	\N
-tt13947858	8	nm5507389	producer	producer	\N
-tt13947858	9	nm1664053	composer	\N	\N
+tt13947858	8	nm5507630	producer	line producer	\N
+tt13947858	9	nm5507389	producer	producer	\N
 tt13947860	1	nm12275899	actor	\N	["Joey"]
 tt13947860	2	nm6680885	actor	\N	["Lee Jung Woo"]
 tt13947860	3	nm5312975	actor	\N	["Woven"]
@@ -16447,7 +16448,7 @@ tt13948012	2	nm1299691	self	\N	["Self - Host"]
 tt13948012	3	nm1815762	self	\N	["Self - Host"]
 tt13948012	4	nm2218480	director	\N	\N
 tt13948012	5	nm1542079	director	\N	\N
-tt13948014	10	nm6750316	actress	\N	["Tatiana"]
+tt13948014	10	nm10859062	actor	\N	["Alex(2021)"]
 tt13948014	1	nm7434051	actor	\N	["Hunter"]
 tt13948014	2	nm11188080	actress	\N	["Emma"]
 tt13948014	3	nm8333553	actor	\N	["Benjamin"]
@@ -16455,8 +16456,8 @@ tt13948014	4	nm7591391	actor	\N	["Male Date #2"]
 tt13948014	5	nm9982188	actor	\N	["Laura"]
 tt13948014	6	nm12277922	actor	\N	["Charlie"]
 tt13948014	7	nm12335973	actor	\N	["Male Date #3 (2021)"]
-tt13948014	8	nm12277924	actor	\N	["Male Date #4"]
-tt13948014	9	nm10859062	actor	\N	["Alex(2021)"]
+tt13948014	8	nm6750316	actress	\N	["Tatiana"]
+tt13948014	9	nm12277924	actor	\N	["Male Date #4"]
 tt13948016	1	nm1109836	self	\N	["Self - Host"]
 tt13948016	2	nm1299691	self	\N	["Self - Host"]
 tt13948016	3	nm1815762	self	\N	["Self - Host"]

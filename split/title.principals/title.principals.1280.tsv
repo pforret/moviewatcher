@@ -3257,7 +3257,7 @@ tt12801292	6	nm11776304	producer	producer	\N
 tt12801292	7	nm11776305	cinematographer	\N	\N
 tt12801294	1	nm11776680	director	\N	\N
 tt12801294	2	nm1098057	director	supervising director	\N
-tt12801300	10	nm0004879	self	\N	["Self"]
+tt12801300	10	nm1890905	actor	\N	["Big Court (Self)"]
 tt12801300	1	nm1836997	self	\N	["Self"]
 tt12801300	2	nm8994305	actor	\N	["Suge Knight"]
 tt12801300	3	nm0005290	self	\N	["Self"]
@@ -8706,7 +8706,7 @@ tt12803136	1	nm11048342	actor	\N	["Monique"]
 tt12803136	2	nm11785025	actor	\N	\N
 tt12803136	3	nm10674459	director	\N	\N
 tt12803136	4	nm11785026	producer	producer	\N
-tt12803138	10	nm0918212	self	\N	["Self"]
+tt12803138	10	nm0004879	self	\N	["Self"]
 tt12803138	1	nm1836997	self	\N	["Self"]
 tt12803138	2	nm9000048	actor	\N	["Dee"]
 tt12803138	3	nm10412590	self	\N	["Self"]
@@ -8714,8 +8714,8 @@ tt12803138	4	nm0617195	self	\N	["Self"]
 tt12803138	5	nm0045508	editor	\N	\N
 tt12803138	6	nm5771136	editor	\N	\N
 tt12803138	7	nm0723640	self	\N	["Self"]
-tt12803138	8	nm9301942	actor	\N	["Cab Driver"]
-tt12803138	9	nm0004879	self	\N	["Self"]
+tt12803138	8	nm1890905	actor	\N	["Big Court (Self)"]
+tt12803138	9	nm9301942	actor	\N	["Cab Driver"]
 tt12803140	1	nm1757152	producer	producer	\N
 tt12803142	1	nm2858487	actor	\N	["Doug Smith Jr."]
 tt12803142	2	nm5061376	actor	\N	["Michael Moon"]
@@ -10808,7 +10808,7 @@ tt12803982	6	nm2828829	cinematographer	\N	\N
 tt12803982	7	nm5972459	editor	\N	\N
 tt12803982	8	nm11777116	editor	\N	\N
 tt12803982	9	nm5286572	editor	\N	\N
-tt12803984	10	nm2390662	actress	\N	\N
+tt12803984	10	nm14159619	actress	\N	\N
 tt12803984	1	nm13231654	actress	\N	\N
 tt12803984	2	nm7692980	actress	\N	\N
 tt12803984	3	nm11777117	actress	\N	\N
@@ -12727,16 +12727,16 @@ tt12805342	1	nm0053468	self	\N	["Self - Host"]
 tt12805342	2	nm1671238	self	\N	["Self - Contestant"]
 tt12805342	3	nm0663880	archive_footage	\N	["Self"]
 tt12805342	4	nm0686842	self	\N	["Self - Co-Host"]
-tt12805346	10	nm3571351	actor	\N	["Hukum Singh"]
-tt12805346	1	nm0219967	actor	\N	["Kashipur waale Baba Nirala"]
-tt12805346	2	nm10249351	actor	\N	["Rocky"]
-tt12805346	3	nm10278850	actor	\N	["Balveer Singh"]
-tt12805346	4	nm3204740	actor	\N	["Bhopa Swami"]
-tt12805346	5	nm4556443	actress	\N	["Pammi"]
-tt12805346	6	nm1069587	actor	\N	["Ujagar Singh"]
-tt12805346	7	nm5947725	actress	\N	["Dr. Natasha"]
-tt12805346	8	nm5843593	actor	\N	["Sadhu"]
-tt12805346	9	nm7517010	actor	\N	["Satti"]
+tt12805346	10	nm10278850	actor	\N	["Balveer Singh"]
+tt12805346	1	nm0219967	actor	\N	["Kashipur waale Baba Nirala","Baba Nirala"]
+tt12805346	2	nm3204740	actor	\N	["Bhopa","Bhopa Swami"]
+tt12805346	3	nm4556443	actress	\N	["Pammi"]
+tt12805346	4	nm1069587	actor	\N	["Ujagar Singh"]
+tt12805346	5	nm3000617	actor	\N	["Akki"]
+tt12805346	6	nm4839358	actress	\N	["Kavita"]
+tt12805346	7	nm5992649	actress	\N	["Babita"]
+tt12805346	8	nm5947725	actress	\N	["Dr. Natasha"]
+tt12805346	9	nm10249351	actor	\N	["Rocky"]
 tt12805348	1	nm6584104	writer	creator	\N
 tt12805350	1	nm5713754	actor	\N	\N
 tt12805350	2	nm5729373	actor	\N	\N
@@ -24022,16 +24022,16 @@ tt12809748	6	nm0375429	writer	\N	\N
 tt12809748	7	nm2962801	writer	writer	\N
 tt12809748	8	nm4220844	writer	writer	\N
 tt12809748	9	nm1585890	writer	writer	\N
-tt12809750	10	nm11779342	actress	\N	["Rose"]
+tt12809750	10	nm12185453	actress	\N	["Jane"]
 tt12809750	1	nm11775460	actor	\N	["Kevin Lockington"]
-tt12809750	2	nm11779340	actress	\N	["Leslie Vence"]
-tt12809750	3	nm11857701	actress	\N	["Amanda Lockington"]
-tt12809750	4	nm11857704	actor	\N	["Devin"]
+tt12809750	2	nm11857702	actress	\N	["Amy Redwood"]
+tt12809750	3	nm11857704	actor	\N	["Devin"]
+tt12809750	4	nm11857699	actor	\N	["Cal"]
 tt12809750	5	nm11857700	actress	\N	["Sandra"]
-tt12809750	6	nm11857702	actress	\N	["Amy Redwood"]
+tt12809750	6	nm11779340	actress	\N	["Leslie Vence"]
 tt12809750	7	nm11857703	actress	\N	["Jim"]
-tt12809750	8	nm11857699	actor	\N	["Cal"]
-tt12809750	9	nm11779341	actress	\N	["Lydia"]
+tt12809750	8	nm11857701	actress	\N	["Amanda Lockington"]
+tt12809750	9	nm11002825	actress	\N	["Octavia"]
 tt12809752	10	nm1585890	writer	writer	\N
 tt12809752	1	nm0573172	self	\N	["Self - Host"]
 tt12809752	2	nm2369818	self	\N	["Self"]

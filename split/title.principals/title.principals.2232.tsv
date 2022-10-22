@@ -1377,11 +1377,13 @@ tt22325980	2	nm2412978	actress	\N	\N
 tt22325980	3	nm0155562	actor	\N	\N
 tt22325980	4	nm9986076	actress	\N	\N
 tt22325980	5	nm9198044	director	\N	\N
-tt22325982	1	nm1275148	editor	\N	\N
+tt22325982	1	nm0004150	cinematographer	\N	\N
+tt22325982	2	nm1275148	editor	\N	\N
 tt22325984	1	nm0462883	actor	\N	["Flaco Delgado"]
 tt22325984	2	nm4144369	editor	\N	\N
 tt22325986	1	nm4682935	actor	\N	["Samir"]
-tt22325986	2	nm0633971	editor	\N	\N
+tt22325986	2	nm0004150	cinematographer	\N	\N
+tt22325986	3	nm0633971	editor	\N	\N
 tt22325988	10	nm11159612	actor	\N	["Heino Lasch"]
 tt22325988	1	nm0185249	actor	\N	["Howie James"]
 tt22325988	2	nm0970835	actor	\N	["Marco Mommsen"]
@@ -1393,7 +1395,8 @@ tt22325988	7	nm1004544	writer	\N	\N
 tt22325988	8	nm2847608	writer	\N	\N
 tt22325988	9	nm1727680	actor	\N	["Jens Lewald"]
 tt22325992	1	nm1275148	editor	\N	\N
-tt22325994	1	nm4144369	editor	\N	\N
+tt22325994	1	nm0004150	cinematographer	\N	\N
+tt22325994	2	nm4144369	editor	\N	\N
 tt22325996	1	nm6116822	actor	\N	["Lee So Dam's Ex-Boyfriend"]
 tt22325996	2	nm1720133	actress	\N	["Lee So Dam"]
 tt22325996	3	nm3609055	actor	\N	["Dr. Mo Ian"]
@@ -2304,16 +2307,16 @@ tt22326572	2	nm1431170	self	\N	["Self - Panelist"]
 tt22326572	3	nm1472076	self	\N	["Self - Panelist"]
 tt22326572	4	nm0738557	director	\N	\N
 tt22326572	5	nm2361800	editor	senior editor	\N
-tt22326574	10	nm14084592	actor	\N	\N
+tt22326574	10	nm14084591	actor	\N	\N
 tt22326574	1	nm14103777	actor	\N	\N
 tt22326574	2	nm14084586	actor	\N	\N
 tt22326574	3	nm14084587	actor	\N	\N
 tt22326574	4	nm14084588	actor	\N	\N
-tt22326574	5	nm14084585	director	\N	\N
-tt22326574	6	nm14084594	cinematographer	\N	\N
-tt22326574	7	nm14084589	actor	\N	\N
-tt22326574	8	nm14084590	actor	\N	\N
-tt22326574	9	nm14084591	actor	\N	\N
+tt22326574	5	nm14158513	director	\N	\N
+tt22326574	6	nm14084585	producer	producer	\N
+tt22326574	7	nm14084594	cinematographer	\N	\N
+tt22326574	8	nm14084589	actor	\N	\N
+tt22326574	9	nm14084590	actor	\N	\N
 tt22326576	1	nm0264414	self	\N	["Self - Host"]
 tt22326576	2	nm1431170	self	\N	["Self - Panelist"]
 tt22326576	3	nm1472076	self	\N	["Self - Panelist"]
@@ -4127,12 +4130,16 @@ tt22329446	6	nm1887321	writer	\N	\N
 tt22329446	7	nm5380449	writer	\N	\N
 tt22329446	8	nm8566366	producer	producer	\N
 tt22329446	9	nm0045916	cinematographer	\N	\N
-tt22329452	1	nm10382133	actor	\N	["Gajah"]
+tt22329452	10	nm5187711	actor	\N	["Caranguejos"]
+tt22329452	1	nm10382133	actor	\N	["Gajah","Carangueja Véia"]
 tt22329452	2	nm4833219	actress	\N	["Duda"]
 tt22329452	3	nm0716615	actress	\N	["Rainha"]
-tt22329452	4	nm0207903	actor	\N	["Capitão"]
+tt22329452	4	nm0207903	actor	\N	["Capitão","Tubarão Brabo"]
 tt22329452	5	nm11596327	actor	\N	["Junior"]
-tt22329452	6	nm3574420	actor	\N	["Mestre Urubu","Tatu Peba","Calango Leso"]
+tt22329452	6	nm3574420	actor	\N	["Mestre Urubu","Tubarão Abestado"]
+tt22329452	7	nm2589059	actor	\N	["Rudnei Macaco"]
+tt22329452	8	nm2554641	actor	\N	["Caranguejos"]
+tt22329452	9	nm9781248	actor	\N	["Caranguejos"]
 tt22329464	1	nm0264414	self	\N	["Self - Host"]
 tt22329464	2	nm1431170	self	\N	["Self - Panelist"]
 tt22329464	3	nm1472076	self	\N	["Self - Panelist"]
@@ -4151,9 +4158,11 @@ tt22329528	5	nm2361800	editor	senior editor	\N
 tt22329542	1	nm10382133	actor	\N	["Gajah"]
 tt22329542	2	nm4833219	actress	\N	["Duda"]
 tt22329542	3	nm0716615	actress	\N	["Rainha"]
-tt22329542	4	nm0207903	actor	\N	["Capitão"]
+tt22329542	4	nm0207903	actor	\N	["Capitão","Bode Antropólogo"]
 tt22329542	5	nm11596327	actor	\N	["Junior"]
 tt22329542	6	nm3574420	actor	\N	["Mestre Urubu","Tatu Peba","Calango Leso"]
+tt22329542	7	nm3505179	actor	\N	["Jumento Josia"]
+tt22329542	8	nm0483551	actress	\N	["Onça Véia","Clara Capivara"]
 tt22329556	1	nm0264414	self	\N	["Self - Host"]
 tt22329556	2	nm1431170	self	\N	["Self - Panelist"]
 tt22329556	3	nm1472076	self	\N	["Self - Panelist"]
@@ -4201,12 +4210,16 @@ tt22329944	2	nm1431170	self	\N	["Self - Panelist"]
 tt22329944	3	nm1472076	self	\N	["Self - Panelist"]
 tt22329944	4	nm0738557	director	\N	\N
 tt22329944	5	nm2361800	editor	senior editor	\N
+tt22329948	10	nm2554421	actor	\N	["Cupins extras"]
 tt22329948	1	nm10382133	actor	\N	["Gajah"]
 tt22329948	2	nm4833219	actress	\N	["Duda"]
 tt22329948	3	nm0716615	actress	\N	["Rainha"]
 tt22329948	4	nm0207903	actor	\N	["Capitão"]
 tt22329948	5	nm11596327	actor	\N	["Junior"]
-tt22329948	6	nm3574420	actor	\N	["Mestre Urubu","Tatu Peba","Calango Leso"]
+tt22329948	6	nm3574420	actor	\N	["Mestre Urubu","Cupim Bronson","Extras"]
+tt22329948	7	nm9781380	actor	\N	["Gamer","Velho Maluco"]
+tt22329948	8	nm2554641	actor	\N	["Cupins extras"]
+tt22329948	9	nm0483551	actress	\N	["Bruxa"]
 tt22329962	1	nm0264414	self	\N	["Self - Host"]
 tt22329962	2	nm1431170	self	\N	["Self - Panelist"]
 tt22329962	3	nm1472076	self	\N	["Self - Panelist"]
@@ -4217,7 +4230,9 @@ tt22329984	2	nm4833219	actress	\N	["Duda"]
 tt22329984	3	nm0716615	actress	\N	["Rainha"]
 tt22329984	4	nm0207903	actor	\N	["Capitão"]
 tt22329984	5	nm11596327	actor	\N	["Junior"]
-tt22329984	6	nm3574420	actor	\N	["Mestre Urubu","Tatu Peba","Calango Leso"]
+tt22329984	6	nm3574420	actor	\N	["Mestre Urubu","Bob Búfalo"]
+tt22329984	7	nm2345687	actor	\N	["Formikhan"]
+tt22329984	8	nm0483551	actress	\N	["Brenda Búfala","Leda Peroba"]
 tt22329986	1	nm0264414	self	\N	["Self - Host"]
 tt22329986	2	nm1431170	self	\N	["Self - Panelist"]
 tt22329986	3	nm1472076	self	\N	["Self - Panelist"]

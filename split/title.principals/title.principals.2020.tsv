@@ -1532,8 +1532,9 @@ tt20200520	3	nm5066571	composer	\N	\N
 tt20200520	4	nm9505970	cinematographer	\N	\N
 tt20200520	5	nm7954105	editor	\N	\N
 tt20200522	1	nm10207701	actor	\N	["Brian"]
-tt20200522	2	nm0295107	director	\N	\N
-tt20200522	3	nm0607468	producer	producer	\N
+tt20200522	2	nm13739032	actor	\N	["High School Student"]
+tt20200522	3	nm0295107	director	\N	\N
+tt20200522	4	nm0607468	producer	producer	\N
 tt20200524	1	nm13594978	director	\N	\N
 tt20200524	2	nm13594977	writer	\N	\N
 tt20200524	3	nm5066571	composer	\N	\N
@@ -3817,8 +3818,9 @@ tt20201716	9	nm2956078	self	\N	["Self"]
 tt20201718	1	nm0449544	self	\N	["Self - Host"]
 tt20201720	1	nm8112266	writer	\N	\N
 tt20201720	2	nm3757914	producer	producer	\N
-tt20201720	3	nm4304488	editor	\N	\N
-tt20201720	4	nm0924457	production_designer	\N	\N
+tt20201720	3	nm4810774	cinematographer	\N	\N
+tt20201720	4	nm4304488	editor	\N	\N
+tt20201720	5	nm0924457	production_designer	\N	\N
 tt20201722	1	nm0423418	self	\N	["Self - Keynote"]
 tt20201724	1	nm3296134	self	\N	["Self"]
 tt20201724	2	nm13650600	self	\N	["Self"]
@@ -4797,10 +4799,10 @@ tt20202358	1	nm0612989	actor	\N	\N
 tt20202358	2	nm6286333	producer	producer	\N
 tt20202358	3	nm6057499	editor	\N	\N
 tt20202364	1	nm1712316	cinematographer	director of photography	\N
-tt20202366	1	nm7276328	actor	\N	["Henry"]
-tt20202366	2	nm5418889	actress	\N	["Angela"]
+tt20202366	1	nm5418889	actress	\N	["Angela"]
+tt20202366	2	nm13651065	actress	\N	["Catherine"]
 tt20202366	3	nm12741461	actress	\N	["Heather"]
-tt20202366	4	nm13651065	actress	\N	["Catherine"]
+tt20202366	4	nm7276328	actor	\N	["Henry"]
 tt20202366	5	nm10621214	director	\N	\N
 tt20202366	6	nm11974667	producer	producer	\N
 tt20202366	7	nm9542379	cinematographer	\N	\N
@@ -4831,7 +4833,8 @@ tt20202386	1	nm1391428	editor	\N	\N
 tt20202388	1	nm0000285	actor	\N	["Dr. Green"]
 tt20202388	2	nm0631413	actor	\N	["Mr. Mishra"]
 tt20202388	3	nm5517227	director	\N	\N
-tt20202388	4	nm1865648	producer	producer	\N
+tt20202388	4	nm2532541	producer	producer	\N
+tt20202388	5	nm1865648	producer	producer	\N
 tt20202392	10	nm8774737	actress	\N	["Female Wrestler 3"]
 tt20202392	1	nm8296657	actor	\N	["Male wrestler 4"]
 tt20202392	2	nm10645890	actor	\N	["Dylan"]
@@ -5597,11 +5600,12 @@ tt20202892	3	nm13651315	actor	\N	["Mickey"]
 tt20202892	4	nm13651504	actor	\N	["Special Kid"]
 tt20202896	1	nm0002090	actor	\N	["Tom"]
 tt20202896	2	nm1892440	actor	\N	["Nick Thomas"]
-tt20202896	3	nm0001680	actor	\N	["Rob"]
-tt20202896	4	nm0709875	actress	\N	["Linda"]
+tt20202896	3	nm0001595	actor	\N	["Special Agent Jack Wilson"]
+tt20202896	4	nm0001680	actor	\N	["Rob"]
 tt20202896	5	nm7394582	director	\N	\N
 tt20202896	6	nm0102487	producer	producer	\N
 tt20202896	7	nm0366812	producer	producer	\N
+tt20202896	8	nm0709875	producer	producer	\N
 tt20202898	10	nm1635000	archive_footage	\N	["Barbara"]
 tt20202898	1	nm1056947	self	\N	["Self - Host"]
 tt20202898	2	nm0107988	self	\N	["Self"]

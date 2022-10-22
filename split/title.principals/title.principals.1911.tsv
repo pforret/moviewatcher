@@ -152,16 +152,16 @@ tt19113258	4	nm4296484	actor	\N	["Nick"]
 tt19113258	5	nm5676695	director	\N	\N
 tt19113258	6	nm6329017	producer	producer	\N
 tt19113258	7	nm6345768	cinematographer	\N	\N
-tt19113260	10	nm13520505	actor	\N	["Jimmy"]
+tt19113260	10	nm13520504	actor	\N	["Jimmy"]
 tt19113260	1	nm13520500	actor	\N	["Steve"]
 tt19113260	2	nm13520501	actress	\N	["Chloe"]
 tt19113260	3	nm13138848	actor	\N	["Brian","Mr. Mark"]
 tt19113260	4	nm10836602	actor	\N	["Beau"]
-tt19113260	5	nm13138855	writer	\N	\N
-tt19113260	6	nm13516510	producer	producer	\N
-tt19113260	7	nm13520502	actor	\N	["David"]
-tt19113260	8	nm13520503	actress	\N	["Blue"]
-tt19113260	9	nm13520504	actor	\N	["Jimmy"]
+tt19113260	5	nm13892636	director	\N	\N
+tt19113260	6	nm13138855	writer	\N	\N
+tt19113260	7	nm13516510	producer	producer	\N
+tt19113260	8	nm13520502	actor	\N	["David"]
+tt19113260	9	nm13520503	actress	\N	["Blue"]
 tt19113262	1	nm13526011	actress	\N	\N
 tt19113262	2	nm11670475	director	\N	\N
 tt19113262	3	nm13473895	writer	co-writer	\N
@@ -3052,6 +3052,7 @@ tt19115228	2	nm3286879	self	\N	["Self"]
 tt19115234	1	nm1846198	self	\N	["Self - Host"]
 tt19115234	2	nm0489598	self	\N	["Self"]
 tt19115234	3	nm6254842	self	\N	["Self"]
+tt19115234	4	nm14164739	self	\N	["Self"]
 tt19115238	1	nm1579784	self	\N	["Self - Host"]
 tt19115238	2	nm0002776	self	\N	["Self"]
 tt19115242	1	nm0475346	actress	\N	["Narrator"]
@@ -7592,8 +7593,9 @@ tt19117312	6	nm13048379	writer	\N	\N
 tt19117312	7	nm2762654	writer	\N	\N
 tt19117312	8	nm10842517	writer	\N	\N
 tt19117312	9	nm13458259	writer	\N	\N
-tt19117314	1	nm1846198	self	\N	["Self - Host"]
-tt19117314	2	nm3512791	director	\N	\N
+tt19117314	1	nm14164739	self	\N	["Self"]
+tt19117314	2	nm1846198	self	\N	["Self - Host"]
+tt19117314	3	nm3512791	director	\N	\N
 tt19117316	10	nm10944892	writer	\N	\N
 tt19117316	1	nm0536093	actress	\N	["Karabo Moroka"]
 tt19117316	2	nm0782648	actor	\N	["Mziwoxolo 'Tau' Mogale"]

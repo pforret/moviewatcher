@@ -4030,7 +4030,6 @@ tt15071868	4	nm12768666	actor	\N	["Failboat"]
 tt15071868	5	nm12380167	director	\N	\N
 tt15071868	6	nm12768663	writer	idea	\N
 tt15071868	7	nm1930572	composer	\N	\N
-tt15071868	8	nm5930723	composer	\N	\N
 tt15071870	1	nm0512633	self	\N	["Self - Presenter"]
 tt15071870	2	nm1325928	self	\N	["Self - Expert Analysis"]
 tt15071870	3	nm0360639	self	\N	["Self - Expert Analysis"]
@@ -4398,7 +4397,6 @@ tt15072166	4	nm12761311	actor	\N	["Steve","Herobrine"]
 tt15072166	5	nm12380167	director	\N	\N
 tt15072166	6	nm12768873	writer	idea	\N
 tt15072166	7	nm1930572	composer	\N	\N
-tt15072166	8	nm5930723	composer	\N	\N
 tt15072168	10	nm3674553	self	\N	["Self - Founder, Sheepdog Response"]
 tt15072168	1	nm6584067	self	\N	["Self - Host"]
 tt15072168	2	nm10861502	self	\N	["Self - Newsminute Anchor"]
@@ -4461,7 +4459,9 @@ tt15072214	3	nm12768921	actor	\N	["Fangtivity"]
 tt15072214	4	nm12768919	actor	\N	["GoldCraft77"]
 tt15072214	5	nm12380167	director	\N	\N
 tt15072214	6	nm1930572	composer	\N	\N
-tt15072214	7	nm5930723	composer	\N	\N
+tt15072214	7	nm12768922	actor	\N	["Mattman101"]
+tt15072214	8	nm5222324	actor	\N	["Pink Sheep","Pink Sheep Supporters"]
+tt15072214	9	nm12768920	actor	\N	["RichardGaming"]
 tt15072216	1	nm12768927	actor	\N	["Waitor"]
 tt15072216	2	nm11902726	actor	\N	["Ed"]
 tt15072216	3	nm12768926	actress	\N	["Kate"]
@@ -4642,7 +4642,6 @@ tt15072364	1	nm10796054	actress	\N	["Snow"]
 tt15072366	1	nm12769067	self	\N	["Self"]
 tt15072372	1	nm12380167	director	\N	\N
 tt15072372	2	nm5392878	director	\N	\N
-tt15072372	3	nm5930723	composer	\N	\N
 tt15072376	1	nm12769074	self	\N	["Self"]
 tt15072388	10	nm5657215	actress	\N	\N
 tt15072388	1	nm3087878	actress	\N	\N
@@ -4661,7 +4660,6 @@ tt15072396	4	nm12381584	actor	\N	["Walrus Guy"]
 tt15072396	5	nm12380167	director	\N	\N
 tt15072396	6	nm12769090	writer	idea	\N
 tt15072396	7	nm1930572	composer	\N	\N
-tt15072396	8	nm5930723	composer	\N	\N
 tt15072398	1	nm0076907	actress	\N	["Various"]
 tt15072398	2	nm12769092	actor	\N	["Various"]
 tt15072398	3	nm12769091	actor	\N	["Musician"]
@@ -4781,7 +4779,6 @@ tt15072478	4	nm12762700	actor	\N	["SkyDoesMinecraft","BaconCrafter"]
 tt15072478	5	nm12380167	director	\N	\N
 tt15072478	6	nm12769156	writer	idea	\N
 tt15072478	7	nm1930572	composer	\N	\N
-tt15072478	8	nm5930723	composer	\N	\N
 tt15072480	1	nm12769158	director	\N	\N
 tt15072480	2	nm12769159	writer	\N	\N
 tt15072480	3	nm4020627	producer	producer	\N
@@ -4843,8 +4840,7 @@ tt15072506	3	nm5222324	actor	\N	["Pink Sheep"]
 tt15072506	4	nm12388643	archive_sound	\N	["Pilot Captain Rodriguez"]
 tt15072506	5	nm12380167	director	\N	\N
 tt15072506	6	nm1930572	composer	\N	\N
-tt15072506	7	nm5930723	composer	\N	\N
-tt15072506	8	nm12380168	editor	\N	\N
+tt15072506	7	nm12380168	editor	\N	\N
 tt15072508	1	nm3855047	actor	\N	\N
 tt15072508	2	nm3930536	actor	\N	\N
 tt15072510	1	nm6144291	self	\N	["Self"]
@@ -4894,7 +4890,6 @@ tt15072530	4	nm12769193	actress	\N	["Notch"]
 tt15072530	5	nm12380167	director	\N	\N
 tt15072530	6	nm12769190	writer	idea	\N
 tt15072530	7	nm1930572	composer	\N	\N
-tt15072530	8	nm5930723	composer	\N	\N
 tt15072532	1	nm0064550	actress	\N	["Marjolaine"]
 tt15072532	2	nm0078664	actor	\N	["Philippe"]
 tt15072532	3	nm0112513	actress	\N	["Isabelle Dupré"]
@@ -5637,7 +5632,7 @@ tt15073026	4	nm1298252	self	\N	["Self - Host"]
 tt15073026	5	nm3287548	self	\N	["Self - Host"]
 tt15073026	6	nm1313736	self	\N	["Self - Host"]
 tt15073026	7	nm0221321	self	\N	["Self"]
-tt15073026	8	nm1750425	self	\N	["Self"]
+tt15073026	8	nm6660639	self	\N	["Self"]
 tt15073026	9	nm0439767	self	\N	["Self"]
 tt15073030	1	nm10846527	self	\N	["Self"]
 tt15073030	2	nm12457078	self	\N	["Self"]

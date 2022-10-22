@@ -2282,13 +2282,14 @@ tt21362638	4	nm10155056	writer	writer	\N
 tt21362638	5	nm10386660	writer	writer	\N
 tt21362638	6	nm13548019	producer	producer	\N
 tt21362638	7	nm9894561	editor	\N	\N
-tt21362640	1	nm7996818	self	\N	["Self"]
-tt21362640	2	nm3792485	self	\N	["Self"]
-tt21362640	3	nm11211164	self	\N	["Self"]
-tt21362640	4	nm0475937	self	\N	["Self"]
-tt21362640	5	nm1236941	producer	producer	\N
-tt21362640	6	nm1068999	composer	\N	\N
-tt21362640	7	nm0973733	cinematographer	\N	\N
+tt21362640	1	nm9140967	self	\N	["Self"]
+tt21362640	2	nm7996818	self	\N	["Self"]
+tt21362640	3	nm3792485	self	\N	["Self"]
+tt21362640	4	nm11211164	self	\N	["Self"]
+tt21362640	5	nm0475937	director	\N	\N
+tt21362640	6	nm1236941	producer	producer	\N
+tt21362640	7	nm1068999	composer	\N	\N
+tt21362640	8	nm0973733	cinematographer	\N	\N
 tt21362650	1	nm0879486	actress	\N	["Baby Felix"]
 tt21362650	2	nm0782841	actor	\N	["Felix"]
 tt21362650	3	nm0257944	actress	\N	["Mimi"]
@@ -5704,13 +5705,13 @@ tt21365298	5	nm0429541	director	\N	\N
 tt21365298	6	nm3345544	writer	\N	\N
 tt21365298	7	nm6591520	composer	\N	\N
 tt21365298	8	nm0461645	cinematographer	\N	\N
+tt21365298	9	nm8216870	editor	\N	\N
 tt21365300	1	nm0879486	actress	\N	["Baby Felix"]
 tt21365300	2	nm0257944	actress	\N	["Mimi"]
 tt21365300	3	nm1754172	actress	\N	["Mokey"]
 tt21365300	4	nm1050267	actress	\N	["Skippy"]
 tt21365300	5	nm6857571	actress	\N	["Marin"]
 tt21365300	6	nm1560345	actress	\N	["Tattoo"]
-tt21365302	10	nm2448701	actress	\N	["Ese the Makeup Artist"]
 tt21365302	1	nm2588460	actress	\N	["Sammie"]
 tt21365302	2	nm3042278	actor	\N	["DeMar"]
 tt21365302	3	nm0337466	actress	\N	["Jessica AD"]
@@ -5719,8 +5720,7 @@ tt21365302	5	nm0429541	director	\N	\N
 tt21365302	6	nm3345544	producer	producer	\N
 tt21365302	7	nm6591520	composer	\N	\N
 tt21365302	8	nm0461645	cinematographer	\N	\N
-tt21365302	9	nm2484469	actor	\N	["Vasant"]
-tt21365306	10	nm4874686	actress	\N	["Roxy"]
+tt21365302	9	nm8216870	editor	\N	\N
 tt21365306	1	nm2588460	actress	\N	["Sammie"]
 tt21365306	2	nm3042278	actor	\N	["DeMar"]
 tt21365306	3	nm0860712	actress	\N	["Betty"]
@@ -5729,7 +5729,7 @@ tt21365306	5	nm0429541	director	\N	\N
 tt21365306	6	nm3345544	producer	producer	\N
 tt21365306	7	nm6591520	composer	\N	\N
 tt21365306	8	nm0461645	cinematographer	\N	\N
-tt21365306	9	nm0152839	actress	\N	["Hollywood Agent"]
+tt21365306	9	nm8216870	editor	\N	\N
 tt21365308	1	nm1033554	self	\N	["Self - Host"]
 tt21365308	2	nm4792932	self	\N	["Self - Host"]
 tt21365308	3	nm0195627	self	\N	["Self - Guest"]
@@ -5746,8 +5746,8 @@ tt21365316	2	nm3042278	actor	\N	["DeMar"]
 tt21365316	3	nm0860712	actress	\N	["Betty"]
 tt21365316	4	nm0152839	actress	\N	["Hollywood Agent"]
 tt21365316	5	nm0429541	director	\N	\N
-tt21365316	6	nm4411015	writer	written by	\N
-tt21365316	7	nm3345544	producer	producer	\N
+tt21365316	6	nm3345544	writer	written by	\N
+tt21365316	7	nm4411015	writer	written by	\N
 tt21365316	8	nm6591520	composer	\N	\N
 tt21365316	9	nm0461645	cinematographer	\N	\N
 tt21365320	1	nm1033554	self	\N	["Self - Host"]
@@ -6079,9 +6079,11 @@ tt21365590	3	nm9271442	self	\N	["Self - Host"]
 tt21365672	1	nm10629941	actor	\N	["Baby Grizz"]
 tt21365672	2	nm8198457	actress	\N	["Baby Panda"]
 tt21365672	3	nm6720892	actor	\N	["Baby Ice Bear"]
-tt21365672	4	nm5202715	actress	\N	["Betsy"]
+tt21365672	4	nm1336595	actor	\N	["Narrator"]
 tt21365672	5	nm3517154	actress	\N	["Susie"]
-tt21365672	6	nm2304722	actress	\N	["Alice"]
+tt21365672	6	nm0590430	actress	\N	["Scarecrow","Bazooka"]
+tt21365672	7	nm2304722	actress	\N	["Alice"]
+tt21365672	8	nm5202715	actress	\N	["Betsy"]
 tt21365674	1	nm13352367	actor	\N	\N
 tt21365674	2	nm13016983	actress	\N	\N
 tt21365674	3	nm13001773	actress	\N	\N
@@ -7614,7 +7616,6 @@ tt21367018	5	nm12384691	director	\N	\N
 tt21367018	6	nm12391537	writer	\N	\N
 tt21367018	7	nm13878439	writer	idea	\N
 tt21367018	8	nm1930572	composer	\N	\N
-tt21367018	9	nm5930723	composer	\N	\N
 tt21367020	1	nm5096849	actor	\N	["Presentator"]
 tt21367020	2	nm7478032	director	\N	\N
 tt21367020	3	nm13857792	editor	\N	\N
@@ -7770,9 +7771,9 @@ tt21367122	1	nm13866362	director	\N	\N
 tt21367122	2	nm13892636	production_designer	\N	\N
 tt21367132	10	nm0660191	production_designer	\N	\N
 tt21367132	1	nm8205766	actress	\N	["Dani"]
-tt21367132	2	nm8297175	actor	\N	\N
-tt21367132	3	nm6813707	actor	\N	\N
-tt21367132	4	nm9374902	actor	\N	\N
+tt21367132	2	nm8297175	actor	\N	["Tom"]
+tt21367132	3	nm6813707	actor	\N	["Julian Turner"]
+tt21367132	4	nm9374902	actor	\N	["CJ"]
 tt21367132	5	nm6299457	director	\N	\N
 tt21367132	6	nm6021635	producer	producer	\N
 tt21367132	7	nm3974955	producer	producer	\N

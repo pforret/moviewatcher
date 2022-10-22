@@ -470,7 +470,7 @@ tt22071858	6	nm1566255	writer	story	\N
 tt22071858	7	nm8411054	writer	story	\N
 tt22071858	8	nm4107981	writer	head writer	\N
 tt22071858	9	nm4011753	writer	head writer	\N
-tt22071864	10	nm1314276	actress	\N	\N
+tt22071864	10	nm0224116	production_designer	\N	\N
 tt22071864	1	nm6520348	actor	\N	\N
 tt22071864	2	nm0138701	actress	\N	\N
 tt22071864	3	nm12185647	actress	\N	["Sole Santoro"]
@@ -1668,8 +1668,16 @@ tt22072180	6	nm1865859	writer	treatment writer	\N
 tt22072180	7	nm6320093	producer	producer	\N
 tt22072180	8	nm1582582	producer	line producer	\N
 tt22072180	9	nm1024535	cinematographer	director of photography	\N
-tt22072182	1	nm0141909	self	\N	["Self"]
-tt22072182	2	nm0773630	director	\N	\N
+tt22072182	10	nm0738456	self	\N	["Self"]
+tt22072182	1	nm4456022	self	\N	["Self"]
+tt22072182	2	nm1050796	self	\N	["Self"]
+tt22072182	3	nm0141909	self	\N	["Self"]
+tt22072182	4	nm0006010	self	\N	["Self"]
+tt22072182	5	nm0773630	director	\N	\N
+tt22072182	6	nm4694744	producer	producer	\N
+tt22072182	7	nm2393869	cinematographer	\N	\N
+tt22072182	8	nm0359372	self	\N	["Self"]
+tt22072182	9	nm0564279	self	\N	["Self"]
 tt22072184	10	nm14043417	producer	producer	\N
 tt22072184	1	nm0025621	actress	\N	\N
 tt22072184	2	nm7598802	actor	\N	\N
@@ -8899,7 +8907,6 @@ tt22074664	1	nm14059007	self	\N	["Self"]
 tt22074664	2	nm14059008	self	\N	["Self"]
 tt22074664	3	nm11863575	self	\N	["Self - Host"]
 tt22074664	4	nm14059009	self	\N	["Self"]
-tt22074670	1	nm7601850	editor	\N	\N
 tt22074672	1	nm14050464	self	\N	["Self"]
 tt22074672	2	nm1821168	self	\N	["Self"]
 tt22074672	3	nm9776178	self	\N	["Self - Host"]
@@ -8914,13 +8921,40 @@ tt22074674	6	nm0619760	writer	\N	\N
 tt22074674	7	nm8109748	cinematographer	\N	\N
 tt22074674	8	nm4140478	cinematographer	\N	\N
 tt22074674	9	nm12731770	actress	\N	\N
-tt22074682	1	nm7601850	editor	\N	\N
+tt22074682	10	nm1110569	editor	\N	\N
+tt22074682	1	nm13903594	self	\N	["Self"]
+tt22074682	2	nm12062852	self	\N	["Self"]
+tt22074682	3	nm13969498	self	\N	["Self"]
+tt22074682	4	nm13903595	self	\N	["Self"]
+tt22074682	5	nm3646456	director	\N	\N
+tt22074682	6	nm1087680	director	\N	\N
+tt22074682	7	nm7601850	editor	\N	\N
+tt22074682	8	nm13960554	editor	\N	\N
+tt22074682	9	nm3006185	editor	\N	\N
 tt22074684	1	nm10977492	actress	\N	["Fern"]
 tt22074684	2	nm11001208	actress	\N	["Susan"]
 tt22074684	3	nm11004690	actor	\N	["Daniel"]
 tt22074684	4	nm11001206	actress	\N	["Judy"]
-tt22074686	1	nm7601850	editor	\N	\N
-tt22074690	1	nm7601850	editor	\N	\N
+tt22074686	10	nm1110569	editor	\N	\N
+tt22074686	1	nm13903594	self	\N	["Self"]
+tt22074686	2	nm12062852	self	\N	["Self"]
+tt22074686	3	nm13969498	self	\N	["Self"]
+tt22074686	4	nm13903595	self	\N	["Self"]
+tt22074686	5	nm3646456	director	\N	\N
+tt22074686	6	nm1087680	director	\N	\N
+tt22074686	7	nm7601850	editor	\N	\N
+tt22074686	8	nm13960554	editor	\N	\N
+tt22074686	9	nm3006185	editor	\N	\N
+tt22074690	10	nm1110569	editor	\N	\N
+tt22074690	1	nm13903594	self	\N	["Self"]
+tt22074690	2	nm12062852	self	\N	["Self"]
+tt22074690	3	nm13969498	self	\N	["Self"]
+tt22074690	4	nm13903595	self	\N	["Self"]
+tt22074690	5	nm3646456	director	\N	\N
+tt22074690	6	nm1087680	director	\N	\N
+tt22074690	7	nm7601850	editor	\N	\N
+tt22074690	8	nm13960554	editor	\N	\N
+tt22074690	9	nm3006185	editor	\N	\N
 tt22074694	10	nm11610447	actress	\N	\N
 tt22074694	1	nm6890041	actor	\N	\N
 tt22074694	2	nm11781694	actor	\N	\N
@@ -8931,16 +8965,43 @@ tt22074694	6	nm0434546	actor	\N	\N
 tt22074694	7	nm14041895	actor	\N	\N
 tt22074694	8	nm11610344	actress	\N	\N
 tt22074694	9	nm13990776	actress	\N	\N
-tt22074696	1	nm7601850	editor	\N	\N
+tt22074696	10	nm1110569	editor	\N	\N
+tt22074696	1	nm13903594	self	\N	["Self"]
+tt22074696	2	nm12062852	self	\N	["Self"]
+tt22074696	3	nm13969498	self	\N	["Self"]
+tt22074696	4	nm13903595	self	\N	["Self"]
+tt22074696	5	nm3646456	director	\N	\N
+tt22074696	6	nm1087680	director	\N	\N
+tt22074696	7	nm7601850	editor	\N	\N
+tt22074696	8	nm13960554	editor	\N	\N
+tt22074696	9	nm3006185	editor	\N	\N
 tt22074700	1	nm0004071	director	\N	\N
 tt22074700	2	nm1501921	director	\N	\N
-tt22074702	1	nm7601850	editor	\N	\N
+tt22074702	10	nm1110569	editor	\N	\N
+tt22074702	1	nm13903594	self	\N	["Self"]
+tt22074702	2	nm12062852	self	\N	["Self"]
+tt22074702	3	nm13969498	self	\N	["Self"]
+tt22074702	4	nm13903595	self	\N	["Self"]
+tt22074702	5	nm3646456	director	\N	\N
+tt22074702	6	nm1087680	director	\N	\N
+tt22074702	7	nm7601850	editor	\N	\N
+tt22074702	8	nm13960554	editor	\N	\N
+tt22074702	9	nm3006185	editor	\N	\N
 tt22074704	1	nm3784030	self	\N	["Self - Presenter"]
 tt22074704	2	nm4874449	director	\N	\N
 tt22074704	3	nm12147715	editor	\N	\N
 tt22074708	1	nm12517834	self	\N	["Self - Host"]
 tt22074708	2	nm1984142	editor	\N	\N
-tt22074710	1	nm7601850	editor	\N	\N
+tt22074710	10	nm1110569	editor	\N	\N
+tt22074710	1	nm13903594	self	\N	["Self"]
+tt22074710	2	nm12062852	self	\N	["Self"]
+tt22074710	3	nm13969498	self	\N	["Self"]
+tt22074710	4	nm13903595	self	\N	["Self"]
+tt22074710	5	nm3646456	director	\N	\N
+tt22074710	6	nm1087680	director	\N	\N
+tt22074710	7	nm7601850	editor	\N	\N
+tt22074710	8	nm13960554	editor	\N	\N
+tt22074710	9	nm3006185	editor	\N	\N
 tt22074714	1	nm14082239	self	\N	["Self"]
 tt22074714	2	nm14082238	self	\N	["Self - Host"]
 tt22074714	3	nm14082240	self	\N	["Self"]
@@ -8948,7 +9009,16 @@ tt22074716	1	nm7042236	writer	based on the book by	\N
 tt22074716	2	nm11795661	writer	based on the book by	\N
 tt22074716	3	nm5170222	producer	producer	\N
 tt22074716	4	nm2900497	producer	producer	\N
-tt22074718	1	nm7601850	editor	\N	\N
+tt22074718	10	nm1110569	editor	\N	\N
+tt22074718	1	nm13903594	self	\N	["Self"]
+tt22074718	2	nm12062852	self	\N	["Self"]
+tt22074718	3	nm13969498	self	\N	["Self"]
+tt22074718	4	nm13903595	self	\N	["Self"]
+tt22074718	5	nm3646456	director	\N	\N
+tt22074718	6	nm1087680	director	\N	\N
+tt22074718	7	nm7601850	editor	\N	\N
+tt22074718	8	nm13960554	editor	\N	\N
+tt22074718	9	nm3006185	editor	\N	\N
 tt22074726	10	nm4193720	actress	\N	\N
 tt22074726	1	nm6890041	actor	\N	\N
 tt22074726	2	nm11781694	actor	\N	\N
@@ -10876,9 +10946,10 @@ tt22076596	5	nm11783397	actor	\N	["Officer"]
 tt22076598	1	nm2757333	actress	\N	\N
 tt22076598	2	nm4371284	actor	\N	\N
 tt22076598	3	nm6464801	actor	\N	["Evan"]
-tt22076598	4	nm4522953	director	\N	\N
-tt22076598	5	nm2543031	writer	\N	\N
-tt22076598	6	nm3200433	cinematographer	\N	\N
+tt22076598	4	nm10490601	actor	\N	["Police Officer"]
+tt22076598	5	nm4522953	director	\N	\N
+tt22076598	6	nm2543031	writer	\N	\N
+tt22076598	7	nm3200433	cinematographer	\N	\N
 tt22076602	1	nm1249883	actress	\N	\N
 tt22076602	2	nm4339742	director	\N	\N
 tt22076606	1	nm8809510	actress	\N	["Jan"]
@@ -11044,7 +11115,7 @@ tt22076760	3	nm6631929	director	\N	\N
 tt22076760	4	nm4715237	composer	composer	\N
 tt22076760	5	nm1383895	cinematographer	\N	\N
 tt22076760	6	nm14047655	cinematographer	\N	\N
-tt22076760	7	nm14047656	cinematographer	\N	\N
+tt22076760	7	nm10424270	cinematographer	\N	\N
 tt22076760	8	nm3522997	editor	\N	\N
 tt22076762	1	nm3638094	self	\N	["Self"]
 tt22076762	2	nm2469879	self	\N	["Self"]
@@ -12342,7 +12413,7 @@ tt22077948	5	nm5348349	cinematographer	director of photography	\N
 tt22077948	6	nm14009861	editor	\N	\N
 tt22077958	1	nm10682827	actress	\N	["Game Master"]
 tt22077958	2	nm3269739	actress	\N	["Lady Chirp Featherfowl"]
-tt22077958	3	nm5969666	actress	\N	["Binx Choppley"]
+tt22077958	3	nm5969666	actress	\N	["BINX Choppley"]
 tt22077958	4	nm4860865	actor	\N	["Delloso de la Rue"]
 tt22077958	5	nm5392995	producer	producer	\N
 tt22077958	6	nm3293702	actor	\N	["Captain K. P. Hob"]
@@ -12613,22 +12684,26 @@ tt22078168	6	nm0068074	writer	head writer	\N
 tt22078168	7	nm0591517	writer	co-head writer	\N
 tt22078168	8	nm2448723	writer	associate head writer	\N
 tt22078168	9	nm0990072	writer	written by	\N
-tt22078170	10	nm0691540	producer	producer	\N
+tt22078170	10	nm0068347	writer	created by	\N
 tt22078170	1	nm0020739	actress	\N	["Dr. Taylor Hayes"]
-tt22078170	2	nm1336416	actor	\N	["Liam Spencer"]
-tt22078170	3	nm0004872	actor	\N	["Bill Spencer Jr."]
-tt22078170	4	nm0443406	actor	\N	["Ridge Forrester"]
-tt22078170	5	nm0068074	writer	head writer	\N
-tt22078170	6	nm0591517	writer	co-head writer	\N
-tt22078170	7	nm2448723	writer	associate head writer	\N
-tt22078170	8	nm0068347	writer	created by	\N
-tt22078170	9	nm0068589	writer	created by	\N
-tt22078172	1	nm0068074	writer	head writer	\N
-tt22078172	2	nm0591517	writer	co-head writer	\N
-tt22078172	3	nm2448723	writer	associate head writer	\N
-tt22078172	4	nm0068347	writer	created by	\N
-tt22078172	5	nm0068589	writer	created by	\N
-tt22078172	6	nm0691540	producer	producer	\N
+tt22078170	2	nm3339705	actor	\N	["Thomas Forrester"]
+tt22078170	3	nm0114034	actress	\N	["Sheila Carter"]
+tt22078170	4	nm1336416	actor	\N	["Liam Spencer"]
+tt22078170	5	nm1598121	director	\N	\N
+tt22078170	6	nm0068074	writer	head writer	\N
+tt22078170	7	nm0591517	writer	co-head writer	\N
+tt22078170	8	nm2448723	writer	associate head writer	\N
+tt22078170	9	nm1017630	writer	written by	\N
+tt22078172	10	nm0691540	producer	producer	\N
+tt22078172	1	nm0004872	actor	\N	["Bill Spencer Jr."]
+tt22078172	2	nm0485810	actress	\N	["Brooke Logan Forrester"]
+tt22078172	3	nm2372608	actor	\N	["Carter Walton"]
+tt22078172	4	nm0812133	actress	\N	["Quinn Fuller Forrester"]
+tt22078172	5	nm0068074	writer	head writer	\N
+tt22078172	6	nm0591517	writer	co-head writer	\N
+tt22078172	7	nm2448723	writer	associate head writer	\N
+tt22078172	8	nm0068347	writer	created by	\N
+tt22078172	9	nm0068589	writer	created by	\N
 tt22078174	1	nm0068074	writer	head writer	\N
 tt22078174	2	nm0591517	writer	co-head writer	\N
 tt22078174	3	nm2448723	writer	associate head writer	\N
@@ -12668,11 +12743,16 @@ tt22078240	1	nm12426341	self	\N	["Self"]
 tt22078240	2	nm9270947	self	\N	["Self"]
 tt22078242	1	nm3844812	actress	\N	\N
 tt22078242	2	nm14047803	director	\N	\N
-tt22078258	1	nm14102805	actress	\N	["Elora Brown"]
-tt22078258	2	nm12466310	actress	\N	["Julie","Ms Anderson"]
-tt22078258	3	nm14077846	actor	\N	["Jack"]
-tt22078258	4	nm14041560	actor	\N	["Adam","Frank"]
-tt22078258	5	nm14077847	actor	\N	["Parker"]
+tt22078258	10	nm14161507	actor	\N	["Brady"]
+tt22078258	1	nm12466310	actress	\N	["Julie","Ms Anderson"]
+tt22078258	2	nm14102805	actress	\N	["Elora Brown"]
+tt22078258	3	nm14041560	actor	\N	["Adam","Frank"]
+tt22078258	4	nm14077847	actor	\N	["Parker"]
+tt22078258	5	nm14077846	actor	\N	["Jack"]
+tt22078258	6	nm14161503	actor	\N	["Edmond"]
+tt22078258	7	nm14161502	actress	\N	["Sierra"]
+tt22078258	8	nm14161504	actress	\N	["Annika"]
+tt22078258	9	nm14161506	actress	\N	["Felice","Rachel"]
 tt22078260	1	nm14048189	actor	\N	["Ali"]
 tt22078282	10	nm2436446	archive_footage	\N	\N
 tt22078282	1	nm1588274	archive_footage	\N	\N

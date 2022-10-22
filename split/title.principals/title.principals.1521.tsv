@@ -22,16 +22,16 @@ tt15210012	1	nm12724921	actor	\N	\N
 tt15210012	2	nm11260493	actress	\N	\N
 tt15210016	1	nm0323960	actor	\N	["Narrator"]
 tt15210016	2	nm0126001	composer	\N	\N
-tt15210060	10	nm12813036	actor	\N	["Herobrine"]
+tt15210060	10	nm12803920	actor	\N	["Baby"]
 tt15210060	1	nm12549901	actor	\N	["Creeper321448"]
 tt15210060	2	nm12835792	actor	\N	["ExplodingTNT"]
 tt15210060	3	nm12820387	actor	\N	["Notch"]
 tt15210060	4	nm12812635	actress	\N	["Baby's Mother"]
 tt15210060	5	nm12380167	director	\N	\N
-tt15210060	6	nm5930723	composer	\N	\N
+tt15210060	6	nm12825579	actor	\N	["Herobrine's Mom"]
 tt15210060	7	nm5222324	actor	\N	["Pink Sheep"]
-tt15210060	8	nm12825579	actor	\N	["Herobrine's Mom"]
-tt15210060	9	nm12829794	actor	\N	["Herobrine's Step Father","Pink Sheep"]
+tt15210060	8	nm12829794	actor	\N	["Herobrine's Step Father","Pink Sheep"]
+tt15210060	9	nm12813036	actor	\N	["Herobrine"]
 tt15210066	1	nm6993918	actor	\N	["Raa Raa"]
 tt15210068	1	nm11732669	actor	\N	\N
 tt15210068	2	nm12114724	actress	\N	\N
@@ -66,7 +66,6 @@ tt15210076	9	nm0696866	archive_footage	\N	["Mr. Gort"]
 tt15210090	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15210090	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15210090	3	nm12835996	writer	idea	\N
-tt15210090	4	nm5930723	composer	\N	\N
 tt15210094	1	nm12835997	actress	\N	\N
 tt15210094	2	nm12610838	actress	\N	\N
 tt15210096	1	nm0104971	actor	\N	["Narrator"]
@@ -147,13 +146,16 @@ tt15210148	8	nm11276868	actor	\N	["Sheriff Clayton"]
 tt15210148	9	nm10990507	actor	\N	["The Lieutenant"]
 tt15210150	1	nm0003044	self	\N	["Self - Interviewee"]
 tt15210150	2	nm0475997	self	\N	["Self - Host"]
+tt15210152	10	nm12813036	actor	\N	["Ronald McDonald"]
 tt15210152	1	nm12549901	actor	\N	["McDonalds Employee","DanTDM"]
 tt15210152	2	nm12835792	actor	\N	["Colonel Sanders","ExplodingTNT"]
 tt15210152	3	nm12812635	actress	\N	["Wendy","Madison_Madison"]
 tt15210152	4	nm12825579	actor	\N	["Notch"]
 tt15210152	5	nm12380167	director	\N	\N
 tt15210152	6	nm12836054	writer	idea	\N
-tt15210152	7	nm5930723	composer	\N	\N
+tt15210152	7	nm5222324	actor	\N	["Pink Sheep"]
+tt15210152	8	nm12806321	actor	\N	["Pink Sheep"]
+tt15210152	9	nm12829794	actor	\N	["McDonalds Employee","Failboat"]
 tt15210154	1	nm0152422	self	\N	["Self - Host"]
 tt15210154	2	nm5827617	self	\N	["Self"]
 tt15210154	3	nm11693820	producer	producer	\N
@@ -188,7 +190,6 @@ tt15210170	2	nm9023326	actress	\N	\N
 tt15210172	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15210172	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15210172	3	nm12836068	writer	idea	\N
-tt15210172	4	nm5930723	composer	\N	\N
 tt15210174	1	nm1480555	actor	\N	\N
 tt15210174	2	nm2486724	actress	\N	\N
 tt15210176	1	nm3554145	director	\N	\N
@@ -208,14 +209,13 @@ tt15210188	3	nm12806321	actor	\N	["Steve","Kid"]
 tt15210188	4	nm12827344	actor	\N	["Baldi","Kid"]
 tt15210188	5	nm12380167	director	\N	\N
 tt15210188	6	nm12836076	writer	idea	\N
-tt15210188	7	nm5930723	composer	\N	\N
+tt15210188	7	nm12813036	actor	\N	["Notch"]
 tt15210194	1	nm7186378	actor	\N	\N
 tt15210194	2	nm0634553	actor	\N	\N
 tt15210194	3	nm8973633	actress	\N	\N
 tt15210198	1	nm11783782	director	\N	\N
 tt15210198	2	nm12008675	cinematographer	\N	\N
 tt15210198	3	nm5713092	editor	\N	\N
-tt15210200	10	nm5930723	composer	\N	\N
 tt15210200	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15210200	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15210200	3	nm12836081	writer	idea	\N
@@ -314,13 +314,16 @@ tt15210256	3	nm3363032	producer	producer	\N
 tt15210256	4	nm1159577	producer	producer	\N
 tt15210256	5	nm2803533	producer	producer	\N
 tt15210256	6	nm2311839	editor	\N	\N
+tt15210260	10	nm12828737	actor	\N	["Notch"]
 tt15210260	1	nm12549901	actor	\N	["Failboat"]
 tt15210260	2	nm12820329	actress	\N	["Pink Sheep"]
 tt15210260	3	nm12836137	actor	\N	["Falling Alien","Gray Alien #2"]
 tt15210260	4	nm12835792	actor	\N	["Green Alien #2"]
 tt15210260	5	nm12380167	director	\N	\N
 tt15210260	6	nm12836136	writer	idea	\N
-tt15210260	7	nm5930723	composer	\N	\N
+tt15210260	7	nm12835791	actor	\N	["Jeb"]
+tt15210260	8	nm12784873	actor	\N	["Dame Tu Cosita Alien"]
+tt15210260	9	nm12380168	actor	\N	["Failboat"]
 tt15210262	1	nm3206393	actor	\N	\N
 tt15210262	2	nm4927095	actress	\N	\N
 tt15210262	3	nm5248006	director	\N	\N
@@ -367,7 +370,6 @@ tt15210280	9	nm1944193	editor	\N	\N
 tt15210282	1	nm7038182	actress	\N	["Suzie"]
 tt15210284	1	nm13194778	self	\N	["Themselves"]
 tt15210284	2	nm13194702	self	\N	["Themselves"]
-tt15210286	10	nm5930723	composer	\N	\N
 tt15210286	1	nm5222324	actor	\N	["Pink Sheep"]
 tt15210286	2	nm12380167	actor	\N	["ExplodingTNT during TNT Scenes"]
 tt15210286	3	nm12836161	writer	idea	\N
@@ -11628,6 +11630,7 @@ tt15214852	2	nm12125127	actress	\N	["Sister Marry"]
 tt15214852	3	nm11347780	actor	\N	["Alvis"]
 tt15214852	4	nm11390824	actor	\N	["Sir Alexander"]
 tt15214852	5	nm9069099	director	\N	\N
+tt15214858	10	nm13078477	actress	\N	["Rhiannon"]
 tt15214858	1	nm8026117	actress	\N	["Maeve"]
 tt15214858	2	nm10808659	actor	\N	["Brigid"]
 tt15214858	3	nm5207733	actor	\N	["Belenus"]
@@ -11727,7 +11730,6 @@ tt15214900	4	nm12828737	actor	\N	["Pink Sheep"]
 tt15214900	5	nm12380167	director	\N	\N
 tt15214900	6	nm12838453	writer	idea	\N
 tt15214900	7	nm12838454	writer	idea	\N
-tt15214900	8	nm5930723	composer	\N	\N
 tt15214902	1	nm11045897	actress	\N	["Amber"]
 tt15214902	2	nm0566263	actor	\N	["Connor"]
 tt15214902	3	nm8814567	actress	\N	["Macey"]
@@ -11772,7 +11774,6 @@ tt15214914	9	nm1385959	composer	\N	\N
 tt15214916	1	nm12829725	actor	\N	["Frep"]
 tt15214916	2	nm12812972	actor	\N	["Popty"]
 tt15214916	3	nm12380167	director	\N	\N
-tt15214916	4	nm5930723	composer	\N	\N
 tt15214918	1	nm0463159	actress	\N	["Dolly"]
 tt15214918	2	nm1862038	actor	\N	["Ronnie"]
 tt15214918	3	nm0510505	actor	\N	["Paul"]
@@ -11880,7 +11881,8 @@ tt15214950	3	nm12820329	actress	\N	["DaOnlyKiwii","Farmer Villager"]
 tt15214950	4	nm12815718	actor	\N	["Notch","Super Noob","Futurian Robot"]
 tt15214950	5	nm12380167	director	\N	\N
 tt15214950	6	nm12838538	writer	idea	\N
-tt15214950	7	nm5930723	composer	\N	\N
+tt15214950	7	nm5222324	actor	\N	["Pink Sheep"]
+tt15214950	8	nm12829077	actor	\N	["ExplodingTNT","Farmer Villager","Nitwit Villager"]
 tt15214952	1	nm12364965	self	\N	["Self"]
 tt15214952	2	nm12838539	self	\N	["Self"]
 tt15214952	3	nm12717460	editor	\N	\N
@@ -12208,7 +12210,6 @@ tt15215128	4	nm12838694	writer	idea	\N
 tt15215128	5	nm12838693	writer	idea	\N
 tt15215128	6	nm12838695	writer	idea	\N
 tt15215128	7	nm12838697	writer	idea	\N
-tt15215128	8	nm5930723	composer	\N	\N
 tt15215130	1	nm2342430	actor	\N	\N
 tt15215132	1	nm10892184	actor	\N	["PJ Robot"]
 tt15215132	2	nm12990885	actor	\N	["Catboy"]
@@ -12885,16 +12886,16 @@ tt15215468	8	nm5641384	producer	producer	\N
 tt15215468	9	nm5169029	producer	producer	\N
 tt15215470	1	nm7051108	producer	producer	\N
 tt15215470	2	nm6498688	cinematographer	\N	\N
-tt15215472	10	nm12829794	actor	\N	["Villager"]
+tt15215472	10	nm12825504	actor	\N	["Harry"]
 tt15215472	1	nm12549901	actor	\N	["Creeper321448"]
 tt15215472	2	nm12838940	actor	\N	["Guest"]
 tt15215472	3	nm12835791	actor	\N	["Cow"]
 tt15215472	4	nm12804133	actress	\N	["Granny"]
 tt15215472	5	nm12380167	director	\N	\N
-tt15215472	6	nm5930723	composer	\N	\N
-tt15215472	7	nm12809217	actor	\N	["ExplodingTNT"]
-tt15215472	8	nm12815718	actor	\N	["Guest"]
-tt15215472	9	nm12806321	actor	\N	["Herobrine"]
+tt15215472	6	nm12809217	actor	\N	["ExplodingTNT"]
+tt15215472	7	nm12815718	actor	\N	["Guest"]
+tt15215472	8	nm12806321	actor	\N	["Herobrine"]
+tt15215472	9	nm12829794	actor	\N	["Villager"]
 tt15215476	1	nm0605252	actor	\N	["Tosshinta Tomoe"]
 tt15215476	2	nm1122594	writer	novel	\N
 tt15215476	3	nm0847234	composer	\N	\N
@@ -12976,10 +12977,9 @@ tt15215514	2	nm12549901	actor	\N	["Failboat"]
 tt15215514	3	nm12806321	actor	\N	["Super Noob"]
 tt15215514	4	nm12829794	actor	\N	["Notch"]
 tt15215514	5	nm12380167	director	\N	\N
-tt15215514	6	nm5930723	composer	\N	\N
-tt15215514	7	nm12809603	actor	\N	["Hacker"]
-tt15215514	8	nm12823877	actor	\N	["Pro"]
-tt15215514	9	nm12803920	actor	\N	["Living Rainbow Ore"]
+tt15215514	6	nm12809603	actor	\N	["Hacker"]
+tt15215514	7	nm12823877	actor	\N	["Pro"]
+tt15215514	8	nm12803920	actor	\N	["Living Rainbow Ore"]
 tt15215516	1	nm12839016	actor	\N	["Coco"]
 tt15215516	2	nm9777837	actress	\N	["Sofia"]
 tt15215516	3	nm12839017	actress	\N	["Rose"]

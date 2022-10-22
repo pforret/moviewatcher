@@ -269,7 +269,8 @@ tt22392518	1	nm1317785	self	\N	["Self - Host"]
 tt22392518	2	nm14110713	self	\N	["Self - LA Lakers expert"]
 tt22392518	3	nm14110714	self	\N	["Self - Beauty and the Beast expert"]
 tt22392518	4	nm14110715	self	\N	["Self - Easy Rider expert"]
-tt22392518	5	nm14110716	self	\N	["Self - Keeping Up with the Kardashians expert"]
+tt22392518	5	nm4183506	writer	Writer	\N
+tt22392518	6	nm14110716	self	\N	["Self - Keeping Up with the Kardashians expert"]
 tt22392524	1	nm13377129	actress	\N	\N
 tt22392524	2	nm11706375	director	\N	\N
 tt22392528	1	nm9269870	actress	\N	\N
@@ -925,6 +926,7 @@ tt22393200	4	nm14089872	cinematographer	\N	\N
 tt22393200	5	nm14089873	editor	\N	\N
 tt22393212	1	nm1635798	self	\N	["Self - Host"]
 tt22393212	2	nm2256626	self	\N	["Self - Host"]
+tt22393216	10	nm3837213	actress	\N	["Mercedes"]
 tt22393216	1	nm2215307	actor	\N	\N
 tt22393216	2	nm1448869	actress	\N	["Lucia"]
 tt22393216	3	nm1081016	actor	\N	["Lorenzo"]
@@ -939,17 +941,20 @@ tt22393220	2	nm1081016	actor	\N	["Lorenzo"]
 tt22393220	3	nm1795865	actor	\N	["Bruno"]
 tt22393220	4	nm2533090	actor	\N	["Alfredo"]
 tt22393220	5	nm0950426	director	\N	\N
+tt22393220	6	nm3837213	actress	\N	["Mercedes"]
 tt22393222	1	nm1448869	actress	\N	["Lucia"]
 tt22393222	2	nm1081016	actor	\N	["Lorenzo"]
 tt22393222	3	nm1795865	actor	\N	["Bruno"]
 tt22393222	4	nm2533090	actor	\N	["Alfredo"]
 tt22393222	5	nm0950426	director	\N	\N
+tt22393222	6	nm3837213	actress	\N	["Mercedes"]
 tt22393224	1	nm1448869	actress	\N	["Lucia"]
 tt22393224	2	nm1081016	actor	\N	["Lorenzo"]
 tt22393224	3	nm1795865	actor	\N	["Bruno"]
 tt22393224	4	nm13742901	actress	\N	["Asistente Bruno"]
 tt22393224	5	nm0950426	director	\N	\N
 tt22393224	6	nm2533090	actor	\N	["Alfredo"]
+tt22393224	7	nm3837213	actress	\N	["Mercedes"]
 tt22393228	1	nm0507526	self	\N	["Self - Host"]
 tt22393228	2	nm0056271	self	\N	["Self"]
 tt22393228	3	nm0057360	self	\N	["Self"]
@@ -960,16 +965,19 @@ tt22393230	2	nm1081016	actor	\N	["Lorenzo"]
 tt22393230	3	nm1795865	actor	\N	["Bruno"]
 tt22393230	4	nm2533090	actor	\N	["Alfredo"]
 tt22393230	5	nm0950426	director	\N	\N
+tt22393230	6	nm3837213	actress	\N	["Mercedes"]
 tt22393232	1	nm1448869	actress	\N	["Lucia"]
 tt22393232	2	nm1081016	actor	\N	["Lorenzo"]
 tt22393232	3	nm1795865	actor	\N	["Bruno"]
 tt22393232	4	nm2533090	actor	\N	["Alfredo"]
 tt22393232	5	nm0950426	director	\N	\N
+tt22393232	6	nm3837213	actress	\N	["Mercedes"]
 tt22393234	1	nm1448869	actress	\N	["Lucia"]
 tt22393234	2	nm1081016	actor	\N	["Lorenzo"]
 tt22393234	3	nm1795865	actor	\N	["Bruno"]
 tt22393234	4	nm2533090	actor	\N	["Alfredo"]
 tt22393234	5	nm0950426	director	\N	\N
+tt22393234	6	nm3837213	actress	\N	["Mercedes"]
 tt22393252	1	nm8578213	actor	\N	["Commissioner San Mateo County Vets. Commission"]
 tt22393252	2	nm14090085	actor	\N	["Peninsula Vet Director","Vet Center Director"]
 tt22393252	3	nm14090086	actress	\N	["Deputy Secretary","Women Veterans Affairs California Department of Veterans Affairs"]
@@ -1125,16 +1133,15 @@ tt22393474	8	nm14093514	actor	\N	["Australian pizza guy"]
 tt22393474	9	nm14093482	actress	\N	["Sandra"]
 tt22393486	1	nm1041479	self	\N	["Self"]
 tt22393486	2	nm2246012	producer	producer	\N
-tt22393490	10	nm8927476	actor	\N	["Jesus"]
 tt22393490	1	nm4709456	actor	\N	["Abu Shukri"]
 tt22393490	2	nm12020203	actor	\N	["Kingston"]
 tt22393490	3	nm9988111	actor	\N	["Hassan"]
 tt22393490	4	nm7542600	actor	\N	["Obi"]
-tt22393490	5	nm8319330	director	second assistant director	\N
-tt22393490	6	nm1812717	director	co-director	\N
-tt22393490	7	nm6629824	editor	\N	\N
-tt22393490	8	nm10625915	actor	\N	["Habib"]
-tt22393490	9	nm12656629	actor	\N	["Irie"]
+tt22393490	5	nm1812717	director	co-director	\N
+tt22393490	6	nm6629824	editor	\N	\N
+tt22393490	7	nm10625915	actor	\N	["Habib"]
+tt22393490	8	nm12656629	actor	\N	["Irie"]
+tt22393490	9	nm8927476	actor	\N	["Jesus"]
 tt22393496	1	nm4166253	self	\N	["Self - Presenter"]
 tt22393496	2	nm1069676	self	\N	["Self - Presenter"]
 tt22393500	1	nm8589146	self	\N	["Self - Host"]

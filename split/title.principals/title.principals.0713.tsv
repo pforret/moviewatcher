@@ -7795,6 +7795,8 @@ tt7132924	2	nm1052666	writer	\N	\N
 tt7132924	3	nm11054758	producer	producer	\N
 tt7132924	4	nm11054757	producer	producer	\N
 tt7132924	5	nm1890304	producer	producer	\N
+tt7132924	6	nm9005233	cinematographer	\N	\N
+tt7132924	7	nm12258313	production_designer	\N	\N
 tt7132928	1	nm5467010	actor	\N	["Chico 1"]
 tt7132928	2	nm8188537	actor	\N	["Chico 5"]
 tt7132928	3	nm9127523	actor	\N	["Chico 4"]
@@ -19877,8 +19879,6 @@ tt7137100	6	nm7580550	archive_footage	\N	["Noah The Savalona"]
 tt7137100	7	nm7924058	archive_footage	\N	["Jack Lonestar"]
 tt7137100	8	nm7893889	archive_footage	\N	["Doctor Aaron Thompson"]
 tt7137100	9	nm7580547	archive_footage	\N	["The Descendant"]
-tt7137102	1	nm9097699	writer	\N	\N
-tt7137102	2	nm3081301	writer	\N	\N
 tt7137104	10	nm1586203	editor	\N	\N
 tt7137104	1	nm6645123	actor	\N	["Swing Host"]
 tt7137104	2	nm3646491	self	\N	["Self - Co-Host"]
@@ -25174,7 +25174,8 @@ tt7138990	6	nm6901552	writer	story editor	\N
 tt7138990	7	nm6888288	writer	screenplay	\N
 tt7138990	8	nm1168570	producer	producer	\N
 tt7138990	9	nm4814816	cinematographer	director of photography	\N
-tt7138992	1	nm4486802	composer	\N	\N
+tt7138992	1	nm1893776	self	\N	["Self - Presenter"]
+tt7138992	2	nm4486802	composer	\N	\N
 tt7138994	10	nm1195236	editor	\N	\N
 tt7138994	1	nm3736078	actor	\N	["Mei Ren-Xin"]
 tt7138994	2	nm1086702	actor	\N	["Hong Cang-Hai"]
@@ -25195,7 +25196,8 @@ tt7138996	6	nm1165227	director	\N	\N
 tt7138996	7	nm6901552	writer	story editor	\N
 tt7138996	8	nm6888288	writer	screenplay	\N
 tt7138996	9	nm1168570	producer	producer	\N
-tt7138998	1	nm4486802	composer	\N	\N
+tt7138998	1	nm1893776	self	\N	["Self - Presenter"]
+tt7138998	2	nm4486802	composer	\N	\N
 tt7139000	10	nm4814816	cinematographer	director of photography	\N
 tt7139000	1	nm3736078	actor	\N	["Mei Ren-Xin"]
 tt7139000	2	nm1086702	actor	\N	["Hong Cang-Hai"]
@@ -25226,7 +25228,8 @@ tt7139006	6	nm6901552	writer	story editor	\N
 tt7139006	7	nm8591148	writer	screenplay	\N
 tt7139006	8	nm1168570	producer	producer	\N
 tt7139006	9	nm4814816	cinematographer	director of photography	\N
-tt7139010	1	nm4486802	composer	\N	\N
+tt7139010	1	nm1893776	self	\N	["Self - Presenter"]
+tt7139010	2	nm4486802	composer	\N	\N
 tt7139014	10	nm4814816	cinematographer	director of photography	\N
 tt7139014	1	nm3736078	actor	\N	["Mei Ren-Xin"]
 tt7139014	2	nm1086702	actor	\N	["Hong Cang-Hai"]
@@ -25237,10 +25240,13 @@ tt7139014	6	nm6624268	writer	screenplay	\N
 tt7139014	7	nm6901552	writer	story editor	\N
 tt7139014	8	nm8591148	writer	screenplay	\N
 tt7139014	9	nm1168570	producer	producer	\N
-tt7139018	1	nm4486802	composer	\N	\N
-tt7139026	1	nm4486802	composer	\N	\N
+tt7139018	1	nm1893776	self	\N	["Self - Presenter"]
+tt7139018	2	nm4486802	composer	\N	\N
+tt7139026	1	nm1893776	self	\N	["Self - Presenter"]
+tt7139026	2	nm4486802	composer	\N	\N
 tt7139028	1	nm0710497	self	\N	["Self - Presenter"]
-tt7139030	1	nm4486802	composer	\N	\N
+tt7139030	1	nm1893776	self	\N	["Self - Presenter"]
+tt7139030	2	nm4486802	composer	\N	\N
 tt7139034	10	nm1195236	editor	\N	\N
 tt7139034	1	nm3736078	actor	\N	["Mei Ren-Xin"]
 tt7139034	2	nm3967281	actor	\N	["Wu Wei-Xiong"]

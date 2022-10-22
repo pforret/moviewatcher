@@ -1523,23 +1523,26 @@ tt5830748	6	nm2258392	editor	\N	\N
 tt5830750	1	nm8238101	director	\N	\N
 tt5830752	1	nm8543348	self	\N	["Self - Freedia Dancer"]
 tt5830752	2	nm4118447	self	\N	["Self"]
-tt5830752	3	nm1761346	self	\N	["Self"]
-tt5830752	4	nm5453258	producer	producer	\N
-tt5830752	5	nm0846556	cinematographer	\N	\N
-tt5830752	6	nm1502628	editor	\N	\N
-tt5830752	7	nm1301353	editor	lead editor	\N
+tt5830752	3	nm7165805	actor	\N	["Producer","Director"]
+tt5830752	4	nm1761346	self	\N	["Self"]
+tt5830752	5	nm5453258	producer	producer	\N
+tt5830752	6	nm0846556	cinematographer	\N	\N
+tt5830752	7	nm1502628	editor	\N	\N
+tt5830752	8	nm1301353	editor	lead editor	\N
 tt5830754	1	nm4118447	self	\N	["Self"]
-tt5830754	2	nm1761346	self	\N	["Self"]
-tt5830754	3	nm5453258	producer	producer	\N
-tt5830754	4	nm0846556	cinematographer	\N	\N
-tt5830754	5	nm1502628	editor	\N	\N
-tt5830754	6	nm1301353	editor	lead editor	\N
+tt5830754	2	nm7165805	actor	\N	["Producer","Director"]
+tt5830754	3	nm1761346	self	\N	["Self"]
+tt5830754	4	nm5453258	producer	producer	\N
+tt5830754	5	nm0846556	cinematographer	\N	\N
+tt5830754	6	nm1502628	editor	\N	\N
+tt5830754	7	nm1301353	editor	lead editor	\N
 tt5830756	1	nm4118447	self	\N	["Self"]
-tt5830756	2	nm1761346	self	\N	["Self"]
-tt5830756	3	nm5453258	producer	producer	\N
-tt5830756	4	nm0846556	cinematographer	\N	\N
-tt5830756	5	nm1502628	editor	\N	\N
-tt5830756	6	nm1301353	editor	lead editor	\N
+tt5830756	2	nm7165805	actor	\N	["Producer","Director"]
+tt5830756	3	nm1761346	self	\N	["Self"]
+tt5830756	4	nm5453258	producer	producer	\N
+tt5830756	5	nm0846556	cinematographer	\N	\N
+tt5830756	6	nm1502628	editor	\N	\N
+tt5830756	7	nm1301353	editor	lead editor	\N
 tt5830758	1	nm0190194	actress	\N	["Rachel"]
 tt5830758	2	nm0372731	actor	\N	["The Officer"]
 tt5830758	3	nm0085901	actor	\N	["The Soldier"]
@@ -10188,7 +10191,7 @@ tt5834410	10	nm8241697	writer	novel	\N
 tt5834410	1	nm0000706	actress	\N	["Mrs. Lee"]
 tt5834410	2	nm6525901	actor	\N	["Mr. Hu"]
 tt5834410	3	nm0644897	actress	\N	["Mistral"]
-tt5834410	4	nm6299248	actor	\N	["Sidney"]
+tt5834410	4	nm0302466	actor	\N	["Dog"]
 tt5834410	5	nm0401203	director	\N	\N
 tt5834410	6	nm1572239	director	co-director	\N
 tt5834410	7	nm3597828	director	co-director	\N
@@ -11777,15 +11780,16 @@ tt5835108	2	nm7843307	actor	\N	["Chris"]
 tt5835108	3	nm0854360	actor	\N	["Frank"]
 tt5835108	4	nm8242493	director	\N	\N
 tt5835108	5	nm5628656	cinematographer	\N	\N
+tt5835110	10	nm7140021	actress	\N	["Rainbow Ruby"]
 tt5835110	1	nm0097765	actor	\N	["Ling Ling"]
 tt5835110	2	nm1275101	actress	\N	["Gina"]
 tt5835110	3	nm0238546	actor	\N	["Thunderbell"]
 tt5835110	4	nm1512156	actress	\N	["Jessy"]
-tt5835110	5	nm0243903	director	\N	\N
-tt5835110	6	nm1250331	writer	writer	\N
-tt5835110	7	nm0305844	writer	writer	\N
-tt5835110	8	nm1303197	writer	story editor	\N
-tt5835110	9	nm0490094	composer	\N	\N
+tt5835110	5	nm1250331	writer	writer	\N
+tt5835110	6	nm0305844	writer	writer	\N
+tt5835110	7	nm1303197	writer	story editor	\N
+tt5835110	8	nm0490094	composer	\N	\N
+tt5835110	9	nm0642601	actress	\N	["Princess Kiki"]
 tt5835112	10	nm7561170	producer	producer	\N
 tt5835112	1	nm8242495	actor	\N	["Shihan Mendez"]
 tt5835112	2	nm2428826	actress	\N	["Khari"]

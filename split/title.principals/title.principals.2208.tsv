@@ -9395,7 +9395,7 @@ tt22084698	3	nm11423371	self	\N	["Self"]
 tt22084698	4	nm13211681	self	\N	["Self"]
 tt22084698	5	nm6013732	self	\N	["Self"]
 tt22084698	6	nm13497724	self	\N	["Self"]
-tt22084698	7	nm2626926	self	\N	["Self - Cultuurhistoricus"]
+tt22084698	7	nm2626926	self	\N	["Self"]
 tt22084700	1	nm13822522	actress	\N	["Vasiliki Christodoulou Pantazi Chalepa","Farmakopios 1","Liza"]
 tt22084700	2	nm13822521	actor	\N	["Farmakopios 2","Nekrothaftis"]
 tt22084700	3	nm13822525	actor	\N	["Andreas Kyriakopoulos"]
@@ -9894,6 +9894,7 @@ tt22085300	1	nm8194718	actor	\N	\N
 tt22085300	2	nm4049432	actress	\N	\N
 tt22085300	3	nm1975355	director	\N	\N
 tt22085300	4	nm1971716	director	\N	\N
+tt22085300	5	nm2768334	cinematographer	director of photography	\N
 tt22085302	1	nm2946831	writer	\N	\N
 tt22085304	1	nm0428109	director	\N	\N
 tt22085306	10	nm8331640	actor	\N	["Amparo"]
@@ -11792,16 +11793,16 @@ tt22086822	6	nm9436004	writer	co-head writer	\N
 tt22086822	7	nm2291773	writer	co-head writer	\N
 tt22086822	8	nm0325029	writer	breakdown writer	\N
 tt22086822	9	nm0750422	writer	script writer	\N
-tt22086824	10	nm0377321	actress	\N	["Diane Miller"]
+tt22086824	10	nm1014187	writer	script writer	\N
 tt22086824	1	nm1943692	actress	\N	["Kristina Corinthos-Davis"]
 tt22086824	2	nm0001939	actor	\N	["Sonny Corinthos"]
 tt22086824	3	nm12560173	actor	\N	["Spencer Cassadine"]
 tt22086824	4	nm1324844	actor	\N	["Nikolas Cassadine"]
-tt22086824	5	nm0403568	writer	created by	\N
-tt22086824	6	nm0403569	writer	created by	\N
-tt22086824	7	nm2893883	producer	producer	\N
-tt22086824	8	nm0290163	actress	\N	["Laura Collins"]
-tt22086824	9	nm0334398	actress	\N	["Alexis Davis"]
+tt22086824	5	nm2923812	director	\N	\N
+tt22086824	6	nm2291773	writer	co-head writer	\N
+tt22086824	7	nm9436004	writer	co-head writer	\N
+tt22086824	8	nm12801819	writer	breakdown writer	\N
+tt22086824	9	nm1049067	writer	script writer	\N
 tt22086826	10	nm10518862	composer	\N	\N
 tt22086826	1	nm0898062	actress	\N	["Lyneth Santos"]
 tt22086826	2	nm4566140	actor	\N	["Dr. Robert Jose Tanyag"]
@@ -11812,20 +11813,27 @@ tt22086826	6	nm7731420	director	\N	\N
 tt22086826	7	nm3716161	writer	created by	\N
 tt22086826	8	nm4486392	writer	writer	\N
 tt22086826	9	nm7976248	writer	writer	\N
-tt22086828	10	nm1648177	actress	\N	["Jordan Ashford"]
+tt22086828	10	nm0403568	writer	created by	\N
 tt22086828	1	nm7178188	actress	\N	["Trina Robinson"]
-tt22086828	2	nm0001939	actor	\N	["Sonny Corinthos"]
-tt22086828	3	nm4553019	actress	\N	["Lawyer"]
-tt22086828	4	nm3212798	actor	\N	["Michael Corinthos"]
-tt22086828	5	nm0403568	writer	created by	\N
-tt22086828	6	nm0403569	writer	created by	\N
-tt22086828	7	nm2893883	producer	producer	\N
-tt22086828	8	nm0248913	actress	\N	["Epiphany Johnson"]
-tt22086828	9	nm0331666	actor	\N	["Marshall Ashford"]
+tt22086828	2	nm2770964	actor	\N	["TJ Ashford"]
+tt22086828	3	nm0001939	actor	\N	["Sonny Corinthos"]
+tt22086828	4	nm4553019	actress	\N	["Roz Venta"]
+tt22086828	5	nm10365450	director	\N	\N
+tt22086828	6	nm9436004	writer	co-head writer	\N
+tt22086828	7	nm2291773	writer	co-head writer	\N
+tt22086828	8	nm3601736	writer	script writer	\N
+tt22086828	9	nm1014187	writer	script writer	\N
 tt22086830	1	nm11254599	self	\N	["Self - Presenter"]
-tt22086832	1	nm0403568	writer	created by	\N
-tt22086832	2	nm0403569	writer	created by	\N
-tt22086832	3	nm2893883	producer	producer	\N
+tt22086832	10	nm0558950	actor	\N	["Drew Cain"]
+tt22086832	1	nm1648177	actress	\N	["Jordan Ashford"]
+tt22086832	2	nm0380665	actress	\N	["Lucy Coe"]
+tt22086832	3	nm0001370	actress	\N	["Anna Devane","Alex Marick"]
+tt22086832	4	nm0461021	actor	\N	["Martin Grey"]
+tt22086832	5	nm0403568	writer	created by	\N
+tt22086832	6	nm0403569	writer	created by	\N
+tt22086832	7	nm2893883	producer	producer	\N
+tt22086832	8	nm0475986	actor	\N	["Ned Quartermaine"]
+tt22086832	9	nm0516225	actress	\N	["Olivia Quartermaine"]
 tt22086834	1	nm11823016	actor	\N	["Orderly"]
 tt22086834	2	nm12560173	actor	\N	["Spencer Cassadine"]
 tt22086834	3	nm0403568	writer	created by	\N

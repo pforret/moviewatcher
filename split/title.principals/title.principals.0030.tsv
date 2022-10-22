@@ -4174,10 +4174,10 @@ tt0300649	2	nm1075794	actress	\N	["Girty"]
 tt0300649	3	nm1139374	actress	\N	["Di Di"]
 tt0300649	4	nm1139450	actress	\N	["Maisy Dae"]
 tt0300649	5	nm1077750	director	\N	\N
-tt0300649	6	nm0425499	actress	\N	["Gloria"]
-tt0300649	7	nm1139516	actress	\N	["Sherrie"]
-tt0300649	8	nm1139214	actor	\N	["Ralff"]
-tt0300649	9	nm0385089	actor	\N	["George"]
+tt0300649	6	nm0385089	producer	producer	\N
+tt0300649	7	nm0425499	actress	\N	["Gloria"]
+tt0300649	8	nm1139516	actress	\N	["Sherrie"]
+tt0300649	9	nm1139214	actor	\N	["Ralff"]
 tt0300650	10	nm0779540	actress	\N	["Mrs. Shand"]
 tt0300650	1	nm0090050	actor	\N	["Guy"]
 tt0300650	2	nm0335349	actress	\N	["Monique"]
@@ -23655,10 +23655,10 @@ tt0303556	2	nm0945487	actor	\N	["Hidesada Hayashi"]
 tt0303556	3	nm2867723	actor	\N	["Sakuma"]
 tt0303556	4	nm1665895	actress	\N	["Xiao"]
 tt0303556	5	nm3640321	actor	\N	["Yasuharu Wakisaka"]
-tt0303556	6	nm0438960	actor	\N	["Toshiie Maeda"]
-tt0303556	7	nm0559652	actress	\N	["Matsu"]
+tt0303556	6	nm0559652	actress	\N	["Matsu"]
+tt0303556	7	nm0757015	actress	\N	["One"]
 tt0303556	8	nm0815043	actor	\N	["Nobunaga Oda"]
-tt0303556	9	nm0757015	actress	\N	["One"]
+tt0303556	9	nm0023858	actress	\N	["Haru"]
 tt0303557	1	nm1094068	actor	\N	["Phileas Fogg"]
 tt0303557	2	nm0166376	actor	\N	\N
 tt0303557	3	nm3060054	actress	\N	\N
@@ -25785,10 +25785,10 @@ tt0303853	2	nm0191906	actor	\N	["Dr. Spike Rabbit","Announcer"]
 tt0303853	3	nm10563178	actor	\N	\N
 tt0303853	4	nm0547045	actress	\N	["Wilshire Pig"]
 tt0303853	5	nm0348993	director	\N	\N
-tt0303853	6	nm0899139	director	\N	\N
-tt0303853	7	nm0115421	writer	screenplay	\N
-tt0303853	8	nm0392859	writer	screenplay	\N
-tt0303853	9	nm0003506	writer	story	\N
+tt0303853	6	nm0115421	writer	screenplay	\N
+tt0303853	7	nm0392859	writer	screenplay	\N
+tt0303853	8	nm0003506	writer	story	\N
+tt0303853	9	nm0899139	writer	story	\N
 tt0303854	1	nm1054485	actress	\N	["Zora Oswald"]
 tt0303854	2	nm1101430	actor	\N	["Adam"]
 tt0303854	3	nm0707738	actress	\N	["The Pilot"]
@@ -34482,8 +34482,8 @@ tt0305094	7	nm0849028	actress	\N	["Much"]
 tt0305094	8	nm0644524	actor	\N	["Friar Tuck"]
 tt0305094	9	nm0247929	actor	\N	["Alwyn"]
 tt0305095	10	nm0122016	actress	\N	["Marianne Grasegger","Edith Kranzberg"]
-tt0305095	1	nm0121218	actress	\N	["Miriam Stockl"]
-tt0305095	2	nm0618250	actor	\N	["Michael 'Michi' Mohr","Michael Mohr","Polizeikommissar Michael Mohr"]
+tt0305095	1	nm0618250	actor	\N	["Michael 'Michi' Mohr","Michael Mohr","Polizeikommissar Michael Mohr"]
+tt0305095	2	nm0121218	actress	\N	["Miriam Stockl"]
 tt0305095	3	nm0856935	actress	\N	["Marie Hofer"]
 tt0305095	4	nm0240003	actor	\N	["Gert Achtziger","Wolfgang Hartl"]
 tt0305095	5	nm0769693	actor	\N	["Jo Caspar","Wirt Jo Caspar"]
@@ -51541,9 +51541,9 @@ tt0307623	8	nm1117525	writer	writer	\N
 tt0307623	9	nm1118811	writer	writer	\N
 tt0307624	10	nm0747668	production_designer	\N	\N
 tt0307624	1	nm0470392	actress	\N	["Antonina"]
-tt0307624	2	nm0620471	actor	\N	\N
-tt0307624	3	nm0750749	actor	\N	["Serafim"]
-tt0307624	4	nm0756956	actress	\N	\N
+tt0307624	2	nm0620471	actor	\N	["Anton Klyamin"]
+tt0307624	3	nm0750749	actor	\N	["Serafim Kupriyatnovich"]
+tt0307624	4	nm0756956	actress	\N	["Lera"]
 tt0307624	5	nm0270217	director	\N	\N
 tt0307624	6	nm0795483	writer	novel	\N
 tt0307624	7	nm0438004	composer	\N	\N

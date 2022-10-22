@@ -36621,7 +36621,7 @@ tt0694544	6	nm0771680	director	film segment director	\N
 tt0694544	7	nm0101337	writer	writer	\N
 tt0694544	8	nm0112944	writer	writer	\N
 tt0694544	9	nm0199948	writer	writer	\N
-tt0694545	10	nm0235999	writer	head writer	\N
+tt0694545	10	nm0235999	writer	written by	\N
 tt0694545	1	nm0001022	actor	\N	["Various","George H.W. Bush","Garth Algar"]
 tt0694545	2	nm0004887	actress	\N	["Various","Mrs. Campbell","Imelda Marcos"]
 tt0694545	3	nm0367005	actor	\N	["Various","Phil Donahue","Johnny O'Conner"]
@@ -36771,36 +36771,36 @@ tt0694559	6	nm0771680	director	\N	\N
 tt0694559	7	nm0112944	writer	written by	\N
 tt0694559	8	nm0199948	writer	written by	\N
 tt0694559	9	nm0205569	writer	written by	\N
-tt0694560	10	nm0291253	writer	creative consultant	\N
+tt0694560	10	nm0291253	writer	written by	\N
 tt0694560	1	nm0001022	actor	\N	["Various"]
 tt0694560	2	nm0004887	actress	\N	["Various"]
 tt0694560	3	nm0367005	actor	\N	["Various"]
 tt0694560	4	nm0393660	actress	\N	["Various"]
 tt0694560	5	nm0933259	director	\N	\N
-tt0694560	6	nm0112944	writer	writer	\N
-tt0694560	7	nm0199948	writer	writer	\N
-tt0694560	8	nm0205569	writer	writer	\N
-tt0694560	9	nm0235999	writer	head writer	\N
-tt0694561	10	nm0291253	writer	writer	\N
+tt0694560	6	nm0112944	writer	written by	\N
+tt0694560	7	nm0199948	writer	written by	\N
+tt0694560	8	nm0205569	writer	written by	\N
+tt0694560	9	nm0235999	writer	written by	\N
+tt0694561	10	nm0291253	writer	written by	\N
 tt0694561	1	nm0001022	actor	\N	["Hans","Singing Cowboy"]
 tt0694561	2	nm0004887	actress	\N	["Clerk","Linda Dano"]
 tt0694561	3	nm0367005	actor	\N	["Jack Nicholson","Singing Cowboy","Frankenstein's Monster"]
 tt0694561	4	nm0393660	actress	\N	["Dee Kelly"]
 tt0694561	5	nm0933259	director	\N	\N
-tt0694561	6	nm0112944	writer	writer	\N
-tt0694561	7	nm0199948	writer	writer	\N
-tt0694561	8	nm0205569	writer	writer	\N
-tt0694561	9	nm0235999	writer	writer	\N
-tt0694562	10	nm0291253	writer	creative consultant	\N
+tt0694561	6	nm0112944	writer	written by	\N
+tt0694561	7	nm0199948	writer	written by	\N
+tt0694561	8	nm0205569	writer	written by	\N
+tt0694561	9	nm0235999	writer	written by	\N
+tt0694562	10	nm0291253	writer	written by	\N
 tt0694562	1	nm0001022	actor	\N	["Various","George Bailey","Garth Algar"]
 tt0694562	2	nm0004887	actress	\N	["Various"]
 tt0694562	3	nm0367005	actor	\N	["Various","The Anal Retentive Chef","Mike Ditka"]
 tt0694562	4	nm0393660	actress	\N	["Various","Carazpm Aqiomp"]
 tt0694562	5	nm0933259	director	\N	\N
-tt0694562	6	nm0112944	writer	writer	\N
-tt0694562	7	nm0199948	writer	writer	\N
-tt0694562	8	nm0205569	writer	writer	\N
-tt0694562	9	nm0235999	writer	head writer	\N
+tt0694562	6	nm0112944	writer	written by	\N
+tt0694562	7	nm0199948	writer	written by	\N
+tt0694562	8	nm0205569	writer	written by	\N
+tt0694562	9	nm0235999	writer	written by	\N
 tt0694563	10	nm0291253	writer	creative consultant	\N
 tt0694563	1	nm0001022	actor	\N	["Various"]
 tt0694563	2	nm0004887	actress	\N	["Various"]
@@ -49686,10 +49686,16 @@ tt0696017	6	nm0766665	writer	teleplay	\N
 tt0696017	7	nm2396829	writer	original story	\N
 tt0696017	8	nm0742212	producer	producer	\N
 tt0696017	9	nm0198535	cinematographer	\N	\N
+tt0696018	10	nm0543290	actor	\N	\N
 tt0696018	1	nm0047810	actress	\N	\N
 tt0696018	2	nm0083299	actor	\N	["Undetermined Role"]
-tt0696018	3	nm0358899	actor	\N	\N
-tt0696018	4	nm0249805	writer	supervising writer:  	\N
+tt0696018	3	nm0104243	actor	\N	\N
+tt0696018	4	nm0129478	actor	\N	\N
+tt0696018	5	nm0249805	writer	supervising writer:  	\N
+tt0696018	6	nm0293418	actor	\N	\N
+tt0696018	7	nm0318944	actress	\N	\N
+tt0696018	8	nm0358899	actor	\N	\N
+tt0696018	9	nm0441230	actor	\N	\N
 tt0696019	10	nm0325074	editor	\N	\N
 tt0696019	1	nm0193338	actor	\N	\N
 tt0696019	2	nm0460838	actress	\N	\N

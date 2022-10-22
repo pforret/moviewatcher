@@ -15749,11 +15749,13 @@ tt0152440	5	nm0458783	director	animation director	\N
 tt0152440	6	nm0583049	writer	story	\N
 tt0152440	7	nm0789301	composer	\N	\N
 tt0152441	1	nm0000305	actor	\N	["Walrus Teacher","Polar Bear","Eskimo"]
-tt0152441	2	nm0459643	director	\N	\N
-tt0152441	3	nm0572876	writer	\N	\N
-tt0152441	4	nm1319579	writer	\N	\N
-tt0152441	5	nm0487237	producer	producer	\N
-tt0152441	6	nm0161430	composer	\N	\N
+tt0152441	2	nm0360684	actress	\N	["Seal"]
+tt0152441	3	nm0916075	actor	\N	["Walrus Teacher"]
+tt0152441	4	nm0459643	director	\N	\N
+tt0152441	5	nm0572876	writer	\N	\N
+tt0152441	6	nm1319579	writer	\N	\N
+tt0152441	7	nm0487237	producer	producer	\N
+tt0152441	8	nm0161430	composer	\N	\N
 tt0152442	1	nm0000305	actor	\N	["Lil' Eightball","Eightball's Mother","Policeman"]
 tt0152442	2	nm0319013	director	\N	\N
 tt0152442	3	nm0487237	writer	story	\N
@@ -32427,9 +32429,9 @@ tt0155097	8	nm1060003	composer	\N	\N
 tt0155097	9	nm0653068	cinematographer	\N	\N
 tt0155098	1	nm13499379	actress	\N	\N
 tt0155098	2	nm0178292	actress	\N	\N
-tt0155098	3	nm1549374	actress	\N	\N
+tt0155098	3	nm1431081	actress	\N	\N
 tt0155098	4	nm0787574	actor	\N	\N
-tt0155098	5	nm1431081	actress	\N	\N
+tt0155098	5	nm1549374	director	\N	\N
 tt0155100	1	nm0237713	actor	\N	\N
 tt0155100	2	nm0237693	actress	\N	\N
 tt0155100	3	nm0107838	writer	titles	\N
@@ -63907,9 +63909,10 @@ tt0159795	7	nm1122958	writer	story	\N
 tt0159795	8	nm1228214	actress	\N	\N
 tt0159795	9	nm0654716	actor	\N	["Yuki"]
 tt0159796	1	nm0556658	actor	\N	["The Skipper"]
-tt0159796	2	nm0523326	director	\N	\N
-tt0159796	3	nm0288988	writer	comic strip	\N
-tt0159796	4	nm0817809	writer	titles	\N
+tt0159796	2	nm0928389	actress	\N	["Powerful Katrinka"]
+tt0159796	3	nm0523326	director	\N	\N
+tt0159796	4	nm0288988	writer	comic strip	\N
+tt0159796	5	nm0817809	writer	titles	\N
 tt0159797	10	nm0473026	composer	\N	\N
 tt0159797	1	nm0090720	actor	\N	["Jan Bathgate"]
 tt0159797	2	nm0043794	actress	\N	["Pat aka Saris"]

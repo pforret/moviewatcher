@@ -6935,12 +6935,12 @@ tt14362614	10	nm1132515	self	\N	["Self"]
 tt14362614	1	nm4003791	self	\N	["Self - Host","Self"]
 tt14362614	2	nm2560365	self	\N	["Self - Host","Self"]
 tt14362614	3	nm0641944	self	\N	["Self"]
-tt14362614	4	nm2213540	self	\N	["Self"]
+tt14362614	4	nm2562621	self	\N	["Self"]
 tt14362614	5	nm9808643	writer	created by	\N
 tt14362614	6	nm0916357	self	\N	["Self"]
-tt14362614	7	nm0307812	self	\N	["Self"]
-tt14362614	8	nm2562621	self	\N	["Self"]
-tt14362614	9	nm2967426	self	\N	["Self"]
+tt14362614	7	nm2213540	self	\N	["Self"]
+tt14362614	8	nm2967426	self	\N	["Self"]
+tt14362614	9	nm0307812	self	\N	["Self"]
 tt14362616	1	nm11505040	self	\N	["Self"]
 tt14362616	2	nm1654304	director	\N	\N
 tt14362620	1	nm3801230	actor	\N	["Jessy"]
@@ -12536,10 +12536,12 @@ tt14365466	8	nm0591089	actress	\N	["Nala"]
 tt14365466	9	nm3717378	actress	\N	["Ellie"]
 tt14365468	1	nm12453142	actor	\N	\N
 tt14365468	2	nm9059860	director	\N	\N
-tt14365470	1	nm2101162	editor	\N	\N
+tt14365470	1	nm1893776	self	\N	["Self"]
+tt14365470	2	nm2101162	editor	\N	\N
 tt14365472	1	nm0248012	self	\N	["Self - Host"]
 tt14365472	2	nm4194244	self	\N	["Self"]
-tt14365476	1	nm2101162	editor	\N	\N
+tt14365476	1	nm1893776	self	\N	["Self"]
+tt14365476	2	nm2101162	editor	\N	\N
 tt14365478	10	nm12441768	self	\N	["Self - Commentator"]
 tt14365478	1	nm1125408	self	\N	["Self - Commentator","Analysis"]
 tt14365478	2	nm2617621	self	\N	["Self - Presenter","Commentator"]
@@ -22577,11 +22579,11 @@ tt14368814	8	nm0470130	actor	\N	\N
 tt14368814	9	nm0471084	actress	\N	\N
 tt14368816	1	nm6490725	actor	\N	["Can"]
 tt14368816	2	nm10732773	actress	\N	["Nese"]
-tt14368816	3	nm10882368	actress	\N	["Kali"]
-tt14368816	4	nm9898001	actress	\N	["Asli"]
-tt14368816	5	nm10882366	actor	\N	["Akin"]
+tt14368816	3	nm9898001	actress	\N	["Asli"]
+tt14368816	4	nm10882368	actress	\N	["Kali"]
+tt14368816	5	nm10882367	actor	\N	["Bora"]
 tt14368816	6	nm8876332	actor	\N	["Kara Kraliçe"]
-tt14368816	7	nm10882367	actor	\N	["Bora"]
+tt14368816	7	nm10882366	actor	\N	["Akin"]
 tt14368818	1	nm0710830	self	\N	["Self - Host"]
 tt14368818	2	nm1909516	self	\N	["Self"]
 tt14368818	3	nm0140643	self	\N	["Self"]
@@ -23490,6 +23492,7 @@ tt14369308	1	nm2715859	self	\N	["Self"]
 tt14369318	1	nm12454149	actor	\N	["Tejas"]
 tt14369318	2	nm9409101	director	\N	\N
 tt14369318	3	nm12454150	producer	producer	\N
+tt14369322	1	nm6981844	actress	\N	["Leah"]
 tt14369324	1	nm1118516	actor	\N	\N
 tt14369324	2	nm1796962	actor	\N	["Andy"]
 tt14369324	3	nm2670109	actor	\N	["Vinay Vanarveda"]

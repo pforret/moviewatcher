@@ -5206,16 +5206,6 @@ tt3912026	3	nm4487363	actor	\N	["Mike"]
 tt3912026	4	nm2133392	director	\N	\N
 tt3912026	5	nm0236202	writer	\N	\N
 tt3912026	6	nm0268195	composer	\N	\N
-tt3912028	10	nm1453161	actor	\N	["Willie"]
-tt3912028	1	nm0930707	actor	\N	["Dr. Newsome"]
-tt3912028	2	nm0516738	actress	\N	["ER Doctor Rhodes"]
-tt3912028	3	nm2266388	actress	\N	["Nurse April"]
-tt3912028	4	nm0741461	actor	\N	["Joel Graham"]
-tt3912028	5	nm2894205	writer	\N	\N
-tt3912028	6	nm4948755	writer	\N	\N
-tt3912028	7	nm6107063	composer	\N	\N
-tt3912028	8	nm1727310	actor	\N	["Detective Poole"]
-tt3912028	9	nm0557259	actor	\N	["Principal Riggs"]
 tt3912030	1	nm0005315	actor	\N	["Harry Selfridge"]
 tt3912030	2	nm0922335	actor	\N	["Frank Edwards"]
 tt3912030	3	nm0793708	actress	\N	["Miss Plunkett"]
@@ -13270,9 +13260,10 @@ tt3915280	6	nm1917316	producer	producer	\N
 tt3915280	7	nm0589811	cinematographer	\N	\N
 tt3915282	1	nm8543348	self	\N	["Self - Freedia Dancer"]
 tt3915282	2	nm4118447	self	\N	["Self"]
-tt3915282	3	nm1761346	self	\N	["Self"]
-tt3915282	4	nm0846556	cinematographer	\N	\N
-tt3915282	5	nm1502628	editor	\N	\N
+tt3915282	3	nm7165805	actor	\N	["Producer","Director","Choreographer"]
+tt3915282	4	nm1761346	self	\N	["Self"]
+tt3915282	5	nm0846556	cinematographer	\N	\N
+tt3915282	6	nm1502628	editor	\N	\N
 tt3915284	1	nm2792505	self	\N	["Self"]
 tt3915284	2	nm5081337	self	\N	["Self"]
 tt3915284	3	nm4571273	writer	story editor	\N

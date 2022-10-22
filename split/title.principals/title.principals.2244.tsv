@@ -375,15 +375,6 @@ tt22440400	3	nm9872474	actress	\N	["Chase Grey"]
 tt22440400	4	nm10333193	actor	\N	["Julian Hunter"]
 tt22440400	5	nm10333142	producer	producer	\N
 tt22440402	1	nm12622139	actress	\N	\N
-tt22440404	1	nm0016141	actor	\N	\N
-tt22440404	2	nm0083487	actress	\N	\N
-tt22440404	3	nm0304830	actor	\N	\N
-tt22440404	4	nm0448486	actress	\N	\N
-tt22440404	5	nm0502073	actor	\N	\N
-tt22440404	6	nm1018488	actress	\N	\N
-tt22440404	7	nm0621788	actress	\N	\N
-tt22440404	8	nm0731168	actor	\N	\N
-tt22440404	9	nm0946382	actor	\N	\N
 tt22440410	1	nm10658315	actress	\N	["Nichole (child)"]
 tt22440410	2	nm14095684	actor	\N	["Bill"]
 tt22440410	3	nm0373434	actress	\N	["Nichole (adult)"]
@@ -1092,12 +1083,11 @@ tt22441170	2	nm0053039	cinematographer	\N	\N
 tt22441170	3	nm0889974	cinematographer	\N	\N
 tt22441170	4	nm3954750	editor	\N	\N
 tt22441174	1	nm10264788	actor	\N	["Sawyer"]
-tt22441174	2	nm9921711	actor	\N	["Adam"]
-tt22441174	3	nm11261632	actress	\N	["Lydia"]
-tt22441174	4	nm5163172	actor	\N	["Richie"]
-tt22441174	5	nm7642045	cinematographer	\N	\N
-tt22441174	6	nm9921710	editor	\N	\N
-tt22441174	7	nm6789042	production_designer	\N	\N
+tt22441174	2	nm9921710	actress	\N	["Evie"]
+tt22441174	3	nm9921711	actor	\N	["Adam"]
+tt22441174	4	nm11261632	actress	\N	["Lydia"]
+tt22441174	5	nm11064993	cinematographer	\N	\N
+tt22441174	6	nm6789042	production_designer	\N	\N
 tt22441178	1	nm14096024	actor	\N	["Dhan"]
 tt22441178	2	nm14096025	actor	\N	["Sir","Coach"]
 tt22441178	3	nm14096026	actress	\N	["Mother"]
@@ -1334,6 +1324,26 @@ tt22441372	6	nm0718107	writer	idea	\N
 tt22441372	7	nm6568522	writer	head writer	\N
 tt22441372	8	nm3197228	writer	head writer	\N
 tt22441372	9	nm10407880	writer	writer	\N
+tt22441374	10	nm8839531	writer	writer	\N
+tt22441374	1	nm10238434	actress	\N	["Leyla Öztürk"]
+tt22441374	2	nm3127969	actor	\N	["Justus Albrecht"]
+tt22441374	3	nm0165163	actress	\N	["Simone Steinkamp"]
+tt22441374	4	nm1458396	actor	\N	["Deniz Öztürk"]
+tt22441374	5	nm9461684	director	\N	\N
+tt22441374	6	nm0718107	writer	idea	\N
+tt22441374	7	nm6568522	writer	head writer	\N
+tt22441374	8	nm3197228	writer	head writer	\N
+tt22441374	9	nm2080999	writer	writer	\N
+tt22441378	10	nm2890092	writer	writer	\N
+tt22441378	1	nm0036358	actress	\N	["Daniela Bremer"]
+tt22441378	2	nm1064793	actor	\N	["Henning Ziegler"]
+tt22441378	3	nm0165163	actress	\N	["Simone Steinkamp"]
+tt22441378	4	nm11134001	actor	\N	["Yannick Ziegler"]
+tt22441378	5	nm9461684	director	\N	\N
+tt22441378	6	nm0718107	writer	idea	\N
+tt22441378	7	nm6568522	writer	head writer	\N
+tt22441378	8	nm3197228	writer	head writer	\N
+tt22441378	9	nm2103526	writer	writer	\N
 tt22441380	1	nm2289608	director	\N	\N
 tt22441382	1	nm13511207	actress	\N	["Brooklyn leading role"]
 tt22441384	1	nm0169212	self	\N	["Self - Host"]
@@ -3554,6 +3564,7 @@ tt22443928	6	nm4712168	writer	original idea	\N
 tt22443928	7	nm9797403	producer	executive producer	\N
 tt22443928	8	nm1114881	composer	\N	\N
 tt22443928	9	nm13748828	composer	\N	\N
+tt22443930	1	nm2869371	cinematographer	\N	\N
 tt22443932	1	nm11889167	actor	\N	["Inky Joe"]
 tt22443932	2	nm13440289	actor	\N	["Jet"]
 tt22443932	3	nm13440306	actor	\N	["Sergio"]
@@ -4211,8 +4222,9 @@ tt22444734	2	nm14097381	actor	\N	\N
 tt22444734	3	nm14097382	producer	producer	\N
 tt22444736	1	nm7817746	actor	\N	["David"]
 tt22444738	1	nm8130739	actor	\N	["Russian Thug #2"]
-tt22444738	2	nm5502046	actor	\N	["Russian Thug"]
-tt22444738	3	nm3395420	actor	\N	["Grizzled Russian"]
+tt22444738	2	nm2904005	actor	\N	["Prisoner #1"]
+tt22444738	3	nm5502046	actor	\N	["Russian Thug"]
+tt22444738	4	nm3395420	actor	\N	["Grizzled Russian"]
 tt22444740	1	nm8130739	actor	\N	["Russian Thug #2"]
 tt22444740	2	nm7817746	actor	\N	["David"]
 tt22444740	3	nm5502046	actor	\N	["Russian Thug"]
@@ -4497,12 +4509,16 @@ tt22445014	7	nm5666465	editor	\N	\N
 tt22445014	8	nm5211467	editor	\N	\N
 tt22445016	1	nm14083409	self	\N	["Self"]
 tt22445016	2	nm14097500	director	\N	\N
-tt22445018	1	nm0252961	actor	\N	["Narrator"]
-tt22445018	2	nm14157330	self	\N	["Self"]
-tt22445018	3	nm6016538	self	\N	["Self"]
-tt22445018	4	nm3707302	director	series director	\N
-tt22445018	5	nm14100859	writer	creator	\N
-tt22445018	6	nm6609747	producer	producer	\N
+tt22445018	10	nm6609747	producer	producer	\N
+tt22445018	1	nm10120992	self	\N	["Self"]
+tt22445018	2	nm0252961	actor	\N	["Narrator"]
+tt22445018	3	nm14157330	self	\N	["Self"]
+tt22445018	4	nm6016538	self	\N	["Self"]
+tt22445018	5	nm5151254	director	\N	\N
+tt22445018	6	nm3707302	director	series director	\N
+tt22445018	7	nm3519336	writer	series writer	\N
+tt22445018	8	nm1783961	writer	series writer	\N
+tt22445018	9	nm14100859	writer	creator	\N
 tt22445026	1	nm2424151	director	co-director	\N
 tt22445034	1	nm3491868	director	\N	\N
 tt22445046	1	nm9729508	director	\N	\N
@@ -10095,10 +10111,10 @@ tt22447592	10	nm2125297	self	\N	["Self"]
 tt22447592	1	nm5989823	actress	\N	["Ester - Host"]
 tt22447592	2	nm6784386	self	\N	["Self"]
 tt22447592	3	nm7802258	self	\N	["Self"]
-tt22447592	4	nm1071554	self	\N	["Self"]
+tt22447592	4	nm2976490	self	\N	["Self"]
 tt22447592	5	nm14098019	writer	creator	\N
 tt22447592	6	nm14098020	writer	creator	\N
-tt22447592	7	nm2976490	self	\N	["Self"]
+tt22447592	7	nm1071554	self	\N	["Self"]
 tt22447592	8	nm1693112	self	\N	["Self"]
 tt22447592	9	nm2084435	self	\N	["Self"]
 tt22447610	10	nm7144307	composer	\N	\N

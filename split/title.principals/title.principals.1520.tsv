@@ -5334,16 +5334,16 @@ tt15201940	6	nm12699597	writer	screenwriter	\N
 tt15201940	7	nm12699598	writer	screenwriter	\N
 tt15201940	8	nm12699594	actor	\N	["Cha Eun Seong"]
 tt15201940	9	nm12699595	actress	\N	["Ji Hye Min"]
-tt15201944	10	nm0467177	actress	\N	["Bea Finley-Cullen"]
+tt15201944	10	nm2766221	actor	\N	["Terry Gallagher"]
 tt15201944	1	nm0278304	actress	\N	["Lidia Bennett"]
-tt15201944	2	nm2107127	actress	\N	["Rhian Gallagher"]
+tt15201944	2	nm2107127	actress	\N	["Rhian Gallagher","Rhian Finley-Cullen"]
 tt15201944	3	nm3408189	actress	\N	["Nora Finley-Cullen"]
 tt15201944	4	nm3335453	actor	\N	["Ryan Finley-Cullen"]
 tt15201944	5	nm0255910	writer	created by	\N
 tt15201944	6	nm6729659	actor	\N	["Sammy Finley-Cullen"]
 tt15201944	7	nm3520615	actress	\N	["Crystal Leblanc"]
-tt15201944	8	nm3127378	actor	\N	["Colin Alpert","Oscar Wallace"]
-tt15201944	9	nm9706145	actress	\N	["Eleanor Bennett"]
+tt15201944	8	nm3127378	actor	\N	["Colin Alpert","Oscar Wallace","Oscar Finley-Cullen"]
+tt15201944	9	nm0534132	actor	\N	["Ken Finley-Cullen"]
 tt15201948	1	nm6588737	actress	\N	["Oh Ha Rin"]
 tt15201948	2	nm9257623	actor	\N	["Ji Seo Jun"]
 tt15201948	3	nm12699596	actress	\N	["Do Soo Jin"]
@@ -23240,7 +23240,6 @@ tt15209742	1	nm12380168	actor	\N	["Failboat"]
 tt15209742	2	nm5222324	actor	\N	["Pink Sheep"]
 tt15209742	3	nm12380167	actor	\N	["ExplodingTNT"]
 tt15209742	4	nm9195686	actor	\N	["Purple Shep"]
-tt15209742	5	nm5930723	composer	\N	\N
 tt15209744	10	nm0899166	cinematographer	\N	\N
 tt15209744	1	nm12835867	self	\N	["Self"]
 tt15209744	2	nm12835866	self	\N	["Self"]
@@ -23286,16 +23285,16 @@ tt15209764	4	nm12835934	actress	\N	["Night Angel"]
 tt15209764	5	nm2609124	director	\N	\N
 tt15209764	6	nm11588949	composer	\N	\N
 tt15209766	1	nm7698660	actress	\N	\N
-tt15209782	10	nm12791828	actor	\N	["Old Racer","Purple Shep"]
+tt15209782	10	nm12813036	actor	\N	["Old Racer","80 Year Old Man"]
 tt15209782	1	nm12790081	actor	\N	["Old Racer"]
 tt15209782	2	nm12549901	actor	\N	["Old Man"]
 tt15209782	3	nm12829713	actor	\N	["Timer"]
 tt15209782	4	nm12812635	actress	\N	["Notch"]
 tt15209782	5	nm12380167	director	\N	\N
-tt15209782	6	nm5930723	composer	\N	\N
-tt15209782	7	nm12806321	actor	\N	["Failboat"]
-tt15209782	8	nm12829794	actor	\N	["Old Creeper"]
-tt15209782	9	nm12827344	actor	\N	["ExplodingTNT"]
+tt15209782	6	nm12806321	actor	\N	["Failboat"]
+tt15209782	7	nm12829794	actor	\N	["Old Creeper"]
+tt15209782	8	nm12827344	actor	\N	["ExplodingTNT"]
+tt15209782	9	nm12791828	actor	\N	["Old Racer","Purple Shep"]
 tt15209786	1	nm0035788	self	\N	["Self - Actress"]
 tt15209786	2	nm0275913	self	\N	["Self - Actor"]
 tt15209786	3	nm0322591	self	\N	["Self - Actress"]
@@ -23321,7 +23320,9 @@ tt15209828	3	nm12835791	actor	\N	["Failboat","Logan Paul"]
 tt15209828	4	nm12835910	actress	\N	["Pig Lady"]
 tt15209828	5	nm12380167	director	\N	\N
 tt15209828	6	nm12835909	writer	idea	\N
-tt15209828	7	nm5930723	composer	\N	\N
+tt15209828	7	nm12828737	actor	\N	["YouTube"]
+tt15209828	8	nm12835911	actor	\N	["Pink Guy"]
+tt15209828	9	nm12813036	actor	\N	["ExplodingTNT"]
 tt15209834	1	nm13235799	self	\N	["Themselves"]
 tt15209834	2	nm13194758	self	\N	["Themselves"]
 tt15209840	10	nm9225282	archive_footage	\N	["Vampira","Vampire Girl"]
@@ -23344,7 +23345,6 @@ tt15209854	1	nm4117985	composer	\N	\N
 tt15209856	1	nm12380169	actress	\N	["ItsLiz"]
 tt15209856	2	nm12380168	actor	\N	["Failboat"]
 tt15209856	3	nm12380167	director	\N	\N
-tt15209856	4	nm5930723	composer	\N	\N
 tt15209858	1	nm4117985	composer	\N	\N
 tt15209860	1	nm4117985	composer	\N	\N
 tt15209862	1	nm4117985	composer	\N	\N
@@ -23471,13 +23471,16 @@ tt15209932	1	nm4117985	composer	\N	\N
 tt15209934	1	nm4117985	composer	\N	\N
 tt15209936	1	nm4117985	composer	\N	\N
 tt15209938	1	nm4117985	composer	\N	\N
+tt15209940	10	nm12835952	actor	\N	["Failboat","Google Steve"]
 tt15209940	1	nm12835794	actress	\N	["Catnipkitty","Google Steve"]
 tt15209940	2	nm12549901	actor	\N	["Creeper321448","Google AI"]
 tt15209940	3	nm12835792	actor	\N	["Super Noob","Google Steve","Player on Minecart"]
 tt15209940	4	nm12835791	actor	\N	["Google"]
 tt15209940	5	nm12380167	director	\N	\N
 tt15209940	6	nm12835909	writer	idea	\N
-tt15209940	7	nm5930723	composer	\N	\N
+tt15209940	7	nm12825579	actor	\N	["Bill Gates","Facebook Steve"]
+tt15209940	8	nm12829794	actor	\N	["Notch","Google Steve","Player on Minecart"]
+tt15209940	9	nm12835951	actor	\N	["ExplodingTNT","Google Steve"]
 tt15209942	1	nm13210752	self	\N	["Themselves"]
 tt15209942	2	nm13194750	self	\N	["Themselves"]
 tt15209944	10	nm2051803	cinematographer	\N	\N
@@ -23587,13 +23590,16 @@ tt15209974	6	nm1180214	self	\N	["Self"]
 tt15209974	7	nm10076486	self	\N	["Self"]
 tt15209974	8	nm2423830	self	\N	["Self"]
 tt15209974	9	nm13194677	self	\N	["Self"]
+tt15209976	10	nm12791493	actor	\N	["Bowser"]
 tt15209976	1	nm12829763	actor	\N	["Enderman"]
 tt15209976	2	nm12549901	actor	\N	["Creeper321448"]
 tt15209976	3	nm12820387	actor	\N	["Charizard"]
 tt15209976	4	nm12828737	actor	\N	["Kirby"]
 tt15209976	5	nm12380167	director	\N	\N
 tt15209976	6	nm12835960	writer	idea	\N
-tt15209976	7	nm5930723	composer	\N	\N
+tt15209976	7	nm12806321	actor	\N	["Luigi"]
+tt15209976	8	nm12835961	actor	\N	["Newbie Player"]
+tt15209976	9	nm12829794	actor	\N	["Notch"]
 tt15209980	1	nm3199188	actress	\N	["Piper"]
 tt15209980	2	nm7562805	actress	\N	["Sabrina"]
 tt15209980	3	nm12219102	actress	\N	["Tamara"]

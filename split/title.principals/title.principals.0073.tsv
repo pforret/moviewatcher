@@ -10117,16 +10117,16 @@ tt0731109	6	nm0246016	producer	producer	\N
 tt0731109	7	nm0940578	production_designer	\N	\N
 tt0731109	8	nm1438403	self	\N	["Self"]
 tt0731109	9	nm0002956	self	\N	["Self"]
-tt0731110	10	nm0310896	self	\N	["Self"]
+tt0731110	10	nm1438403	archive_footage	\N	["Self"]
 tt0731110	1	nm0291492	self	\N	["Self - Presenter"]
 tt0731110	2	nm0040137	self	\N	["Self"]
 tt0731110	3	nm0055239	archive_footage	\N	["Self"]
 tt0731110	4	nm0113848	self	\N	["Self"]
-tt0731110	5	nm0132189	self	\N	["Self"]
-tt0731110	6	nm0132818	self	\N	["Self"]
-tt0731110	7	nm4421625	self	\N	["Themselves"]
-tt0731110	8	nm1438403	archive_footage	\N	["Self"]
-tt0731110	9	nm0266001	self	\N	["Self"]
+tt0731110	5	nm0032222	director	\N	\N
+tt0731110	6	nm0940578	production_designer	\N	\N
+tt0731110	7	nm0132189	self	\N	["Self"]
+tt0731110	8	nm0132818	self	\N	["Self"]
+tt0731110	9	nm4421625	self	\N	["Themselves"]
 tt0731111	10	nm0006198	archive_footage	\N	["Self"]
 tt0731111	1	nm0234221	self	\N	["Self - Presenter"]
 tt0731111	2	nm0031896	self	\N	["Self"]
@@ -38180,7 +38180,7 @@ tt0734583	6	nm0425138	writer	written by	\N
 tt0734583	7	nm0785245	writer	created by	\N
 tt0734583	8	nm0567613	writer	story consultant	\N
 tt0734583	9	nm0396443	producer	producer	\N
-tt0734584	10	nm0608657	editor	\N	\N
+tt0734584	10	nm0608657	editor	film editor	\N
 tt0734584	1	nm0191950	actor	\N	["Capt. James Embry"]
 tt0734584	2	nm0529056	actor	\N	["Psychiatrist"]
 tt0734584	3	nm0483279	actor	\N	["Doctor"]
@@ -47099,7 +47099,7 @@ tt0735741	2	nm0270206	actor	\N	["Vasiliy Rogov"]
 tt0735741	3	nm0045388	actor	\N	["Volodya"]
 tt0735741	4	nm0467059	actor	\N	["Maks Verigin"]
 tt0735741	5	nm0476544	actor	\N	\N
-tt0735741	6	nm0586485	actress	\N	\N
+tt0735741	6	nm0586485	actress	\N	["Dasha"]
 tt0735741	7	nm0691717	actor	\N	\N
 tt0735741	8	nm1253263	actor	\N	\N
 tt0735741	9	nm0836273	actor	\N	\N
@@ -47109,7 +47109,7 @@ tt0735742	2	nm0270206	actor	\N	\N
 tt0735742	3	nm0450975	actor	\N	\N
 tt0735742	4	nm0467059	actor	\N	["Maks Verigin"]
 tt0735742	5	nm0476544	actor	\N	\N
-tt0735742	6	nm0586485	actress	\N	\N
+tt0735742	6	nm0586485	actress	\N	["Dasha"]
 tt0735742	7	nm0691717	actor	\N	\N
 tt0735742	8	nm1253263	actor	\N	\N
 tt0735742	9	nm0836273	actor	\N	\N
@@ -47118,7 +47118,7 @@ tt0735743	1	nm0045388	actor	\N	["Volodya"]
 tt0735743	2	nm0270206	actor	\N	\N
 tt0735743	3	nm0450975	actor	\N	\N
 tt0735743	4	nm0476544	actor	\N	\N
-tt0735743	5	nm0586485	actress	\N	\N
+tt0735743	5	nm0586485	actress	\N	["Dasha"]
 tt0735743	6	nm0691717	actor	\N	\N
 tt0735743	7	nm1253263	actor	\N	\N
 tt0735743	8	nm0836273	actor	\N	\N

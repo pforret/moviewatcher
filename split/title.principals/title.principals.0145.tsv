@@ -33324,10 +33324,16 @@ tt1455310	6	nm1723789	writer	writer	\N
 tt1455310	7	nm3162442	writer	writer	\N
 tt1455310	8	nm0291228	writer	writer	\N
 tt1455310	9	nm1228703	writer	writer	\N
-tt1455311	1	nm1175371	cinematographer	\N	\N
-tt1455311	2	nm1089254	editor	\N	\N
-tt1455312	1	nm1175371	cinematographer	\N	\N
-tt1455316	1	nm1175371	cinematographer	\N	\N
+tt1455311	1	nm1893776	self	\N	["Self"]
+tt1455311	2	nm1175371	cinematographer	\N	\N
+tt1455311	3	nm1089254	editor	\N	\N
+tt1455312	1	nm1893776	self	\N	["Self"]
+tt1455312	2	nm1175371	cinematographer	\N	\N
+tt1455313	1	nm1893776	self	\N	["Self"]
+tt1455314	1	nm1893776	self	\N	["Self"]
+tt1455315	1	nm1893776	self	\N	["Self"]
+tt1455316	1	nm1893776	self	\N	["Self"]
+tt1455316	2	nm1175371	cinematographer	\N	\N
 tt1455317	1	nm1940078	producer	producer	\N
 tt1455317	2	nm1916590	composer	\N	\N
 tt1455317	3	nm2280346	editor	\N	\N
@@ -43975,7 +43981,8 @@ tt1457100	4	nm2671025	actor	\N	["Perry"]
 tt1457100	5	nm0621129	producer	producer	\N
 tt1457100	6	nm1043094	actor	\N	["Eric Flash"]
 tt1457100	7	nm1078298	actress	\N	["Janet"]
-tt1457101	1	nm1408102	director	\N	\N
+tt1457101	1	nm1893776	self	\N	["Self"]
+tt1457101	2	nm1408102	director	\N	\N
 tt1457102	1	nm0851738	producer	producer	\N
 tt1457103	1	nm3227224	self	\N	["Self - Designer"]
 tt1457103	2	nm2805716	actor	\N	["Carpenter"]

@@ -981,7 +981,7 @@ tt20600780	2	nm13701454	self	\N	["Self - Guest"]
 tt20600780	3	nm13701453	self	\N	["Self - Guest"]
 tt20600780	4	nm2660107	director	\N	\N
 tt20600780	5	nm13809837	writer	Created by	\N
-tt20600780	6	nm5249372	writer	developed for television by	\N
+tt20600780	6	nm5249372	writer	writer	\N
 tt20600780	7	nm5046453	producer	producer	\N
 tt20600780	8	nm13614109	producer	producer	\N
 tt20600780	9	nm13804495	producer	executive producer	\N
@@ -1713,7 +1713,7 @@ tt20601216	2	nm13701787	self	\N	["Self - Guest"]
 tt20601216	3	nm13700953	actor	\N	["Grandmaster Chef Jojo"]
 tt20601216	4	nm2660107	director	\N	\N
 tt20601216	5	nm13809837	writer	Created by	\N
-tt20601216	6	nm5249372	writer	developed for television by	\N
+tt20601216	6	nm5249372	writer	writer	\N
 tt20601216	7	nm5046453	producer	producer	\N
 tt20601216	8	nm13614109	producer	producer	\N
 tt20601216	9	nm13804495	producer	executive producer	\N
@@ -1876,16 +1876,16 @@ tt20601378	2	nm0543809	director	\N	\N
 tt20601378	3	nm1633739	production_designer	\N	\N
 tt20601380	1	nm13679976	actor	\N	["Peter Peecha"]
 tt20601384	1	nm13679976	actor	\N	["Peter Peecha"]
-tt20601386	10	nm2861334	cinematographer	\N	\N
-tt20601386	1	nm0870794	actor	\N	["Harrison"]
-tt20601386	2	nm0004846	actress	\N	["Jane"]
+tt20601386	10	nm14164222	producer	producer	\N
+tt20601386	1	nm2255288	actress	\N	\N
+tt20601386	2	nm0000977	actor	\N	\N
 tt20601386	3	nm0135585	actor	\N	["Cal"]
-tt20601386	4	nm0004986	actress	\N	["Calley"]
+tt20601386	4	nm0870794	actor	\N	["Harrison"]
 tt20601386	5	nm0328987	director	\N	\N
 tt20601386	6	nm0022741	producer	producer	\N
 tt20601386	7	nm2226822	producer	executive producer	\N
 tt20601386	8	nm1272140	producer	producer	\N
-tt20601386	9	nm2684774	producer	producer	\N
+tt20601386	9	nm14164223	producer	producer	\N
 tt20601396	1	nm13701962	actor	\N	\N
 tt20601396	2	nm13698478	actor	\N	\N
 tt20601396	3	nm13532411	actor	\N	["Yefri Zuñiga"]
@@ -4655,9 +4655,16 @@ tt20603314	6	nm3859706	writer	created by	\N
 tt20603314	7	nm1018092	writer	written by	\N
 tt20603314	8	nm8182941	writer	written by	\N
 tt20603314	9	nm10170567	writer	executive story editor	\N
-tt20603316	1	nm6812436	actor	\N	\N
-tt20603316	2	nm9575019	actor	\N	\N
-tt20603316	3	nm11599586	actor	\N	["Ali"]
+tt20603316	10	nm5547533	actor	\N	["Levent"]
+tt20603316	1	nm6812436	actor	\N	["Tufan"]
+tt20603316	2	nm9575019	actor	\N	["Samet"]
+tt20603316	3	nm6812441	actress	\N	["Buket"]
+tt20603316	4	nm6576036	actor	\N	["Özgür"]
+tt20603316	5	nm6751100	actor	\N	["Doktor"]
+tt20603316	6	nm0259472	actor	\N	["Yusuf"]
+tt20603316	7	nm7465536	actress	\N	["Seda"]
+tt20603316	8	nm1759076	actor	\N	["Faruk"]
+tt20603316	9	nm3532880	actress	\N	["Hülya"]
 tt20603318	1	nm0526019	actor	\N	["Cassian Andor"]
 tt20603320	1	nm0526019	actor	\N	["Cassian Andor"]
 tt20603322	1	nm0526019	actor	\N	["Cassian Andor"]

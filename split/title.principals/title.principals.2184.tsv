@@ -3368,7 +3368,7 @@ tt21842740	7	nm13879708	self	\N	["Self"]
 tt21842740	8	nm13849903	self	\N	["Self"]
 tt21842740	9	nm13849244	self	\N	["Self"]
 tt21842742	1	nm10879865	director	\N	\N
-tt21842742	2	nm10879791	producer	producer	\N
+tt21842742	2	nm10879791	director	\N	\N
 tt21842746	1	nm11256231	director	\N	\N
 tt21842746	2	nm13961865	composer	\N	\N
 tt21842746	3	nm10686071	composer	\N	\N
@@ -3387,8 +3387,9 @@ tt21842756	7	nm13942076	actor	\N	["Zi Han"]
 tt21842756	8	nm13962278	actress	\N	["Hou Chi (disguised as a child)"]
 tt21842756	9	nm8690849	actress	\N	["Wu Huan"]
 tt21842760	1	nm11277811	actress	\N	["Court Audience"]
-tt21842760	2	nm14068627	actor	\N	["Background"]
-tt21842760	3	nm3951404	producer	producer	\N
+tt21842760	2	nm12877471	actor	\N	["Court Audience"]
+tt21842760	3	nm14068627	actor	\N	["Background"]
+tt21842760	4	nm3951404	producer	producer	\N
 tt21842762	1	nm11277811	actress	\N	["Court Audience"]
 tt21842762	2	nm5121380	actor	\N	["Audience of the Court"]
 tt21842762	3	nm3951404	producer	producer	\N
@@ -15976,9 +15977,9 @@ tt21848354	2	nm3284653	producer	producer	\N
 tt21848354	3	nm4782012	editor	\N	\N
 tt21848358	10	nm4306697	cinematographer	\N	\N
 tt21848358	1	nm4362492	actor	\N	["Jogi"]
-tt21848358	2	nm13665401	actor	\N	["Musician"]
-tt21848358	3	nm1122912	actor	\N	["Tejpal Arora"]
-tt21848358	4	nm4269474	actor	\N	["SI Ravinder Chautala"]
+tt21848358	2	nm1122912	actor	\N	["Tejpal Arora"]
+tt21848358	3	nm4269474	actor	\N	["SI Ravinder Chautala"]
+tt21848358	4	nm1381801	actor	\N	["Insp. Laali Katyal"]
 tt21848358	5	nm1804614	director	\N	\N
 tt21848358	6	nm4375423	writer	\N	\N
 tt21848358	7	nm3092257	producer	producer	\N
@@ -17178,6 +17179,7 @@ tt21849044	7	nm5496293	actor	\N	\N
 tt21849044	8	nm4472609	actor	\N	\N
 tt21849044	9	nm13964944	actor	\N	\N
 tt21849046	1	nm11886962	actor	\N	["Stefan Kowalczyk"]
+tt21849048	10	nm13982591	production_designer	\N	\N
 tt21849048	1	nm11663536	actor	\N	["Archie"]
 tt21849048	2	nm13964947	actor	\N	["Dr. Richie Razul"]
 tt21849048	3	nm13964946	actor	\N	["James","Queen Lizzie"]
@@ -17186,7 +17188,7 @@ tt21849048	5	nm13681639	director	\N	\N
 tt21849048	6	nm11673602	producer	producer	\N
 tt21849048	7	nm13982589	composer	\N	\N
 tt21849048	8	nm13681645	cinematographer	\N	\N
-tt21849048	9	nm13982591	production_designer	\N	\N
+tt21849048	9	nm13965009	editor	\N	\N
 tt21849050	1	nm0119783	actress	\N	\N
 tt21849050	2	nm0643564	actor	\N	["Commisioner Pospieszalski"]
 tt21849050	3	nm7603883	actress	\N	\N

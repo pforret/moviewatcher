@@ -5606,7 +5606,7 @@ tt5542086	1	nm2652580	self	\N	["Self"]
 tt5542092	1	nm0741299	self	\N	["Self - Co-Host"]
 tt5542092	2	nm0454730	self	\N	["Self - Co-Hostess"]
 tt5542092	3	nm1294061	self	\N	["Self - Co-Hostess"]
-tt5542092	4	nm0000158	self	\N	["Self"]
+tt5542092	4	nm0000158	self	\N	["Self - Guest"]
 tt5542092	5	nm2098354	writer	\N	\N
 tt5542092	6	nm8254946	writer	\N	\N
 tt5542092	7	nm1916590	composer	\N	\N
@@ -6165,8 +6165,9 @@ tt5542290	2	nm1149898	director	\N	\N
 tt5542290	3	nm1294581	director	\N	\N
 tt5542290	4	nm7977652	director	\N	\N
 tt5542290	5	nm5763402	writer	\N	\N
-tt5542290	6	nm7977658	cinematographer	\N	\N
-tt5542290	7	nm3711903	editor	\N	\N
+tt5542290	6	nm5022594	cinematographer	\N	\N
+tt5542290	7	nm7977658	cinematographer	\N	\N
+tt5542290	8	nm3711903	editor	\N	\N
 tt5542292	1	nm0108158	actor	\N	\N
 tt5542292	2	nm7872905	actress	\N	\N
 tt5542292	3	nm0461115	actor	\N	\N
@@ -12197,7 +12198,8 @@ tt5544846	2	nm1149898	director	\N	\N
 tt5544846	3	nm1294581	director	\N	\N
 tt5544846	4	nm7977652	director	show director	\N
 tt5544846	5	nm5763402	writer	writer	\N
-tt5544846	6	nm3711903	editor	\N	\N
+tt5544846	6	nm5022594	cinematographer	\N	\N
+tt5544846	7	nm3711903	editor	\N	\N
 tt5544848	1	nm4963478	actress	\N	["Hannah"]
 tt5544848	2	nm4963213	actor	\N	["Greg"]
 tt5544848	3	nm4959548	director	\N	\N
@@ -12207,8 +12209,9 @@ tt5544850	2	nm1149898	director	\N	\N
 tt5544850	3	nm1294581	director	\N	\N
 tt5544850	4	nm7977652	director	show director	\N
 tt5544850	5	nm5763402	writer	writer	\N
-tt5544850	6	nm7977658	cinematographer	\N	\N
-tt5544850	7	nm7977659	editor	\N	\N
+tt5544850	6	nm5022594	cinematographer	\N	\N
+tt5544850	7	nm7977658	cinematographer	\N	\N
+tt5544850	8	nm7977659	editor	\N	\N
 tt5544852	1	nm5415638	actor	\N	["Star role"]
 tt5544854	1	nm6335104	director	\N	\N
 tt5544854	2	nm6468411	writer	\N	\N
@@ -12227,8 +12230,9 @@ tt5544860	2	nm1149898	director	\N	\N
 tt5544860	3	nm1294581	director	\N	\N
 tt5544860	4	nm7977652	director	show director	\N
 tt5544860	5	nm5763402	writer	writer	\N
-tt5544860	6	nm7977658	cinematographer	\N	\N
-tt5544860	7	nm7977659	editor	\N	\N
+tt5544860	6	nm5022594	cinematographer	\N	\N
+tt5544860	7	nm7977658	cinematographer	\N	\N
+tt5544860	8	nm7977659	editor	\N	\N
 tt5544864	1	nm0499464	self	\N	["Self - Hostess"]
 tt5544864	2	nm4606262	self	\N	["Self - Announcer"]
 tt5544864	3	nm0201746	self	\N	["Self - Guest"]
@@ -12249,8 +12253,9 @@ tt5544872	2	nm1149898	director	\N	\N
 tt5544872	3	nm1294581	director	\N	\N
 tt5544872	4	nm7977652	director	show director	\N
 tt5544872	5	nm5763402	writer	writer	\N
-tt5544872	6	nm7977658	cinematographer	\N	\N
-tt5544872	7	nm3711903	editor	\N	\N
+tt5544872	6	nm5022594	cinematographer	\N	\N
+tt5544872	7	nm7977658	cinematographer	\N	\N
+tt5544872	8	nm3711903	editor	\N	\N
 tt5544874	1	nm7994826	actor	\N	["Postenkommandant Ratzinger"]
 tt5544874	2	nm7994827	actor	\N	["Inspektor Klaus Maler"]
 tt5544874	3	nm7994828	actress	\N	["Female Cop"]
@@ -12293,8 +12298,9 @@ tt5544882	2	nm1149898	director	\N	\N
 tt5544882	3	nm1294581	director	\N	\N
 tt5544882	4	nm7977652	director	show director	\N
 tt5544882	5	nm5763402	writer	writer	\N
-tt5544882	6	nm7977658	cinematographer	\N	\N
-tt5544882	7	nm3711903	editor	\N	\N
+tt5544882	6	nm5022594	cinematographer	\N	\N
+tt5544882	7	nm7977658	cinematographer	\N	\N
+tt5544882	8	nm3711903	editor	\N	\N
 tt5544886	1	nm2087348	self	\N	["Self"]
 tt5544886	2	nm1034481	producer	producer	\N
 tt5544886	3	nm2022613	producer	producer	\N
@@ -12466,6 +12472,7 @@ tt5544948	3	nm5927313	actor	\N	["Buck","Self"]
 tt5544948	4	nm6647587	actor	\N	\N
 tt5544948	5	nm10295084	producer	producer	\N
 tt5544948	6	nm6647589	actor	\N	\N
+tt5544948	7	nm3427748	actor	\N	\N
 tt5544950	1	nm6221186	actress	\N	["Witch"]
 tt5544950	2	nm2647330	actress	\N	["Witch"]
 tt5544950	3	nm2001577	actor	\N	["Macbeth"]
@@ -12491,6 +12498,7 @@ tt5544968	3	nm5927313	actor	\N	["Buck","Self"]
 tt5544968	4	nm6647587	actor	\N	\N
 tt5544968	5	nm10295084	producer	producer	\N
 tt5544968	6	nm6647589	actor	\N	\N
+tt5544968	7	nm3427748	actor	\N	\N
 tt5544972	1	nm5415638	actor	\N	["Star role"]
 tt5544974	1	nm5652585	self	\N	["Self"]
 tt5544976	1	nm6647588	actor	\N	\N
@@ -12499,6 +12507,7 @@ tt5544976	3	nm5927313	actor	\N	["Buck","Self"]
 tt5544976	4	nm6647587	actor	\N	\N
 tt5544976	5	nm10295084	producer	producer	\N
 tt5544976	6	nm6647589	actor	\N	\N
+tt5544976	7	nm3427748	actor	\N	\N
 tt5544978	1	nm5652585	self	\N	["Self"]
 tt5544980	1	nm5921128	director	\N	\N
 tt5544986	1	nm6647588	actor	\N	\N
@@ -12507,6 +12516,7 @@ tt5544986	3	nm5927313	actor	\N	["Buck","Self"]
 tt5544986	4	nm6647587	actor	\N	\N
 tt5544986	5	nm10295084	producer	producer	\N
 tt5544986	6	nm6647589	actor	\N	\N
+tt5544986	7	nm3427748	actor	\N	\N
 tt5544988	10	nm0058549	editor	\N	\N
 tt5544988	1	nm0000496	self	\N	["Self"]
 tt5544988	2	nm0342970	self	\N	["Self"]
@@ -12555,12 +12565,14 @@ tt5544998	4	nm6647587	actor	\N	\N
 tt5544998	5	nm10295084	producer	producer	\N
 tt5544998	6	nm2934210	composer	\N	\N
 tt5544998	7	nm6647589	actor	\N	\N
+tt5544998	8	nm3427748	actor	\N	\N
 tt5545002	1	nm6647588	actor	\N	\N
 tt5545002	2	nm6633894	actor	\N	\N
 tt5545002	3	nm5927313	actor	\N	["Buck","Self"]
 tt5545002	4	nm6647587	actor	\N	\N
 tt5545002	5	nm10295084	producer	producer	\N
 tt5545002	6	nm6647589	actor	\N	\N
+tt5545002	7	nm3427748	actor	\N	\N
 tt5545004	1	nm7795581	self	\N	["Self"]
 tt5545004	2	nm3302977	self	\N	["Self - Host"]
 tt5545004	3	nm7795582	self	\N	["Self"]
@@ -12595,6 +12607,7 @@ tt5545012	3	nm5927313	actor	\N	["Buck","Self"]
 tt5545012	4	nm6647587	actor	\N	\N
 tt5545012	5	nm10295084	producer	producer	\N
 tt5545012	6	nm6647589	actor	\N	\N
+tt5545012	7	nm3427748	actor	\N	\N
 tt5545014	10	nm7995060	production_designer	\N	\N
 tt5545014	1	nm0012789	actress	\N	\N
 tt5545014	2	nm7995058	actor	\N	\N
@@ -12611,6 +12624,7 @@ tt5545016	3	nm5927313	actor	\N	["Buck","Self"]
 tt5545016	4	nm6647587	actor	\N	\N
 tt5545016	5	nm10295084	producer	producer	\N
 tt5545016	6	nm6647589	actor	\N	\N
+tt5545016	7	nm3427748	actor	\N	\N
 tt5545018	10	nm7760056	actor	\N	["Detective","Dr. Robinson","Neighbor"]
 tt5545018	1	nm6058192	actor	\N	["Narrator"]
 tt5545018	2	nm0902779	actor	\N	["Analyst"]
@@ -12627,6 +12641,7 @@ tt5545020	3	nm5927313	actor	\N	["Buck","Self"]
 tt5545020	4	nm6647587	actor	\N	\N
 tt5545020	5	nm10295084	producer	producer	\N
 tt5545020	6	nm6647589	actor	\N	\N
+tt5545020	7	nm3427748	actor	\N	\N
 tt5545022	1	nm7671723	actress	\N	["Paula"]
 tt5545022	2	nm1972032	actress	\N	["Jeannette"]
 tt5545022	3	nm3030824	actress	\N	["Amy"]

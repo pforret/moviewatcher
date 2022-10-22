@@ -2911,13 +2911,14 @@ tt22501414	2	nm1431170	self	\N	["Self - Panelist"]
 tt22501414	3	nm1472076	self	\N	["Self - Panelist"]
 tt22501414	4	nm0738557	director	\N	\N
 tt22501414	5	nm2361800	editor	senior editor	\N
-tt22501416	1	nm12444785	actress	\N	["Reporter"]
-tt22501416	2	nm2088669	actress	\N	["Gena"]
-tt22501416	3	nm9990253	actor	\N	["Deputy Thomas"]
-tt22501416	4	nm1431341	actor	\N	["Elias"]
+tt22501416	1	nm0635262	actor	\N	["Eddie"]
+tt22501416	2	nm12444785	actress	\N	["Reporter"]
+tt22501416	3	nm2088669	actress	\N	["Gena"]
+tt22501416	4	nm9990253	actor	\N	["Deputy Thomas"]
 tt22501416	5	nm13801803	director	\N	\N
 tt22501416	6	nm6237267	writer	\N	\N
-tt22501416	7	nm12695023	actor	\N	["Sheriff"]
+tt22501416	7	nm1431341	actor	\N	["Elias"]
+tt22501416	8	nm12695023	actor	\N	["Sheriff"]
 tt22501420	1	nm0264414	self	\N	["Self - Host"]
 tt22501420	2	nm1431170	self	\N	["Self - Panelist"]
 tt22501420	3	nm1472076	self	\N	["Self - Panelist"]
@@ -5033,8 +5034,10 @@ tt22503238	5	nm13883771	writer	\N	\N
 tt22503238	6	nm4124423	producer	producer	\N
 tt22503238	7	nm7090757	cinematographer	\N	\N
 tt22503250	1	nm13959946	director	\N	\N
-tt22503254	1	nm1884065	director	\N	\N
-tt22503254	2	nm1378553	producer	producer	\N
+tt22503254	1	nm0428765	actor	\N	\N
+tt22503254	2	nm0910312	actress	\N	\N
+tt22503254	3	nm1884065	director	\N	\N
+tt22503254	4	nm1378553	producer	producer	\N
 tt22503260	1	nm13087860	director	\N	\N
 tt22503260	2	nm8094788	cinematographer	\N	\N
 tt22503262	1	nm6385513	actor	\N	["Max"]
@@ -5247,16 +5250,16 @@ tt22503522	1	nm14112808	director	\N	\N
 tt22503522	2	nm14112809	producer	producer	\N
 tt22503522	3	nm14112810	cinematographer	\N	\N
 tt22503522	4	nm14112811	editor	\N	\N
-tt22503526	10	nm12794980	production_designer	\N	\N
-tt22503526	1	nm13060281	actor	\N	["Nick"]
-tt22503526	2	nm4497336	actress	\N	\N
-tt22503526	3	nm3842139	actor	\N	\N
-tt22503526	4	nm1028302	director	\N	\N
-tt22503526	5	nm11682844	writer	\N	\N
-tt22503526	6	nm0890849	producer	producer	\N
-tt22503526	7	nm8270098	composer	\N	\N
-tt22503526	8	nm1275849	cinematographer	\N	\N
-tt22503526	9	nm7697387	editor	\N	\N
+tt22503526	10	nm7697387	editor	\N	\N
+tt22503526	1	nm4497336	actress	\N	["Lindsey"]
+tt22503526	2	nm3842139	actor	\N	["Josh"]
+tt22503526	3	nm7582568	actress	\N	["Ella"]
+tt22503526	4	nm13060281	actor	\N	["Nick"]
+tt22503526	5	nm1028302	director	\N	\N
+tt22503526	6	nm11682844	writer	\N	\N
+tt22503526	7	nm0890849	producer	producer	\N
+tt22503526	8	nm8270098	composer	\N	\N
+tt22503526	9	nm1275849	cinematographer	\N	\N
 tt22503530	10	nm10826934	actor	\N	["Nathaniel"]
 tt22503530	1	nm4752051	actor	\N	["Xavier"]
 tt22503530	2	nm7569759	actress	\N	\N
@@ -6118,8 +6121,16 @@ tt22504414	6	nm6243300	actor	\N	["Jay"]
 tt22504414	7	nm3015360	actress	\N	["Carly"]
 tt22504414	8	nm14114159	actor	\N	["Ryan"]
 tt22504414	9	nm14114158	actor	\N	["Messed Up Gal"]
+tt22504420	10	nm3613653	cinematographer	director of photography	\N
 tt22504420	1	nm0365405	self	\N	["Self - Host"]
-tt22504420	2	nm1177733	producer	producer	\N
+tt22504420	2	nm5692627	self	\N	["Self - Eyewitness"]
+tt22504420	3	nm10903607	self	\N	["Self - Investigative Journalist","Editor: TheDebrief"]
+tt22504420	4	nm12821676	self	\N	["Self - Physicist"]
+tt22504420	5	nm5361776	producer	producer	\N
+tt22504420	6	nm3148471	producer	producer	\N
+tt22504420	7	nm1177733	producer	producer	\N
+tt22504420	8	nm13124074	cinematographer	director of photography	\N
+tt22504420	9	nm1483209	cinematographer	series director of photography	\N
 tt22504428	10	nm1884728	composer	\N	\N
 tt22504428	1	nm9224417	self	\N	["Self - Interviewee"]
 tt22504428	2	nm8191638	self	\N	["Self - Interviewee"]
@@ -6281,6 +6292,7 @@ tt22504512	6	nm0602518	actress	\N	["Cristina Barea"]
 tt22504512	7	nm0592110	actress	\N	["Manolita Sanabria"]
 tt22504512	8	nm1794425	actor	\N	["Marcelino Gómez"]
 tt22504512	9	nm1266408	actress	\N	["Mariana Robledo"]
+tt22504516	1	nm3855893	actress	\N	["Mia Yim"]
 tt22504520	10	nm2728417	actress	\N	["Clementina"]
 tt22504520	1	nm0760659	actress	\N	["Ana Rivas"]
 tt22504520	2	nm1272668	actress	\N	["Teresa García Guerrero"]
@@ -7169,6 +7181,8 @@ tt22505016	7	nm5090806	producer	producer	\N
 tt22505016	8	nm2462346	producer	producer	\N
 tt22505016	9	nm2964934	producer	producer	\N
 tt22505020	1	nm11233756	actor	\N	["Dr. G","Mr. Garnaky"]
+tt22505020	2	nm7506766	director	\N	\N
+tt22505020	3	nm14113525	cinematographer	\N	\N
 tt22505022	10	nm14091165	writer	\N	\N
 tt22505022	1	nm1167534	actress	\N	["Heng Poh Choo"]
 tt22505022	2	nm1163808	actor	\N	["Chan Wing Fye"]
@@ -7647,7 +7661,9 @@ tt22505422	6	nm3662689	composer	\N	\N
 tt22505422	7	nm2476370	editor	\N	\N
 tt22505422	8	nm14113845	actress	\N	["Mother Mary"]
 tt22505422	9	nm14113846	actor	\N	["Darren"]
-tt22505434	1	nm14113859	actress	\N	\N
+tt22505434	1	nm4981157	actor	\N	\N
+tt22505434	2	nm14113859	actress	\N	\N
+tt22505434	3	nm14164624	actress	\N	\N
 tt22505436	1	nm0084370	actor	\N	["Detective William Murdoch"]
 tt22505436	2	nm0431420	actress	\N	["Dr. Julia Ogden"]
 tt22505436	3	nm0186030	actor	\N	["Inspector Thomas Brackenreid"]
@@ -7684,6 +7700,7 @@ tt22505466	1	nm0348237	actor	\N	\N
 tt22505466	2	nm4191079	actress	\N	\N
 tt22505470	1	nm11927168	actor	\N	\N
 tt22505470	2	nm4191079	actress	\N	\N
+tt22505472	1	nm1810005	cinematographer	\N	\N
 tt22505480	1	nm14113932	self	\N	["Self"]
 tt22505480	2	nm9741017	self	\N	["Self"]
 tt22505480	3	nm14113936	self	\N	["Self"]
@@ -8021,6 +8038,7 @@ tt22505814	1	nm6243300	actor	\N	["Jay"]
 tt22505814	2	nm8505930	actress	\N	["Lucy"]
 tt22505814	3	nm11233756	actor	\N	["Dr. G"]
 tt22505814	4	nm7506766	director	\N	\N
+tt22505814	5	nm14113525	cinematographer	\N	\N
 tt22505816	10	nm12671432	self	\N	["Self - Guest"]
 tt22505816	1	nm2836054	self	\N	["Self - Host"]
 tt22505816	2	nm1989744	self	\N	["Self - Host"]
@@ -8101,7 +8119,6 @@ tt22505894	1	nm13554522	actor	\N	\N
 tt22505896	1	nm6922491	actor	\N	["Man"]
 tt22505896	2	nm10141088	director	\N	\N
 tt22505896	3	nm10198142	producer	producer	\N
-tt22505900	10	nm14114158	actor	\N	["Messed Up Gal"]
 tt22505900	1	nm14114160	actor	\N	["Student #3"]
 tt22505900	2	nm6243300	actor	\N	["Jay"]
 tt22505900	3	nm8505930	actress	\N	["Student #1","Lucy"]
@@ -8109,8 +8126,6 @@ tt22505900	4	nm14114159	actor	\N	["Ryan"]
 tt22505900	5	nm11233756	director	\N	\N
 tt22505900	6	nm7506766	director	\N	\N
 tt22505900	7	nm14113525	cinematographer	\N	\N
-tt22505900	8	nm8566557	actress	\N	["Student #2"]
-tt22505900	9	nm3015360	actress	\N	["Carly"]
 tt22505904	1	nm5075677	actor	\N	["EMT"]
 tt22505904	2	nm5612941	actress	\N	["Sabrina"]
 tt22505904	3	nm14043950	actress	\N	["Canada Howard"]
@@ -8170,19 +8185,24 @@ tt22505940	1	nm5608289	actor	\N	\N
 tt22505940	2	nm13554522	actor	\N	\N
 tt22505948	10	nm2880474	writer	story by	\N
 tt22505948	1	nm8071137	actor	\N	["Sheldon Cooper"]
-tt22505948	2	nm1115741	actor	\N	["George Cooper Sr"]
-tt22505948	3	nm7718664	actor	\N	["Georgie Cooper"]
-tt22505948	4	nm1433588	actor	\N	["Sheldon Cooper"]
+tt22505948	2	nm1409365	actress	\N	["Mary Cooper"]
+tt22505948	3	nm1115741	actor	\N	["George Cooper Sr"]
+tt22505948	4	nm7718664	actor	\N	["Georgie Cooper"]
 tt22505948	5	nm3154374	director	\N	\N
 tt22505948	6	nm6532137	writer	teleplay by	\N
 tt22505948	7	nm1671132	writer	teleplay by	\N
 tt22505948	8	nm2257577	writer	story by	\N
 tt22505948	9	nm0438235	writer	teleplay by	\N
-tt22505956	1	nm2064295	actor	\N	["Jay"]
-tt22505956	2	nm1601147	actor	\N	["Isaac"]
-tt22505956	3	nm0570860	actress	\N	["Samantha"]
-tt22505956	4	nm2109158	actor	\N	["Pete"]
-tt22505956	5	nm8492984	actress	\N	["Alberta"]
+tt22505956	10	nm3554734	actress	\N	["Flower"]
+tt22505956	1	nm0570860	actress	\N	["Samantha"]
+tt22505956	2	nm2064295	actor	\N	["Jay"]
+tt22505956	3	nm1601147	actor	\N	["Isaac"]
+tt22505956	4	nm8492984	actress	\N	["Alberta"]
+tt22505956	5	nm0691882	writer	developed for American television by	\N
+tt22505956	6	nm0936474	writer	developed for American television by	\N
+tt22505956	7	nm2109158	actor	\N	["Pete"]
+tt22505956	8	nm2169100	actor	\N	["Trevor"]
+tt22505956	9	nm0936607	actress	\N	["Hetty"]
 tt22505960	1	nm2064295	actor	\N	["Jay"]
 tt22505960	2	nm1601147	actor	\N	["Isaac"]
 tt22505960	3	nm0570860	actress	\N	["Samantha"]
@@ -8202,16 +8222,16 @@ tt22505976	3	nm14114042	actress	\N	["Family daughter"]
 tt22505976	4	nm0034635	actor	\N	["TV genie"]
 tt22505976	5	nm0240222	director	\N	\N
 tt22505976	6	nm1268032	actor	\N	["Quiz master"]
-tt22505980	10	nm5716268	actress	\N	["Holly Prince"]
+tt22505980	10	nm4592297	actress	\N	["Valerie Bianco"]
 tt22505980	1	nm0628420	actress	\N	\N
 tt22505980	2	nm2809645	actor	\N	\N
 tt22505980	3	nm3778244	actress	\N	\N
 tt22505980	4	nm0001339	actress	\N	["Catherine Willows"]
 tt22505980	5	nm0005522	director	\N	\N
 tt22505980	6	nm4139274	writer	written by	\N
-tt22505980	7	nm1179578	actor	\N	["Jack Nikolayevich"]
-tt22505980	8	nm3911903	actor	\N	["Damien Pak"]
-tt22505980	9	nm4592297	actress	\N	["Valerie Bianco"]
+tt22505980	7	nm0003791	cinematographer	director of photography	\N
+tt22505980	8	nm1179578	actor	\N	["Jack Nikolayevich"]
+tt22505980	9	nm3911903	actor	\N	["Damien Pak"]
 tt22505984	1	nm0960320	actor	\N	["Family father"]
 tt22505984	2	nm0461711	actress	\N	["Family mother"]
 tt22505984	3	nm14114042	actress	\N	["Family daughter"]
@@ -8268,10 +8288,12 @@ tt22506008	3	nm2273331	director	co-director	\N
 tt22506010	1	nm0591373	actress	\N	["Jane Tennant"]
 tt22506010	2	nm7176413	actor	\N	["Kai Holman"]
 tt22506010	3	nm3718062	actor	\N	["Jesse Boone"]
-tt22506010	4	nm9166857	actor	\N	["Alex Tennant"]
+tt22506010	4	nm2499449	actor	\N	["Tyler Malone"]
 tt22506010	5	nm7648532	writer	created by	\N
 tt22506010	6	nm1222879	writer	created by	\N
 tt22506010	7	nm1240333	writer	created by	\N
+tt22506010	8	nm14115668	actor	\N	["Gabby"]
+tt22506010	9	nm9166857	actor	\N	["Alex Tennant"]
 tt22506012	1	nm14114160	actor	\N	["Student in Seat #2"]
 tt22506012	2	nm8505930	actress	\N	["Lucy"]
 tt22506012	3	nm8566557	actress	\N	["Student in Seat #1"]
@@ -8333,7 +8355,7 @@ tt22506090	2	nm5484292	composer	\N	\N
 tt22506092	1	nm12108624	actor	\N	\N
 tt22506092	2	nm11842209	actress	\N	\N
 tt22506100	1	nm0313788	director	\N	\N
-tt22506100	2	nm4842884	writer	\N	\N
+tt22506100	2	nm4842884	writer	writer	\N
 tt22506100	3	nm3694772	writer	writer	\N
 tt22506104	1	nm0217746	actor	\N	["Me Léo Macdonald"]
 tt22506104	2	nm10655380	actress	\N	["Stéphanie"]
@@ -8436,6 +8458,7 @@ tt22506220	1	nm6984522	director	\N	\N
 tt22506220	2	nm14096976	writer	\N	\N
 tt22506224	1	nm6984522	director	\N	\N
 tt22506224	2	nm14096976	writer	\N	\N
+tt22506228	1	nm2869371	cinematographer	\N	\N
 tt22506230	1	nm6984522	director	\N	\N
 tt22506230	2	nm14096976	writer	\N	\N
 tt22506236	1	nm4292750	self	\N	["Self - Host"]
@@ -8488,15 +8511,19 @@ tt22506326	2	nm1773773	director	\N	\N
 tt22506326	3	nm1006271	writer	\N	\N
 tt22506326	4	nm11798755	producer	producer	\N
 tt22506326	5	nm10290068	editor	\N	\N
-tt22506332	1	nm0920001	director	\N	\N
+tt22506332	1	nm6601763	actor	\N	["Jesse France"]
+tt22506332	2	nm0920001	director	\N	\N
 tt22506338	1	nm1071765	actress	\N	["Ayako Takasu"]
+tt22506342	1	nm0920001	director	\N	\N
 tt22506350	1	nm7887979	actress	\N	["Zelda Hoffman"]
+tt22506350	2	nm3023641	director	\N	\N
 tt22506354	1	nm10894567	actor	\N	["Bernard"]
 tt22506354	2	nm3023641	director	\N	\N
 tt22506360	1	nm12563115	actress	\N	["Maria"]
 tt22506360	2	nm1275939	director	\N	\N
 tt22506362	1	nm5813845	actor	\N	["Oscar"]
 tt22506362	2	nm5640132	actress	\N	["Jasmine"]
+tt22506362	3	nm1275939	director	\N	\N
 tt22506366	1	nm4373616	self	\N	["Self - Bloggerin und Buchautorin","Bereich Cleaning"]
 tt22506366	2	nm14114254	self	\N	["Self - Tischlermeister und Unternehmer"]
 tt22506366	3	nm1202617	self	\N	["Self - Host"]
@@ -8794,11 +8821,51 @@ tt22506594	6	nm0401651	writer	\N	\N
 tt22506594	7	nm13925523	writer	\N	\N
 tt22506594	8	nm0471285	writer	\N	\N
 tt22506594	9	nm0596110	writer	\N	\N
+tt22506602	10	nm0617226	writer	\N	\N
+tt22506602	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506602	2	nm0477604	actor	\N	["András Berényi"]
+tt22506602	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506602	4	nm0959276	actress	\N	["Claudia Berényi"]
+tt22506602	5	nm13857155	director	\N	\N
+tt22506602	6	nm0401651	writer	\N	\N
+tt22506602	7	nm13925523	writer	\N	\N
+tt22506602	8	nm0471285	writer	\N	\N
+tt22506602	9	nm0596110	writer	\N	\N
+tt22506604	10	nm0617226	writer	\N	\N
+tt22506604	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506604	2	nm0477604	actor	\N	["András Berényi"]
+tt22506604	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506604	4	nm0904639	actor	\N	["Dániel Berényi"]
+tt22506604	5	nm13857155	director	\N	\N
+tt22506604	6	nm0401651	writer	\N	\N
+tt22506604	7	nm13925523	writer	\N	\N
+tt22506604	8	nm0471285	writer	\N	\N
+tt22506604	9	nm0596110	writer	\N	\N
+tt22506606	10	nm0617226	writer	\N	\N
+tt22506606	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506606	2	nm0477604	actor	\N	["András Berényi"]
+tt22506606	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506606	4	nm0904639	actor	\N	["Dániel Berényi"]
+tt22506606	5	nm13857155	director	\N	\N
+tt22506606	6	nm0401651	writer	\N	\N
+tt22506606	7	nm13925523	writer	\N	\N
+tt22506606	8	nm0471285	writer	\N	\N
+tt22506606	9	nm0596110	writer	\N	\N
 tt22506608	1	nm0167238	self	\N	["Self - Host"]
 tt22506608	2	nm1531116	self	\N	["Self - Co-Host"]
 tt22506608	3	nm0481018	self	\N	["Self"]
 tt22506608	4	nm0549938	self	\N	["Self"]
 tt22506608	5	nm0840265	self	\N	["Self"]
+tt22506610	10	nm0617226	writer	\N	\N
+tt22506610	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506610	2	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506610	3	nm0432026	actress	\N	["Kata Berényi"]
+tt22506610	4	nm0904639	actor	\N	["Dániel Berényi"]
+tt22506610	5	nm13857155	director	\N	\N
+tt22506610	6	nm0401651	writer	\N	\N
+tt22506610	7	nm13925523	writer	\N	\N
+tt22506610	8	nm0471285	writer	\N	\N
+tt22506610	9	nm0596110	writer	\N	\N
 tt22506614	1	nm10906628	self	\N	["Self"]
 tt22506614	2	nm10906627	self	\N	["Self"]
 tt22506614	3	nm10906632	self	\N	["Self"]
@@ -8806,6 +8873,26 @@ tt22506614	4	nm10906631	self	\N	["Self"]
 tt22506614	5	nm10906636	self	\N	["Self"]
 tt22506614	6	nm10906626	self	\N	["Self"]
 tt22506614	7	nm10906629	self	\N	["Self"]
+tt22506616	10	nm0617226	writer	\N	\N
+tt22506616	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506616	2	nm0477604	actor	\N	["András Berényi"]
+tt22506616	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506616	4	nm0432026	actress	\N	["Kata Berényi"]
+tt22506616	5	nm13857155	director	\N	\N
+tt22506616	6	nm0401651	writer	\N	\N
+tt22506616	7	nm13925523	writer	\N	\N
+tt22506616	8	nm0471285	writer	\N	\N
+tt22506616	9	nm0596110	writer	\N	\N
+tt22506618	10	nm0617226	writer	\N	\N
+tt22506618	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506618	2	nm0477604	actor	\N	["András Berényi"]
+tt22506618	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506618	4	nm0904639	actor	\N	["Dániel Berényi"]
+tt22506618	5	nm13857155	director	\N	\N
+tt22506618	6	nm0401651	writer	\N	\N
+tt22506618	7	nm13925523	writer	\N	\N
+tt22506618	8	nm0471285	writer	\N	\N
+tt22506618	9	nm0596110	writer	\N	\N
 tt22506620	10	nm3892643	producer	producer	\N
 tt22506620	1	nm4069736	actress	\N	["Ilona"]
 tt22506620	2	nm3815959	actor	\N	["Vitya"]
@@ -8826,6 +8913,16 @@ tt22506624	6	nm3894223	producer	producer	\N
 tt22506624	7	nm3392634	producer	producer	\N
 tt22506624	8	nm2954572	producer	producer	\N
 tt22506624	9	nm3893194	producer	producer	\N
+tt22506626	10	nm0617226	writer	\N	\N
+tt22506626	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506626	2	nm0477604	actor	\N	["András Berényi"]
+tt22506626	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506626	4	nm0432026	actress	\N	["Kata Berényi"]
+tt22506626	5	nm0033914	director	\N	\N
+tt22506626	6	nm0401651	writer	\N	\N
+tt22506626	7	nm13925523	writer	\N	\N
+tt22506626	8	nm0471285	writer	\N	\N
+tt22506626	9	nm0596110	writer	\N	\N
 tt22506628	10	nm3892643	producer	producer	\N
 tt22506628	1	nm4069736	actress	\N	["Ilona"]
 tt22506628	2	nm3815959	actor	\N	["Vitya"]
@@ -8836,6 +8933,26 @@ tt22506628	6	nm3894223	producer	producer	\N
 tt22506628	7	nm3392634	producer	producer	\N
 tt22506628	8	nm2954572	producer	producer	\N
 tt22506628	9	nm3893194	producer	producer	\N
+tt22506630	10	nm0617226	writer	\N	\N
+tt22506630	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506630	2	nm0477604	actor	\N	["András Berényi"]
+tt22506630	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506630	4	nm0432026	actress	\N	["Kata Berényi"]
+tt22506630	5	nm0033914	director	\N	\N
+tt22506630	6	nm0401651	writer	\N	\N
+tt22506630	7	nm13925523	writer	\N	\N
+tt22506630	8	nm0471285	writer	\N	\N
+tt22506630	9	nm0596110	writer	\N	\N
+tt22506632	10	nm0617226	writer	\N	\N
+tt22506632	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506632	2	nm0477604	actor	\N	["András Berényi"]
+tt22506632	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506632	4	nm0863091	actor	\N	["László Novák"]
+tt22506632	5	nm0033914	director	\N	\N
+tt22506632	6	nm0401651	writer	\N	\N
+tt22506632	7	nm13925523	writer	\N	\N
+tt22506632	8	nm0471285	writer	\N	\N
+tt22506632	9	nm0596110	writer	\N	\N
 tt22506634	10	nm3892643	producer	producer	\N
 tt22506634	1	nm4069736	actress	\N	["Ilona"]
 tt22506634	2	nm3815959	actor	\N	["Vitya"]
@@ -8846,6 +8963,16 @@ tt22506634	6	nm3894223	producer	producer	\N
 tt22506634	7	nm3392634	producer	producer	\N
 tt22506634	8	nm2954572	producer	producer	\N
 tt22506634	9	nm3893194	producer	producer	\N
+tt22506640	10	nm0617226	writer	\N	\N
+tt22506640	1	nm0844483	actor	\N	["Miklós Berényi"]
+tt22506640	2	nm0477604	actor	\N	["András Berényi"]
+tt22506640	3	nm0190752	actress	\N	["Zsuzsa Berényi"]
+tt22506640	4	nm0432026	actress	\N	["Kata Berényi"]
+tt22506640	5	nm0033914	director	\N	\N
+tt22506640	6	nm0401651	writer	\N	\N
+tt22506640	7	nm13925523	writer	\N	\N
+tt22506640	8	nm0471285	writer	\N	\N
+tt22506640	9	nm0596110	writer	\N	\N
 tt22506642	10	nm3892643	producer	producer	\N
 tt22506642	1	nm4069736	actress	\N	["Ilona"]
 tt22506642	2	nm3815959	actor	\N	["Vitya"]
@@ -8957,6 +9084,8 @@ tt22506756	9	nm14114357	self	\N	["Self"]
 tt22506758	1	nm12758921	director	\N	\N
 tt22506760	1	nm12758921	director	\N	\N
 tt22506764	1	nm11233756	actor	\N	["Dr. G","Mr. Garnaky"]
+tt22506764	2	nm7506766	director	\N	\N
+tt22506764	3	nm14113525	cinematographer	\N	\N
 tt22506766	1	nm14114364	actor	\N	["New Kid"]
 tt22506766	2	nm12758921	director	\N	\N
 tt22506766	3	nm14147489	composer	composer	\N
@@ -9172,6 +9301,16 @@ tt22506954	1	nm8614268	actor	\N	\N
 tt22506954	2	nm11276950	actor	\N	\N
 tt22506954	3	nm6880481	cinematographer	\N	\N
 tt22506954	4	nm12390263	cinematographer	\N	\N
+tt22506962	10	nm11304831	writer	\N	\N
+tt22506962	1	nm0597188	actress	\N	["Pálinkásné Kovács Róza"]
+tt22506962	2	nm0586272	actor	\N	["Harangozó Lajos"]
+tt22506962	3	nm0880523	actress	\N	["Pálinkás Mariann"]
+tt22506962	4	nm12201032	actress	\N	["Harangozó Laura"]
+tt22506962	5	nm8575127	director	\N	\N
+tt22506962	6	nm3799517	director	\N	\N
+tt22506962	7	nm2508190	director	\N	\N
+tt22506962	8	nm7013705	director	\N	\N
+tt22506962	9	nm5582866	director	\N	\N
 tt22506970	1	nm5036289	actress	\N	\N
 tt22506970	2	nm14114424	actor	\N	\N
 tt22506970	3	nm1082740	director	director:  	\N
@@ -9303,14 +9442,15 @@ tt22507096	6	nm2686803	writer	head writer	\N
 tt22507096	7	nm12023712	writer	writer	\N
 tt22507096	8	nm8466754	writer	writer	\N
 tt22507096	9	nm4311704	writer	writer	\N
-tt22507100	1	nm1701016	actress	\N	["Podhum Ponnu"]
-tt22507100	2	nm1137738	actor	\N	["AK"]
-tt22507100	3	nm4758002	actress	\N	\N
-tt22507100	4	nm1335574	actor	\N	\N
-tt22507100	5	nm11512488	actor	\N	\N
-tt22507100	6	nm9907816	actress	\N	\N
-tt22507100	7	nm7992236	actor	\N	\N
-tt22507100	8	nm14114473	actor	\N	\N
+tt22507100	1	nm10623201	actor	\N	["Client Sunil"]
+tt22507100	2	nm1701016	actress	\N	["Podhum Ponnu"]
+tt22507100	3	nm9907816	actress	\N	\N
+tt22507100	4	nm4758002	actress	\N	\N
+tt22507100	5	nm1137738	actor	\N	["AK"]
+tt22507100	6	nm1335574	actor	\N	\N
+tt22507100	7	nm11512488	actor	\N	\N
+tt22507100	8	nm7992236	actor	\N	\N
+tt22507100	9	nm14114473	actor	\N	\N
 tt22507112	1	nm14114474	actress	\N	\N
 tt22507112	2	nm4744189	actor	\N	\N
 tt22507112	3	nm14114475	actress	\N	\N
@@ -9535,6 +9675,7 @@ tt22507284	2	nm12143127	writer	\N	\N
 tt22507284	3	nm7975649	cinematographer	\N	\N
 tt22507304	1	nm7746400	self	\N	["Self - Host"]
 tt22507304	2	nm1922735	self	\N	["Self - Interviewee"]
+tt22507306	1	nm10623201	actor	\N	["Client Sunil"]
 tt22507312	1	nm2726552	self	\N	["Self"]
 tt22507312	2	nm4194451	self	\N	["Self - Odemykající"]
 tt22507312	3	nm5517899	self	\N	["Self"]
@@ -9960,16 +10101,16 @@ tt22507716	2	nm0701141	actress	\N	\N
 tt22507720	1	nm1566456	self	\N	["Self"]
 tt22507728	1	nm1566456	self	\N	["Self"]
 tt22507728	2	nm0000594	self	\N	["Self"]
-tt22507730	10	nm2054400	actor	\N	\N
+tt22507730	10	nm0576999	actress	\N	\N
 tt22507730	1	nm1340051	actor	\N	\N
 tt22507730	2	nm0776349	actress	\N	\N
 tt22507730	3	nm3650930	actress	\N	\N
 tt22507730	4	nm3067673	actor	\N	\N
-tt22507730	5	nm13437184	editor	\N	\N
-tt22507730	6	nm9895719	actress	\N	\N
-tt22507730	7	nm9280166	actress	\N	\N
-tt22507730	8	nm9899276	actor	\N	\N
-tt22507730	9	nm0576999	actress	\N	\N
+tt22507730	5	nm1433138	writer	head writer	\N
+tt22507730	6	nm13437184	editor	\N	\N
+tt22507730	7	nm9895719	actress	\N	\N
+tt22507730	8	nm9280166	actress	\N	\N
+tt22507730	9	nm9899276	actor	\N	\N
 tt22507732	1	nm8715549	self	\N	["Self - Host"]
 tt22507732	2	nm11739358	self	\N	["Self"]
 tt22507734	1	nm1342060	self	\N	["Self"]
@@ -9983,16 +10124,16 @@ tt22507742	1	nm3262507	self	\N	["Self"]
 tt22507742	2	nm1566456	self	\N	["Self"]
 tt22507742	3	nm2554015	self	\N	["Self"]
 tt22507742	4	nm0553237	self	\N	["Self"]
-tt22507744	10	nm2054400	actor	\N	\N
+tt22507744	10	nm0576999	actress	\N	\N
 tt22507744	1	nm1340051	actor	\N	\N
 tt22507744	2	nm0776349	actress	\N	\N
 tt22507744	3	nm3650930	actress	\N	\N
 tt22507744	4	nm3067673	actor	\N	\N
-tt22507744	5	nm13437184	editor	\N	\N
-tt22507744	6	nm9895719	actress	\N	\N
-tt22507744	7	nm9280166	actress	\N	\N
-tt22507744	8	nm9899276	actor	\N	\N
-tt22507744	9	nm0576999	actress	\N	\N
+tt22507744	5	nm1433138	writer	head writer	\N
+tt22507744	6	nm13437184	editor	\N	\N
+tt22507744	7	nm9895719	actress	\N	\N
+tt22507744	8	nm9280166	actress	\N	\N
+tt22507744	9	nm9899276	actor	\N	\N
 tt22507746	1	nm1349744	self	\N	["Self"]
 tt22507746	2	nm1566456	self	\N	["Self"]
 tt22507748	1	nm0134510	self	\N	["Self"]
@@ -10079,7 +10220,13 @@ tt22507830	3	nm14114929	producer	producer	\N
 tt22507830	4	nm9306962	editor	\N	\N
 tt22507832	1	nm4675677	actor	\N	\N
 tt22507832	2	nm0701141	actress	\N	\N
-tt22507834	1	nm7978607	writer	written by	\N
+tt22507834	1	nm4082640	director	\N	\N
+tt22507834	2	nm7978607	writer	written by	\N
+tt22507834	3	nm2837311	writer	story	\N
+tt22507834	4	nm4853598	writer	dialouge	\N
+tt22507834	5	nm6901822	composer	\N	\N
+tt22507834	6	nm4677173	cinematographer	\N	\N
+tt22507834	7	nm4913137	editor	\N	\N
 tt22507836	1	nm5989823	actress	\N	["Ester - Host"]
 tt22507836	2	nm2125297	self	\N	["Self"]
 tt22507836	3	nm14098019	writer	creator	\N

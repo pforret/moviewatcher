@@ -26457,16 +26457,16 @@ tt9018732	1	nm4489288	actor	\N	["Xephos"]
 tt9018732	2	nm6456058	actor	\N	["LividCoffee"]
 tt9018732	3	nm4755526	actor	\N	["Honeydew"]
 tt9018734	1	nm5579304	actor	\N	["PewDiePie"]
-tt9018736	10	nm4020501	actor	\N	["Prince Zuko"]
-tt9018736	1	nm0504962	actor	\N	["Commander Zhao"]
-tt9018736	2	nm0000674	actress	\N	["Yukari"]
-tt9018736	3	nm0196654	actor	\N	["Fire Lord Ozai"]
-tt9018736	4	nm7150232	actress	\N	["Kyoshi"]
+tt9018736	10	nm0498004	actor	\N	["Uncle Iroh"]
+tt9018736	1	nm0000674	actress	\N	["Yukari"]
+tt9018736	2	nm7150232	actress	\N	["Kyoshi"]
+tt9018736	3	nm11019407	actress	\N	["Katara"]
+tt9018736	4	nm11251153	actress	\N	["Suki"]
 tt9018736	5	nm2609103	writer	created by	\N
-tt9018736	6	nm0498004	actor	\N	["Uncle Iroh"]
-tt9018736	7	nm11139032	actor	\N	["Aang"]
-tt9018736	8	nm8207735	actor	\N	["Sokka"]
-tt9018736	9	nm11019407	actress	\N	["Katara"]
+tt9018736	6	nm12151266	actress	\N	["Azula"]
+tt9018736	7	nm0132023	actress	\N	["Gran Gran"]
+tt9018736	8	nm0504962	actor	\N	["Commander Zhao"]
+tt9018736	9	nm0196654	actor	\N	["Fire Lord Ozai"]
 tt9018738	1	nm2958943	actor	\N	["Chef Jean"]
 tt9018738	2	nm0562087	actress	\N	["Lauren"]
 tt9018738	3	nm2901078	actor	\N	["Danny"]
@@ -26855,10 +26855,13 @@ tt9018894	4	nm2233394	actor	\N	["Detective Peters"]
 tt9018894	5	nm10037949	director	\N	\N
 tt9018894	6	nm9934340	writer	\N	\N
 tt9018894	7	nm9560854	producer	producer	\N
-tt9018896	1	nm0177262	self	\N	["Self"]
-tt9018896	2	nm0373768	self	\N	["Self - Reporter","Interviewer"]
-tt9018896	3	nm2462850	self	\N	["Self"]
-tt9018896	4	nm0516360	director	\N	\N
+tt9018896	1	nm0373768	self	\N	["Self - Reporter"]
+tt9018896	2	nm6456016	self	\N	["Self - NUM Official"]
+tt9018896	3	nm0177262	self	\N	["Self"]
+tt9018896	4	nm2511166	self	\N	["Self - Journalist"]
+tt9018896	5	nm0516360	director	\N	\N
+tt9018896	6	nm0606682	editor	\N	\N
+tt9018896	7	nm2462850	self	\N	["Self"]
 tt9018898	1	nm1195584	director	\N	\N
 tt9018898	2	nm2348042	writer	\N	\N
 tt9018898	3	nm1457261	composer	\N	\N
@@ -27849,8 +27852,16 @@ tt9019560	6	nm0203974	self	\N	["Self - Contestant"]
 tt9019560	7	nm0001116	self	\N	["Self - Contestant"]
 tt9019560	8	nm2051874	self	\N	["Self - Contestant"]
 tt9019560	9	nm0339442	self	\N	["Self - Contestant"]
-tt9019562	1	nm0177262	self	\N	["Self"]
-tt9019562	2	nm10132038	director	\N	\N
+tt9019562	10	nm14163497	self	\N	["Self - Environmental Health Officer"]
+tt9019562	1	nm2894897	self	\N	["Self - Former NASA Scientist"]
+tt9019562	2	nm14163499	self	\N	["Self - Weapons Expert"]
+tt9019562	3	nm14163498	self	\N	["Self - Parapsychiatrist"]
+tt9019562	4	nm14163496	self	\N	["Self - Midlands Electricity Board"]
+tt9019562	5	nm10132038	director	\N	\N
+tt9019562	6	nm2070449	producer	producer	\N
+tt9019562	7	nm0510358	editor	\N	\N
+tt9019562	8	nm7239864	editor	\N	\N
+tt9019562	9	nm0177262	self	\N	["Self"]
 tt9019566	1	nm0026038	actor	\N	\N
 tt9019566	2	nm9363861	actor	\N	\N
 tt9019566	3	nm10132039	actor	\N	\N
@@ -27966,6 +27977,14 @@ tt9019634	7	nm11604601	self	\N	["Self - Chief Executive, Alpha Corp., 1978-1983"
 tt9019634	8	nm1581129	self	\N	["Self - Centers for Disease Control"]
 tt9019634	9	nm14104987	self	\N	["Self - Father of Terry & Chuck"]
 tt9019636	1	nm0177262	self	\N	["Self"]
+tt9019636	2	nm14164090	self	\N	["Self - City Coroner, Liverpool"]
+tt9019636	3	nm14164089	self	\N	["Self - Pay Party Expert"]
+tt9019636	4	nm1565172	self	\N	["Self - National Poisons Unit"]
+tt9019636	5	nm2070449	producer	producer	\N
+tt9019636	6	nm3517683	producer	producer	\N
+tt9019636	7	nm6572582	self	\N	["Self - Drug Squad Officer"]
+tt9019636	8	nm5133265	self	\N	["Self - Drugs Counsellor"]
+tt9019636	9	nm14164091	self	\N	["Self - Psychiatrist"]
 tt9019638	1	nm9488337	director	\N	\N
 tt9019638	2	nm5244614	composer	\N	\N
 tt9019640	10	nm0540516	self	\N	["Self - Contestant"]
@@ -28024,8 +28043,8 @@ tt9019650	8	nm0358641	self	\N	["Self - Contestant"]
 tt9019650	9	nm0416262	self	\N	["Self - Contestant"]
 tt9019652	1	nm0177262	self	\N	["Self - Host","Reporter"]
 tt9019652	2	nm11815966	self	\N	["Self","Lawyer"]
-tt9019652	3	nm11815965	self	\N	["Self","Temple of Set"]
-tt9019652	4	nm2901774	self	\N	["Self","Temple of Set"]
+tt9019652	3	nm11815965	self	\N	["Self - Temple of Set"]
+tt9019652	4	nm2901774	self	\N	["Self - Temple of Set"]
 tt9019652	5	nm2070449	director	\N	\N
 tt9019652	6	nm1955166	writer	researcher	\N
 tt9019652	7	nm11815974	composer	\N	\N

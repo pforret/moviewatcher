@@ -1158,7 +1158,7 @@ tt20231488	5	nm2451361	director	\N	\N
 tt20231488	6	nm8308271	writer	story	\N
 tt20231488	7	nm10545470	producer	producer	\N
 tt20231488	8	nm13662282	composer	composer	\N
-tt20231494	1	nm1984761	director	\N	\N
+tt20231494	1	nm1984761	actor	\N	["Narrator"]
 tt20231494	2	nm13662287	composer	\N	\N
 tt20231500	10	nm13630682	producer	producer	\N
 tt20231500	1	nm2425074	actor	\N	["Kôsuke Maruya"]
@@ -2626,7 +2626,7 @@ tt20232368	10	nm13662670	actor	\N	["Emy","La Fermière"]
 tt20232368	1	nm6669305	actor	\N	["Alfred","Le Bijoutier"]
 tt20232368	2	nm8707003	actor	\N	["Le Sheriff"]
 tt20232368	3	nm11560305	actor	\N	["Frank Brown"]
-tt20232368	4	nm13662671	actor	\N	["Fredy Brown"]
+tt20232368	4	nm12583983	actor	\N	["Fredy Brown"]
 tt20232368	5	nm13662669	director	\N	\N
 tt20232368	6	nm0758140	composer	\N	\N
 tt20232368	7	nm10781172	cinematographer	\N	\N
@@ -5297,16 +5297,16 @@ tt20233738	3	nm13663009	director	\N	\N
 tt20233738	4	nm13663010	writer	\N	\N
 tt20233738	5	nm13663011	producer	producer	\N
 tt20233738	6	nm9619878	composer	\N	\N
-tt20233744	10	nm13144112	actress	\N	["Joanie"]
+tt20233744	10	nm10912916	actress	\N	["Hannah Fleishman"]
 tt20233744	1	nm0923105	actress	\N	["Amy"]
 tt20233744	2	nm2771759	actor	\N	["Todd"]
 tt20233744	3	nm11375686	actor	\N	["Hamptonite"]
 tt20233744	4	nm7347679	actress	\N	["Hamptons House Caretaker"]
 tt20233744	5	nm0075849	director	\N	\N
 tt20233744	6	nm0700301	director	\N	\N
-tt20233744	7	nm1209265	editor	\N	\N
-tt20233744	8	nm4875465	actress	\N	["Sage"]
-tt20233744	9	nm10912916	actress	\N	["Hannah Fleishman"]
+tt20233744	7	nm1853027	cinematographer	\N	\N
+tt20233744	8	nm1209265	editor	\N	\N
+tt20233744	9	nm4875465	actress	\N	["Sage"]
 tt20233748	1	nm5097020	actor	\N	["Sundaramoorthy (2021)"]
 tt20233748	2	nm11352569	actor	\N	["Ashok (2021)"]
 tt20233748	3	nm8188958	actress	\N	\N
@@ -11335,11 +11335,9 @@ tt20237174	5	nm12384691	director	\N	\N
 tt20237174	6	nm12391537	writer	\N	\N
 tt20237174	7	nm13664535	writer	idea	\N
 tt20237174	8	nm1930572	composer	\N	\N
-tt20237174	9	nm5930723	composer	\N	\N
 tt20237178	1	nm12391537	actor	\N	["Achileis"]
 tt20237178	2	nm12857745	actor	\N	["Guillaume - Uroulon"]
 tt20237178	3	nm12384691	producer	producer	\N
-tt20237178	4	nm5930723	composer	\N	\N
 tt20237180	1	nm12357624	actor	\N	["Baron Wolfbane"]
 tt20237180	2	nm13664769	actor	\N	["Jinx"]
 tt20237180	3	nm13664679	actor	\N	["Marrock"]
@@ -11353,7 +11351,6 @@ tt20237184	2	nm0017849	producer	producer	\N
 tt20237186	1	nm12391537	actor	\N	["Achileis"]
 tt20237186	2	nm12857745	actor	\N	["Guillaume - Uroulon"]
 tt20237186	3	nm12384691	producer	producer	\N
-tt20237186	4	nm5930723	composer	\N	\N
 tt20237190	10	nm13662138	producer	producer	\N
 tt20237190	1	nm13664545	actor	\N	["Mary Ann"]
 tt20237190	2	nm13664547	actor	\N	["Dalton"]
@@ -11368,7 +11365,6 @@ tt20237194	1	nm12391537	actor	\N	["Achileis"]
 tt20237194	2	nm12857745	actor	\N	["Guillaume - Uroulon"]
 tt20237194	3	nm12384691	producer	producer	\N
 tt20237194	4	nm1930572	composer	\N	\N
-tt20237194	5	nm5930723	composer	\N	\N
 tt20237198	1	nm8740969	self	\N	["Self - Host"]
 tt20237198	2	nm7507598	self	\N	["Self - Host"]
 tt20237208	1	nm11361745	actor	\N	["Tracer"]
@@ -11522,7 +11518,6 @@ tt20237270	1	nm12391537	actor	\N	["Achileis"]
 tt20237270	2	nm12857745	actor	\N	["Guillaume - Uroulon"]
 tt20237270	3	nm12384691	producer	producer	\N
 tt20237270	4	nm1930572	composer	\N	\N
-tt20237270	5	nm5930723	composer	\N	\N
 tt20237288	1	nm4801391	actor	\N	\N
 tt20237288	2	nm10552579	actress	\N	\N
 tt20237288	3	nm6204310	actor	\N	\N
@@ -11551,7 +11546,8 @@ tt20237320	2	nm5305981	self	\N	["Self - Coach"]
 tt20237320	3	nm1627901	self	\N	["Self - Coach"]
 tt20237320	4	nm0005461	self	\N	["Self - Coach"]
 tt20237320	5	nm0596393	writer	creator	\N
-tt20237320	6	nm3736924	editor	\N	\N
+tt20237320	6	nm0346065	editor	\N	\N
+tt20237320	7	nm3736924	editor	\N	\N
 tt20237330	1	nm12357624	actor	\N	["Baron Wolfbane"]
 tt20237330	2	nm13664769	actor	\N	["Jinx"]
 tt20237330	3	nm13664679	actor	\N	["Marrock"]

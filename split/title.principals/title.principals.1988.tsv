@@ -3936,7 +3936,7 @@ tt19882050	6	nm0559804	production_designer	\N	\N
 tt19882050	7	nm0325707	actress	\N	["Hailey Winton"]
 tt19882050	8	nm13005163	actress	\N	["Arda Analytics Tech #1"]
 tt19882050	9	nm0334027	actress	\N	["Josephine 'Jo' Madi"]
-tt19882054	10	nm10975694	actor	\N	["The Intern"]
+tt19882054	10	nm0998942	actor	\N	["Hunter #2"]
 tt19882054	1	nm0000662	actor	\N	["James Weir"]
 tt19882054	2	nm12880953	actress	\N	["Hunter #2"]
 tt19882054	3	nm0124798	actor	\N	["Valence"]
@@ -3946,7 +3946,7 @@ tt19882054	6	nm0559804	production_designer	\N	\N
 tt19882054	7	nm0001097	actor	\N	["Dr. Ben Wilson"]
 tt19882054	8	nm0325707	actress	\N	["Hailey Winton"]
 tt19882054	9	nm0334027	actress	\N	["Josephine 'Jo' Madi"]
-tt19882056	10	nm0572097	actress	\N	["Hunter #3"]
+tt19882056	10	nm1468295	actor	\N	["Morgan Shaw"]
 tt19882056	1	nm0000662	actor	\N	["James Weir"]
 tt19882056	2	nm0124798	actor	\N	["Valence"]
 tt19882056	3	nm0001097	actor	\N	["Dr. Ben Wilson"]
@@ -3954,9 +3954,9 @@ tt19882056	4	nm3790706	actor	\N	["Lanneman"]
 tt19882056	5	nm0824085	cinematographer	\N	\N
 tt19882056	6	nm0325707	actress	\N	["Hailey Winton"]
 tt19882056	7	nm0334027	actress	\N	["Josephine 'Jo' Madi"]
-tt19882056	8	nm10975694	actor	\N	["The Intern"]
-tt19882056	9	nm1468295	actor	\N	["Morgan Shaw"]
-tt19882058	10	nm1468295	actor	\N	["Morgan Shaw"]
+tt19882056	8	nm0998942	actor	\N	["Hunter #2"]
+tt19882056	9	nm10975694	actor	\N	["The Intern"]
+tt19882058	10	nm10975694	actor	\N	["The Intern"]
 tt19882058	1	nm0000662	actor	\N	["James Weir"]
 tt19882058	2	nm0091505	actor	\N	["Wilhelm Morello"]
 tt19882058	3	nm0124798	actor	\N	["Valence"]
@@ -3965,8 +3965,8 @@ tt19882058	5	nm0596285	cinematographer	\N	\N
 tt19882058	6	nm0001097	actor	\N	["Dr. Ben Wilson"]
 tt19882058	7	nm0325707	actress	\N	["Hailey Winton"]
 tt19882058	8	nm0334027	actress	\N	["Josephine 'Jo' Madi"]
-tt19882058	9	nm10975694	actor	\N	["The Intern"]
-tt19882060	10	nm1468295	actor	\N	["Morgan Shaw"]
+tt19882058	9	nm0998942	actor	\N	["Hunter #2"]
+tt19882060	10	nm10975694	actor	\N	["The Intern"]
 tt19882060	1	nm0000662	actor	\N	["James Weir"]
 tt19882060	2	nm0091505	actor	\N	["Wilhelm Morello"]
 tt19882060	3	nm0124798	actor	\N	["Valence"]
@@ -3975,7 +3975,7 @@ tt19882060	5	nm0824085	cinematographer	\N	\N
 tt19882060	6	nm0001097	actor	\N	["Dr. Ben Wilson"]
 tt19882060	7	nm0325707	actress	\N	["Hailey Winton"]
 tt19882060	8	nm0334027	actress	\N	["Josephine 'Jo' Madi"]
-tt19882060	9	nm10975694	actor	\N	["The Intern"]
+tt19882060	9	nm0998942	actor	\N	["Hunter #2"]
 tt19882062	1	nm5491584	self	\N	["Self"]
 tt19882062	2	nm0321320	archive_footage	\N	["Self"]
 tt19882062	3	nm0421822	archive_footage	\N	["Self"]
@@ -7312,16 +7312,16 @@ tt19883786	7	nm13462687	cinematographer	director of photography	\N
 tt19883786	8	nm10523960	cinematographer	director of photography	\N
 tt19883786	9	nm2615183	editor	\N	\N
 tt19883788	1	nm6758812	actor	\N	["Kaptavita"]
-tt19883792	10	nm3591102	editor	\N	\N
+tt19883792	10	nm13462683	self	\N	["Self"]
 tt19883792	1	nm12840795	self	\N	["Self - Historian"]
 tt19883792	2	nm0164807	self	\N	["Self"]
 tt19883792	3	nm13462684	self	\N	["Self"]
 tt19883792	4	nm13462682	self	\N	["Self"]
 tt19883792	5	nm9929523	director	\N	\N
 tt19883792	6	nm5457194	producer	producer	\N
-tt19883792	7	nm10463697	composer	composer	\N
-tt19883792	8	nm13462687	cinematographer	director of photography	\N
-tt19883792	9	nm10523960	cinematographer	director of photography	\N
+tt19883792	7	nm13462687	cinematographer	director of photography	\N
+tt19883792	8	nm10523960	cinematographer	director of photography	\N
+tt19883792	9	nm3591102	editor	\N	\N
 tt19883794	10	nm0633313	writer	idea	\N
 tt19883794	1	nm0830857	actor	\N	["Dr. Pawel Lubicz"]
 tt19883794	2	nm0123399	actress	\N	["Elzbieta Chojnicka"]
@@ -11770,15 +11770,17 @@ tt19886876	7	nm2519705	self	\N	["Self - EU Foreign Affairs Minister"]
 tt19886876	8	nm10328702	self	\N	["Self"]
 tt19886876	9	nm13407671	self	\N	["Self - Permanent Representative Ambassador of Russia at the EU"]
 tt19886878	1	nm10396466	actress	\N	["Woman"]
-tt19886878	2	nm9944288	actor	\N	["Len"]
-tt19886878	3	nm7575751	actor	\N	["Siegel"]
-tt19886878	4	nm0767929	actress	\N	["Kristin McCusker"]
+tt19886878	2	nm1849823	actor	\N	["Welch"]
+tt19886878	3	nm9944288	actor	\N	["Len"]
+tt19886878	4	nm7575751	actor	\N	["Siegel"]
 tt19886878	5	nm0001752	director	\N	\N
 tt19886878	6	nm0004412	writer	\N	\N
-tt19886880	1	nm7575751	actor	\N	["Siegel"]
-tt19886880	2	nm0767929	actress	\N	["Kristin McCusker"]
-tt19886880	3	nm0001752	director	\N	\N
-tt19886880	4	nm0004412	writer	\N	\N
+tt19886878	7	nm0767929	actress	\N	["Kristin McCusker"]
+tt19886880	1	nm1849823	actor	\N	["Welch"]
+tt19886880	2	nm7575751	actor	\N	["Siegel"]
+tt19886880	3	nm0767929	actress	\N	["Kristin McCusker"]
+tt19886880	4	nm0001752	director	\N	\N
+tt19886880	5	nm0004412	writer	\N	\N
 tt19886882	1	nm3935380	actress	\N	["Reporter #1"]
 tt19886882	2	nm5806343	actress	\N	["Eloise Yee"]
 tt19886882	3	nm0001752	director	\N	\N

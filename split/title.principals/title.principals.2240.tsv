@@ -7184,7 +7184,7 @@ tt22406648	2	nm0565678	producer	producer	\N
 tt22406648	3	nm1469709	cinematographer	\N	\N
 tt22406648	4	nm3202717	editor	\N	\N
 tt22406648	5	nm6443451	editor	\N	\N
-tt22406650	1	nm7939906	director	\N	\N
+tt22406650	1	nm7939906	actor	\N	["Son"]
 tt22406656	10	nm13250475	self	\N	["Self"]
 tt22406656	1	nm6141313	actress	\N	\N
 tt22406656	2	nm4124724	actress	\N	\N
@@ -8346,12 +8346,7 @@ tt22408776	1	nm2763698	actress	\N	["Tara"]
 tt22408776	2	nm0953534	actor	\N	["Zack Matthews"]
 tt22408776	3	nm2817400	writer	story by	\N
 tt22408776	4	nm3509382	cinematographer	\N	\N
-tt22408780	1	nm12562699	actress	\N	["Lucía"]
-tt22408780	2	nm2584277	actor	\N	["Nicolás"]
-tt22408780	3	nm14093196	actress	\N	["María"]
-tt22408780	4	nm6869309	director	\N	\N
-tt22408780	5	nm8821846	composer	\N	\N
-tt22408780	6	nm7922834	cinematographer	director of photography	\N
+tt22408780	1	nm6869309	director	\N	\N
 tt22408782	1	nm0953534	actor	\N	["Zack Matthews"]
 tt22408786	1	nm9137796	actor	\N	["Joshua"]
 tt22408788	1	nm3477352	actor	\N	["Marty"]
@@ -8427,10 +8422,12 @@ tt22408832	2	nm13496818	actor	\N	["The 44th Doctor"]
 tt22408832	3	nm13496821	actor	\N	["The Computer"]
 tt22408836	1	nm6770952	actress	\N	["Woman"]
 tt22408836	2	nm11099836	actor	\N	["Man"]
-tt22408836	3	nm3207285	actress	\N	["Couple","Narrator"]
+tt22408836	3	nm3207285	actress	\N	["Narrator","Couple"]
 tt22408836	4	nm14104557	actress	\N	["Narrator"]
 tt22408836	5	nm14104556	actor	\N	["Narrator"]
 tt22408836	6	nm14104558	actor	\N	["Couple"]
+tt22408836	7	nm14164197	actor	\N	["Couple"]
+tt22408836	8	nm14164196	actress	\N	["Couple"]
 tt22408840	1	nm0953534	actor	\N	["Zack Matthews"]
 tt22408840	2	nm2817400	writer	story by	\N
 tt22408840	3	nm3509382	cinematographer	\N	\N
@@ -8989,8 +8986,9 @@ tt22409354	4	nm0828252	self	\N	["Self"]
 tt22409354	5	nm2806525	self	\N	["Self"]
 tt22409354	6	nm0885694	self	\N	["Self"]
 tt22409354	7	nm0471288	self	\N	["Self"]
-tt22409356	1	nm7737332	actress	\N	["Charlie"]
-tt22409356	2	nm9974371	actress	\N	["Becca"]
+tt22409356	1	nm8891071	actor	\N	["Drunk Guy"]
+tt22409356	2	nm7737332	actress	\N	["Charlie"]
+tt22409356	3	nm9974371	actress	\N	["Becca"]
 tt22409358	1	nm0012137	self	\N	["Self"]
 tt22409358	2	nm1361890	self	\N	["Self"]
 tt22409358	3	nm3422247	self	\N	["Self"]
@@ -9123,7 +9121,7 @@ tt22409426	6	nm0565336	writer	creator	\N
 tt22409426	7	nm5504887	writer	staff writer	\N
 tt22409426	8	nm8166368	writer	staff writer	\N
 tt22409426	9	nm0004129	editor	\N	\N
-tt22409428	10	nm7591883	actor	\N	["Miles"]
+tt22409428	10	nm10731996	actor	\N	["Finn Muncy"]
 tt22409428	1	nm0005476	actress	\N	["Eileen Fitzgerald"]
 tt22409428	2	nm0675114	actor	\N	["Stanley Cornik"]
 tt22409428	3	nm5065913	actress	\N	["Rosalind 'Roz' Friendly"]
@@ -9321,6 +9319,7 @@ tt22409582	1	nm12312887	director	\N	\N
 tt22409582	2	nm4455031	writer	\N	\N
 tt22409582	3	nm3651430	writer	\N	\N
 tt22409582	4	nm0616075	composer	\N	\N
+tt22409586	1	nm3855893	actress	\N	["Mia Yim"]
 tt22409588	1	nm12312887	director	\N	\N
 tt22409588	2	nm4455031	writer	\N	\N
 tt22409588	3	nm3651430	writer	\N	\N

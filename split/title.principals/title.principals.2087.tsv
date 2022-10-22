@@ -2412,16 +2412,16 @@ tt20870942	5	nm13734539	director	\N	\N
 tt20870942	6	nm13676823	writer	\N	\N
 tt20870942	7	nm13734540	actor	\N	["Author"]
 tt20870942	8	nm13695279	actress	\N	["Author"]
-tt20870944	10	nm13886187	self	\N	["Self - Contestant"]
+tt20870944	10	nm12032130	self	\N	["Self - Contestant"]
 tt20870944	1	nm1734623	self	\N	["Self - Host","Judge"]
 tt20870944	2	nm4868637	self	\N	["Self - Judge"]
 tt20870944	3	nm4390665	self	\N	["Self - Judge"]
 tt20870944	4	nm13886185	self	\N	["Self - Contestant"]
-tt20870944	5	nm2775633	production_designer	\N	\N
-tt20870944	6	nm13886186	self	\N	["Self - Contestant"]
-tt20870944	7	nm13886188	self	\N	["Self - Contestant"]
-tt20870944	8	nm13886191	self	\N	["Self - Contestant"]
-tt20870944	9	nm12032130	self	\N	["Self - Contestant"]
+tt20870944	5	nm13913613	editor	\N	\N
+tt20870944	6	nm2775633	production_designer	\N	\N
+tt20870944	7	nm13886186	self	\N	["Self - Contestant"]
+tt20870944	8	nm13886188	self	\N	["Self - Contestant"]
+tt20870944	9	nm13886191	self	\N	["Self - Contestant"]
 tt20870948	10	nm3387881	cinematographer	director of photography	\N
 tt20870948	1	nm12130707	actress	\N	\N
 tt20870948	2	nm0626161	actor	\N	\N
@@ -3444,7 +3444,8 @@ tt20871466	3	nm6565504	composer	\N	\N
 tt20871466	4	nm0408683	cinematographer	director of photography	\N
 tt20871466	5	nm1730063	cinematographer	director of photography	\N
 tt20871466	6	nm8360914	editor	\N	\N
-tt20871466	7	nm1697677	editor	\N	\N
+tt20871466	7	nm2171544	editor	\N	\N
+tt20871466	8	nm1697677	editor	\N	\N
 tt20871468	1	nm1363250	director	\N	\N
 tt20871468	2	nm5360038	producer	producer	\N
 tt20871468	3	nm6565504	composer	\N	\N
@@ -3453,6 +3454,7 @@ tt20871472	1	nm1580544	director	\N	\N
 tt20871472	2	nm5360038	producer	producer	\N
 tt20871472	3	nm6565504	composer	\N	\N
 tt20871472	4	nm8368016	cinematographer	\N	\N
+tt20871472	5	nm2171544	editor	\N	\N
 tt20871476	1	nm1363250	director	\N	\N
 tt20871476	2	nm5360038	producer	producer	\N
 tt20871476	3	nm6565504	composer	\N	\N
@@ -6085,9 +6087,9 @@ tt20873130	1	nm12716897	actress	\N	["Eva"]
 tt20873130	2	nm13722782	director	\N	\N
 tt20873134	1	nm13759992	actor	\N	["Pishima"]
 tt20873134	2	nm13736381	actress	\N	["Meera"]
-tt20873134	3	nm11185623	actor	\N	["Boto"]
-tt20873134	4	nm13736382	actor	\N	["Sohom"]
-tt20873134	5	nm13759877	actor	\N	["Suman"]
+tt20873134	3	nm13759877	actor	\N	["Suman"]
+tt20873134	4	nm11185623	actor	\N	["Boto"]
+tt20873134	5	nm13736382	actor	\N	["Sohom"]
 tt20873148	1	nm1004978	actor	\N	["Tok"]
 tt20873148	2	nm7096146	actor	\N	["Penghulu"]
 tt20873148	3	nm12380721	actor	\N	["Penghulu"]
@@ -13603,7 +13605,7 @@ tt20875526	1	nm8649498	actress	\N	["Diane"]
 tt20875526	2	nm13073476	actress	\N	["Kenzie"]
 tt20875526	3	nm13168294	actress	\N	["Taylor"]
 tt20875526	4	nm0303347	actress	\N	["Paula"]
-tt20875526	5	nm13736997	director	\N	\N
+tt20875526	5	nm12961583	director	\N	\N
 tt20875526	6	nm10354855	composer	\N	\N
 tt20875526	7	nm5088916	cinematographer	\N	\N
 tt20875528	1	nm2670109	actor	\N	["Rajesh Wagle"]
@@ -16145,7 +16147,7 @@ tt20876926	6	nm3568794	director	\N	\N
 tt20876926	7	nm5744397	producer	co-executive producer	\N
 tt20876926	8	nm12341877	producer	producer	\N
 tt20876926	9	nm6214640	producer	producer	\N
-tt20876930	10	nm10745167	production_designer	\N	\N
+tt20876930	10	nm5552969	editor	\N	\N
 tt20876930	1	nm7037298	actress	\N	\N
 tt20876930	2	nm0915299	actor	\N	\N
 tt20876930	3	nm6759070	actor	\N	\N
@@ -16154,7 +16156,7 @@ tt20876930	5	nm1730689	director	\N	\N
 tt20876930	6	nm2903358	writer	\N	\N
 tt20876930	7	nm0678459	producer	producer	\N
 tt20876930	8	nm0429350	composer	\N	\N
-tt20876930	9	nm5552969	editor	\N	\N
+tt20876930	9	nm0674520	cinematographer	\N	\N
 tt20876952	10	nm7513360	self	\N	["Self"]
 tt20876952	1	nm0522491	self	\N	["Self - Presenter"]
 tt20876952	2	nm0150164	self	\N	["Self - Presenter"]
@@ -19507,8 +19509,8 @@ tt20879596	2	nm13738426	actress	\N	["Sarah"]
 tt20879596	3	nm12694824	director	\N	\N
 tt20879596	4	nm13738427	cinematographer	\N	\N
 tt20879602	10	nm2050877	editor	\N	\N
-tt20879602	1	nm0000215	actress	\N	\N
-tt20879602	2	nm0731075	actress	\N	["Michelle"]
+tt20879602	1	nm0731075	actress	\N	["Michelle"]
+tt20879602	2	nm0000215	actress	\N	\N
 tt20879602	3	nm0000152	actor	\N	\N
 tt20879602	4	nm0000473	actress	\N	\N
 tt20879602	5	nm0414551	director	\N	\N

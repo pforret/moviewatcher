@@ -10521,11 +10521,12 @@ tt5874038	1	nm3558111	composer	composer	\N
 tt5874040	1	nm5141131	self	\N	["Self - Guest"]
 tt5874040	2	nm7673954	director	\N	\N
 tt5874042	1	nm4118447	self	\N	["Self"]
-tt5874042	2	nm1761346	self	\N	["Self"]
-tt5874042	3	nm5453258	producer	producer	\N
-tt5874042	4	nm0846556	cinematographer	\N	\N
-tt5874042	5	nm1502628	editor	\N	\N
-tt5874042	6	nm1301353	editor	lead editor	\N
+tt5874042	2	nm7165805	actor	\N	["Producer","Director"]
+tt5874042	3	nm1761346	self	\N	["Self"]
+tt5874042	4	nm5453258	producer	producer	\N
+tt5874042	5	nm0846556	cinematographer	\N	\N
+tt5874042	6	nm1502628	editor	\N	\N
+tt5874042	7	nm1301353	editor	lead editor	\N
 tt5874044	1	nm3558111	composer	composer	\N
 tt5874046	1	nm3696013	actor	\N	\N
 tt5874046	2	nm3725849	actress	\N	\N

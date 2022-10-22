@@ -350,16 +350,16 @@ tt22090426	6	nm7233717	self	\N	["Themselves - House Band"]
 tt22090426	7	nm11085704	self	\N	["Self - Kid Spotted Lanternfly"]
 tt22090426	8	nm2281865	self	\N	["Self"]
 tt22090426	9	nm7868231	self	\N	["Self - Announcer"]
-tt22090428	10	nm2281865	self	\N	["Self"]
+tt22090428	10	nm14094640	actor	\N	\N
 tt22090428	1	nm0453994	self	\N	["Self - Host"]
 tt22090428	2	nm0001774	self	\N	["Self"]
 tt22090428	3	nm7266415	self	\N	["Self"]
 tt22090428	4	nm1703022	self	\N	["Themselves - Musical Guests"]
 tt22090428	5	nm2807724	writer	co-head writer	\N
-tt22090428	6	nm7233717	self	\N	["Themselves - House Band"]
-tt22090428	7	nm9349490	self	\N	["Self"]
-tt22090428	8	nm1456632	actor	\N	["Person #3"]
-tt22090428	9	nm14094640	actor	\N	\N
+tt22090428	6	nm0829537	self	\N	["Self"]
+tt22090428	7	nm7233717	self	\N	["Themselves - House Band"]
+tt22090428	8	nm9349490	self	\N	["Self"]
+tt22090428	9	nm1456632	actor	\N	["Person #3"]
 tt22090430	10	nm7868231	self	\N	["Self - Announcer"]
 tt22090430	1	nm0453994	self	\N	["Self - Host"]
 tt22090430	2	nm0000867	self	\N	["Self"]
@@ -539,14 +539,14 @@ tt22090602	1	nm14053549	director	\N	\N
 tt22090602	2	nm8571389	cinematographer	\N	\N
 tt22090602	3	nm14052869	editor	\N	\N
 tt22090606	10	nm12105713	actress	\N	\N
-tt22090606	1	nm5351962	actress	\N	\N
-tt22090606	2	nm13557999	actress	\N	\N
-tt22090606	3	nm9019493	actress	\N	\N
-tt22090606	4	nm1831571	actress	\N	\N
-tt22090606	5	nm2163056	actress	\N	\N
-tt22090606	6	nm2821860	actress	\N	\N
-tt22090606	7	nm6209661	actress	\N	\N
-tt22090606	8	nm5794875	actress	\N	\N
+tt22090606	1	nm7626594	actress	\N	\N
+tt22090606	2	nm5351962	actress	\N	\N
+tt22090606	3	nm13557999	actress	\N	\N
+tt22090606	4	nm9019493	actress	\N	\N
+tt22090606	5	nm1831571	actress	\N	\N
+tt22090606	6	nm2163056	actress	\N	\N
+tt22090606	7	nm2821860	actress	\N	\N
+tt22090606	8	nm6209661	actress	\N	\N
 tt22090606	9	nm4349521	actress	\N	\N
 tt22090612	10	nm13083838	self	\N	["Self"]
 tt22090612	1	nm6372883	self	\N	["Self"]
@@ -1771,8 +1771,10 @@ tt22091350	9	nm0000164	archive_footage	\N	["Self"]
 tt22091354	1	nm11304387	self	\N	["Self - Host"]
 tt22091354	2	nm11087652	self	\N	["Self - Host"]
 tt22091356	1	nm3416675	director	\N	\N
-tt22091358	1	nm2099563	actor	\N	["Radon"]
-tt22091358	2	nm5851301	actor	\N	["Paco"]
+tt22091358	1	nm10119061	actor	\N	["Brock The Gun"]
+tt22091358	2	nm13293101	actress	\N	["Stapleface"]
+tt22091358	3	nm2099563	actor	\N	["Radon"]
+tt22091358	4	nm5851301	actor	\N	["Paco"]
 tt22091360	1	nm4387969	self	\N	["Self - Host"]
 tt22091360	2	nm0697608	archive_footage	\N	["Self"]
 tt22091360	3	nm12508257	self	\N	["Self - CEO, Annandale Capital LLC"]
@@ -9519,11 +9521,14 @@ tt22095156	6	nm6352729	writer	\N	\N
 tt22095156	7	nm8467983	producer	producer	\N
 tt22095156	8	nm3372497	producer	producer	\N
 tt22095156	9	nm14045980	producer	producer	\N
-tt22095158	1	nm12725026	self	\N	["Self"]
-tt22095158	2	nm4380301	director	\N	\N
-tt22095158	3	nm4461889	producer	producer	\N
-tt22095158	4	nm12725028	producer	producer	\N
-tt22095158	5	nm4545808	producer	producer	\N
+tt22095158	1	nm6719758	self	\N	["Self"]
+tt22095158	2	nm4179321	self	\N	["Self"]
+tt22095158	3	nm12724973	self	\N	["Self"]
+tt22095158	4	nm12725026	self	\N	["Self"]
+tt22095158	5	nm4461889	director	\N	\N
+tt22095158	6	nm4380301	director	\N	\N
+tt22095158	7	nm4545808	director	\N	\N
+tt22095158	8	nm12725028	producer	producer	\N
 tt22095160	1	nm5082788	director	\N	\N
 tt22095160	2	nm4125375	producer	producer	\N
 tt22095162	10	nm14045981	cinematographer	\N	\N
@@ -12107,7 +12112,8 @@ tt22095834	2	nm14056407	actor	\N	\N
 tt22095834	3	nm14056408	actor	\N	\N
 tt22095834	4	nm6868445	director	\N	\N
 tt22095834	5	nm6644896	producer	producer	\N
-tt22095834	6	nm7843452	cinematographer	\N	\N
+tt22095834	6	nm3737642	composer	\N	\N
+tt22095834	7	nm7843452	cinematographer	\N	\N
 tt22095836	10	nm0221400	actor	\N	["Jan Van den Bossche"]
 tt22095836	1	nm0770955	actor	\N	["Jo Berrevoeds"]
 tt22095836	2	nm0674493	actress	\N	["Els D'hollander"]
@@ -12289,7 +12295,8 @@ tt22095930	2	nm4013574	director	\N	\N
 tt22095930	3	nm4804856	producer	producer	\N
 tt22095930	4	nm4526735	composer	\N	\N
 tt22095932	1	nm3080074	self	\N	["Self - Presenter"]
-tt22095932	2	nm3677580	self	\N	["Self - Presenter"]
+tt22095932	2	nm10201958	self	\N	["Self"]
+tt22095932	3	nm3677580	self	\N	["Self - Presenter"]
 tt22095934	1	nm11231055	actress	\N	["Agent Muller"]
 tt22095934	2	nm10027547	actress	\N	["Noa Herbert"]
 tt22095934	3	nm8948975	actor	\N	["Ed Dewitt"]
@@ -13488,7 +13495,7 @@ tt22096972	3	nm5355336	actress	\N	["Becky"]
 tt22096974	1	nm9941348	actor	\N	["Non-sex role"]
 tt22096974	2	nm14057149	actor	\N	\N
 tt22096974	3	nm14053220	actress	\N	\N
-tt22096976	1	nm12818234	actress	\N	["FBI Agent","Tv Executive","Investor"]
+tt22096976	1	nm12818234	actress	\N	["FBI Agent","Tv Executive"]
 tt22096976	2	nm4338934	actor	\N	["FBI Agent"]
 tt22096976	3	nm10560280	actor	\N	["Chris K."]
 tt22096976	4	nm2314278	editor	\N	\N

@@ -6800,9 +6800,11 @@ tt22533838	1	nm1222569	self	\N	["Self - Presenter"]
 tt22533838	2	nm3781872	self	\N	["Self - Team Captain"]
 tt22533838	3	nm7136627	self	\N	["Self - Team Captain"]
 tt22533838	4	nm1304710	self	\N	["Self"]
-tt22533838	5	nm7112281	self	\N	["Self"]
-tt22533838	6	nm14141176	self	\N	["Self"]
-tt22533838	7	nm3243275	self	\N	["Self"]
+tt22533838	5	nm2404761	director	\N	\N
+tt22533838	6	nm2130842	editor	video editor	\N
+tt22533838	7	nm7112281	self	\N	["Self"]
+tt22533838	8	nm14141176	self	\N	["Self"]
+tt22533838	9	nm3243275	self	\N	["Self"]
 tt22533910	1	nm2662182	actress	\N	["Iris"]
 tt22533910	2	nm0252979	actor	\N	\N
 tt22533910	3	nm0897009	director	\N	\N
@@ -6988,9 +6990,10 @@ tt22534874	7	nm14118830	cinematographer	director of photography	\N
 tt22534874	8	nm14118831	editor	\N	\N
 tt22534876	1	nm14118849	self	\N	["Self - Host"]
 tt22534876	2	nm14113860	self	\N	["Self"]
-tt22534878	1	nm8315288	director	\N	\N
-tt22534878	2	nm12082918	director	\N	\N
-tt22534878	3	nm7269448	producer	producer	\N
+tt22534878	1	nm8315288	actor	\N	["Healthy Harry"]
+tt22534878	2	nm12082918	actor	\N	["Robber"]
+tt22534878	3	nm7269448	actress	\N	["Cashier 2"]
+tt22534878	4	nm14031037	actor	\N	["Cashier 1"]
 tt22534888	10	nm14118851	self	\N	["Self - Garnalenliefhebber"]
 tt22534888	1	nm14118852	self	\N	["Self - Belgische Garnalenkweker"]
 tt22534888	2	nm11980975	self	\N	["Self - Commentator","Interviewer"]

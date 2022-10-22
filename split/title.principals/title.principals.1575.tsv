@@ -1539,16 +1539,16 @@ tt15750712	1	nm2672491	actor	\N	["Arthur Steele"]
 tt15750712	2	nm12974863	actress	\N	["Witch Sister"]
 tt15750712	3	nm6325626	actor	\N	["The Chin"]
 tt15750712	4	nm7840466	actress	\N	["Bridget Bishop"]
-tt15750714	10	nm12968053	actress	\N	["Skinny Purple Shep"]
+tt15750714	10	nm12761322	actor	\N	["Failboat"]
 tt15750714	1	nm12844265	actress	\N	["AbbyIsATabby"]
 tt15750714	2	nm13057637	actor	\N	["Squid Game Contestant"]
 tt15750714	3	nm13057641	actor	\N	["Squid"]
 tt15750714	4	nm13057639	actor	\N	["Squid"]
 tt15750714	5	nm12380167	director	\N	\N
-tt15750714	6	nm5930723	composer	\N	\N
-tt15750714	7	nm12844264	actor	\N	["ExplodingTNT"]
-tt15750714	8	nm12847135	actor	\N	["Square Masked Man #1"]
-tt15750714	9	nm12549901	actor	\N	["Creeper321448"]
+tt15750714	6	nm12844264	actor	\N	["ExplodingTNT"]
+tt15750714	7	nm12847135	actor	\N	["Square Masked Man #1"]
+tt15750714	8	nm12549901	actor	\N	["Creeper321448"]
+tt15750714	9	nm12968053	actress	\N	["Skinny Purple Shep"]
 tt15750716	1	nm13002327	actress	\N	["Rikka Koharu"]
 tt15750716	2	nm13000232	director	\N	\N
 tt15750718	1	nm13000236	actress	\N	["Millial"]
@@ -1563,9 +1563,9 @@ tt15750726	3	nm13057649	actor	\N	\N
 tt15750728	1	nm3398264	writer	\N	\N
 tt15750730	10	nm2316893	editor	\N	\N
 tt15750730	1	nm1530018	archive_footage	\N	["Self"]
-tt15750730	2	nm13060591	self	\N	["Self - Nutrigenomics Specialist"]
-tt15750730	3	nm9746633	self	\N	["Self - Food Writer"]
-tt15750730	4	nm6214446	self	\N	["Self - Chef"]
+tt15750730	2	nm10022847	actor	\N	["Pho Man"]
+tt15750730	3	nm13060591	self	\N	["Self - Nutrigenomics Specialist"]
+tt15750730	4	nm9746633	self	\N	["Self - Food Writer"]
 tt15750730	5	nm6489449	director	\N	\N
 tt15750730	6	nm9284221	director	co-director	\N
 tt15750730	7	nm5346357	composer	\N	\N
@@ -6178,16 +6178,16 @@ tt15754736	1	nm7132466	actress	\N	["Desdemona"]
 tt15754736	2	nm6858586	actress	\N	["Ophelia"]
 tt15754738	1	nm6436434	director	\N	\N
 tt15754738	2	nm5566424	producer	producer	\N
-tt15754744	10	nm2821686	self	\N	["Self"]
+tt15754744	10	nm0109986	self	\N	["Self"]
 tt15754744	1	nm3243126	self	\N	["Self - Host"]
 tt15754744	2	nm1433725	self	\N	["Self"]
 tt15754744	3	nm3673388	self	\N	["Self"]
-tt15754744	4	nm1518116	self	\N	["Self"]
-tt15754744	5	nm3622121	self	\N	["Self","Self - Reporter"]
+tt15754744	4	nm3622121	self	\N	["Self","Self - Reporter"]
+tt15754744	5	nm1518116	self	\N	["Self"]
 tt15754744	6	nm2283195	self	\N	["Self"]
-tt15754744	7	nm8372837	self	\N	["Self"]
-tt15754744	8	nm0109986	self	\N	["Self"]
-tt15754744	9	nm2440053	self	\N	["Self"]
+tt15754744	7	nm1514361	self	\N	["Self"]
+tt15754744	8	nm2821686	self	\N	["Self"]
+tt15754744	9	nm0630312	self	\N	["Self"]
 tt15754746	10	nm10212667	actress	\N	["Shakiba"]
 tt15754746	1	nm10737638	actor	\N	["Saeed"]
 tt15754746	2	nm0287471	actor	\N	["Shahed"]
@@ -13557,10 +13557,10 @@ tt15757070	8	nm9561303	cinematographer	\N	\N
 tt15757070	9	nm12963212	editor	\N	\N
 tt15757074	10	nm10008333	self	\N	["Self - University of Surrey"]
 tt15757074	1	nm2207118	self	\N	["Self - Presenter"]
-tt15757074	2	nm3394132	self	\N	["Self","Self - University of California, Berkeley"]
+tt15757074	2	nm3394132	actor	\N	["Self: University of California, Berkeley"]
 tt15757074	3	nm8955325	self	\N	["Self - Harvard-Smithsonian Center for Astrophysics"]
 tt15757074	4	nm11361123	self	\N	["Self - Harvard-Smithsonian Center for Astrophysics"]
-tt15757074	5	nm7055665	self	\N	["Self","Self - Massachusetts Institute of Technology"]
+tt15757074	5	nm6194151	self	\N	["Self","Self - Massachusetts Institute of Technology"]
 tt15757074	6	nm2964218	self	\N	["Self - Kepler Principal Investigator"]
 tt15757074	7	nm3752991	self	\N	["Self - Kepler Participating Scientist"]
 tt15757074	8	nm1581710	self	\N	["Self - University of Leicester"]
@@ -15089,7 +15089,7 @@ tt15757562	5	nm11769077	cinematographer	\N	\N
 tt15757568	1	nm4789296	editor	\N	\N
 tt15757570	10	nm2259754	editor	'Exploring The Universe' editor	\N
 tt15757570	1	nm2207118	self	\N	["Self - Presenter"]
-tt15757570	2	nm3394132	self	\N	["Self - University of California, Berkeley"]
+tt15757570	2	nm3394132	actor	\N	["Self: University of California, Berkeley"]
 tt15757570	3	nm13069611	self	\N	["Self - Co-investigator 'Parker Solar Probe'"]
 tt15757570	4	nm1559721	archive_footage	\N	["Self"]
 tt15757570	5	nm1823458	director	\N	\N
@@ -15111,7 +15111,7 @@ tt15757574	10	nm2259754	editor	'Exploring The Universe' editor	\N
 tt15757574	1	nm2207118	self	\N	["Self - Presenter"]
 tt15757574	2	nm2964218	self	\N	["Self - Kepler Principal Investigator"]
 tt15757574	3	nm3752991	self	\N	["Self - Kepler Participating Scientist"]
-tt15757574	4	nm3394132	self	\N	["Self"]
+tt15757574	4	nm3394132	actor	\N	["Self: University of California, Berkeley"]
 tt15757574	5	nm5595772	director	\N	\N
 tt15757574	6	nm5980912	composer	\N	\N
 tt15757574	7	nm2276920	cinematographer	director of photography	\N
@@ -18277,7 +18277,6 @@ tt15759182	5	nm12384691	director	\N	\N
 tt15759182	6	nm12391537	writer	\N	\N
 tt15759182	7	nm13060626	writer	idea	\N
 tt15759182	8	nm1930572	composer	\N	\N
-tt15759182	9	nm5930723	composer	\N	\N
 tt15759184	1	nm13055150	self	\N	["Self - Narrator"]
 tt15759188	1	nm9232493	actress	\N	\N
 tt15759188	2	nm13060629	actor	\N	\N
@@ -19103,7 +19102,6 @@ tt15759830	5	nm12384691	director	\N	\N
 tt15759830	6	nm12391537	writer	\N	\N
 tt15759830	7	nm10811739	writer	idea	\N
 tt15759830	8	nm1930572	composer	\N	\N
-tt15759830	9	nm5930723	composer	\N	\N
 tt15759832	1	nm10942230	self	\N	["Self - Host"]
 tt15759834	1	nm0471898	self	\N	["Self"]
 tt15759834	2	nm0001162	self	\N	["Self"]

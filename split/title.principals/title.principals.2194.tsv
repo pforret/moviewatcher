@@ -3312,16 +3312,16 @@ tt21941792	6	nm7599849	self	\N	["Self - Grêmio"]
 tt21941792	7	nm1528462	self	\N	["Self - Coach Grêmio"]
 tt21941792	8	nm3992896	self	\N	["Self - Atl. Nacional"]
 tt21941792	9	nm8660110	self	\N	["Self - Atl. Nacional"]
-tt21941800	10	nm0618036	actress	\N	\N
+tt21941800	10	nm1897076	actor	\N	["Francisco Javier del Río"]
 tt21941800	1	nm1213187	actress	\N	["Camila del Río"]
 tt21941800	2	nm1376964	actor	\N	["César Ferrer"]
 tt21941800	3	nm2075350	actress	\N	["Adriana Molina"]
 tt21941800	4	nm0951278	actor	\N	["Pascual del Río"]
-tt21941800	5	nm5548979	actor	\N	\N
-tt21941800	6	nm2520197	actor	\N	\N
-tt21941800	7	nm0532410	actress	\N	["Alejandra Edwards"]
-tt21941800	8	nm0459885	actress	\N	["Renata del Río"]
-tt21941800	9	nm1897076	actor	\N	["Francisco Javier del Río"]
+tt21941800	5	nm0010172	actor	\N	["Padre Alberto"]
+tt21941800	6	nm5548979	actor	\N	\N
+tt21941800	7	nm2520197	actor	\N	\N
+tt21941800	8	nm0532410	actress	\N	["Alejandra Edwards"]
+tt21941800	9	nm0459885	actress	\N	["Renata del Río"]
 tt21941802	10	nm4365480	actress	\N	["Nadia"]
 tt21941802	1	nm5961385	actress	\N	["Fara"]
 tt21941802	2	nm10363321	actress	\N	["Safia"]
@@ -3608,6 +3608,7 @@ tt21941968	1	nm3136544	writer	created by	\N
 tt21941968	2	nm9164617	writer	story editor	\N
 tt21941968	3	nm8932243	writer	created by	\N
 tt21941968	4	nm11955645	writer	writer	\N
+tt21941968	5	nm3565588	editor	\N	\N
 tt21941970	10	nm6727013	composer	\N	\N
 tt21941970	1	nm10386759	actress	\N	\N
 tt21941970	2	nm12033006	actor	\N	["Kai"]
@@ -3699,6 +3700,7 @@ tt21942008	3	nm8932243	writer	created by	\N
 tt21942008	4	nm9896881	writer	writer	\N
 tt21942008	5	nm11955645	writer	writer	\N
 tt21942008	6	nm8183548	editor	\N	\N
+tt21942008	7	nm3565588	editor	\N	\N
 tt21942010	1	nm0727961	self	\N	["Self - Co-Host"]
 tt21942010	2	nm0780435	self	\N	["Self - Co-Host"]
 tt21942010	3	nm0519043	self	\N	["Self - Guest"]
@@ -4461,6 +4463,7 @@ tt21942672	6	nm13934016	self	\N	["Self - Contestant"]
 tt21942672	7	nm13933994	self	\N	["Self - Contestant"]
 tt21942672	8	nm13933996	self	\N	["Self - Contestant"]
 tt21942672	9	nm13934013	self	\N	["Self - Contestant"]
+tt21942674	1	nm8024408	actor	\N	["Malcolm Turner"]
 tt21942682	10	nm13934024	self	\N	["Self - Contestant"]
 tt21942682	1	nm4456046	self	\N	["Self - Judge"]
 tt21942682	2	nm3067086	self	\N	["Self - Judge"]
@@ -4793,13 +4796,14 @@ tt21942858	8	nm13235900	editor	\N	\N
 tt21942858	9	nm5340472	editor	\N	\N
 tt21942862	1	nm4264350	self	\N	["Self - Host"]
 tt21942866	1	nm0000115	actor	\N	\N
-tt21942866	2	nm0224256	actor	\N	["Fontane"]
-tt21942866	3	nm5589501	director	\N	\N
-tt21942866	4	nm4170048	producer	producer	\N
-tt21942866	5	nm9148030	producer	producer	\N
-tt21942866	6	nm2693873	producer	producer	\N
-tt21942866	7	nm1185381	producer	producer	\N
-tt21942866	8	nm3449828	cinematographer	\N	\N
+tt21942866	2	nm0927865	actress	\N	["Kayla"]
+tt21942866	3	nm0224256	actor	\N	["Fontane"]
+tt21942866	4	nm5589501	director	\N	\N
+tt21942866	5	nm4170048	producer	producer	\N
+tt21942866	6	nm9148030	producer	producer	\N
+tt21942866	7	nm2693873	producer	producer	\N
+tt21942866	8	nm1185381	producer	producer	\N
+tt21942866	9	nm3449828	cinematographer	\N	\N
 tt21942868	1	nm0085775	director	\N	\N
 tt21942872	1	nm7986575	actor	\N	["Jacob"]
 tt21942872	2	nm10645671	actress	\N	["Emily"]
@@ -5706,7 +5710,7 @@ tt21943804	10	nm2755225	writer	script	\N
 tt21943804	1	nm1213187	actress	\N	["Camila del Río"]
 tt21943804	2	nm1376964	actor	\N	["César Ferrer"]
 tt21943804	3	nm2075350	actress	\N	["Adriana Molina"]
-tt21943804	4	nm5857790	actress	\N	\N
+tt21943804	4	nm0010172	actor	\N	["Padre Alberto"]
 tt21943804	5	nm5470757	director	\N	\N
 tt21943804	6	nm0727972	director	\N	\N
 tt21943804	7	nm1376399	director	\N	\N
@@ -6525,9 +6529,13 @@ tt21944634	7	nm10974608	producer	producer	\N
 tt21944634	8	nm1899316	cinematographer	director of photography	\N
 tt21944634	9	nm6250070	editor	\N	\N
 tt21944636	1	nm0290227	actor	\N	["Keith Lemon"]
-tt21944636	2	nm1171634	self	\N	["Self - Special Guest"]
-tt21944636	3	nm5006963	self	\N	["Self - Special Guest"]
-tt21944636	4	nm0753145	self	\N	["Self - Special Guest"]
+tt21944636	2	nm5006963	self	\N	["Self - Special Guest"]
+tt21944636	3	nm0753145	self	\N	["Self - Special Guest"]
+tt21944636	4	nm1171634	self	\N	["Self - Special Guest"]
+tt21944636	5	nm1214965	director	\N	\N
+tt21944636	6	nm10974608	producer	producer	\N
+tt21944636	7	nm1899316	cinematographer	director of photography	\N
+tt21944636	8	nm6250070	editor	\N	\N
 tt21944644	1	nm0290227	actor	\N	["Keith Lemon"]
 tt21944644	2	nm10834230	self	\N	["Self - Special Guest"]
 tt21944644	3	nm1222569	self	\N	["Self - Special Guest"]
@@ -7806,11 +7814,31 @@ tt21945740	4	nm9743962	actor	\N	["Man"]
 tt21945742	1	nm1167354	self	\N	["Self - Host"]
 tt21945742	2	nm0367157	self	\N	["Self"]
 tt21945742	3	nm2041882	self	\N	["Self"]
+tt21945746	10	nm0286030	cinematographer	\N	\N
+tt21945746	1	nm0126330	actress	\N	["Dr. Kate Munro"]
+tt21945746	2	nm0251210	actor	\N	["Father Michael Hanlon"]
+tt21945746	3	nm0334198	actor	\N	["Vic Hanlon"]
+tt21945746	4	nm0232997	actor	\N	["Alex Fargo"]
+tt21945746	5	nm0362738	director	\N	\N
+tt21945746	6	nm0184989	writer	teleplay	\N
+tt21945746	7	nm0824135	writer	novel "The Kangaroo Island Doctor"	\N
+tt21945746	8	nm0549417	producer	producer	\N
+tt21945746	9	nm0386595	composer	\N	\N
 tt21945748	1	nm12532434	actor	\N	["Puppet Master"]
 tt21945748	2	nm9330925	actress	\N	["Calare"]
 tt21945748	3	nm12532435	actress	\N	["Morgane"]
 tt21945748	4	nm12532433	actor	\N	["Maelik"]
 tt21945748	5	nm13986688	actor	\N	["Leon"]
+tt21945750	10	nm0286030	cinematographer	\N	\N
+tt21945750	1	nm0126330	actress	\N	["Dr. Kate Munro"]
+tt21945750	2	nm0251210	actor	\N	["Father Michael Hanlon"]
+tt21945750	3	nm0334198	actor	\N	["Vic Hanlon"]
+tt21945750	4	nm0232997	actor	\N	["Alex Fargo"]
+tt21945750	5	nm0362738	director	\N	\N
+tt21945750	6	nm0184989	writer	teleplay	\N
+tt21945750	7	nm0824135	writer	novel "The Kangaroo Island Doctor"	\N
+tt21945750	8	nm0549417	producer	producer	\N
+tt21945750	9	nm0386595	composer	\N	\N
 tt21945756	1	nm11440257	actress	\N	\N
 tt21945756	2	nm12357894	actress	\N	\N
 tt21945756	3	nm7195251	director	\N	\N
