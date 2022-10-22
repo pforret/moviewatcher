@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+[[ -z ${1:-} ]] && echo "Run as $0 run" && exit 1
 
 script_folder=$(dirname "$0")
 "$script_folder/moviewatcher" download https://datasets.imdbws.com/name.basics.tsv.gz
