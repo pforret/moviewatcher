@@ -35,7 +35,7 @@ Flags, options and parameters:
 > moviewatcher download https://datasets.imdbws.com/name.basics.tsv.gz
 # download file from source
 > moviewatcher split
-# split source file up in pieces based on key
+# split source files up in pieces based on key
 ```
 
 ## 🚀 Installation
