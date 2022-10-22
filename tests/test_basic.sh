@@ -17,11 +17,10 @@ root_script=$(find "$root_folder" -maxdepth 1 -name "*.sh" | head -1) # normally
 
 test_no_parameters_shows_usage() {
   # script without parameters should give usage info
-  assert "$root_script"
+  assert_equals 1 "$("$root_script" 2>&1 | grep -c "Usage")"
 }
 
 test_usage_shows_option_verbose() {
   # script without parameters should show option -v or --verbose
-  assert_equals 1 "$("$root_script" 2>&1 | grep -c "Usage")"
   assert_equals 1 "$("$root_script" 2>&1 | grep -c "verbose")"
 }
