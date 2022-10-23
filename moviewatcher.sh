@@ -52,6 +52,7 @@ flag|f|force|do not ask for confirmation (always yes)
 option|l|log_dir|folder for log files |log
 option|t|tmp_dir|folder for temp files|tmp
 option|o|out_dir|folder for output files|split
+option|t|filter|filter on titleType|
 choice|1|action|action to perform|download,split,gha:update,check,env,update
 param|?|input|input url/file/text
 " grep -v -e '^#' -e '^\s*$'
@@ -69,7 +70,7 @@ Script:main() {
   action=$(Str:lower "$action")
   case $action in
   download)
-    #TIP: use «$script_prefix download» to ...
+    #TIP: use «$script_prefix download [url]» to emp folder
     #TIP:> $script_prefix download
     Os:require curl
     Os:require gzip
@@ -112,43 +113,68 @@ Script:main() {
     ;;
 
   split)
-    #TIP: use «$script_prefix split» to ...
-    #TIP:> $script_prefix split
-        # shellcheck disable=SC2154
-    wc -l "$tmp_dir"/*.tsv > "$out_dir/lines.txt"
-    du -b "$tmp_dir"/*.tsv > "$out_dir/bytes.txt"
+    #TIP: use «$script_prefix split [file] [type(s)]» to split a large tsv file into smaller files that can easier be tracked in git
+    #TIP:> $script_prefix --filter movie,tvMovie --out_dir movies split tmp/name.basics.tsv
 
-    find "$tmp_dir" -name "*.tsv" \
-    | while read -r file ; do
-        prefix=$(basename "$file" | cut -d. -f1-2)
-        out_folder="$out_dir/$prefix"
-        [[ ! -d "$out_folder" ]] && mkdir "$out_folder"
-        headers=$(head -1 "$file")
-        first_file="$out_folder/$prefix.0000.tsv"
-        if [[ ! -f "$first_file" || "$file" -nt "$first_file" ]] ; then
-          < "$file" awk \
-            -v headers="$headers" \
-            -v prefix="$prefix" \
-            -v out_folder="$out_folder" \
-            'BEGIN {
-              FS="\t";
+    prefix=$(basename "$input" | cut -d. -f1-2)
+    # shellcheck disable=SC2154
+    out_folder="$out_dir/$prefix"
+    [[ ! -d "$out_folder" ]] && mkdir -p "$out_folder"
+    wc -l "$input" > "$out_folder/lines.txt"
+    du -b "$input" > "$out_folder/bytes.txt"
+    headers=$(head -1 "$input")
+    first_file="$out_folder/$prefix.0000.tsv"
+    if [[ ! -f "$first_file" || "$input" -nt "$first_file" ]] ; then
+    # shellcheck disable=SC2154
+      if [[ -z "$filter" ]] ; then
+        IO:progress "Split without filter"
+        < "$input" awk \
+          -v headers="$headers" \
+          -v prefix="$prefix" \
+          -v out_folder="$out_folder" \
+          'BEGIN {
+            FS="\t";
+          }
+          {
+            id=substr($1,3);
+            group=sprintf("%04d",int(id/10000));
+            out_file = out_folder  "/" prefix  "." group ".tsv";
+            if(!files_created[out_file]){
+              if(group != "0000"){
+                print headers > out_file;
+                }
+              files_created[out_file]=out_file;
             }
-            {
+            print $0 >> out_file;
+          }'
+      else
+        IO:progress "Split with filter $filter"
+        < "$input" awk \
+          -v headers="$headers" \
+          -v prefix="$prefix" \
+          -v filter="$filter" \
+          -v out_folder="$out_folder" \
+          'BEGIN {
+            FS="\t";
+          }
+          {
+            if(filter ~ $2){
               id=substr($1,3);
               group=sprintf("%04d",int(id/10000));
               out_file = out_folder  "/" prefix  "." group ".tsv";
               if(!files_created[out_file]){
-                if(group > 0){
+                if(group != "0000"){
                   print headers > out_file;
                   }
                 files_created[out_file]=out_file;
               }
               print $0 >> out_file;
-            }'
-        fi
-        nb_files=$(find "$out_folder" -name "*.tsv" | wc -l)
-        IO:print "$nb_files files in $out_folder"
-      done
+            }
+          }'
+      fi
+    fi
+    nb_files=$(find "$out_folder" -name "*.tsv" | wc -l)
+    IO:print "$nb_files files in $out_folder"
     ;;
 
   gha:update)
@@ -159,7 +185,10 @@ Script:main() {
     git config user.name "Bashew Runner"
     git config user.email "actions@users.noreply.github.com"
     git add -A
-    git add split
+    git add movies
+    git add names
+    git add shorts
+    git add tv
     timestamp=$(date -u)
     message="$timestamp < $script_basename $script_version < ${os_name=-} ${os_version:-}"
     IO:log "Finishing GitHub Action: $message"
