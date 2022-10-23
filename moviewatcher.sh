@@ -127,7 +127,7 @@ Script:main() {
     if [[ ! -f "$first_file" || "$input" -nt "$first_file" ]] ; then
     # shellcheck disable=SC2154
       if [[ -z "$filter" ]] ; then
-        IO:progress "Split without filter"
+        IO:announce "Split without filter"
         < "$input" awk \
           -v headers="$headers" \
           -v prefix="$prefix" \
@@ -148,7 +148,7 @@ Script:main() {
             print $0 >> out_file;
           }'
       else
-        IO:progress "Split with filter $filter"
+        IO:announce "Split with filter $filter"
         < "$input" awk \
           -v headers="$headers" \
           -v prefix="$prefix" \
@@ -160,10 +160,10 @@ Script:main() {
           {
             if(filter ~ $2){
               id=substr($1,3);
-              group=sprintf("%04d",int(id/10000));
+              group=sprintf("%03d",int(id/100000));
               out_file = out_folder  "/" prefix  "." group ".tsv";
               if(!files_created[out_file]){
-                if(group != "0000"){
+                if(group != "000"){
                   print headers > out_file;
                   }
                 files_created[out_file]=out_file;
