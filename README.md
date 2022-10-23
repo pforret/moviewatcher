@@ -14,9 +14,9 @@ analyze movie metadata updates
 
 ```
 Program : moviewatcher.sh  by peter@forret.com
-Version : v0.1.5 (2022-10-22 22:01)
+Version : v0.1.10 (2022-10-23 17:51)
 Purpose : analyze movie metadata updates
-Usage   : moviewatcher.sh [-h] [-q] [-v] [-f] [-l <log_dir>] [-t <tmp_dir>] [-o <out_dir>] <action> <input?>
+Usage   : moviewatcher.sh [-h] [-q] [-v] [-f] [-l <log_dir>] [-t <tmp_dir>] [-o <out_dir>] [-t <filter>] <action> <input?>
 Flags, options and parameters:
     -h|--help        : [flag] show usage [default: off]
     -q|--quiet       : [flag] no output [default: off]
@@ -25,8 +25,25 @@ Flags, options and parameters:
     -l|--log_dir <?> : [option] folder for log files   [default: log]
     -t|--tmp_dir <?> : [option] folder for temp files  [default: tmp]
     -o|--out_dir <?> : [option] folder for output files  [default: split]
-    <action>         : [choice] action to perform  [options: download,split,check,env,update]
+    -t|--filter <?>  : [option] filter on titleType
+    <action>         : [choice] action to perform  [options: download,split,gha:update,check,env,update]
     <input>          : [parameter] input url/file/text (optional)
+
+### TIPS & EXAMPLES
+* use moviewatcher download [url] to download to temp folder
+  moviewatcher download
+* use moviewatcher split [file] [type(s)] to split a large tsv file into smaller files that can easier be tracked in git
+  moviewatcher --filter movie,tvMovie --out_dir movies split tmp/name.basics.tsv
+* use moviewatcher gha:update to update all data after running
+  moviewatcher gha:update
+* use moviewatcher check to check if this script is ready to execute and what values the options/flags are
+  moviewatcher check
+* use moviewatcher env to generate an example .env file
+  moviewatcher env > .env
+* use moviewatcher update to update to the latest version
+  moviewatcher update
+* >>> bash script created with pforret/bashew
+* >>> for bash development, also check IO:print pforret/setver and pforret/IO:progressbar
 ```
 
 ## ⚡️ Examples

@@ -70,8 +70,8 @@ Script:main() {
   action=$(Str:lower "$action")
   case $action in
   download)
-    #TIP: use «$script_prefix download [url]» to emp folder
-    #TIP:> $script_prefix download
+    #TIP: use «$script_prefix download [url]» to download sources to temp folder
+    #TIP:> $script_prefix download https://datasets.imdbws.com/title.basics.tsv.gz
     Os:require curl
     Os:require gzip
 
@@ -113,8 +113,8 @@ Script:main() {
     ;;
 
   split)
-    #TIP: use «$script_prefix split [file] [type(s)]» to split a large tsv file into smaller files that can easier be tracked in git
-    #TIP:> $script_prefix --filter movie,tvMovie --out_dir movies split tmp/name.basics.tsv
+    #TIP: use «$script_prefix split [file]» to split a large tsv file into smaller files that can easier be tracked in git
+    #TIP:> $script_prefix -t movie,tvMovie -o movies split tmp/name.basics.tsv
 
     prefix=$(basename "$input" | cut -d. -f1-2)
     # shellcheck disable=SC2154
