@@ -184,13 +184,12 @@ Script:main() {
     [[ -z "${RUNNER_OS:-}" ]] && IO:die "This should only run inside a Github Action, don't run it on your machine"
     git config user.name "Bashew Runner"
     git config user.email "actions@users.noreply.github.com"
-    git add -A
     git add movies
     git add names
     git add shorts
     git add tv
-    timestamp=$(date -u)
-    message="$timestamp < $script_basename $script_version < ${os_name=-} ${os_version:-}"
+    timestamp="$(date -Iminutes)"
+    message="$timestamp < $(git status -s | wc -l) files changed < v$script_version"
     IO:log "Finishing GitHub Action: $message"
     # don't modify any file after the next line, so also no log file
     git commit -m "${message}" || exit 0
