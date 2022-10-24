@@ -33,7 +33,7 @@ tt14600086	tvEpisode	Episode #1.11	Episode #1.11	0	2018	\N	\N	Reality-TV
 tt14600088	tvEpisode	Episode #1.12	Episode #1.12	0	2018	\N	\N	Reality-TV
 tt14600090	tvEpisode	Episode #1.13	Episode #1.13	0	2018	\N	\N	Reality-TV
 tt14600092	tvEpisode	Episode #1.14	Episode #1.14	0	2018	\N	\N	Reality-TV
-tt14600094	tvEpisode	Rebelasyon	Rebelasyon	0	2021	\N	\N	Comedy,Romance
+tt14600094	tvEpisode	Rebelasyon	Rebelasyon	0	2021	\N	27	Comedy,Romance
 tt14600096	tvEpisode	Episode #1.15	Episode #1.15	0	2018	\N	\N	Reality-TV
 tt14600100	tvEpisode	Episode #1.16	Episode #1.16	0	2018	\N	\N	Reality-TV
 tt14600102	tvEpisode	Episode #1.17	Episode #1.17	0	2018	\N	\N	Reality-TV
@@ -1484,7 +1484,6 @@ tt14603608	tvEpisode	Episode #12.116	Episode #12.116	0	2021	\N	\N	Comedy,Family,
 tt14603610	tvEpisode	Episode #12.117	Episode #12.117	0	2021	\N	\N	Comedy,Family,Game-Show
 tt14603614	tvEpisode	Episode #12.118	Episode #12.118	0	2021	\N	\N	Comedy,Family,Game-Show
 tt14603616	tvEpisode	Episode #12.119	Episode #12.119	0	2021	\N	\N	Comedy,Family,Game-Show
-tt14603618	tvEpisode	Wouldn't It Be Nice	Wouldn't It Be Nice	0	\N	\N	\N	Drama
 tt14603620	tvEpisode	Episode #2.6	Episode #2.6	0	2021	\N	\N	Comedy,Music,Reality-TV
 tt14603622	tvEpisode	Jimmy Meets Go Go Fuk Me	Jimmy Meets Go Go Fuk Me	1	2013	\N	11	Adult
 tt14603624	tvEpisode	Baja Blast and Matthew McConaughey	Baja Blast and Matthew McConaughey	0	2020	\N	7	Comedy,News
@@ -1493,8 +1492,6 @@ tt14603630	tvEpisode	Come From Away Australia	Come From Away Australia	0	2021	\N
 tt14603634	tvEpisode	Halloween and Legally Blonde	Halloween and Legally Blonde	0	2020	\N	5	Comedy,News
 tt14603636	tvEpisode	Episode dated 4 May 2021	Episode dated 4 May 2021	0	2021	\N	\N	News,Talk-Show
 tt14603640	tvEpisode	Alice in Wonderland	Alice in Wonderland	0	2021	\N	\N	Talk-Show
-tt14603642	tvEpisode	The Abyss	The Abyss	0	\N	\N	\N	Drama
-tt14603644	tvEpisode	Shadows of the Past	Shadows of the Past	0	\N	\N	\N	Drama
 tt14603648	tvEpisode	Episode dated 7 May 2021	Episode dated 7 May 2021	0	2021	\N	\N	News
 tt14603650	tvEpisode	2 Pianos 4 Hands	2 Pianos 4 Hands	0	2021	\N	\N	Talk-Show
 tt14603658	tvEpisode	Episode dated 6 May 2021	Episode dated 6 May 2021	0	2021	\N	\N	News,Talk-Show
@@ -9375,7 +9372,7 @@ tt14624274	tvEpisode	Atlantis Connection to Abydos	Atlantis Connection to Abydos
 tt14624278	tvEpisode	WALL-E (WALL-E as protagonist)	WALL-E (WALL-E as protagonist)	0	2020	\N	6	Animation,Talk-Show
 tt14624280	tvEpisode	Erin's First Gloryhole Video	Erin's First Gloryhole Video	1	2021	\N	\N	Adult
 tt14624282	tvEpisode	Episode #29.37	Episode #29.37	0	2021	\N	128	Action,Sport
-tt14624284	tvSeries	Cornerstones: Founding Voices of the Black Church	Cornerstones: Founding Voices of the Black Church	0	2021	2021	\N	Animation
+tt14624284	tvSeries	Cornerstones: Founding Voices of the Black Church	Cornerstones: Founding Voices of the Black Church	0	2021	2021	\N	Animation,Documentary,History
 tt14624286	tvEpisode	Episode #29.38	Episode #29.38	0	2021	\N	126	Action,Sport
 tt14624288	tvEpisode	A Flight to the Finish	A Flight to the Finish	0	1991	\N	\N	Drama
 tt14624292	tvEpisode	Seven Levels Below Giza	Seven Levels Below Giza	0	2021	\N	\N	History
@@ -9388,10 +9385,10 @@ tt14624306	tvEpisode	Episode #29.41	Episode #29.41	0	2021	\N	128	Action,Sport
 tt14624312	tvEpisode	WALL-E (Captain as protagonist)	WALL-E (Captain as protagonist)	0	2020	\N	6	Animation,Talk-Show
 tt14624320	tvEpisode	Up	Up	0	2020	\N	9	Animation,Talk-Show
 tt14624322	tvEpisode	Day One	Day One	0	2021	\N	\N	Comedy
-tt14624326	tvEpisode	The Reader	The Reader	0	2021	\N	\N	Animation
-tt14624328	tvEpisode	The Hymnist	The Hymnist	0	2021	\N	\N	Animation
+tt14624326	tvEpisode	The Reader	The Reader	0	2021	\N	\N	Animation,Documentary,History
+tt14624328	tvEpisode	The Hymnist	The Hymnist	0	2021	\N	\N	Animation,Documentary,History
 tt14624332	tvEpisode	The Road Show	The Road Show	0	1991	\N	\N	Family
-tt14624334	tvEpisode	The Servant	The Servant	0	2021	\N	\N	Animation
+tt14624334	tvEpisode	The Servant	The Servant	0	2021	\N	\N	Animation,Documentary,History
 tt14624336	tvEpisode	Episode dated 6 May 2021	Episode dated 6 May 2021	0	2021	\N	\N	News,Sport,Talk-Show
 tt14624338	tvEpisode	Desert Luxury	Desert Luxury	0	2018	\N	\N	Reality-TV
 tt14624340	tvEpisode	Premiere	Premiere	0	2009	\N	\N	Adventure,Game-Show,Reality-TV

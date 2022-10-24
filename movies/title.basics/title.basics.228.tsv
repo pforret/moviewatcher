@@ -455,14 +455,13 @@ tt22868936	movie	Fragrant Night	Fragrant Night	0	2023	\N	\N	Comedy,Horror
 tt22868994	movie	The Furies 2	The Furies 2	0	\N	\N	\N	Action,Horror,Thriller
 tt22869490	movie	Crakk - Jeethegaa Toh Jiyegaa!	Crakk - Jeethegaa Toh Jiyegaa!	0	\N	\N	\N	Action,Sport
 tt22869510	movie	Enrico Brignano Parte Prima	Enrico Brignano Parte Prima	0	2022	\N	\N	Comedy
-tt22869636	movie	Düses 1 - Mafya Sizintisi	Düses 1 - Mafya Sizintisi	0	\N	\N	\N	Action,Comedy
+tt22869636	movie	Düses 1 - Mafya Sizintisi	Düses 1 - Mafya Sizintisi	0	2022	\N	\N	Action,Comedy
 tt22869862	movie	Local Band	Local Band	0	\N	\N	\N	Comedy,Drama
 tt22869968	movie	Nimi	Nimi	0	2022	\N	\N	\N
 tt22870212	movie	Mr. Love Doctor	Mr. Love Doctor	0	2009	\N	\N	\N
 tt22870222	movie	8 Islands	8 Islands	0	\N	\N	\N	Documentary
-tt22870316	movie	Lile a man	Lile a man	0	2022	\N	\N	Drama
+tt22870316	movie	Like a man	Like a man	0	2022	\N	105	Drama
 tt22870334	movie	Haunted	Haunted	0	2010	\N	\N	Horror
-tt22870376	movie	Like a man	Like a man	0	2022	\N	105	Drama
 tt22870626	movie	Life After Grease	Life After Grease	0	\N	\N	\N	Documentary
 tt22870644	movie	Shembeh	Shembeh	0	2014	\N	\N	Drama
 tt22871352	movie	My Sentence	Mein Satz	0	2022	\N	85	Drama
@@ -470,7 +469,7 @@ tt22871404	movie	Pet Shop Boys 2022	Pet Shop Boys 2022	0	\N	\N	\N	Drama
 tt22871430	movie	Zveri. After Fame	Zveri. After Fame	0	\N	\N	\N	Documentary
 tt22871472	movie	Dark Side	Dark Side	0	2012	\N	\N	Horror
 tt22871474	movie	Untel	Untel	0	\N	\N	\N	Biography
-tt22871554	movie	A Haunting Winter's Tale	A Haunting Winter's Tale	0	2022	\N	\N	Crime
+tt22871554	movie	A Haunting Winter's Tale	A Haunting Winter's Tale	0	2022	\N	\N	Drama,Mystery,Thriller
 tt22871576	movie	Zorn III (2018 - 2022)	Zorn III (2018 - 2022)	0	2022	\N	78	Documentary,Music
 tt22871638	movie	All You See	All You See	0	2022	\N	72	Documentary
 tt22871654	movie	A Woman's World	A Woman's World	0	2009	\N	\N	Drama
@@ -529,13 +528,11 @@ tt22874826	movie	Bitka za Holmec	Bitka za Holmec	0	2022	\N	102	Documentary,Histo
 tt22874848	movie	The Silent Hour	The Silent Hour	0	\N	\N	\N	Crime,Thriller
 tt22874982	movie	Cyrano de Bergerac	Cyrano de Bergerac	0	2022	\N	189	Drama
 tt22875044	movie	Interpreters Wanted	Interpreters Wanted	0	\N	\N	\N	Documentary
-tt22875054	movie	Hit Big	Hit Big	0	\N	\N	\N	\N
 tt22875148	movie	Trap	Trap	0	\N	\N	\N	Horror,Thriller
 tt22875170	movie	The Curse House	The Curse House	0	\N	\N	\N	Horror,Mystery,Thriller
 tt22875430	movie	My Name Is Suicide	My Name Is Suicide	0	\N	\N	\N	Documentary
 tt22875436	movie	J'ai placé ma mère	J'ai placé ma mère	0	2022	\N	75	Documentary
 tt22875448	movie	Lovely	Lovely	0	\N	\N	\N	Drama,Sport
-tt22875518	movie	Ann	Ann	0	\N	\N	\N	\N
 tt22875818	movie	Highwaymen Bloodlust	Highwaymen Bloodlust	0	2023	\N	65	Thriller
 tt22875846	movie	American Holocaust	American Holocaust	0	\N	\N	\N	Drama
 tt22875880	movie	Date Night	Date Night	0	\N	\N	\N	Romance
@@ -572,8 +569,12 @@ tt22883640	movie	Aa Dôyamaru	Aa Dôyamaru	0	1954	\N	49	\N
 tt22883644	movie	Ride	Ride	0	2022	\N	108	Documentary
 tt22883726	movie	Ryûko hachi tengu: Dainibu: Hiryû no maki	Ryûko hachi tengu: Dainibu: Hiryû no maki	0	1954	\N	49	\N
 tt22884216	movie	Tim Travers & the Time Travelers Paradox	Tim Travers & the Time Travelers Paradox	0	\N	\N	\N	Sci-Fi
+tt22884300	movie	Big Dark Energy	Big Dark Energy	0	2022	\N	\N	Comedy,Sci-Fi
 tt22884542	movie	The Field	The Field	0	\N	\N	\N	Horror
 tt22884550	movie	Dasettante cycle	Dasettante cycle	0	\N	\N	105	Drama
+tt22884602	movie	Miss Q and A	Miss Q and A	0	2020	\N	\N	Comedy
+tt22884634	movie	Vaidehi Kalyanam	Vaidehi Kalyanam	0	1991	\N	\N	Drama
+tt22884762	movie	Stardust (Album)	Stardust (Album)	0	2022	\N	45	Music
 tt22884932	movie	Bang Bros Halloween	Bang Bros Halloween	1	2022	\N	\N	Adult
 tt22884944	movie	Bang Bros Halloween 2	Bang Bros Halloween 2	1	2022	\N	\N	Adult
 tt22885076	movie	Bijoya Dashami	Bijoya Dashami	0	2022	\N	117	Thriller
@@ -585,16 +586,19 @@ tt22888724	movie	Spider-Gwen: Magenta	Spider-Gwen: Magenta	0	\N	\N	\N	Action
 tt22888756	movie	Mi decisión por Andrés Iniesta	Mi decisión por Andrés Iniesta	0	2022	\N	\N	Documentary
 tt22888758	movie	The Flying Scotsman - 100th Anniversary	The Flying Scotsman - 100th Anniversary	0	\N	\N	55	Documentary
 tt22888800	movie	L'Abondance	L'Abondance	0	2013	\N	\N	Documentary
+tt22888822	movie	Malmö Noir	Malmö Noir	0	2022	\N	92	Crime
 tt22888888	movie	People of War!	People of War!	0	\N	\N	84	Documentary
 tt22888902	movie	Bungalow	Bungalow	0	2022	\N	96	Comedy
 tt22888912	movie	Pigman	Pigman	0	\N	\N	\N	Horror
 tt22888926	movie	Turning Tables	Turning Tables	0	2020	\N	\N	Drama
+tt22888928	movie	Ente Meera	Ente Meera	0	2020	\N	120	Romance
 tt22888932	movie	Ducks, an Urban Legend	Ducks, an Urban Legend	0	2022	\N	104	Comedy,Crime,Thriller
 tt22888962	movie	Ginji the Speculator	Ginji the Speculator	0	2022	\N	114	Adventure,Comedy
 tt22889012	movie	Blackbird	Blackbird	0	2020	\N	72	Drama
 tt22889064	movie	The Wastetown	Shahre Khamoush	0	2022	\N	98	Drama
 tt22889100	movie	Amar Colony	Amar Colony	0	2022	\N	75	Drama
 tt22889152	movie	Parade	Parade	0	2022	\N	90	Comedy,Drama
+tt22889164	movie	Bedurulanka 2012	Bedurulanka 2012	0	2023	\N	\N	Comedy
 tt22889310	movie	City of Jackals	City of Jackals	0	2022	\N	117	Crime
 tt22889372	movie	Theo: A Conversation with Honesty	Theo: Eine Konversation Mit Der Ehrlichkeit	0	2022	\N	88	Drama
 tt22889682	movie	Mala persona	Mala persona	0	\N	\N	\N	Comedy
@@ -604,6 +608,7 @@ tt22889928	movie	The Radleys	The Radleys	0	\N	\N	\N	Comedy
 tt22889942	movie	Lillo e Greg Comedy Show	Lillo e Greg Comedy Show	0	2022	\N	83	Comedy
 tt22890018	movie	Come un padre	Come un padre	0	2022	\N	\N	Biography,Documentary,Sport
 tt22890060	movie	Rusalchin tizhden'	Rusalchin tizhden'	0	1988	\N	55	\N
+tt22890090	movie	Yunost komandirov	Yunost komandirov	0	1940	\N	81	Adventure,War
 tt22890210	movie	Liam Gallagher: Knebworth 22	Liam Gallagher: Knebworth 22	0	2022	\N	97	Documentary,Music
 tt22890246	movie	How to Have Sex	How to Have Sex	0	\N	\N	\N	\N
 tt22890492	movie	Shevchenko Lo Zar Rossonero	Shevchenko Lo Zar Rossonero	0	2000	\N	52	Documentary
@@ -618,8 +623,10 @@ tt22892546	movie	Akelli	Akelli	0	\N	\N	\N	Thriller
 tt22892588	movie	Footsteps of a Giant	Footsteps of a Giant	0	\N	\N	\N	Sport
 tt22892622	movie	Nageutasamon Sanban tegara: Fukumen dokurotai	Nageutasamon Sanban tegara: Fukumen dokurotai	0	1954	\N	82	\N
 tt22892652	movie	Into the Storm	Into the Storm	0	\N	\N	\N	Sport
+tt22892798	movie	Guañuna	Guañuna	0	2022	\N	\N	Documentary
 tt22892836	movie	Anmitsu hime: Amakara shiro no maki	Anmitsu hime: Amakara shiro no maki	0	1954	\N	63	\N
 tt22892848	movie	In Jesus Name (God of Possible)	In Jesus Name (God of Possible)	0	\N	\N	\N	Drama,Music
+tt22892896	movie	Ghislaine Maxwell: Filthy Rich	Ghislaine Maxwell: Filthy Rich	0	\N	\N	\N	Documentary
 tt22892900	movie	Johnny Irish	Johnny Irish	0	\N	\N	\N	Crime
 tt22892942	movie	Lollipop	Lollipop	0	\N	\N	\N	Drama
 tt22892984	movie	Don't Bring It!	Don't Bring It!	0	\N	\N	\N	\N
@@ -629,11 +636,13 @@ tt22893046	movie	From Marx and Engels to Marks & Spencer	From Marx and Engels to
 tt22893274	movie	From Marks & Spencer to Marx and Engels	From Marks & Spencer to Marx and Engels	0	1988	\N	57	Documentary
 tt22893328	movie	The Not Polly	The Not Polly	0	\N	\N	\N	Horror
 tt22893332	movie	Englandia	Englandia	0	\N	\N	\N	Family
-tt22893404	movie	Maria	Maria	0	\N	\N	\N	Biography
+tt22893404	movie	Maria	Maria	0	\N	\N	\N	Biography,Drama
 tt22894680	movie	The way of Mizoguchi	The way of Mizoguchi	0	2022	\N	74	Documentary
 tt22896154	movie	Vasco Live - Circo Massimo Roma	Vasco Live - Circo Massimo Roma	0	2022	\N	\N	Music
+tt22896422	movie	Dragonball Z: Forever	Dragonball Z: Forever	0	\N	\N	\N	Fantasy
 tt22896760	movie	Farming Without Harming (The Power of Regenerative Agriculture)	Farming Without Harming (The Power of Regenerative Agriculture)	0	2022	\N	68	Documentary
 tt22897072	movie	Moth and the Tattooed Girl	Moth and the Tattooed Girl	0	\N	\N	\N	Comedy
+tt22897096	movie	My Gift the Movie	My Gift the Movie	0	\N	\N	\N	\N
 tt22897490	movie	The Unbalanced	Zosaliet	0	2022	\N	82	Comedy
 tt22897544	movie	6 Hours Away	6 Hours Away	0	\N	\N	\N	Action
 tt22897562	movie	Evil incarnate the Destruction of Love	Evil incarnate the Destruction of Love	0	\N	\N	\N	Drama,Horror
@@ -651,6 +660,7 @@ tt22898172	movie	A Masquerade carnival in Lagos	A Masquerade carnival in Lagos	0
 tt22898192	movie	Kekkon-ki	Kekkon-ki	0	1954	\N	\N	\N
 tt22898244	movie	I Am Relentless	I Am Relentless	0	2022	\N	\N	Drama
 tt22898274	movie	Sanba garasu fun sensu	Sanba garasu fun sensu	0	1954	\N	92	\N
+tt22898342	movie	War of 84	War of 84	0	\N	\N	\N	War
 tt22898358	movie	Ryûko hachi tengu: Kanketsu-hen: Tsuigeki no maki	Ryûko hachi tengu: Kanketsu-hen: Tsuigeki no maki	0	1954	\N	\N	\N
 tt22898378	movie	Magic Wars	Magic Wars	0	\N	\N	\N	Drama,Fantasy
 tt22898390	movie	Anmitsu hime: Yôjutsu kurabe no maki	Anmitsu hime: Yôjutsu kurabe no maki	0	1954	\N	65	\N
@@ -663,4 +673,15 @@ tt22898614	movie	I am Number 7	I am Number 7	0	\N	\N	\N	Adventure
 tt22898640	movie	Missing Person	Missing Person	0	\N	\N	\N	Thriller
 tt22898672	movie	Hatsu sugata ushimatsu gôshi	Hatsu sugata ushimatsu gôshi	0	1954	\N	101	\N
 tt22898706	movie	Avarice	Avarice	0	\N	\N	\N	Thriller
+tt22898750	movie	Penance	Penance	0	\N	\N	\N	Crime,Thriller,Western
 tt22898956	movie	Kono ko kono haha	Kono ko kono haha	0	1954	\N	97	\N
+tt22899044	movie	A Time for Love: Summer of Violence	A Time for Love: Summer of Violence	0	\N	\N	\N	\N
+tt22899268	movie	King Solomon's Treasure	King Solomon's Treasure	0	2022	\N	108	Drama
+tt22899358	movie	Universal Thread	Universal Thread	0	2022	\N	\N	Drama
+tt22899406	movie	Malice	Malice	0	\N	\N	\N	Documentary
+tt22899488	movie	Legend of Sherawali	Legend of Sherawali	0	\N	\N	\N	Adventure,Animation,Fantasy
+tt22899684	movie	Searching for America: Parts I & II	Searching for America: Parts I & II	0	\N	\N	\N	Documentary
+tt22899864	movie	Hermanos Millar	Hermanos Millar	0	\N	\N	73	Biography,Comedy,Documentary
+tt22899888	movie	Vampires Take Over the World	Vampires Take Over the World	0	\N	\N	\N	Comedy,Horror
+tt22899904	movie	Forget Me Not	Forget Me Not	0	2022	\N	23	\N
+tt22899980	movie	Back from New York	Back from New York	0	2022	\N	63	Documentary
