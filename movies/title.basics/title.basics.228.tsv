@@ -317,7 +317,7 @@ tt22855212	movie	Juana banana	Juana banana	0	2022	\N	80	Comedy,Drama
 tt22855310	movie	Azucar	Azucar	0	\N	\N	\N	Crime
 tt22855372	movie	Untitled Downtown Las Vegas Project	Untitled Downtown Las Vegas Project	0	\N	\N	\N	Adventure,Comedy,Drama
 tt22855582	movie	Hasn't Been Grounded	Hasn't Been Grounded	0	2022	\N	83	Comedy
-tt22855634	movie	Blade of Flame	Blade of Flame	0	2021	\N	85	Fantasy
+tt22855634	movie	Blade of Flame	Xiuxian chuan zhi Lian jian	0	2021	\N	85	Fantasy
 tt22855652	movie	Alabama Rose	Alabama Rose	0	2022	\N	99	Thriller
 tt22855716	movie	Er flog voruas	Er flog voruas	0	2022	\N	\N	Documentary
 tt22855770	movie	The Gate	The Gate	0	\N	\N	\N	Horror
@@ -420,7 +420,7 @@ tt22867386	movie	Going Bananas	Going Bananas	0	2022	\N	\N	Comedy,Drama
 tt22867398	movie	Bün	Bün	0	1965	\N	\N	Documentary
 tt22867432	movie	Follow Me	Follow Me	0	\N	\N	\N	Action
 tt22867436	movie	Blood of the Wicked	Blood of the Wicked	0	\N	\N	\N	Action
-tt22867442	movie	Hardcore Closer	Hardcore Closer	0	\N	\N	\N	Action
+tt22867442	movie	Hardcore Closer	Hardcore Closer	0	\N	\N	\N	Biography,Comedy,Crime
 tt22867640	movie	Back to Kinship	Back to Kinship	0	2021	\N	\N	Drama
 tt22867674	movie	The Wolf	The Wolf	0	\N	\N	\N	Action,Thriller
 tt22867732	movie	The Shepherd's Supper	The Shepherd's Supper	0	2022	\N	\N	Drama
@@ -450,7 +450,7 @@ tt22868846	movie	La soledad del director de fondo	La soledad del director de fon
 tt22868870	movie	Soy rebelde	Soy rebelde	0	2022	\N	132	\N
 tt22868884	movie	Confesiones de un artista	Confesiones de un artista	0	2022	\N	68	\N
 tt22868912	movie	La voz y el martillo. La película	La voz y el martillo. La película	0	2022	\N	63	\N
-tt22868934	movie	Just Like Us	Just Like Us	0	\N	\N	\N	Documentary
+tt22868934	movie	Just Like Us	Just Like Us	0	2023	\N	\N	Documentary
 tt22868936	movie	Fragrant Night	Fragrant Night	0	2023	\N	\N	Comedy,Horror
 tt22868994	movie	The Furies 2	The Furies 2	0	\N	\N	\N	Action,Horror,Thriller
 tt22869490	movie	Crakk - Jeethegaa Toh Jiyegaa!	Crakk - Jeethegaa Toh Jiyegaa!	0	\N	\N	\N	Action,Sport
@@ -539,6 +539,7 @@ tt22875880	movie	Date Night	Date Night	0	\N	\N	\N	Romance
 tt22875892	movie	Mommie	Mommie	0	\N	\N	\N	Thriller
 tt22876134	movie	Southumentary: The Untold Story of Gucci Mane, SYS & South Boy	Southumentary: The Untold Story of Gucci Mane, SYS & South Boy	0	\N	\N	\N	Documentary
 tt22876164	movie	Unaccompanied	Unaccompanied	0	2022	\N	11	Horror
+tt22876192	movie	The Rake	The Rake	0	2022	\N	15	Horror,Thriller
 tt22876230	movie	Untitled Adam Sandler/Safdie Brothers Project	Untitled Adam Sandler/Safdie Brothers Project	0	\N	\N	\N	\N
 tt22876252	movie	Dealer	Dealer	0	2012	\N	115	Drama
 tt22876420	movie	Mi Tierra Me Llama	Mi Tierra Me Llama	0	\N	\N	\N	Documentary
@@ -607,7 +608,7 @@ tt22889888	movie	The Unlock	The Unlock	0	\N	\N	\N	Thriller
 tt22889928	movie	The Radleys	The Radleys	0	\N	\N	\N	Comedy
 tt22889942	movie	Lillo e Greg Comedy Show	Lillo e Greg Comedy Show	0	2022	\N	83	Comedy
 tt22890018	movie	Come un padre	Come un padre	0	2022	\N	\N	Biography,Documentary,Sport
-tt22890060	movie	Rusalchin tizhden'	Rusalchin tizhden'	0	1988	\N	55	\N
+tt22890060	movie	Rusalchin tizhden'	Rusalchin tizhden'	0	1988	\N	55	Musical
 tt22890090	movie	Yunost komandirov	Yunost komandirov	0	1940	\N	81	Adventure,War
 tt22890210	movie	Liam Gallagher: Knebworth 22	Liam Gallagher: Knebworth 22	0	2022	\N	97	Documentary,Music
 tt22890246	movie	How to Have Sex	How to Have Sex	0	\N	\N	\N	\N
@@ -639,6 +640,7 @@ tt22893332	movie	Englandia	Englandia	0	\N	\N	\N	Family
 tt22893404	movie	Maria	Maria	0	\N	\N	\N	Biography,Drama
 tt22894680	movie	The way of Mizoguchi	The way of Mizoguchi	0	2022	\N	74	Documentary
 tt22896154	movie	Vasco Live - Circo Massimo Roma	Vasco Live - Circo Massimo Roma	0	2022	\N	\N	Music
+tt22896418	movie	Temporality in Movement	Temporality in Movement	0	2021	\N	6	\N
 tt22896422	movie	Dragonball Z: Forever	Dragonball Z: Forever	0	\N	\N	\N	Fantasy
 tt22896760	movie	Farming Without Harming (The Power of Regenerative Agriculture)	Farming Without Harming (The Power of Regenerative Agriculture)	0	2022	\N	68	Documentary
 tt22897072	movie	Moth and the Tattooed Girl	Moth and the Tattooed Girl	0	\N	\N	\N	Comedy
@@ -676,12 +678,14 @@ tt22898706	movie	Avarice	Avarice	0	\N	\N	\N	Thriller
 tt22898750	movie	Penance	Penance	0	\N	\N	\N	Crime,Thriller,Western
 tt22898956	movie	Kono ko kono haha	Kono ko kono haha	0	1954	\N	97	\N
 tt22899044	movie	A Time for Love: Summer of Violence	A Time for Love: Summer of Violence	0	\N	\N	\N	\N
+tt22899176	movie	JF-420 Shame! ! Maria Satonaka	JF-420 Shame! ! Maria Satonaka	1	1997	\N	55	Adult
 tt22899268	movie	King Solomon's Treasure	King Solomon's Treasure	0	2022	\N	108	Drama
+tt22899346	movie	In Fidelity	In Fidelity	0	2023	\N	\N	Drama
 tt22899358	movie	Universal Thread	Universal Thread	0	2022	\N	\N	Drama
 tt22899406	movie	Malice	Malice	0	\N	\N	\N	Documentary
 tt22899488	movie	Legend of Sherawali	Legend of Sherawali	0	\N	\N	\N	Adventure,Animation,Fantasy
 tt22899684	movie	Searching for America: Parts I & II	Searching for America: Parts I & II	0	\N	\N	\N	Documentary
+tt22899838	movie	En Sus Manos: Luis Valderrama Kehr	En Sus Manos: Luis Valderrama Kehr	0	\N	\N	55	Biography,Documentary,Drama
 tt22899864	movie	Hermanos Millar	Hermanos Millar	0	\N	\N	73	Biography,Comedy,Documentary
 tt22899888	movie	Vampires Take Over the World	Vampires Take Over the World	0	\N	\N	\N	Comedy,Horror
-tt22899904	movie	Forget Me Not	Forget Me Not	0	2022	\N	23	\N
 tt22899980	movie	Back from New York	Back from New York	0	2022	\N	63	Documentary
