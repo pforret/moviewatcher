@@ -1409,7 +1409,7 @@ tt2904566	tvEpisode	Episode #22.12	Episode #22.12	0	1979	\N	60	Music,Talk-Show
 tt2904570	tvSeries	Dog & Scissors	Inu to hasami wa tsukaiyô	0	2013	2013	24	Animation,Comedy
 tt2904578	tvEpisode	Les fantômes du passé	Les fantômes du passé	0	2013	\N	46	Drama,Mystery
 tt2904582	tvSeries	Kinmoza!	Kiniro Mosaic	0	2013	2013	25	Animation
-tt2904584	tvSeries	Osmanli Gurculeri	Osmanli Gurculeri	0	2013	2013	\N	Documentary
+tt2904584	tvSeries	Osmanli Gürcüleri	Osmanli Gürcüleri	0	2013	2013	\N	Documentary
 tt2904590	tvMovie	De balletmeesters	De balletmeesters	0	2012	\N	\N	Documentary
 tt2904596	tvSeries	Servant X Service	Servant X Service	0	2013	\N	23	Animation,Comedy
 tt2904606	tvSeries	Friday Night Lock In	Friday Night Lock In	0	2010	\N	\N	Game-Show,Talk-Show
@@ -4334,13 +4334,13 @@ tt2914380	tvEpisode	Autumn	Autumn	0	2013	\N	59	Adventure,Documentary
 tt2914382	tvEpisode	Summer	Summer	0	2013	\N	59	Adventure,Documentary
 tt2914384	tvEpisode	Spring	Spring	0	2013	\N	59	Adventure,Documentary
 tt2914398	tvEpisode	Carnisser	Carnisser	0	2013	\N	\N	\N
-tt2914402	tvEpisode	Sharing	Sharing	0	2013	\N	\N	Animation
+tt2914402	tvEpisode	Sharing	Sharing	0	2013	\N	\N	Animation,Family
 tt2914404	tvEpisode	Episode #2.5	Episode #2.5	0	2011	\N	22	Reality-TV
-tt2914406	tvEpisode	Others	Others	0	2013	\N	\N	Animation
-tt2914408	tvEpisode	Rules	Rules	0	2013	\N	\N	Animation
-tt2914412	tvEpisode	Mind	Mind	0	2013	\N	\N	Animation
+tt2914406	tvEpisode	Others	Others	0	2013	\N	\N	Animation,Family
+tt2914408	tvEpisode	Rules	Rules	0	2013	\N	\N	Animation,Family
+tt2914412	tvEpisode	Mind	Mind	0	2013	\N	\N	Animation,Family
 tt2914414	tvEpisode	Episode #2.6	Episode #2.6	0	2011	\N	22	Reality-TV
-tt2914416	tvEpisode	Infinity	Infinity	0	2013	\N	\N	Animation
+tt2914416	tvEpisode	Infinity	Infinity	0	2013	\N	\N	Animation,Family
 tt2914418	tvEpisode	Aflevering 33	Aflevering 33	0	2013	\N	\N	Drama
 tt2914420	tvEpisode	Episode #2.8	Episode #2.8	0	2011	\N	21	Reality-TV
 tt2914422	tvEpisode	Episode #1.8	Episode #1.8	0	2010	\N	21	Reality-TV
@@ -8837,14 +8837,14 @@ tt2928932	tvEpisode	Shellfish	Shellfish	0	\N	\N	\N	Reality-TV
 tt2928934	tvEpisode	In Bacon We Trust	In Bacon We Trust	0	2013	\N	\N	Reality-TV
 tt2928936	tvEpisode	Chaos at the Cove	Chaos at the Cove	0	2013	\N	\N	Documentary,Drama
 tt2928938	tvEpisode	Rip Current Rescue	Rip Current Rescue	0	2013	\N	\N	Documentary,Drama
-tt2928940	tvEpisode	Episode #1.1	Episode #1.1	0	2001	\N	\N	\N
-tt2928942	tvEpisode	Episode #1.39	Episode #1.39	0	2001	\N	\N	\N
+tt2928940	tvEpisode	Episode #1.1	Episode #1.1	0	2001	\N	\N	Drama
+tt2928942	tvEpisode	Episode #1.39	Episode #1.39	0	2001	\N	\N	Drama
 tt2928944	tvEpisode	Episode #1.1	Episode #1.1	0	1962	\N	45	\N
-tt2928946	tvEpisode	Episode #1.2	Episode #1.2	0	2001	\N	\N	\N
-tt2928948	tvEpisode	Episode #1.3	Episode #1.3	0	2001	\N	\N	\N
-tt2928950	tvEpisode	Episode #1.4	Episode #1.4	0	2001	\N	\N	\N
+tt2928946	tvEpisode	Episode #1.2	Episode #1.2	0	2001	\N	\N	Drama
+tt2928948	tvEpisode	Episode #1.3	Episode #1.3	0	2001	\N	\N	Drama
+tt2928950	tvEpisode	Episode #1.4	Episode #1.4	0	2001	\N	\N	Drama
 tt2928952	tvEpisode	Episode #1.1	Episode #1.1	0	1962	\N	25	Adventure,Drama,Thriller
-tt2928954	tvEpisode	Episode #1.5	Episode #1.5	0	2001	\N	\N	\N
+tt2928954	tvEpisode	Episode #1.5	Episode #1.5	0	2001	\N	\N	Drama
 tt2928958	tvEpisode	The Adventures of Bessie: Part 2	The Adventures of Bessie: Part 2	0	1962	\N	\N	Family
 tt2928960	tvSeries	Nouvelle Adresse	Nouvelle Adresse	0	2014	\N	\N	Drama
 tt2928962	tvSeries	The Upside of Down	The Upside of Down	0	2013	\N	\N	Comedy
@@ -26032,23 +26032,23 @@ tt2989958	tvEpisode	Episode #1.2	Episode #1.2	0	1962	\N	\N	Music
 tt2989962	tvEpisode	Episode dated 17 June 2013	Episode dated 17 June 2013	0	2013	\N	\N	Sci-Fi
 tt2989964	tvEpisode	Darmstadt - Aus Vergangenheit und Gegenwart einer hessischen Stadt	Darmstadt - Aus Vergangenheit und Gegenwart einer hessischen Stadt	0	1955	\N	\N	Documentary
 tt2989968	tvEpisode	Episode #1.1	Episode #1.1	0	1962	\N	\N	Music
-tt2989970	tvEpisode	Episode #1.7	Episode #1.7	0	2001	\N	\N	\N
+tt2989970	tvEpisode	Episode #1.7	Episode #1.7	0	2001	\N	\N	Drama
 tt2989972	tvEpisode	Episode #1.4	Episode #1.4	0	1963	\N	\N	Music
 tt2989974	tvEpisode	Episode #1.187	Episode #1.187	0	2004	\N	\N	Comedy,Romance
 tt2989980	tvEpisode	Episode #7.8	Episode #7.8	0	2012	\N	\N	Comedy,Reality-TV,Talk-Show
-tt2989984	tvEpisode	Episode #1.9	Episode #1.9	0	2001	\N	\N	\N
+tt2989984	tvEpisode	Episode #1.9	Episode #1.9	0	2001	\N	\N	Drama
 tt2989986	tvEpisode	Show No. 96	Show No. 96	0	1963	\N	25	Game-Show
-tt2989994	tvEpisode	Episode #1.6	Episode #1.6	0	2001	\N	\N	\N
+tt2989994	tvEpisode	Episode #1.6	Episode #1.6	0	2001	\N	\N	Drama
 tt2989998	tvEpisode	Köln - Alte Stadt, neues Leben	Köln - Alte Stadt, neues Leben	0	1955	\N	\N	Documentary
 tt2990002	tvEpisode	Bamboo	Bamboo	0	2013	\N	\N	Comedy
-tt2990004	tvEpisode	Episode #1.8	Episode #1.8	0	2001	\N	\N	\N
+tt2990004	tvEpisode	Episode #1.8	Episode #1.8	0	2001	\N	\N	Drama
 tt2990010	tvEpisode	Episode #1.186	Episode #1.186	0	2004	\N	\N	Comedy,Romance
 tt2990012	tvEpisode	Episode #1.189	Episode #1.189	0	2004	\N	\N	Comedy,Romance
 tt2990014	tvEpisode	Episode #1.188	Episode #1.188	0	2004	\N	\N	Comedy,Romance
 tt2990016	tvEpisode	Chapter 16	Chapter 16	0	2014	\N	51	Drama
 tt2990024	tvEpisode	Taylor Swift Spoof '22'	Taylor Swift Spoof '22'	0	2013	\N	\N	Comedy
 tt2990026	tvEpisode	Monkey Business	Monkey Business	0	2013	\N	\N	Comedy
-tt2990034	tvEpisode	Episode #1.10	Episode #1.10	0	2001	\N	\N	\N
+tt2990034	tvEpisode	Episode #1.10	Episode #1.10	0	2001	\N	\N	Drama
 tt2990036	tvEpisode	Episode dated 15 June 2013	Episode dated 15 June 2013	0	2013	\N	\N	News
 tt2990040	tvEpisode	Man with a Plan	Man with a Plan	0	2011	\N	\N	Comedy
 tt2990042	tvEpisode	Show No. 97	Show No. 97	0	1963	\N	25	Game-Show
