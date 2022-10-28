@@ -143,7 +143,7 @@ tt22813112	movie	Noryang: Jukeumeui Bada	Noryang	0	2023	\N	\N	Action
 tt22813200	movie	Geschlossene Gesellschaft - Schauspielende im Fegefeuer	Geschlossene Gesellschaft - Schauspielende im Fegefeuer	0	2022	\N	\N	Documentary,Drama
 tt22813228	movie	Good Grief	Good Grief	0	\N	\N	\N	Drama
 tt22813292	movie	The Heist Club	The Heist Club	0	\N	\N	\N	Action
-tt22813298	movie	Hijos del Viento	Hijos del Viento	0	2022	\N	\N	Documentary
+tt22813298	movie	Sons of the Wind	Hijos del Viento	0	2022	\N	98	Documentary
 tt22813306	movie	Los Angeles	Los Angeles	0	\N	\N	\N	Drama
 tt22813348	movie	Mahmood	Mahmood	0	2022	\N	\N	Biography,Documentary
 tt22813360	movie	High Life	High Life	0	2011	\N	85	Comedy,Romance
@@ -258,7 +258,7 @@ tt22849954	movie	Giants Even If They Die	Giants Even If They Die	0	2022	\N	108	D
 tt22850112	movie	Sleep No More	Sleep No More	0	2022	\N	87	Crime,Drama
 tt22850744	movie	The Hunted Woods	The Hunted Woods	0	2022	\N	106	Horror
 tt22851316	movie	Ne Fayda	Ne Fayda	0	1987	\N	85	Drama,Music,Romance
-tt22851376	movie	Samrat Lalitaditya	Samrat Lalitaditya	0	\N	\N	\N	Drama,History
+tt22851376	movie	The Legend King Lalitaditya	The Legend King Lalitaditya	0	\N	\N	\N	Drama,History
 tt22851796	movie	Fumbles	Fumbles	0	\N	\N	\N	Adventure,Biography,Comedy
 tt22852106	movie	La, I Love You	La, I Love You	0	\N	\N	\N	Romance
 tt22852560	movie	The Disappearance of Josef Mengele	The Disappearance of Josef Mengele	0	\N	\N	\N	Drama
@@ -311,7 +311,7 @@ tt22854872	movie	Beyond the Fire: Recovery	Beyond the Fire: Recovery	0	2022	\N	\
 tt22854874	movie	Farewell My Darling	Farewell My Darling	0	2021	\N	79	\N
 tt22855032	movie	Paisa	Paisa	0	2016	\N	\N	Crime,Drama,Thriller
 tt22855064	movie	The Closed Ward	The Closed Ward	0	2018	\N	111	Horror,Thriller
-tt22855072	movie	Batman: Taking Flight	Batman: Taking Flight	0	\N	\N	\N	Action,Crime,Fantasy
+tt22855072	movie	Batman: Taking Flight	Batman: Taking Flight	0	2022	\N	\N	Action,Crime,Fantasy
 tt22855164	movie	Juanita Nielsen Now	Juanita Nielsen Now	0	2022	\N	74	Documentary
 tt22855212	movie	Juana banana	Juana banana	0	2022	\N	80	Comedy,Drama
 tt22855310	movie	Azucar	Azucar	0	\N	\N	\N	Crime
@@ -369,6 +369,7 @@ tt22864250	movie	Yellow Passport (Passaporte Amarelo)	Yellow Passport (Passaport
 tt22864480	movie	Das kleine Umwelt 1x1	Das kleine Umwelt 1x1	0	2010	\N	\N	Action
 tt22864672	movie	Mateka	Mateka	0	2022	\N	\N	Adventure,Drama
 tt22864832	movie	Oder wie ich es sehen werde	Oder wie ich es sehen werde	0	1988	\N	\N	\N
+tt22864874	movie	Un mapa	Un mapa	0	2016	\N	\N	Documentary
 tt22864884	movie	The Mother Side of the Wake	The Mother Side of the Wake	0	\N	\N	\N	Documentary
 tt22864910	movie	Julie: A Summer Love Story	Julie: A Summer Love Story	0	2019	\N	48	Romance
 tt22865006	movie	The Soiled Doves of Tijuana	The Soiled Doves of Tijuana	0	2022	\N	82	Documentary
@@ -410,7 +411,6 @@ tt22867034	movie	France Na Fatakda	France Na Fatakda	0	\N	\N	\N	Comedy
 tt22867094	movie	Mission France	Mission France	0	\N	\N	\N	Thriller
 tt22867144	movie	The Fair Movie	The Fair Movie	0	2022	\N	45	Adventure
 tt22867148	movie	Drishyam (Gujarati)	Drishyam (Gujarati)	0	\N	\N	\N	Mystery
-tt22867186	movie	Atoll	Atoll	0	\N	\N	\N	Thriller
 tt22867196	movie	Trail of the Kiamichi Beast	Trail of the Kiamichi Beast	0	2023	\N	114	Adventure
 tt22867230	movie	Aristocracy	Aristocracy	0	\N	\N	\N	Drama
 tt22867256	movie	The Phantom	The Phantom	0	\N	\N	\N	Drama,Horror,Thriller
@@ -477,7 +477,7 @@ tt22871768	movie	D'origine allemande	D'origine allemande	0	2015	\N	52	Documentar
 tt22871888	movie	't Hooge Nest	't Hooge Nest	0	\N	\N	\N	History,Romance,War
 tt22871940	movie	The Potato Eaters	The Potato Eaters	0	\N	\N	\N	Comedy,Crime
 tt22871944	movie	Jab Hum Parhya Karte The	Jab Hum Parhya Karte The	0	2022	\N	\N	Comedy,Drama,Family
-tt22871958	movie	Treguas	Treguas	0	\N	\N	\N	Comedy
+tt22871958	movie	Treguas	Treguas	0	\N	\N	\N	Comedy,Drama,Romance
 tt22872188	movie	Dorbin	Dorbin	0	2014	\N	\N	Drama
 tt22872244	movie	Patan Thi Pakistan	Patan Thi Pakistan	0	2013	\N	\N	Drama
 tt22872250	movie	There Is a Stone	Ishi ga aru	0	2022	\N	104	Drama
@@ -566,7 +566,7 @@ tt22883440	movie	Shinjitsu no aijô o motomete: Izuko e	Shinjitsu no aijô o mot
 tt22883506	movie	Unwanted	Unwanted	0	\N	\N	\N	Western
 tt22883580	movie	Kôjô no tsuki	Kôjô no tsuki	0	1954	\N	98	\N
 tt22883640	movie	Aa Dôyamaru	Aa Dôyamaru	0	1954	\N	49	\N
-tt22883644	movie	Ride	Ride	0	2022	\N	108	Documentary
+tt22883644	movie	RIDE	RIDE	0	2022	\N	108	Documentary
 tt22883726	movie	Ryûko hachi tengu: Dainibu: Hiryû no maki	Ryûko hachi tengu: Dainibu: Hiryû no maki	0	1954	\N	49	\N
 tt22884216	movie	Tim Travers & the Time Travelers Paradox	Tim Travers & the Time Travelers Paradox	0	\N	\N	\N	Sci-Fi
 tt22884300	movie	Big Dark Energy	Big Dark Energy	0	2022	\N	\N	Comedy,Sci-Fi
@@ -588,7 +588,7 @@ tt22888758	movie	The Flying Scotsman - 100th Anniversary	The Flying Scotsman - 1
 tt22888800	movie	L'Abondance	L'Abondance	0	2013	\N	\N	Documentary
 tt22888822	movie	Malmö Noir	Malmö Noir	0	2022	\N	92	Crime
 tt22888888	movie	People of War!	People of War!	0	\N	\N	84	Documentary
-tt22888902	movie	Bungalow	Bungalow	0	2022	\N	96	Comedy
+tt22888902	movie	Bungalow	Bungalow	0	2022	\N	101	Comedy
 tt22888912	movie	Pigman	Pigman	0	\N	\N	\N	Horror
 tt22888926	movie	Turning Tables	Turning Tables	0	2020	\N	\N	Drama
 tt22888928	movie	Ente Meera	Ente Meera	0	2020	\N	120	Romance

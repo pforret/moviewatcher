@@ -2,7 +2,7 @@ tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMin
 tt3400000	movie	Black Russians: The Red Experience	Black Russians: The Red Experience	0	\N	\N	\N	Documentary
 tt3400046	movie	El día fuera del tiempo	El día fuera del tiempo	0	2014	\N	\N	Crime
 tt3400058	movie	The Shelter	The Shelter	0	2015	\N	76	Drama,Horror,Thriller
-tt3400060	movie	Piranha Sharks	Piranha Sharks	0	2016	\N	79	Action,Comedy,Drama
+tt3400060	movie	Piranha Sharks	Piranha Sharks	0	2017	\N	79	Action,Comedy,Drama
 tt3400074	movie	Manila: No Limitations	Manila: No Limitations	0	2014	\N	91	Adventure,Documentary,Music
 tt3400150	movie	Zordon of Eltar	Zordon of Eltar	0	2015	\N	50	Action,Fantasy,Sci-Fi
 tt3400172	movie	Room 311	Room 311	0	2015	\N	\N	Horror
@@ -598,7 +598,7 @@ tt3416648	movie	Hanagasa dochu	Hanagasa dochu	0	1962	\N	84	Adventure,Drama,Music
 tt3416660	movie	The Transparentsea Voyage	The Transparentsea Voyage	0	2013	\N	65	Adventure,Documentary,Music
 tt3416664	movie	Poe	Poe	0	\N	\N	\N	Biography,Drama
 tt3416668	movie	Sovereign	Sovereign	0	\N	\N	\N	Sci-Fi,Thriller
-tt3416670	movie	The Independent	The Independent	0	\N	\N	\N	Thriller
+tt3416670	movie	The Independent	The Independent	0	2022	\N	\N	Thriller
 tt3416674	movie	Shovel Buddies	Shovel Buddies	0	2016	\N	85	Drama
 tt3416700	movie	Anatomy of a Building	Anatomy of a Building	0	\N	\N	\N	Documentary
 tt3416738	movie	Beaten Path	Beaten Path	0	\N	\N	\N	Adventure,Drama
@@ -1095,7 +1095,7 @@ tt3429036	movie	Songs to Keep: Treasures of an Adirondack Folk Collector	Songs t
 tt3429044	movie	It's a Women's World	Nu ren shi jie	0	1939	\N	\N	Drama
 tt3429156	movie	Wuyi Dui	Wuyi Dui	0	1939	\N	\N	Comedy
 tt3429184	movie	The Adventures of Fong Sai-yuk, Part Two	The Adventures of Fong Sai-yuk, Part Two	0	1939	\N	\N	\N
-tt3429298	movie	Çilgin Dersane 3	Çilgin Dersane 3	0	2014	\N	104	Comedy
+tt3429298	movie	The Class 3	Çilgin Dersane 3	0	2014	\N	104	Comedy
 tt3429302	movie	Puttintiki Raa Chelli	Puttintiki Raa Chelli	0	2004	\N	\N	Family
 tt3429322	movie	Calomnies	Calomnies	0	2014	\N	80	Comedy
 tt3429340	movie	Zona Zamfirova 2	Zona Zamfirova-drugi deo	0	2017	\N	90	Drama,Romance
@@ -1119,7 +1119,7 @@ tt3429670	movie	Union Square	Union Square	0	\N	\N	\N	Comedy
 tt3429672	movie	Apes and Angels	Apes and Angels	0	\N	\N	\N	Drama
 tt3429676	movie	Better Watch Out	Better Watch Out	0	\N	\N	\N	Comedy
 tt3429678	movie	St. Benedict, the Man of God	St. Benedict, the Man of God	0	\N	\N	\N	Biography,Drama,History
-tt3429692	movie	Lake of Fire	Lake of Fire	0	\N	\N	\N	Drama,Family,Music
+tt3429692	movie	Lake of Fire	Lake of Fire	0	2020	\N	\N	Drama,Family,Music
 tt3429740	movie	Wild Africa 3D an Extraordinary Journey	Wild Africa 3D: An Extraordinary Journey	0	2013	\N	50	Documentary
 tt3429758	movie	Pop Star Puppy	Pop Star Puppy	0	2014	\N	82	Family
 tt3429772	movie	The Ambassador	The Ambassador	0	\N	\N	\N	Comedy
@@ -1421,7 +1421,7 @@ tt3437882	movie	Utsukushiki wakare no uta	Utsukushiki wakare no uta	0	1960	\N	\N
 tt3437888	movie	Zhen zhu lei	Zhen zhu lei	0	1939	\N	\N	Drama
 tt3437890	movie	Breaking Though the Bronze Net	Breaking Though the Bronze Net	0	1939	\N	\N	Drama
 tt3437892	movie	Malibu Crush	Malibu Crush	0	2022	\N	\N	Comedy
-tt3437898	movie	The Silent Killer: Prostate Cancer in the African American Community	The Silent Killer: Prostate Cancer in the African American Community	0	2017	\N	68	Biography,Documentary,Drama
+tt3437898	movie	The Silent Killer: Prostate Cancer in the African American Community	The Silent Killer: Prostate Cancer in the African American Community	0	2017	\N	85	Biography,Documentary,Drama
 tt3437904	movie	Xu Niuwenchai	Xu Niuwenchai	0	1939	\N	\N	Comedy
 tt3437924	movie	Kou Huahua	Kou Huahua	0	1939	\N	\N	Romance
 tt3437996	movie	Five-O	Five-O	0	2016	\N	110	Action,Comedy
@@ -1734,7 +1734,7 @@ tt3447462	movie	Sexual Secrets	Sexual Secrets	0	2014	\N	87	Drama,Mystery,Romance
 tt3447554	movie	Little Heroes	Little Heroes	0	2013	\N	51	Biography,Documentary,Family
 tt3447558	movie	Hemingway	Hemingway	0	2015	\N	\N	Documentary
 tt3447570	movie	Terra Lliure, punt final	Terra Lliure, punt final	0	2007	\N	\N	History
-tt3447590	movie	Matilda the Musical	Roald Dahl's Matilda the Musical	0	2022	\N	117	Comedy,Drama,Family
+tt3447590	movie	Matilda: The Musical	Roald Dahl's Matilda the Musical	0	2022	\N	117	Comedy,Drama,Family
 tt3447654	movie	Ancora do Marujo	Ancora do Marujo	0	2013	\N	72	Documentary,Drama,Music
 tt3447676	movie	Lonesome Dove Church	Lonesome Dove Church	0	2014	\N	89	History,Western
 tt3447712	movie	Not Without My Dogs	Not Without My Dogs	0	2013	\N	93	Adventure,Documentary,Family
@@ -2594,7 +2594,7 @@ tt3469716	movie	Huoshao shishi	Huoshao shishi	0	1939	\N	\N	Drama
 tt3469718	movie	Fishing Without Nets	Fishing Without Nets	0	2014	\N	109	Drama,Thriller
 tt3469720	movie	Bellany: Fire in the Blood	Bellany: Fire in the Blood	0	2010	\N	60	Documentary
 tt3469734	movie	Zhong Kui zhuo gui	Zhong Kui zhuo gui	0	1939	\N	\N	Fantasy
-tt3469798	movie	Órbita 9	Órbita 9	0	2017	\N	95	Drama,Romance,Sci-Fi
+tt3469798	movie	Órbita 9	Órbita 9	0	2017	\N	95	Drama,Sci-Fi,Thriller
 tt3469812	movie	Oliver Rocket	Oliver Rocket	0	2016	\N	\N	\N
 tt3469874	movie	Amelie's Party	Amelie's Party	0	2014	\N	\N	Comedy
 tt3469892	movie	Untitled Hyperlink Zombie Movie	Untitled Hyperlink Zombie Movie	0	\N	\N	\N	Action,Adventure,Horror

@@ -1,5 +1,5 @@
 nconst	primaryName	birthYear	deathYear	primaryProfession	knownForTitles
-nm14160002	Katelyn Gutierrez	\N	\N	actor	\N
+nm14160002	Katelyn Gutierrez	\N	\N	actor	tt14674812,tt21927250
 nm14160003	Hokurokkubi	\N	\N	music_department	tt21345876
 nm14160004	Horii Ageha	\N	\N	music_department	tt21345876
 nm14160005	Eto Daigo	\N	\N	music_department	tt21345876
@@ -7,7 +7,7 @@ nm14160006	Jameson Randall	\N	\N	camera_department	\N
 nm14160007	Christopher Hammontree	\N	\N	editorial_department	\N
 nm14160009	Sarah Alexander	\N	\N	miscellaneous	tt22085978
 nm14160010	Michael Cook	\N	\N	miscellaneous	tt22085978
-nm14160011	Kiera	\N	\N		tt12803984,tt9458840
+nm14160011	Kiera	\N	\N		tt9458840,tt12803984
 nm14160012	M.A. Shaikh	\N	\N		\N
 nm14160016	Julian Martinez-Perez	\N	\N		\N
 nm14160019	Jack Foley	\N	\N		\N
@@ -38,8 +38,8 @@ nm14160043	Manasan Gino	\N	\N	visual_effects	tt15483602
 nm14160044	Liang Yin	\N	\N	visual_effects	tt15483602
 nm14160045	Yushiro Abe	\N	\N	visual_effects	tt15483602
 nm14160046	Huang Xin	\N	\N	visual_effects	tt15483602
-nm14160047	Nanny A	\N	\N	actress	\N
-nm14160048	Jazling Perez	\N	\N	actress	\N
+nm14160047	Nanny A	\N	\N	actress	tt22876880
+nm14160048	Jazling Perez	\N	\N	actress	tt22876880
 nm14160052	Trent Schlesinger	\N	\N	sound_department	\N
 nm14160053	Corey Piazza	\N	\N	actor	\N
 nm14160054	Evgeniy Marfel	\N	\N	camera_department	\N
@@ -59,7 +59,7 @@ nm14160068	Yoni Shalom	\N	\N	animation_department	tt14556544
 nm14160069	Rich Baniewicz	\N	\N	producer	tt0103400
 nm14160070	Léa Tilliet	\N	\N	art_director	tt22854268
 nm14160071	Shuyue Su	\N	\N	director,writer,producer	tt22883566
-nm14160072	Jade Kelly	\N	\N		\N
+nm14160072	Jade Kelly	\N	\N	actress	tt15975122
 nm14160073	Lori Ann Smith	\N	\N		\N
 nm14160074	Kyle Craig	\N	\N	actor	\N
 nm14160075	Alaina Nunnally	\N	\N	actress	\N
@@ -111,7 +111,7 @@ nm14160120	Bob Johnson	\N	\N		\N
 nm14160121	Michael Kohl	\N	\N	actor	\N
 nm14160123	Narcisa Cvitanovic	\N	\N		\N
 nm14160124	Viktor Korovin	\N	\N	actor	\N
-nm14160125	Takako Hikita	\N	\N	producer	\N
+nm14160125	Takako Hikita	\N	\N	producer	tt3814338,tt1647443
 nm14160126	Ziyun Xiong	\N	\N	actor	\N
 nm14160127	Susan Yule	\N	\N	actress	tt5910664
 nm14160128	Tyler Dunne	\N	\N		\N
@@ -126,15 +126,15 @@ nm14160136	Samuel Conrad	\N	\N	actor	\N
 nm14160137	Jamie Jones	\N	\N	actor	\N
 nm14160138	Jeanne Devis	\N	\N	editor	tt22873980
 nm14160139	Bettina Hofmann	\N	\N	producer	tt22873980
-nm14160141	Kaori Nakamura	\N	\N	visual_effects	tt2549540,tt3257582
-nm14160142	Shiori Yoshida	\N	\N	visual_effects	tt2549540,tt3257582
+nm14160141	Kaori Nakamura	\N	\N	visual_effects	tt3257582,tt2549540
+nm14160142	Shiori Yoshida	\N	\N	visual_effects	tt3257582,tt2549540
 nm14160143	Alejandro González Fiel	\N	\N	producer,miscellaneous	\N
 nm14160144	David Rodriguez	\N	\N	animation_department,art_department	tt22881990
-nm14160145	Emma Salamanca	\N	\N	art_department	\N
-nm14160146	Eric Ribé	\N	\N	art_department	\N
+nm14160145	Emma Salamanca	\N	\N	art_department	tt22881990
+nm14160146	Eric Ribé	\N	\N	art_department	tt22881990
 nm14160147	Juan Fernández	\N	\N	art_department	tt22881990
 nm14160148	Miguel Herrero	\N	\N	art_department,sound_department,miscellaneous	\N
-nm14160149	Corentin Marteau	\N	\N	miscellaneous	\N
+nm14160149	Corentin Marteau	\N	\N	miscellaneous	tt22881990
 nm14160150	DJ Boat	\N	\N		\N
 nm14160151	Mohammad Ali Sajjadi	\N	\N		\N
 nm14160152	Haowei Han	\N	\N	miscellaneous	\N
@@ -153,7 +153,7 @@ nm14160164	David Malingha	\N	\N		\N
 nm14160165	Kanyi Lui	\N	\N	actor	\N
 nm14160166	Blake Berger	\N	\N		\N
 nm14160167	William Clowes	\N	\N		\N
-nm14160168	Chris Davies	\N	\N		\N
+nm14160168	Chris Davies	\N	\N		tt22882036
 nm14160169	Martin Willis	\N	\N		\N
 nm14160170	Mikhail Kheifits	\N	\N	art_department	tt0049397
 nm14160171	Sorah Eun	\N	\N	composer	tt14471016
@@ -207,14 +207,14 @@ nm14160219	Max Crutchfield	\N	\N		\N
 nm14160220	Andree Peyre	\N	\N	actress	\N
 nm14160221	Anthony Smith	\N	\N		\N
 nm14160222	Iris Mariño	\N	\N		\N
-nm14160223	Maykel González González	\N	\N		\N
-nm14160224	Augusto César San Martin	\N	\N		\N
+nm14160223	Maykel González González	\N	\N		tt22882452
+nm14160224	Augusto César San Martin	\N	\N		tt22882452
 nm14160225	Saimi Reyes	\N	\N		\N
 nm14160226	Manuel Alejandro León Velázquez	\N	\N		\N
 nm14160227	Henry Constantín Ferreiro	\N	\N	producer	\N
 nm14160228	Chelsie Faye	\N	\N	actress	\N
 nm14160229	Binh Tran	\N	\N		\N
-nm14160230	Atoy Wilon	\N	\N	miscellaneous	\N
+nm14160230	Atoy Wilon	\N	\N	miscellaneous	tt8129006,tt1561755
 nm14160231	Letícia Escobar	\N	\N		\N
 nm14160233	Jamil Lawson	\N	\N	actor	tt22882526
 nm14160234	Princeton Dent	\N	\N	actor	tt22882526
@@ -252,7 +252,7 @@ nm14160266	713Bran	\N	\N	director	\N
 nm14160267	Big Teezo	\N	\N	actor	\N
 nm14160271	Mehraneh Salimian	\N	\N	director	\N
 nm14160272	Hamid Bassereh	\N	\N	cinematographer	\N
-nm14160273	Justin DiFiore	\N	\N	miscellaneous	\N
+nm14160273	Justin DiFiore	\N	\N	miscellaneous	tt14367168,tt13821126
 nm14160274	Emily Gottlich	\N	\N		\N
 nm14160280	Fielle Peregrino	\N	\N		\N
 nm14160281	Stephany Uy	\N	\N		\N
@@ -329,7 +329,7 @@ nm14160352	Marc Sison	\N	\N	miscellaneous	\N
 nm14160353	Paqui Méndez	\N	\N	director	\N
 nm14160354	Katiana Sarkissian	\N	\N	miscellaneous	\N
 nm14160355	James Dawson	\N	\N	actor	tt22882806
-nm14160356	Crease Reese	\N	\N	music_department	tt10655260,tt18327652
+nm14160356	Crease Reese	\N	\N	music_department	tt18327652,tt10655260
 nm14160357	Lexie A.	\N	\N	actress	\N
 nm14160358	Sam Gunn	\N	\N	editor	tt18547636
 nm14160359	Jennifer Cursio	\N	\N	producer	tt18547636
@@ -365,18 +365,18 @@ nm14160390	Agni Malik-Ali	\N	\N	actor	tt5910664
 nm14160391	O'Malley	\N	\N		\N
 nm14160392	Jacqueline Cortes Santoyo	\N	\N	editorial_department	\N
 nm14160393	Laura McCormack	\N	\N	miscellaneous	\N
-nm14160394	Cham Harrison	\N	\N	miscellaneous	tt5315212,tt9357050,tt8851148,tt11057226
+nm14160394	Cham Harrison	\N	\N	miscellaneous	tt11057226,tt9357050,tt8851148,tt5315212
 nm14160395	Matthew Todd	\N	\N	camera_department	\N
 nm14160396	Finn Yemini	\N	\N	actor	\N
 nm14160397	Christian Bunge	\N	\N	actor	\N
 nm14160398	John Gillis	\N	\N	actor	\N
 nm14160399	William Elwell	\N	\N	actor	\N
-nm14160400	David Gurtz	\N	\N	actor	tt20357062,tt22868448
+nm14160400	David Gurtz	\N	\N	actor	tt22868448,tt20357062
 nm14160401	Klaus Schiermann	\N	\N	actor	\N
 nm14160402	Raúl Baena	\N	\N	actor	\N
 nm14160403	Minerva Rea	\N	\N	actress	\N
 nm14160404	Elynor Grada	\N	\N	actress	\N
-nm14160406	Rav Bhullar	\N	\N		tt21364468
+nm14160406	Rav Bhullar	\N	\N		tt21364468,tt2337840
 nm14160408	Jelizaveta Zukova	2003	\N		\N
 nm14160409	Martin Bidar	1999	\N		tt12747694
 nm14160411	Sam Records	\N	\N		\N
@@ -454,14 +454,14 @@ nm14160488	Bente Vikman	\N	\N	actor	tt18816518
 nm14160489	Johan Alfredsson	\N	\N	actor	tt18816518
 nm14160490	Hannah Hummel	\N	\N	actress	\N
 nm14160491	Enaitz Greaney	\N	\N	actor	\N
-nm14160492	John Collins	\N	\N		\N
+nm14160492	John Collins	\N	\N		tt0266154
 nm14160493	Mitch Lewis	\N	\N	actor	\N
 nm14160494	Mike Hambright	\N	\N		\N
 nm14160495	Travis Johnson	\N	\N		\N
 nm14160496	Ryan Garcilazo	\N	\N		\N
 nm14160497	Joe Marques	\N	\N		\N
 nm14160498	Jon Nolen	\N	\N		\N
-nm14160499	Stefano Civitenga	\N	\N	sound_department	tt15192334,tt9503552,tt5335476,tt15211828
+nm14160499	Stefano Civitenga	\N	\N	sound_department	tt15192334,tt15211828,tt9503552,tt5335476
 nm14160500	Sienna Miller	\N	\N	actress	\N
 nm14160501	Shannon Ryan	\N	\N	actress	\N
 nm14160502	Evan Canham	\N	\N	art_department	tt22085978
@@ -491,7 +491,7 @@ nm14160525	Macthat Mokoko	\N	\N	actress	\N
 nm14160526	Adolf Moh	\N	\N	actor	\N
 nm14160527	Taeh Makoli	\N	\N	actor	\N
 nm14160528	Nicole Helmin Enjema	\N	\N	actress	\N
-nm14160529	Annie Hudson	\N	\N	actress,make_up_department	\N
+nm14160529	Annie Hudson	\N	\N	actress,make_up_department	tt22883062
 nm14160530	Stephen Lyonga	\N	\N	actor	\N
 nm14160531	Pamela Lucie Djombe	\N	\N	actress	\N
 nm14160532	Acha Emmanuel	\N	\N	actor	\N
@@ -561,7 +561,7 @@ nm14160598	Leia Schierbeck	\N	\N	actress	\N
 nm14160599	J. Anzio Harris	\N	\N	actor,producer	\N
 nm14160601	Slaven Kovacevic	\N	\N		\N
 nm14160602	Vlastimir Radenovic	\N	\N		\N
-nm14160603	Aamna Sharif	\N	\N	actress	\N
+nm14160603	Aamna Sharif	1972	\N	actress	\N
 nm14160604	Keerti Gaekwad	\N	\N	actress	\N
 nm14160605	Gauri Pradhan	\N	\N	actress	\N
 nm14160606	Adaa Khan	\N	\N	actress	\N
@@ -606,7 +606,7 @@ nm14160653	LaKeya Mason	\N	\N	assistant_director	\N
 nm14160654	Nic Coole	\N	\N	art_department	\N
 nm14160655	Ed Sobey	\N	\N	miscellaneous	\N
 nm14160656	Jason T Smith	\N	\N		tt8806252,tt11951922
-nm14160657	Silvio Pellacani Jr.	\N	\N	music_department	tt16246260,tt16427902,tt15847542,tt21265550
+nm14160657	Silvio Pellacani Jr.	\N	\N	music_department	tt16427902,tt16282866,tt16246260,tt15863594
 nm14160658	Keziah Hodgson	\N	\N	actor	\N
 nm14160659	Leigh	\N	\N	actor	tt22883226
 nm14160660	Aamir Hira	\N	\N	composer	\N
@@ -729,7 +729,7 @@ nm14160779	Carrigan Tuliau	\N	\N		\N
 nm14160780	George Tuliau	\N	\N		\N
 nm14160781	Jeffrey Behm	\N	\N		\N
 nm14160782	Chris Roselli	\N	\N		\N
-nm14160783	Aamna Sharif	\N	\N		\N
+nm14160783	Aamna Sharif	1972	\N		\N
 nm14160785	Gauri Pradhan	\N	\N		\N
 nm14160786	Hansika Motwani	\N	\N		\N
 nm14160787	Chandni Bhagwanani	\N	\N		\N
@@ -792,19 +792,19 @@ nm14160844	Colin Willoughby	\N	\N		tt22883644
 nm14160845	Mark Post	\N	\N		tt22883644
 nm14160846	Anthony Dean	\N	\N		tt22883644
 nm14160847	Jason Carnes	\N	\N		tt22883644
-nm14160848	Lauren Reynolds	\N	\N		\N
-nm14160849	Reece Homfrey	\N	\N		\N
-nm14160850	Nate Willoughby	\N	\N		\N
-nm14160851	Sean Dwight	\N	\N		\N
+nm14160848	Lauren Reynolds	\N	\N		tt22883644
+nm14160849	Reece Homfrey	\N	\N		tt22883644
+nm14160850	Nate Willoughby	\N	\N		tt22883644
+nm14160851	Sean Dwight	\N	\N		tt22883644
 nm14160852	Robert Barker	\N	\N		tt22883644
-nm14160853	James Ward	\N	\N	producer	\N
-nm14160854	Sophie Payten	\N	\N	composer	\N
-nm14160855	Robbie Davies	\N	\N	cinematographer	\N
-nm14160856	John Reynolds	\N	\N	cinematographer	\N
-nm14160857	Jim Kenney	\N	\N	cinematographer	\N
-nm14160858	Samuel Dennis	\N	\N	cinematographer	\N
-nm14160859	Corrine Walder	\N	\N	cinematographer	\N
-nm14160860	Nick Campbell	\N	\N	cinematographer	\N
+nm14160853	James Ward	\N	\N	producer	tt22883644
+nm14160854	Sophie Payten	\N	\N	composer	tt22883644
+nm14160855	Robbie Davies	\N	\N	cinematographer	tt22883644
+nm14160856	John Reynolds	\N	\N	cinematographer	tt22883644
+nm14160857	Jim Kenney	\N	\N	cinematographer	tt22883644
+nm14160858	Samuel Dennis	\N	\N	cinematographer	tt22883644
+nm14160859	Corrine Walder	\N	\N	cinematographer	tt22883644
+nm14160860	Nick Campbell	\N	\N	cinematographer	tt22883644
 nm14160861	Tom Goss	\N	\N	actor	\N
 nm14160862	Samuel Perry	\N	\N		\N
 nm14160864	Phil Lee	\N	\N	art_department	\N
@@ -836,53 +836,53 @@ nm14160895	Qun Li	\N	\N	art_department	tt20617036
 nm14160896	Chengjie Deng	\N	\N		\N
 nm14160897	Qian Huang	\N	\N	art_department	tt20617036
 nm14160898	Haiyang Tan	\N	\N		\N
-nm14160899	Stamma Gramma	1991	\N	producer,actor,writer	tt4574334,tt11198330
+nm14160899	Stamma Gramma	1991	\N	producer,actor,writer	tt11198330,tt4574334
 nm14160900	Olivia Shroder	\N	\N		\N
 nm14160901	Shishir Sharma	\N	\N	actor	tt17593228
 nm14160902	Ken Kleish	\N	\N		tt22479892
 nm14160903	Daniel Martiez	\N	\N		tt22479892
 nm14160906	Rick Stephenson	\N	\N		\N
 nm14160907	Henry Gustafson	\N	\N		\N
-nm14160908	Michael Belicose	\N	\N		\N
-nm14160909	Phallon Adriana	\N	\N		\N
-nm14160910	Sara Belicose	\N	\N		\N
-nm14160911	Uncle Wayne	\N	\N		\N
-nm14160912	Thomas Burke Jr.	\N	\N		\N
-nm14160913	Kimberly Gharbi	\N	\N		\N
-nm14160914	Christian Cordes	\N	\N		\N
-nm14160915	Derek Berry	\N	\N		\N
-nm14160916	Nate Gonzales	\N	\N		\N
-nm14160917	Anthony Perry	\N	\N		\N
-nm14160918	Joseph Digennaro	\N	\N		\N
-nm14160919	James McDonald	\N	\N		\N
-nm14160920	Cindy Sue Miller	\N	\N		\N
-nm14160921	Micah Miller Greenburg	\N	\N		\N
-nm14160922	Shannon Scheffling	\N	\N		\N
-nm14160923	Julian Babel	\N	\N		\N
+nm14160908	Michael Belicose	\N	\N		tt11128440
+nm14160909	Phallon Adriana	\N	\N		tt11128440
+nm14160910	Sara Belicose	\N	\N		tt11128440
+nm14160911	Uncle Wayne	\N	\N		tt11128440
+nm14160912	Thomas Burke Jr.	\N	\N		tt11128440
+nm14160913	Kimberly Gharbi	\N	\N		tt11128440
+nm14160914	Christian Cordes	\N	\N		tt11128440
+nm14160915	Derek Berry	\N	\N		tt11128440
+nm14160916	Nate Gonzales	\N	\N		tt11128440
+nm14160917	Anthony Perry	\N	\N		tt11128440
+nm14160918	Joseph Digennaro	\N	\N		tt11128440
+nm14160919	James McDonald	\N	\N		tt11128440
+nm14160920	Cindy Sue Miller	\N	\N		tt11128440
+nm14160921	Micah Miller Greenburg	\N	\N		tt11128440
+nm14160922	Shannon Scheffling	\N	\N		tt11128440
+nm14160923	Julian Babel	\N	\N		tt11128440
 nm14160924	Malcolm Baldwin	\N	\N	actor	tt11128440
-nm14160925	Tara Berson	\N	\N		\N
-nm14160926	Zhavier Bonds	\N	\N		\N
-nm14160927	Kimberly Carter	\N	\N		\N
-nm14160928	Gregory Chwatko	\N	\N		\N
-nm14160929	Frank Citara	\N	\N		\N
+nm14160925	Tara Berson	\N	\N		tt11128440
+nm14160926	Zhavier Bonds	\N	\N		tt11128440
+nm14160927	Kimberly Carter	\N	\N		tt11128440
+nm14160928	Gregory Chwatko	\N	\N		tt11128440
+nm14160929	Frank Citara	\N	\N		tt11128440
 nm14160930	Christopher Cullen	\N	\N	actor	tt11128440
-nm14160931	Carol Driscoll	\N	\N		\N
-nm14160932	Kaylin Harper	\N	\N		\N
-nm14160933	Alfonso Jones	\N	\N		\N
-nm14160934	Robert Mangold	\N	\N		\N
-nm14160935	Stephan Masnyj	\N	\N		\N
-nm14160936	Caitlin Miller	\N	\N		\N
-nm14160937	David Miller	\N	\N		\N
-nm14160938	Luke Miller	\N	\N		\N
-nm14160939	Ryan Pidor	\N	\N		\N
-nm14160940	Constance Porcellini	\N	\N		\N
-nm14160941	William Reichert	\N	\N		\N
-nm14160942	Lois Sach	\N	\N		\N
-nm14160943	Robert Senkewicz	\N	\N		\N
-nm14160944	Gary Sypniewski	\N	\N		\N
-nm14160945	Aisha Sycamore	\N	\N		\N
-nm14160946	Steffen Klenk	\N	\N		\N
-nm14160947	James Seip	\N	\N		\N
+nm14160931	Carol Driscoll	\N	\N		tt11128440
+nm14160932	Kaylin Harper	\N	\N		tt11128440
+nm14160933	Alfonso Jones	\N	\N		tt11128440
+nm14160934	Robert Mangold	\N	\N		tt11128440
+nm14160935	Stephan Masnyj	\N	\N		tt11128440
+nm14160936	Caitlin Miller	\N	\N		tt11128440
+nm14160937	David Miller	\N	\N		tt11128440
+nm14160938	Luke Miller	\N	\N		tt11128440
+nm14160939	Ryan Pidor	\N	\N		tt11128440
+nm14160940	Constance Porcellini	\N	\N		tt11128440
+nm14160941	William Reichert	\N	\N		tt11128440
+nm14160942	Lois Sach	\N	\N		tt11128440
+nm14160943	Robert Senkewicz	\N	\N		tt11128440
+nm14160944	Gary Sypniewski	\N	\N		tt11128440
+nm14160945	Aisha Sycamore	\N	\N		tt11128440
+nm14160946	Steffen Klenk	\N	\N		tt11128440
+nm14160947	James Seip	\N	\N		tt11128440
 nm14160948	Dietbert Gütter	\N	\N		\N
 nm14160949	Ralf Weber	\N	\N		tt22883956
 nm14160950	Uwe Penckert	\N	\N		\N
@@ -969,7 +969,7 @@ nm14161040	Cécile Soulier	\N	\N	miscellaneous	\N
 nm14161041	Stéphanie Bolla	\N	\N	miscellaneous	\N
 nm14161042	Morph Orchid	\N	\N	composer	tt22884170
 nm14161043	Abby Hains	\N	\N	miscellaneous	\N
-nm14161044	Can Azbazdar	\N	\N	music_department	tt13320622,tt14016298
+nm14161044	Can Azbazdar	\N	\N	music_department	tt14016298,tt13320622
 nm14161045	Keka Heron	\N	\N	make_up_department	\N
 nm14161046	Chante Turner	\N	\N	miscellaneous	\N
 nm14161047	Racheal Stanley	\N	\N		\N
@@ -1041,7 +1041,6 @@ nm14161114	Elizabeth Bruso	\N	\N	actor	\N
 nm14161115	Nicholas Chamberlain	\N	\N	miscellaneous	tt22884284
 nm14161116	Gold Gad	\N	\N	actor	\N
 nm14161117	Josianne Ryan	\N	\N	script_department	\N
-nm14161118	Gabe W	\N	\N		\N
 nm14161119	Lisa Marie Washington	\N	\N	make_up_department	\N
 nm14161120	Maïa Pons	\N	\N	camera_department	\N
 nm14161121	Thorn	\N	\N		\N
@@ -1058,7 +1057,7 @@ nm14161133	Matt Engel	\N	\N	camera_department	tt22884186
 nm14161134	Steve Black	\N	\N	sound_department	tt22884186
 nm14161135	Chad Taylor	\N	\N	miscellaneous	tt22884186
 nm14161136	Fitesa Dobraj	\N	\N	miscellaneous	\N
-nm14161137	Paola Orellana	\N	\N	actress	tt4067372,tt7122438,tt5908004,tt6645602
+nm14161137	Paola Orellana	\N	\N	actress	tt5908004,tt7122438,tt6645602,tt4067372
 nm14161138	Nicolas Patrick Brown	\N	\N		\N
 nm14161144	Andrew Roberts	\N	\N	animation_department	\N
 nm14161145	Emma Green	\N	\N	animation_department	\N
@@ -1094,7 +1093,7 @@ nm14161174	Latasha Jackson	\N	\N	actress	\N
 nm14161175	Austin Jax	\N	\N	actor	\N
 nm14161176	Kelsie Hall	\N	\N	actress	\N
 nm14161177	Sudarshan Sindhuvalli	\N	\N	writer,producer	\N
-nm14161178	Dick Stevens	\N	\N	assistant_director	tt0468242
+nm14161178	Dick Stevens	\N	\N	assistant_director	tt0787171,tt0468242
 nm14161179	Samadhan Baliram Sidhganesh	\N	\N	director,writer,composer	\N
 nm14161180	Satish Singh	\N	\N	actor	\N
 nm14161181	Sajiri Sanjay Khirid	\N	\N	actress	\N
@@ -1121,8 +1120,8 @@ nm14161203	Elizabeth Smith	\N	\N	casting_department	tt0252993
 nm14161204	Suzanne Bignon	\N	\N	miscellaneous	tt0252993
 nm14161205	Elizabeth Rice	\N	\N	miscellaneous	tt0252993
 nm14161206	Tam Tamico	\N	\N		\N
-nm14161207	LilDelo	\N	\N	actor	\N
-nm14161208	LilChris	\N	\N	actor	\N
+nm14161207	LilDelo	\N	\N	actor	tt22807724
+nm14161208	LilChris	\N	\N	actor	tt22807724
 nm14161209	Delanie Walker	\N	\N		\N
 nm14161210	Jay Thick	\N	\N	actor	\N
 nm14161211	Kami Kum	\N	\N	actress	\N
@@ -1245,27 +1244,27 @@ nm14161341	Manu C Nair	\N	\N	animation_department	\N
 nm14161342	Jamie Lynn Mullins	\N	\N		\N
 nm14161343	Jordan Granados	\N	\N		\N
 nm14161344	Brian Ashenfelder	\N	\N		\N
-nm14161345	Bollywood Umang	\N	\N	visual_effects	tt16239090,tt9144702
+nm14161345	Bollywood Umang	\N	\N	visual_effects	tt9144702,tt16239090
 nm14161346	Rishi Varma	\N	\N		\N
-nm14161347	Souvik Dey	\N	\N	director,actor	\N
-nm14161348	Nik Chakraborty	\N	\N	actor	\N
-nm14161349	Pooja Sarkar	\N	\N	actress	\N
-nm14161350	Om Sutradhar	\N	\N	actor	\N
+nm14161347	Souvik Dey	\N	\N	director,actor	tt22885076
+nm14161348	Nik Chakraborty	\N	\N	actor	tt22885076
+nm14161349	Pooja Sarkar	\N	\N	actress	tt22885076
+nm14161350	Om Sutradhar	\N	\N	actor	tt22885076
 nm14161351	Aman	1999	\N		\N
-nm14161352	Alakesh Debnath	\N	\N	actor,producer	\N
-nm14161353	Papai Maity	\N	\N	writer	\N
-nm14161354	Bhabotosh Debnath	\N	\N	producer	\N
-nm14161355	Pratik Kundu	\N	\N	composer,music_department	\N
+nm14161352	Alakesh Debnath	\N	\N	actor,producer	tt22885076
+nm14161353	Papai Maity	\N	\N	writer	tt22885076
+nm14161354	Bhabotosh Debnath	\N	\N	producer	tt22885076
+nm14161355	Pratik Kundu	\N	\N	composer,music_department	tt22885076
 nm14161356	Soinik Ghosh	\N	\N	composer	tt22885076
-nm14161357	Amit Mukherjee	\N	\N	composer	\N
-nm14161358	Shaan	\N	\N	cinematographer	\N
-nm14161359	Joy	\N	\N	art_director	\N
-nm14161360	Suman Saha	\N	\N	assistant_director	\N
-nm14161361	Sayan Roy	\N	\N	assistant_director	\N
-nm14161362	Priyanka Kanungo	\N	\N	costume_designer	\N
+nm14161357	Amit Mukherjee	\N	\N	composer	tt22885076
+nm14161358	Shaan	\N	\N	cinematographer	tt22885076
+nm14161359	Joy	\N	\N	art_director	tt22885076
+nm14161360	Suman Saha	\N	\N	assistant_director	tt22885076
+nm14161361	Sayan Roy	\N	\N	assistant_director	tt22885076
+nm14161362	Priyanka Kanungo	\N	\N	costume_designer	tt22885076
 nm14161363	Agnes D'Costa	\N	\N	make_up_department	tt22885076
-nm14161364	Sristika Biswas	\N	\N	make_up_department	\N
-nm14161365	Pallabi Chatterjee	\N	\N	music_department	\N
+nm14161364	Sristika Biswas	\N	\N	make_up_department	tt22885076
+nm14161365	Pallabi Chatterjee	\N	\N	music_department	tt22885076
 nm14161366	Neng-an Kung	\N	\N	actor	tt21062428
 nm14161367	Adélaïde Bellegarde	\N	\N	actress	\N
 nm14161368	Valentin Deplante	\N	\N	actor	\N
@@ -1295,7 +1294,7 @@ nm14161399	Gus English	\N	\N		\N
 nm14161400	J.C. Narcissus	\N	\N		\N
 nm14161401	Joe Ignacio	\N	\N	actor,production_manager,miscellaneous	\N
 nm14161410	Adrianne Logan	\N	\N		\N
-nm14161411	Emily O'Callaghan	\N	\N	assistant_director	\N
+nm14161411	Emily O'Callaghan	\N	\N	assistant_director	tt5851696
 nm14161412	Saaga Salo	\N	\N	actress	\N
 nm14161413	Lilli Laukkanen	\N	\N	actress	\N
 nm14161414	Pipsa Laukkanen	\N	\N	actress	\N
@@ -1304,7 +1303,7 @@ nm14161416	Adrian Karhunoja	\N	\N	art_department	\N
 nm14161417	Meri Proud	\N	\N	camera_department	\N
 nm14161418	Peppi Lahtinen	\N	\N	costume_department	\N
 nm14161419	Joni Valkama	\N	\N	editorial_department	tt21876846
-nm14161420	Tiina Hilkamo	\N	\N	location_management	\N
+nm14161420	Tiina Hilkamo	\N	\N	location_management	tt21876846,tt23031972
 nm14161421	Mia Lehti	\N	\N	producer,miscellaneous	tt21876846
 nm14161422	Tytti Aho	\N	\N	production_manager	\N
 nm14161423	Santeri Korvenkontio	\N	\N	production_manager	\N
@@ -1348,13 +1347,13 @@ nm14161460	Xiucai Zhao	\N	\N	writer	tt7249494
 nm14161461	David Millán	\N	\N	production_manager	tt22875000
 nm14161462	Richard Coleman	\N	\N		\N
 nm14161463	George Banks	\N	\N	miscellaneous	tt0241383
-nm14161464	Vijay Vid Mishra	\N	\N	actor	\N
+nm14161464	Vijay Vid Mishra	\N	\N	actor	tt22863304
 nm14161465	Prashant Vichare	\N	\N	actor	tt22863304
 nm14161466	Rajendra Jadhav	\N	\N	actor	tt22863304
-nm14161467	Tejas Nagwekar	\N	\N	art_department	\N
-nm14161468	Nikhil Waradkar	\N	\N	cinematographer	\N
+nm14161467	Tejas Nagwekar	\N	\N	art_department	tt22863304
+nm14161468	Nikhil Waradkar	\N	\N	cinematographer	tt22863304
 nm14161469	Dena Weyman	\N	\N	actress	\N
-nm14161470	Federico Ciardi	\N	\N	miscellaneous	\N
+nm14161470	Federico Ciardi	1995	\N	miscellaneous	\N
 nm14161471	Asif Nazir Khan	\N	\N	producer	\N
 nm14161472	Al Dale	\N	\N		\N
 nm14161473	Eileen White	\N	\N		\N
@@ -1399,10 +1398,10 @@ nm14161513	Mqrshi	\N	\N	actor	tt22078258
 nm14161514	Frop	\N	\N	actress	tt22078258
 nm14161515	Moon J	\N	\N	actress	tt22078258
 nm14161516	Tom Sparke	\N	\N		\N
-nm14161517	Andy Stokes	\N	\N	music_department	\N
-nm14161518	Johnny Koonce	\N	\N	music_department	\N
+nm14161517	Andy Stokes	\N	\N	music_department	tt0261062
+nm14161518	Johnny Koonce	\N	\N	music_department	tt0261062
 nm14161519	The Bull Brothers	\N	\N	music_department	tt0261062
-nm14161521	Mike Brummel	\N	\N	music_department	\N
+nm14161521	Mike Brummel	\N	\N	music_department	tt0261062
 nm14161522	Andreas Cardini	\N	\N	actor	\N
 nm14161523	Asia Brown	\N	\N	producer	\N
 nm14161524	Chris Summers	\N	\N	camera_department	\N
@@ -1525,7 +1524,7 @@ nm14161649	Naohiro Takemoto	\N	\N	producer	\N
 nm14161650	Rio	\N	\N	composer	\N
 nm14161651	Anne Lyse Boissière	\N	\N	sound_department	\N
 nm14161652	Jonah Djalili	\N	\N	actor	tt22888970
-nm14161653	Gizem Tekin	\N	\N	editorial_department	tt12694046,tt13691134,tt20567314,tt12687036
+nm14161653	Gizem Tekin	\N	\N	editorial_department	tt20567314,tt12687036,tt13691134,tt12694046
 nm14161654	Sam Ward	\N	\N	writer	tt22888982
 nm14161656	Garrett Ginglen	\N	\N		\N
 nm14161657	Jared Ginglen	\N	\N		\N
@@ -1655,7 +1654,7 @@ nm14161831	Ghassan Esmaeel	\N	\N	actor	\N
 nm14161832	Reham Al Bayati	\N	\N	actor	\N
 nm14161833	Ather Kashkol	\N	\N	actor	\N
 nm14161834	Aws Fadhil	\N	\N	actor	\N
-nm14161835	Youssef Suleiman Mohammed	\N	\N	miscellaneous	tt16360006,tt12412888,tt6443346,tt22876176
+nm14161835	Youssef Suleiman Mohammed	\N	\N	miscellaneous,actor	tt16360006,tt12412888,tt6443346,tt22876176
 nm14161836	YLS	\N	\N	actor	\N
 nm14161838	Marcos Represas	\N	\N		\N
 nm14161839	Pia Lamprecht	\N	\N		\N
@@ -1677,32 +1676,32 @@ nm14161858	Bernard Héron	\N	\N	editorial_department	\N
 nm14161860	Pakè	\N	\N	actor	\N
 nm14161861	H.C	\N	\N	actor	\N
 nm14161862	Said Tugcu	\N	\N	director	\N
-nm14161863	Wang Lu Yao	\N	\N		\N
-nm14161864	Liu Li Wei	\N	\N		\N
-nm14161865	Shen Jun Yi	\N	\N	actor	\N
-nm14161866	Jin Song	\N	\N	actor	\N
-nm14161867	Xu Huan Shan	\N	\N	actor	\N
-nm14161868	Wei Zong Wan	\N	\N		\N
-nm14161869	Ma Lun	\N	\N		\N
-nm14161870	Huang Xiao Lei	\N	\N	actress	\N
-nm14161871	Li Jun	\N	\N	actor	\N
-nm14161872	Gong Fang Min	\N	\N	actor	\N
-nm14161873	Li Xiao Feng	\N	\N	actor	\N
+nm14161863	Wang Lu Yao	\N	\N		tt0404679
+nm14161864	Liu Li Wei	\N	\N		tt0404679
+nm14161865	Shen Jun Yi	\N	\N	actor	tt0404679
+nm14161866	Jin Song	\N	\N	actor	tt0404679
+nm14161867	Xu Huan Shan	\N	\N	actor	tt0404679
+nm14161868	Wei Zong Wan	\N	\N		tt0404679
+nm14161869	Ma Lun	\N	\N		tt0404679
+nm14161870	Huang Xiao Lei	\N	\N	actress	tt0404679
+nm14161871	Li Jun	\N	\N	actor	tt0404679
+nm14161872	Gong Fang Min	\N	\N	actor	tt0404679
+nm14161873	Li Xiao Feng	\N	\N	actor	tt0404679
 nm14161874	Guo Jun	\N	\N	actor	tt0404679
-nm14161875	Bai Jian Cai	\N	\N	actor	\N
-nm14161876	Li Jing Jing	\N	\N	actress	\N
-nm14161877	Qiao Peng Yue	\N	\N		\N
-nm14161878	Yu Bo Ning	\N	\N	actor	\N
+nm14161875	Bai Jian Cai	\N	\N	actor	tt0404679
+nm14161876	Li Jing Jing	\N	\N	actress	tt0404679
+nm14161877	Qiao Peng Yue	\N	\N		tt0404679
+nm14161878	Yu Bo Ning	\N	\N	actor	tt0404679
 nm14161879	Guo Xiao An	\N	\N	actor	tt0404679
-nm14161880	Niu Li Yan	\N	\N		\N
-nm14161881	Li Yong Yong	\N	\N	actress	\N
-nm14161882	Yang Nian Sheng	\N	\N	actor	\N
-nm14161883	Ren Ze Wei	\N	\N	actor	\N
-nm14161884	Zhao Qiang	\N	\N	actor	\N
-nm14161885	Gao Yuan	\N	\N	actress	\N
-nm14161886	Zhang Heng Ping	\N	\N	actor	\N
-nm14161887	Dong Zi Wu	\N	\N	actor	\N
-nm14161888	Zhou Xiao Wen	\N	\N		\N
+nm14161880	Niu Li Yan	\N	\N		tt0404679
+nm14161881	Li Yong Yong	\N	\N	actress	tt0404679
+nm14161882	Yang Nian Sheng	\N	\N	actor	tt0404679
+nm14161883	Ren Ze Wei	\N	\N	actor	tt0404679
+nm14161884	Zhao Qiang	\N	\N	actor	tt0404679
+nm14161885	Gao Yuan	\N	\N	actress	tt0404679
+nm14161886	Zhang Heng Ping	\N	\N	actor	tt0404679
+nm14161887	Dong Zi Wu	\N	\N	actor	tt0404679
+nm14161888	Zhou Xiao Wen	\N	\N		tt0404679
 nm14161889	DizzO	\N	\N	actor	\N
 nm14161890	Jay	\N	\N	actor	\N
 nm14161969	Fabrizio Delle Fave	\N	\N	stunts	\N
@@ -1726,7 +1725,6 @@ nm14162923	Fermina Ardanaz	\N	\N		\N
 nm14162924	Pilar Utiel	\N	\N	actress	\N
 nm14162925	Jesús Superstar	\N	\N		\N
 nm14162926	Carmen Allendes	\N	\N	actor	\N
-nm14162927	Lola Shaw	\N	\N	actress	\N
 nm14162928	Rose Savory	\N	\N		\N
 nm14162929	Natalie Read	\N	\N	actress	\N
 nm14162930	Lylie Read	\N	\N		\N
@@ -1828,12 +1826,12 @@ nm14163038	Steve Geliot	\N	\N	miscellaneous	tt22890132
 nm14163039	Axel Chen	\N	\N	actor	\N
 nm14163040	Wesley Allison	\N	\N		\N
 nm14163041	Gérard Désir	\N	\N	actor	tt22090026
-nm14163042	John DePue	\N	\N	miscellaneous	\N
+nm14163042	John DePue	\N	\N	miscellaneous	tt0261062
 nm14163043	Diana Prime	\N	\N	camera_department,actress	tt22890188,tt22938846
 nm14163044	Noah Siple	\N	\N	script_department	\N
 nm14163045	Erin Crider	\N	\N		\N
 nm14163046	Anna Boulos	\N	\N		\N
-nm14163047	Alyssa Holmes	\N	\N	music_department	tt13988936
+nm14163047	Alyssa Holmes	\N	\N	music_department	tt13460398,tt13988936
 nm14163049	Enva Lewis	\N	\N	actor	\N
 nm14163050	Ben Coren	\N	\N	producer	\N
 nm14163051	Kristin Irving	\N	\N	producer	\N
@@ -1851,17 +1849,17 @@ nm14163064	Tim Böckle	\N	\N	sound_department	tt22875000
 nm14163065	Roman Frischknecht	\N	\N	sound_department	tt22875000
 nm14163066	Stefan Huber	\N	\N	sound_department	tt22875000
 nm14163067	Oliver Kniel	\N	\N	miscellaneous	tt22875000
-nm14163068	Debora Molinaro	\N	\N	editorial_department	tt14555712,tt11930126,tt7720142,tt13003972
+nm14163068	Debora Molinaro	\N	\N	editorial_department	tt11930126,tt7720142,tt13003972,tt14555712
 nm14163069	Massimo Razzi	\N	\N	writer	\N
 nm14163070	Federico Visalberghi	\N	\N	producer	\N
 nm14163071	Elio Gambino	\N	\N	editorial_department	\N
 nm14163072	Riccardo Cirotti	\N	\N	editorial_department	\N
 nm14163073	Danilo Aleandri	\N	\N	music_department	\N
-nm14163074	Öykü Gülbent	\N	\N	editorial_department	\N
-nm14163075	Zeynep Tutulkan	\N	\N	editorial_department	\N
-nm14163076	Gültekin Yusuf Isman	\N	\N	visual_effects	\N
-nm14163077	Hazal Koc	\N	\N	visual_effects	\N
-nm14163078	Azra Hazal Cil	\N	\N	visual_effects	\N
+nm14163074	Öykü Gülbent	\N	\N	editorial_department	tt13675832
+nm14163075	Zeynep Tutulkan	\N	\N	editorial_department	tt13675832
+nm14163076	Gültekin Yusuf Isman	\N	\N	visual_effects	tt13675832
+nm14163077	Hazal Koc	\N	\N	visual_effects	tt13675832
+nm14163078	Azra Hazal Cil	\N	\N	visual_effects	tt13675832
 nm14163079	Hal Walker	\N	\N	actor	tt0139318
 nm14163080	Heather Grant	\N	\N	actress	tt0139318
 nm14163081	Noel Pickett	\N	\N	actor	\N
@@ -1877,7 +1875,7 @@ nm14163094	Paula Casado	\N	\N	camera_department	\N
 nm14163095	Mariana Domínguez	\N	\N	art_director,costume_designer	\N
 nm14163096	Mari Carmen García	\N	\N	make_up_department	\N
 nm14163097	Guillermo Ramírez	\N	\N	set_decorator	\N
-nm14163098	Akshay K	\N	\N	miscellaneous	\N
+nm14163098	Akshay K	\N	\N	miscellaneous	tt17350188
 nm14163099	Kaleb Smith	\N	\N		\N
 nm14163100	Pierre Sylvain	\N	\N		\N
 nm14163101	Adam Wiedemann	\N	\N	composer	\N
@@ -1904,7 +1902,7 @@ nm14163126	Patrizia Catena	\N	\N		\N
 nm14163127	Danny James	\N	\N	actor	tt22890420
 nm14163128	Alexey	\N	\N	editor	tt22938464,tt22890420
 nm14163129	Gabriel G. Gonzalez	\N	\N	art_department	\N
-nm14163130	Colin Costigan	\N	\N	actor	\N
+nm14163130	Colin Costigan	\N	\N	actor	tt14236868,tt21951242
 nm14163131	Pixie	\N	\N	actress	\N
 nm14163132	Zhang Yi	\N	\N	actress	tt22890490
 nm14163133	Jin Zi	\N	\N	actor	tt22890490
@@ -1931,7 +1929,7 @@ nm14163154	Margarette Kittel	\N	\N		\N
 nm14163155	Tarek Daccache	\N	\N	director	\N
 nm14163156	Valentin Thierry	\N	\N	actor	\N
 nm14163157	Robert Wilkes	\N	\N	animation_department	tt21620332
-nm14163158	Anthony Morrow	\N	\N		\N
+nm14163158	Anthony Morrow	\N	\N	visual_effects	tt15783426,tt13857556,tt14151720,tt13614388
 nm14163159	Nicole Chong Yee Mun	\N	\N	visual_effects	tt9894516
 nm14163160	Yuki Hinago	\N	\N	visual_effects	tt9894516
 nm14163161	Asami Yanai	\N	\N	visual_effects	tt9894516
@@ -1948,7 +1946,7 @@ nm14163171	Yi Wang	\N	\N	visual_effects	tt9894516
 nm14163172	Anita Kang	\N	\N	visual_effects	tt9894516
 nm14163173	Takafumi Yokoyama	\N	\N	visual_effects	tt9894516
 nm14163174	Jari Vaara	\N	\N	visual_effects	tt9894516
-nm14163175	Josh Jager	\N	\N	visual_effects	tt9894516
+nm14163175	Josh Jager	\N	\N	visual_effects,animation_department	tt9894516
 nm14163176	Hirokuni Takagi	\N	\N	visual_effects	tt9894516
 nm14163177	Achraf Khiri	\N	\N	visual_effects	tt9894516
 nm14163178	Purbita Datta	\N	\N	visual_effects	tt9894516
@@ -1959,7 +1957,7 @@ nm14163182	Takaya Suga	\N	\N	visual_effects	tt9894516
 nm14163183	Victoria Bobalo	\N	\N	miscellaneous	\N
 nm14163184	Aleksandr Shishkin	\N	\N	producer	\N
 nm14163185	Krongkwan Nakornthap	\N	\N	actress	\N
-nm14163187	Lion Way	\N	\N		\N
+nm14163187	Lion Way	\N	\N		tt22335722
 nm14163188	Romy Concepcion	\N	\N	art_department	\N
 nm14163189	Bart Policarpio	\N	\N	art_department	\N
 nm14163190	Natoy Herrera	\N	\N	art_department	\N
@@ -2004,8 +2002,8 @@ nm14163230	Daiki Kubota	\N	\N	visual_effects	tt9894516
 nm14163231	Kyohei Tsumura	\N	\N	visual_effects	tt9894516
 nm14163232	Juan Muñoz	\N	\N	visual_effects	tt9894516
 nm14163233	Filip Dudziak	\N	\N		\N
-nm14163234	Ali Huntington	\N	\N		\N
-nm14163235	Stellan Lockhart	\N	\N		\N
+nm14163234	Ali Huntington	\N	\N		tt22335722
+nm14163235	Stellan Lockhart	\N	\N		tt22335722
 nm14163237	Christer Pento	\N	\N	producer	\N
 nm14163238	Keian Barnard	\N	\N	producer	\N
 nm14163239	Sean Wylie	\N	\N	producer	\N
@@ -2018,9 +2016,9 @@ nm14163246	Samson Fischer	\N	\N	actor	\N
 nm14163247	Donna Parkinson	\N	\N		\N
 nm14163248	Rebecca Kroetsch	\N	\N		\N
 nm14163249	Karl Wilberg	\N	\N		\N
-nm14163250	Andreas Von Pechmann	\N	\N	actor	\N
+nm14163250	Andreas Von Pechmann	\N	\N	actor	tt22891346
 nm14163251	David Byron	\N	\N		\N
-nm14163252	Can Erman	\N	\N	assistant_director	\N
+nm14163252	Can Erman	\N	\N	assistant_director	tt22873828
 nm14163253	Olesia-Oleksandra Sagaidak	\N	\N	sound_department	\N
 nm14163254	Eun Hae Sung	\N	\N	actor	tt22789182
 nm14163255	Han Soo A	\N	\N	actress	tt22789182
@@ -2079,7 +2077,7 @@ nm14163460	Bharath Reddy	\N	\N	actor	\N
 nm14163461	Yuki Watanabe	\N	\N	visual_effects	tt9894516
 nm14163462	Larry Kelley	\N	\N	actor	tt13399034
 nm14163463	Iku Zhang	\N	\N	director,writer,producer	\N
-nm14163464	Kaijian Tang	\N	\N	actor	\N
+nm14163464	Kaijian Tang	\N	\N		\N
 nm14163465	Frances Hebert	\N	\N	writer	\N
 nm14163466	Sunny Lin	\N	\N	producer	\N
 nm14163467	Liwei Guo	\N	\N	producer	tt22891694
@@ -2142,7 +2140,7 @@ nm14163531	Kristiyan Petrov	\N	\N	actor	tt21907468,tt22892038
 nm14163532	Teodor Kazandzhiev	\N	\N	actor	\N
 nm14163533	Rhona Kirk	\N	\N	miscellaneous	tt21357092
 nm14163534	Tia P	\N	\N		\N
-nm14163535	Sonja Heppner	\N	\N	producer	tt22892104,tt22892216
+nm14163535	Sonja Heppner	\N	\N	producer	tt22892216,tt22892104
 nm14163536	Liliya Alekseyeva	\N	\N	executive	\N
 nm14163537	Illia Dyadyk	\N	\N	executive	\N
 nm14163538	Ivan Gubenko	\N	\N		\N
@@ -2186,7 +2184,7 @@ nm14163579	Masahito Mashiko	\N	\N	visual_effects	tt9894516
 nm14163580	Nobuyuki Shirakata	\N	\N	visual_effects	tt9894516
 nm14163581	Timothy Doyen	\N	\N	director	tt18299740
 nm14163582	Beatrice	\N	\N		\N
-nm14163583	Lucrezia Marcelli	\N	\N	sound_department	tt22801564
+nm14163583	Lucrezia Marcelli	\N	\N	sound_department	tt21220892,tt22801564
 nm14163584	Chris Schwab	\N	\N	editorial_department	tt18270746
 nm14163585	Polina Gerashchenko	\N	\N	executive	\N
 nm14163586	Serhiy Hrekov	\N	\N	executive	\N
@@ -2231,7 +2229,7 @@ nm14163628	Chelsea Berchon	\N	\N	director	\N
 nm14163629	Seehum Isa	\N	\N	producer	\N
 nm14163632	Ramada Dianti	\N	\N	executive	\N
 nm14163633	David Lasso	\N	\N	director,editor	\N
-nm14163634	Katerina Pishchik	\N	\N	music_department	tt8866456,tt10075766
+nm14163634	Katerina Pishchik	\N	\N	music_department	tt10075766,tt8866456
 nm14163635	Praveen Sethia	\N	\N		\N
 nm14163636	Katia Riera Abad	\N	\N	sound_department	\N
 nm14163637	Magnus Andersson	\N	\N	miscellaneous	\N
@@ -2275,7 +2273,7 @@ nm14163679	Destroy the Runner	\N	\N		tt6594162
 nm14163680	Remembering Never	\N	\N		tt6594162
 nm14163681	Gorgeous Drop Dead	\N	\N		tt6594162
 nm14163682	Al Lotfi	\N	\N		\N
-nm14163683	8tagalass	\N	\N	actress	\N
+nm14163683	8tagalass	\N	\N	actor	\N
 nm14163684	K5	\N	\N	actor	\N
 nm14163685	Yu2p	\N	\N	actor	\N
 nm14163686	Sarutobi	\N	\N	actor	\N
@@ -2342,7 +2340,7 @@ nm14163747	Patrick King	\N	\N		\N
 nm14163748	Meghan Heaphy	\N	\N	production_manager	\N
 nm14163749	Erin Heaphy	\N	\N	production_manager	\N
 nm14163750	Erin O'Hara	\N	\N	production_manager	\N
-nm14163751	Lemus Family	\N	\N	miscellaneous	\N
+nm14163751	Lemus Family	\N	\N	miscellaneous	tt0097523
 nm14163752	Miguel Yriberry	\N	\N		\N
 nm14163753	Alexej	\N	\N		\N
 nm14163754	Eddie Jones	\N	\N		\N
@@ -2355,8 +2353,8 @@ nm14163760	Ritika Singh	\N	\N	costume_department	tt18568902
 nm14163761	Benjamin Dickey	\N	\N	director	\N
 nm14163762	Evelyn Chevere	\N	\N		\N
 nm14163763	FitMC	\N	\N		\N
-nm14163764	Joseph Oladele	\N	\N		\N
-nm14163765	Temitope Joseph	\N	\N	actress	\N
+nm14163764	Joseph Oladele	\N	\N		tt9127760
+nm14163765	Temitope Joseph	\N	\N	actress	tt9127760
 nm14163766	Ritika Singh	\N	\N	costume_department	tt3453964
 nm14163767	Lil Mid	\N	\N	actor	\N
 nm14163768	Dogan Çelikol	\N	\N		\N
@@ -2367,7 +2365,7 @@ nm14163772	Ernie Laszlo	\N	\N		\N
 nm14163773	Fils Bm	\N	\N		\N
 nm14163774	ZBG Painter	\N	2022	actor	\N
 nm14163775	Semyon Polyakovskiy	\N	\N	editor	\N
-nm14163776	Theodore O'Brecht	\N	\N	actor	\N
+nm14163776	Theodore O'Brecht	\N	\N	actor	tt22893220
 nm14163777	Dylan Oglesby	\N	\N	music_department	\N
 nm14163778	Flyledo	1989	2022	actor	\N
 nm14163779	Jara Robles Rasal	\N	\N	stunts	\N
@@ -2439,8 +2437,8 @@ nm14163853	Mark Polydoris	\N	\N	production_manager,actor	\N
 nm14163854	Huzaifa Mohamedbhai	\N	\N		\N
 nm14163855	Olga Seniuk	\N	\N	actress	tt19723774
 nm14163856	Ofentse Magabane	\N	\N	miscellaneous	\N
-nm14163857	Joseph Fugelo	\N	\N	actor	\N
-nm14163858	Charlotte Cohn-Williams	\N	\N	actress	\N
+nm14163857	Joseph Fugelo	\N	\N	actor	tt4273800
+nm14163858	Charlotte Cohn-Williams	\N	\N	actress	tt4273800
 nm14163859	Joly Leduc	\N	\N		\N
 nm14163860	Sandip Patra	\N	\N		\N
 nm14163861	Doreen Jones	\N	\N	make_up_department	\N
@@ -2485,11 +2483,10 @@ nm14163910	Sebastien Brighi	\N	\N	actor	\N
 nm14163911	Nathalie Pianelli	\N	\N	actress	\N
 nm14163912	Livia Bresso	\N	\N	actress	\N
 nm14163913	Jean Philippe Crusciani	\N	\N	actor	\N
-nm14163914	Grace	\N	\N		\N
+nm14163914	Grace	\N	\N		tt22796718
 nm14163915	Elina Nikkola	\N	\N	producer	tt22868094
 nm14163916	Ailail	\N	\N	writer	tt22896166
 nm14163917	Bunny Walker	\N	\N	producer	tt22896166
-nm14163918	David Cook	\N	\N	actor	tt22938464,tt22896168
 nm14163919	JuiceDoesThings	\N	\N	writer	tt22896168
 nm14163920	The Rudeboyz	\N	\N	actor	\N
 nm14163921	Elizabeth Miller	\N	\N	assistant_director	\N
@@ -2502,7 +2499,7 @@ nm14163927	Moisés Serrano García	\N	\N	visual_effects	tt17005188
 nm14163928	Bosco Luis Hidalgo	\N	\N	visual_effects	tt17005188
 nm14163929	Vanessa Gonzalez Iglesias	\N	\N	visual_effects	tt17005188
 nm14163930	Emilio Sarabia	\N	\N	visual_effects	tt17005188
-nm14163931	Kevin Cawley	\N	\N	director,cinematographer	tt22896418,tt22896188,tt22896342
+nm14163931	Kevin Cawley	\N	\N	director,cinematographer	tt22896342,tt22896188,tt22896418
 nm14163936	Lindsey Myers	\N	\N	actress	tt1753728
 nm14163937	Antón Cruces	\N	\N		\N
 nm14163938	Chanelle Garrow	\N	\N	actress,writer	tt22896196
@@ -2616,8 +2613,8 @@ nm14164058	Adam Pyranski	\N	\N	art_department	tt19723774
 nm14164059	Grzegorz Nerka	\N	\N	art_department	tt19723774
 nm14164060	Albert Le Coanet	\N	\N	cinematographer	\N
 nm14164061	Gareth Delany	\N	\N		\N
-nm14164062	Lorcan Tucker	\N	\N		\N
-nm14164063	Andy Balbirnie	\N	\N		\N
+nm14164062	Lorcan Tucker	\N	\N		tt16073474
+nm14164063	Andy Balbirnie	\N	\N		tt16073474
 nm14164064	Katarzyna Osko	\N	\N	costume_department	tt19723774
 nm14164065	Roman Graczyk	\N	\N	transportation_department	tt19723774
 nm14164066	Kaede Yoneyama	\N	\N	actress	\N
@@ -2652,10 +2649,10 @@ nm14164094	Dylan Melanson	\N	\N		\N
 nm14164095	Philip Lin	\N	\N		tt12831434
 nm14164096	Adiley Tamayo	\N	\N		\N
 nm14164097	Rishabh Raj Sachdeva	\N	\N	actor	\N
-nm14164098	Mark	\N	\N	camera_department	\N
-nm14164099	Ann	\N	\N	camera_department	\N
-nm14164100	Kevin	\N	\N	sound_department	\N
-nm14164101	Sally Whittam	\N	\N	miscellaneous	\N
+nm14164098	Mark	\N	\N	camera_department	tt0266154
+nm14164099	Ann	\N	\N	camera_department	tt0266154
+nm14164100	Kevin	\N	\N	sound_department	tt0266154
+nm14164101	Sally Whittam	\N	\N	miscellaneous	tt0266154
 nm14164102	Max O'Dowd	\N	\N		\N
 nm14164103	Paul van Meekeren	\N	\N		tt16073474
 nm14164104	Bas de Leede	\N	\N		\N
@@ -2709,7 +2706,6 @@ nm14164155	Kristina Feldesman	\N	\N	actor	\N
 nm14164156	Dan Wood	\N	\N	actor	\N
 nm14164157	Darren Brown	\N	\N	actor	\N
 nm14164158	Tuuli Kaukovuo	\N	\N	actress	\N
-nm14164159	Dom Walton	\N	\N	actor	\N
 nm14164160	Min Kim	\N	\N	actor	\N
 nm14164161	Everett Fitz	\N	\N	actor	\N
 nm14164162	Andrew Accoo	\N	\N	actor	\N
@@ -2722,7 +2718,7 @@ nm14164168	Jack Elfrink	\N	\N	writer,producer	tt22896948
 nm14164169	Kristina Mayorskikh	\N	\N	actress	tt1360087
 nm14164170	Kristi Scott	\N	\N	casting_director	tt22866048
 nm14164171	Lunar Longhurst	\N	\N	actress	tt14379784
-nm14164172	Rishi Pathak	\N	\N	music_department	\N
+nm14164172	Rishi Pathak	1996	\N	music_department	tt14080286,tt11712598
 nm14164183	Blank Conny	\N	\N		\N
 nm14164184	Nord Klaus	\N	\N		\N
 nm14164185	Khaled Ashraf	\N	\N		\N
@@ -2817,7 +2813,7 @@ nm14164311	I Gusti Putu Yuniarsa	\N	\N	actor	tt15427874
 nm14164312	Kate Iashenko	\N	\N	actress	tt15427874
 nm14164313	Tom Richardson	\N	\N	music_department	tt15427874
 nm14164320	Guglielmo Angeloni	\N	\N	actor	tt14987236
-nm14164327	Andrey Babanovsky	1931	1995	art_department	tt0051520,tt0170299
+nm14164327	Andrey Babanovsky	1931	1995	art_department	tt0170299,tt0051520
 nm14164328	Michael Angastiniotis	\N	\N		\N
 nm14164336	Karina Solodovnik	\N	\N	actress	tt1360087
 nm14164337	Tyler Bain	\N	\N		\N
@@ -2856,7 +2852,7 @@ nm14164427	Xiaohan Chen	\N	\N	actor	tt22897692
 nm14164428	Jingcheng Wang	\N	\N	actor	tt22897692
 nm14164457	Amanda Bradford	\N	\N		\N
 nm14164465	Leandro 'Leo' Nuñez	\N	\N	art_department	tt14583882,tt15301000,tt18924008
-nm14164466	Jordan Findlay	\N	\N	director	tt22897798,tt22897716
+nm14164466	Jordan Findlay	\N	\N	director	tt22897716,tt22897798
 nm14164467	Dez May	\N	\N	cinematographer	tt22897716
 nm14164468	Ail	\N	\N	art_department	tt22896166
 nm14164469	April Eliza Tisby	\N	\N		\N
@@ -2934,7 +2930,7 @@ nm14164551	Manolo Córrale	\N	\N	miscellaneous	tt17005188
 nm14164552	David González	\N	\N	miscellaneous	tt17005188
 nm14164553	Shai Korman	\N	\N		\N
 nm14164554	Ana María Ruiz	\N	\N	make_up_department	tt17005188
-nm14164555	Cecilia Cabello	\N	\N	make_up_department	tt14304018,tt14362156,tt16589104,tt8714904
+nm14164555	Cecilia Cabello	\N	\N	make_up_department	tt16589104,tt14176542,tt14362156,tt8714904
 nm14164556	Sakir Arikan	\N	\N	assistant_director	tt13092460
 nm14164557	Sara Hector	\N	\N		tt22883314
 nm14164558	Coralie Frasse Sombet	\N	\N		tt22883314
@@ -2998,7 +2994,7 @@ nm14164615	Shiraz Ashraf	\N	\N	cinematographer	\N
 nm14164616	Sonia Aimy	\N	\N	music_department	\N
 nm14164617	Penny Fancy	\N	\N	script_department	\N
 nm14164618	Max Reichardt	\N	\N	writer	tt22897980
-nm14164619	Taylor Laura	\N	\N	actor	tt22815438
+nm14164619	Taylor Laura	\N	\N		\N
 nm14164620	Gig Patta	\N	\N	writer,producer	\N
 nm14164623	Louis Mercier	\N	\N	executive	\N
 nm14164624	Liviera Lim	\N	\N	actress	tt22505434
@@ -3047,9 +3043,9 @@ nm14164666	Lawren Desai	\N	\N		\N
 nm14164667	Sean Hegarty	\N	\N		\N
 nm14164669	8dc	\N	\N		\N
 nm14164670	Miguel Legazpi	\N	\N	art_department	tt1692876
-nm14164671	Molvani Santiago	\N	\N	art_department	tt2306946,tt1692876
+nm14164671	Molvani Santiago	\N	\N	art_department	tt1692876,tt2306946
 nm14164672	Sebastian Alejandro Sergio	\N	\N	art_department	tt2306946,tt1692876
-nm14164673	Diego Lukas Los Angeles	\N	\N	art_department	tt1692876
+nm14164673	Diego Lukas Los Angeles	\N	\N	art_department	tt2306946,tt1692876
 nm14164674	William Green	\N	\N	cinematographer	\N
 nm14164675	Maria Misaluchia	\N	\N	miscellaneous	tt1692876
 nm14164676	Juan Legazapi de San Diego	\N	\N	miscellaneous	tt1692876
@@ -3231,7 +3227,7 @@ nm14164858	Bradley Gross	\N	\N	camera_department	tt22505148
 nm14164859	Mike Seaver	\N	\N	sound_department	tt22505148
 nm14164860	Tom Bauer	\N	\N	miscellaneous	\N
 nm14164861	Dudley Fagan	\N	\N	actor	tt20190098
-nm14164862	Paulo Sacilotti Junior	\N	\N	director,writer,cinematographer	tt22898670,tt22984198
+nm14164862	Paulo Sacilotti Junior	2001	\N	director,writer,cinematographer	tt22984228,tt22898670,tt22984198
 nm14164863	Vanillra	\N	\N	actress	tt21959796
 nm14164864	GachaWorld2006	\N	\N	actress	tt21959796
 nm14164865	Wilfer Jones	\N	\N	actor	tt21959796
@@ -3295,7 +3291,7 @@ nm14164922	Addison Stafford	\N	\N	miscellaneous	tt22898512
 nm14164923	Meghan Reilly	\N	\N	legal	\N
 nm14164924	Rose Kengne	\N	\N	actress	tt21265622
 nm14164925	Sean Maynard	\N	\N		\N
-nm14164926	Noel Tyler Torres	\N	\N		\N
+nm14164926	Noel Tyler Torres	\N	\N	actor	tt13957560
 nm14164927	David Gentile	\N	\N		tt13586680
 nm14164928	Jason Cozens	\N	\N		tt13586680
 nm14164931	Karyne Sirois	\N	\N		tt5642738
@@ -3470,7 +3466,7 @@ nm14165104	Edward Guidry	\N	\N	actor	\N
 nm14165105	Tiffany Lanette	\N	\N	actress	\N
 nm14165106	JaMarquis Houston	\N	\N	actor	tt22899030
 nm14165107	Jacob S.	\N	\N	writer,producer	\N
-nm14165108	Psalms Wimbrey	\N	\N	producer	\N
+nm14165108	Psalms Wimbrey	\N	\N	producer	tt22899044
 nm14165109	Laure Lee Cobb	\N	\N	actress	\N
 nm14165110	Xiaoyu Ma	\N	\N	director,writer,animation_department	tt22899054
 nm14165112	Michelle Turner	\N	\N	talent_agent	\N
@@ -3485,7 +3481,7 @@ nm14165121	Nicholas Broms	\N	\N	camera_department	\N
 nm14165122	Jack Hannan	\N	\N	visual_effects	\N
 nm14165123	Sabino Garza	\N	\N	actor	\N
 nm14165125	Florencia Pages	\N	\N	director	tt14362262
-nm14165126	Rickey Robinson	\N	\N		\N
+nm14165126	Rickey Robinson	\N	\N	miscellaneous	tt21383712
 nm14165127	Kamton Kumpe	\N	\N	actor	\N
 nm14165128	Elizabeth Brannen Davenport	\N	\N	actress	\N
 nm14165129	Omar Mahmoud	\N	\N	actor	\N
@@ -3511,7 +3507,7 @@ nm14165149	Kerri McKinney	\N	\N	actress	\N
 nm14165150	Trystan Lytle	\N	\N	actor	\N
 nm14165151	Patricia Noel	\N	\N		\N
 nm14165152	Koji Matsuda	\N	\N	director	tt22899176
-nm14165153	Maria Satonaka	\N	\N	actress	tt22899176
+nm14165153	Maria Satonaka	1977	\N	actress	tt22899176
 nm14165154	Tressa Level-Ellison	\N	\N	actress	\N
 nm14165156	Steve Whiteford	\N	\N	actor	\N
 nm14165157	Giraldo Bustos	\N	\N	actor	\N
@@ -3533,7 +3529,7 @@ nm14165173	Zachary Neumann	\N	\N	actor	\N
 nm14165174	Avo Charles	\N	\N	actor	\N
 nm14165175	Ryan Paul	\N	\N	actor	tt21287056
 nm14165176	Christie Porfirio	\N	\N	talent_agent	\N
-nm14165177	Payton Prados	\N	\N	actor	\N
+nm14165177	Payton Prados	\N	\N	actor	tt21287056
 nm14165178	Kinley Hope	\N	\N	actress	\N
 nm14165179	Desean Hendricks	\N	\N	actor	tt21287056
 nm14165180	Joe Zsiga	\N	\N		\N
@@ -3688,7 +3684,7 @@ nm14165339	Zaid Bantiya	\N	\N	actor	tt22874812
 nm14165340	Stella Marín Melcones	\N	\N		\N
 nm14165341	Alina Khan	\N	\N		\N
 nm14165342	Luis Valderrama Kehr	\N	\N		\N
-nm14165343	Jennifer A. Dunkelman	\N	\N	producer,actress	tt22506552,tt22505704,tt22441956
+nm14165343	Jennifer A. Dunkelman	\N	\N	producer,actress	tt22505704,tt22506552,tt22441956
 nm14165344	Dorian Feistel	\N	\N		\N
 nm14165345	Hilde Rubinstein	\N	\N		\N
 nm14165346	Paul Köhler	\N	\N		\N
@@ -3720,8 +3716,8 @@ nm14165371	Moussa Diabate	\N	\N		\N
 nm14165372	Paul George	\N	\N		\N
 nm14165373	Reggie Jackson	\N	\N		\N
 nm14165374	Marcus Morris Sr.	\N	\N		\N
-nm14165375	Norman Powell	\N	\N		\N
-nm14165376	John Wall	\N	\N		\N
+nm14165375	Norman Powell	\N	\N	actor	tt22899880
+nm14165376	John Wall	\N	\N	actor	tt22899880
 nm14165377	Joel Harriss	\N	\N	actor	\N
 nm14165378	Steve Cornelison	\N	\N	actor	\N
 nm14165379	Chris Browning	\N	\N	actor	\N
@@ -3999,7 +3995,7 @@ nm14165664	Didi Pattirane	\N	\N	actor	\N
 nm14165665	Steve Murray	\N	\N		tt0266154
 nm14165666	Amit Chaudhary	\N	\N	producer	\N
 nm14165667	Larissa Avononmadegbe	\N	\N		\N
-nm14165668	Barkin Anar	\N	\N	actor	\N
+nm14165668	Barkin Anar	\N	\N	actor	tt21741266
 nm14165669	Raluca Alexe	\N	\N	miscellaneous	\N
 nm14165670	Leonie Waldeck	\N	\N		\N
 nm14165671	Baby Sridevi	\N	\N	actor	\N
@@ -4012,10 +4008,10 @@ nm14165677	Bruce Mills	\N	\N	actor	\N
 nm14165678	Sammuel Jones	\N	\N	actor	\N
 nm14165679	Candance Owe	\N	\N	actress	\N
 nm14165680	Eddie Maine	\N	\N	actor	\N
-nm14165681	Sebastian Matesic Polo	\N	\N		\N
+nm14165681	Sebastian Matesic Polo	\N	\N	actor	\N
 nm14165682	Leila Keeney	\N	\N	actress	\N
 nm14165683	Matthew Smith	\N	\N	actor	\N
-nm14165684	Leila Jane	\N	\N	composer	\N
+nm14165684	Leila Jane	\N	\N	composer	tt22903354
 nm14165685	Tahir Sahil	\N	\N	actor	\N
 nm14165686	Komal Sinha	\N	\N	actor	\N
 nm14165687	Arif Ahmed	\N	\N	editor	\N
@@ -4065,7 +4061,7 @@ nm14165733	G. Nicodemus	\N	\N	camera_department	\N
 nm14165734	Martí Sánchez	\N	\N	sound_department	\N
 nm14165735	Gabriel Pérez Jarquin	\N	\N	special_effects	\N
 nm14165736	Joel Monreal	\N	\N	special_effects	\N
-nm14165737	Daniel Domínguez Pérez	\N	\N	visual_effects	\N
+nm14165737	Daniel Domínguez Pérez	\N	\N	visual_effects	tt22908510
 nm14165738	Kim Yeon-woo	\N	\N	actress	\N
 nm14165739	Park Min-gi	\N	\N	actor	\N
 nm14165740	Mlle Lugane	\N	\N		\N
@@ -4166,7 +4162,7 @@ nm14165839	Arc-Aïck	\N	\N	miscellaneous	\N
 nm14165840	Liz Chartrand	\N	\N	miscellaneous	\N
 nm14165841	L. Yarmolinskaya	\N	\N	writer	\N
 nm14165842	M. Fridman	\N	\N	writer	\N
-nm14165843	Horváth Éva	\N	\N		\N
+nm14165843	Horváth Éva	\N	\N		tt22896366
 nm14165844	Rogério Monteiro	\N	\N		\N
 nm14165845	Simon Laing	\N	\N		\N
 nm14165846	Rob Fenwick	\N	\N		\N
@@ -4189,7 +4185,7 @@ nm14165862	Jerry Butler	\N	\N		\N
 nm14165863	Maria Witwinska	\N	\N	writer	\N
 nm14165864	Joy Belle	\N	\N	actress	tt18923614
 nm14165865	Rob Eradicate	\N	\N	actor	\N
-nm14165866	Miles Darby	\N	\N	miscellaneous	tt12299608,tt5433140,tt13068346,tt22688572
+nm14165866	Miles Darby	\N	\N	miscellaneous	tt12299608,tt22688572,tt13068346,tt5433140
 nm14165867	Mayuri Solanki	\N	\N	assistant_director	\N
 nm14165868	Mihil Shah	\N	\N	camera_department	\N
 nm14165869	Joanna Piekarska	\N	\N	actress	\N
@@ -4219,7 +4215,7 @@ nm14165892	Serge Sanchez	\N	\N		\N
 nm14165893	Ante Pekas	\N	\N		\N
 nm14165894	Bob Safian	\N	\N		\N
 nm14165895	Jonathan O'Brien O'Riordan	\N	\N	actor	tt8983318
-nm14165896	Francis Flores	\N	\N	actor	tt8983318
+nm14165896	Francis Flores	\N	\N		\N
 nm14165897	Dinesh Soi	\N	\N	casting_director	\N
 nm14165898	Siddarth Ladhe	\N	\N	producer	\N
 nm14165899	Leonie Vanstappen	\N	\N		\N
@@ -4264,7 +4260,7 @@ nm14165937	Chancelor Mayfield	\N	\N	sound_department	tt22896618
 nm14165938	Morgan Henry	\N	\N	sound_department	tt22896618
 nm14165939	Alix Gagnon	\N	\N		\N
 nm14165940	Dimitris Drosos	\N	\N	actor	\N
-nm14165942	Oldrich Werner	\N	\N	director,writer,producer	\N
+nm14165942	Oldrich Werner	\N	\N	director,writer,producer	tt22944410
 nm14165943	Riel Joshua Butil	\N	\N	actor	\N
 nm14165944	Rosemarie Cagas	\N	\N	actress	\N
 nm14165945	Eilidio Cagas Jr.	\N	\N	actor	\N
@@ -4362,7 +4358,7 @@ nm14166040	Sajad Mahmodi	\N	\N	composer	tt21811540
 nm14166041	Hamid Osivan	\N	\N	sound_department	\N
 nm14166042	Arash Forozande	\N	\N	sound_department	tt21811540
 nm14166043	Hadi Omidi	\N	\N	sound_department	tt21811540
-nm14166044	Vineeth Anil	\N	\N	actor	\N
+nm14166044	Vineeth Anil	\N	\N	actor	tt0353608
 nm14166045	S.J. Petta	\N	\N	actor	\N
 nm14166046	Rajasekharan	\N	\N	actor	\N
 nm14166047	Maria Rozek	\N	\N	writer	\N
@@ -4384,7 +4380,7 @@ nm14166062	Jesús Mardomingo Cozas	\N	\N	producer	\N
 nm14166063	Federico Roig García-Bernalt	\N	\N	producer	\N
 nm14166064	Chloe Smith	\N	\N	art_department	tt8769360
 nm14166065	Emma Wall	\N	\N	casting_department	\N
-nm14166066	Denis Fitzgerald	\N	\N	casting_department,producer	tt22985870,tt8769360
+nm14166066	Denis Fitzgerald	\N	\N	producer,casting_department	tt22985870,tt23018296,tt8769360,tt23018330
 nm14166067	Elise Brown	\N	\N	casting_department	\N
 nm14166068	Dipak Chiba	\N	\N	producer	\N
 nm14166069	William Smith	\N	\N	producer	\N
@@ -4475,7 +4471,7 @@ nm14166186	Vincent Barthe	\N	\N	producer	tt22937164
 nm14166187	Averydimario	\N	\N		\N
 nm14166189	P.G. Carmona	\N	\N	director,writer	tt16453140
 nm14166190	Pedro Ronaldo	\N	\N	cinematographer	\N
-nm14166192	Celeste Debro	\N	\N	music_department	tt16373480,tt11097072
+nm14166192	Celeste Debro	\N	\N	music_department	tt11097072,tt16373480
 nm14166193	Scott Johnson	\N	\N		\N
 nm14166194	Beatrice Domond	\N	\N		\N
 nm14166195	Richard Carter Jr.	\N	\N	actor	\N
@@ -4494,7 +4490,7 @@ nm14166207	Rochelle Ponder	\N	\N	producer	tt22937316
 nm14166208	Nikita Coakley	\N	\N	producer	tt22937316
 nm14166209	Nicole Parker	\N	\N	producer	tt22937316
 nm14166210	Brandon Holland	\N	\N	composer	\N
-nm14166211	Fazhar Deskandiar	1997	\N	camera_department	tt10544980,tt21271942,tt17634334,tt18341164
+nm14166211	Fazhar Deskandiar	1997	\N	camera_department	tt21271942,tt17634334,tt18341164,tt10544980
 nm14166212	Eva Barrallo	\N	\N	costume_designer	tt22872860
 nm14166213	Sandra Morcillo	\N	\N	make_up_department	\N
 nm14166214	Shivrath Srivastava	\N	\N	assistant_director	\N
@@ -4668,7 +4664,7 @@ nm14166390	The Fuck Yeahs	\N	\N		tt22898478
 nm14166391	Big Pete	\N	\N		\N
 nm14166393	Pénélope Martin	\N	\N		\N
 nm14166394	Melina Machenaud	\N	\N	cinematographer	tt22937996
-nm14166395	Clara Ella	\N	\N		\N
+nm14166395	Clara Ella	\N	\N	director,costume_department	\N
 nm14166396	Laura Mollic	\N	\N		\N
 nm14166397	Gary Myrick & The Figures	\N	\N	actor	\N
 nm14166398	Ed Beyer	\N	\N	actor	\N
@@ -4705,7 +4701,7 @@ nm14166428	Venu	\N	\N	actor	tt14915198
 nm14166431	Dwolo	\N	\N	composer	\N
 nm14166432	Sergey Zelenetsky	\N	\N	actor	\N
 nm14166433	Ivo Kuppens	\N	\N	actor	\N
-nm14166434	Natalia Voloshina	\N	\N	writer	\N
+nm14166434	Natalia Voloshina	\N	\N		\N
 nm14166435	Stacey Chernenko	\N	\N	editor	tt22938048
 nm14166436	Aaron Zollo	\N	\N	writer	\N
 nm14166437	Robert Jackson	\N	\N	actor	tt22899322
@@ -4721,7 +4717,7 @@ nm14166446	Lyle-Tek Muse	\N	\N	director,editor	\N
 nm14166447	Ian Hammond Brown	\N	\N		\N
 nm14166448	Kalynn Youngbloood	\N	\N		\N
 nm14166449	Fiona Jane Burgess	\N	\N	director	\N
-nm14166450	David Smith	\N	\N	director	\N
+nm14166450	David Smith	\N	\N	director	tt7316998
 nm14166451	Kevin Diamond	\N	\N	composer	tt22938240
 nm14166452	Shelly Brook	\N	\N	actress	tt22207602
 nm14166453	Penny Adair Wallace	\N	\N	actress	tt22207602
@@ -4921,7 +4917,7 @@ nm14166663	Patricia McCook	\N	\N		tt2301351
 nm14166664	Beate Hecher	\N	\N	director	\N
 nm14166665	Markus Keim	\N	\N	director	\N
 nm14166666	Ana Gómez	\N	\N		\N
-nm14166667	Arijit Chatterjee	\N	\N		\N
+nm14166667	Arijit Chatterjee	\N	\N	visual_effects	\N
 nm14166668	Patrick Eady	\N	\N		\N
 nm14166669	Liz B Williams	\N	\N	actor	\N
 nm14166670	Zane	\N	\N	director,actor,writer	tt22938832
@@ -5105,7 +5101,7 @@ nm14166853	Cettina Marsh	\N	\N		\N
 nm14166854	Alexandar Petrovic	\N	\N	actor	\N
 nm14166855	Ezra Brodersen	\N	\N		\N
 nm14166856	Maiya Powell	\N	\N	actor	\N
-nm14166857	Jose Luis Cortes Gonzalez	\N	\N	camera_department	\N
+nm14166857	Jose Luis Cortes Gonzalez	\N	\N	camera_department	tt22988162,tt22938888
 nm14166858	Meyer Israel	\N	\N		\N
 nm14166859	James Bryant	\N	\N	actor	\N
 nm14166860	Sonia Feliciano	\N	\N		\N
@@ -5174,22 +5170,22 @@ nm14166930	Djanis Mitchell	\N	\N	actor	\N
 nm14166931	Roman Photo	\N	\N		\N
 nm14166932	T.H. Express	\N	\N		\N
 nm14166933	740 Boyz	\N	\N		\N
-nm14166934	Beáta Mikusová	\N	\N	actress	\N
-nm14166935	Agáta Cervinková	\N	\N	actress	\N
-nm14166936	David Kaspar	\N	\N	actor	\N
-nm14166937	Jan Polyak	\N	\N	actor	\N
-nm14166938	Jaroslava Krajcová	\N	\N	actress	\N
-nm14166939	Pavel Herzog	\N	\N	actor	\N
-nm14166940	Evzen Zdráhal	\N	\N	actor	\N
-nm14166941	Mikulás Nop	\N	\N	actor	\N
-nm14166942	Martin Líska	\N	\N	actor	\N
-nm14166943	Jan Pospísil	\N	\N	actor	\N
-nm14166944	Johana Kotlíková	\N	\N	actress	\N
-nm14166945	Vojtech Kotlík	\N	\N	actor	\N
-nm14166946	Eliska Jenícková	\N	\N	actress	\N
-nm14166947	Stella Mia Hanzlíková	\N	\N	actress	\N
-nm14166948	Rosa Stulic	\N	\N	actress	\N
-nm14166949	Jirí Altmann	\N	\N	actor	\N
+nm14166934	Beáta Mikusová	\N	\N	actress	tt14878070
+nm14166935	Agáta Cervinková	\N	\N	actress	tt14878070
+nm14166936	David Kaspar	\N	\N	actor	tt14878070
+nm14166937	Jan Polyak	\N	\N	actor	tt14878070
+nm14166938	Jaroslava Krajcová	\N	\N	actress	tt14878070
+nm14166939	Pavel Herzog	\N	\N	actor	tt14878070
+nm14166940	Evzen Zdráhal	\N	\N	actor	tt14878070
+nm14166941	Mikulás Nop	\N	\N	actor	tt14878070
+nm14166942	Martin Líska	\N	\N	actor	tt14878070
+nm14166943	Jan Pospísil	\N	\N	actor	tt14878070
+nm14166944	Johana Kotlíková	\N	\N	actress	tt14878070
+nm14166945	Vojtech Kotlík	\N	\N	actor	tt14878070
+nm14166946	Eliska Jenícková	\N	\N	actress	tt14878070
+nm14166947	Stella Mia Hanzlíková	\N	\N	actress	tt14878070
+nm14166948	Rosa Stulic	\N	\N	actress	tt14878070
+nm14166949	Jirí Altmann	\N	\N	actor	tt14878070
 nm14166950	Nohora Perfecta Pereiro	\N	\N	actress	tt11694938
 nm14166952	Paul de Heer	\N	\N	editor	\N
 nm14166953	Aliki Moutousi	\N	\N	director	\N
@@ -5197,9 +5193,9 @@ nm14166954	Michael Blake	\N	\N	actor	\N
 nm14166955	Shivani Shah	\N	\N	producer	tt7209352
 nm14166956	Lakshmi Raja	\N	\N	actor	\N
 nm14166957	Dimitrios Karampis	\N	\N	sound_department	\N
-nm14166958	Mahily Cereyon	\N	\N	music_department	\N
-nm14166959	Yvonne Jones	\N	\N	music_department	\N
-nm14166960	Allen Theophilus Eaton IV	\N	\N	music_department	\N
+nm14166958	Mahily Cereyon	\N	\N	music_department	tt5181830
+nm14166959	Yvonne Jones	\N	\N	music_department	tt5181830
+nm14166960	Allen Theophilus Eaton IV	\N	\N	music_department	tt5181830
 nm14166961	Tara Yeager	\N	\N	director,writer,cinematographer	\N
 nm14166962	John Bisaha	\N	\N		\N
 nm14166963	Shawn Lowery	\N	\N		\N
@@ -5213,7 +5209,7 @@ nm14166970	Valerie Smith	\N	\N	producer	\N
 nm14166971	Michelle Mijee Park	\N	\N	director	\N
 nm14166972	Beyza Huner	\N	\N	assistant_director	\N
 nm14166973	Morteza Chamani	\N	\N	actor	tt7897306
-nm14166974	Mellisa Zerbib	\N	\N	music_department	\N
+nm14166974	Mellisa Zerbib	\N	\N	music_department	tt5181830
 nm14166975	Ankit Santra	\N	\N	director	tt22939104
 nm14166976	Shubhankar Karmakar	\N	\N	actor	tt22939104
 nm14166977	Sumi Har Chowdhury	\N	\N	actress	tt22939104
@@ -5229,13 +5225,13 @@ nm14166987	Vincent Sobanski	\N	\N	actor	\N
 nm14166988	Jake Helms	\N	\N	miscellaneous	\N
 nm14166989	Andrew Stewart	\N	\N	miscellaneous	\N
 nm14166990	Daisy Perez	\N	\N	miscellaneous	\N
-nm14166991	Iva L. Simic	\N	\N		tt12726444,tt6281096
+nm14166991	Iva L. Simic	\N	\N		tt6281096,tt12726444
 nm14166992	Natascha Frickenhelm	\N	\N		\N
 nm14166993	Kai Kemmerzehl	\N	\N		\N
 nm14166994	Irene Ritthammer	\N	\N		\N
 nm14166995	Manuel Ruben	\N	\N		\N
-nm14166996	Clementina Mourier	\N	\N	sound_department	\N
-nm14166997	Malte Kirckhoff	\N	\N	producer	\N
+nm14166996	Clementina Mourier	\N	\N	sound_department	tt13848990
+nm14166997	Malte Kirckhoff	\N	\N		\N
 nm14167000	Lawrence Joseph John	\N	\N	writer	\N
 nm14167001	Tomasz Rudnicki	\N	\N	sound_department	\N
 nm14167002	Ryszard Zawadzki	\N	\N	miscellaneous	\N
@@ -5265,7 +5261,7 @@ nm14167025	Tim Randall	\N	\N	actor	\N
 nm14167026	James Burbage	\N	\N		\N
 nm14167027	Roy Kollegala	\N	\N	director,writer	\N
 nm14167028	Adam Fox	\N	\N	editorial_department	tt11364996
-nm14167029	Lyric Sky	\N	\N	actress	\N
+nm14167029	Lyric Sky	\N	\N	actress	tt14101026,tt6064134
 nm14167030	Soul Snatcher	\N	\N	actress	\N
 nm14167031	Jax	\N	\N		\N
 nm14167032	Adrianna	\N	\N		\N
@@ -5284,7 +5280,7 @@ nm14167044	Helen Mead	\N	\N	producer	\N
 nm14167045	Peter Elsmere	\N	\N	miscellaneous	\N
 nm14167046	Maciej Koziczak	\N	\N	costume_department	\N
 nm14167047	Annie McMillion	\N	\N		\N
-nm14167048	Leondro Assis	\N	\N	miscellaneous	\N
+nm14167048	Leondro Assis	\N	\N	miscellaneous	tt5181830
 nm14167049	Sylvie Jenaly	\N	\N		tt0476117
 nm14167051	Bmob Tmeezy	\N	\N	actor	\N
 nm14167052	Fan Yang	\N	\N	director	\N
@@ -5292,8 +5288,8 @@ nm14167053	Stephanie Vanwart	\N	\N	actress,producer	tt22939300
 nm14167054	Amanda Edgett	\N	\N	actress	tt22939300
 nm14167055	Jennifer Doyle	\N	\N	actress	\N
 nm14167056	Flashkdai	\N	\N	actor	\N
-nm14167057	Elizabeth Kowash	\N	\N	art_department	\N
-nm14167058	Shannon Kelsay	\N	\N	art_department	\N
+nm14167057	Elizabeth Kowash	\N	\N	art_department	tt5181830
+nm14167058	Shannon Kelsay	\N	\N	art_department	tt5181830
 nm14167059	Gesine Kratzner	\N	\N	art_department	tt5181830
 nm14167060	Shannon O'Neill	\N	\N	miscellaneous	\N
 nm14167061	Joseph Lipsey III	\N	\N		\N
@@ -5301,7 +5297,7 @@ nm14167062	Wilhelm Schliewe	\N	\N		\N
 nm14167063	Giovanna Corpus	\N	\N	actress	tt21969124
 nm14167064	Jay Turner	\N	\N	miscellaneous	tt12593058
 nm14167065	Ravikant Sharma	\N	\N	editorial_department	\N
-nm14167066	Yee witda Glee	\N	\N	actor	\N
+nm14167066	Yee witda Glee	\N	2022	actor	\N
 nm14167067	Atmika Tiwari	\N	\N	producer	tt22778198
 nm14167068	Jay Bradley	\N	\N	actor	tt22939352
 nm14167069	Alison Cummins	\N	\N	actress	tt22939352
@@ -5315,7 +5311,7 @@ nm14167076	Vinicius de Oliveira	\N	\N		\N
 nm14167077	Ismaël Molia	\N	\N		tt22756300
 nm14167078	Daphné Turpin	\N	\N	cinematographer	tt22756300
 nm14167079	Benjamine Jeunehomme	\N	\N		tt22756300
-nm14167080	Rah Muney	1999	\N	actor	\N
+nm14167080	Rah Muney	1999	2022	actor	\N
 nm14167081	Sant Kumar Pal	\N	\N	sound_department	\N
 nm14167082	Chris Calvin	\N	\N		\N
 nm14167083	Bret Summers	\N	\N		\N
@@ -5326,7 +5322,7 @@ nm14167087	Balwant Singh	\N	\N	sound_department	\N
 nm14167088	Jennifer Winter	\N	\N	director,producer	tt22939428
 nm14167089	Freeband Roc	\N	\N	actor	\N
 nm14167090	DesireeMonae	\N	\N		\N
-nm14167091	Mr. LRG	\N	\N	actor	\N
+nm14167091	Mr. LRG	\N	2022	actor	\N
 nm14167092	Rajan Roy	\N	\N	producer	tt8678054
 nm14167093	Anders Nilsson	\N	\N		\N
 nm14167095	Anni Valkonen	\N	\N	production_manager	tt0400976
@@ -5344,10 +5340,9 @@ nm14167107	Sandeep Kumar	\N	\N	assistant_director	tt18298832
 nm14167108	Elle Naomi	\N	\N		\N
 nm14167109	Ruchira Saxena	\N	\N	miscellaneous	tt8678054
 nm14167110	Tarun J. Bainsla	\N	\N	actor	tt22778198
-nm14167111	Mara Marjanovic	\N	\N	make_up_department	tt15568776,tt20229498
+nm14167111	Mara Marjanovic	\N	\N	make_up_department	tt20229498,tt15568776
 nm14167112	Jim Mabry	\N	\N	art_department	tt0264997
 nm14167113	Asgar Ali Shaikh	\N	\N	production_manager	tt8678054
-nm14167114	Elle Naomi Martin	\N	\N		\N
 nm14167115	Robbin McMullen	\N	\N	make_up_department	tt0063940
 nm14167116	David Lawrence	\N	\N	make_up_department	tt0063940
 nm14167117	Jacob Sorenson	\N	\N	actor	tt22939606
@@ -5418,7 +5413,7 @@ nm14167187	Reschelle O'Connor	\N	\N	actress	\N
 nm14167188	Klaus Munzert	\N	\N	music_department	tt0116144
 nm14167189	Niall Fogarty	\N	\N		\N
 nm14167190	Auburn Fox	\N	\N	actress	\N
-nm14167191	Lee Min-woo	\N	\N	miscellaneous	tt2330866,tt2967578
+nm14167191	Lee Min-woo	\N	\N	miscellaneous	tt2967578,tt2330866
 nm14167194	Emilia Albanese	\N	\N		\N
 nm14167195	Angela Sicuranza	\N	\N		\N
 nm14167196	Davide Rocca	\N	\N		\N
@@ -5440,7 +5435,7 @@ nm14167212	Imane Mezher	\N	\N	producer	tt3240080,tt15779034
 nm14167213	Nathan Wagner	\N	\N		\N
 nm14167214	Edvárd Juhász	\N	\N	editor	tt22940026
 nm14167215	Kasper Rorsted	\N	\N		tt21193152
-nm14167219	Margaret Jacquet	\N	\N		tt2066179,tt1748374,tt12635422,tt2173168
+nm14167219	Margaret Jacquet	\N	\N		tt2173168,tt1748374,tt12635422,tt2066179
 nm14167220	Robert Lee Hacker	\N	\N		\N
 nm14167221	Keith Ross	\N	\N	director,writer,composer	tt22940062
 nm14167222	Kevin J Harris	\N	\N		\N
@@ -5692,13 +5687,13 @@ nm14167484	Edward Bowden	\N	\N	writer	\N
 nm14167485	Matthew Roberts	\N	\N	writer	\N
 nm14167486	Ruby Wood	\N	\N	writer	\N
 nm14167487	Marek Madi	\N	\N	writer	\N
-nm14167488	April Kidd	\N	\N	producer,actress	tt22940660,tt22940446,tt22940596
+nm14167488	April Kidd	\N	\N	producer,actress	tt22940596,tt22940446,tt22940660
 nm14167489	Nina Smith	\N	\N	actress	tt22940446
 nm14167490	Emmanuel Harris	\N	\N	actor	\N
 nm14167491	Willie Smith	\N	\N	actor	tt22940446
 nm14167492	Megan Leigh	\N	\N	actress	tt22940446
 nm14167493	Janice JP Hardy	\N	\N	actress,miscellaneous	tt22940596,tt22940446
-nm14167494	John AJ Hall	\N	\N	producer	tt22940660,tt22940596
+nm14167494	John AJ Hall	\N	\N	producer	tt22940596,tt22940660
 nm14167495	Velma Henderson-Stickel	\N	\N		\N
 nm14167496	Annie Brown	\N	\N		\N
 nm14167497	Kenneth Brewer	\N	\N		\N
@@ -5730,7 +5725,7 @@ nm14167542	Valentina Palavecino	\N	\N	cinematographer	\N
 nm14167547	Luis Pierri	\N	\N	visual_effects	\N
 nm14167552	Nate Perryman III	\N	\N	camera_department	tt22940596
 nm14167553	Jeeah Perryman	\N	\N	miscellaneous	\N
-nm14167562	Tanna Leone	\N	\N	actor	\N
+nm14167562	Tanna Leone	\N	\N		\N
 nm14167563	Nathan Peck	\N	\N	actor	tt21973526
 nm14167564	Daniel Nilsson	\N	\N	camera_department	tt22488742
 nm14167565	Justin Mercado	\N	\N	camera_department	\N
@@ -5750,26 +5745,26 @@ nm14167579	Michael Nolan	\N	\N		\N
 nm14167580	Carol Jaworski	\N	\N		\N
 nm14167581	Deborah Johnson	\N	\N		\N
 nm14167582	Julie Springsteen	\N	\N		\N
-nm14167583	Don Klinck	\N	\N	miscellaneous	\N
+nm14167583	Don Klinck	\N	\N	miscellaneous	tt10015244
 nm14167584	Laura Klinck	\N	\N		\N
 nm14167585	Lisa Sell	\N	\N		\N
 nm14167586	Wine Social Lake Orion	\N	\N		\N
 nm14167587	Alyson Hammitt	\N	\N		\N
 nm14167588	Lake Orion Police Deparment	\N	\N		\N
-nm14167589	Bill Muggleberg	\N	\N	miscellaneous	\N
-nm14167590	Tamarco Houston	\N	\N	miscellaneous	\N
+nm14167589	Bill Muggleberg	\N	\N	miscellaneous	tt10015244
+nm14167590	Tamarco Houston	\N	\N	miscellaneous	tt10015244
 nm14167591	Nyhesia Hawkins-Johnson	\N	\N	miscellaneous	\N
-nm14167592	Miriam Pedrys	\N	\N	miscellaneous	\N
+nm14167592	Miriam Pedrys	\N	\N	miscellaneous	tt10015244
 nm14167593	Andrea Hunter	\N	\N	actress	\N
 nm14167594	Stefani Jameson	\N	\N	actress	\N
 nm14167595	Ryan Jones	\N	\N	camera_department	\N
 nm14167596	Ren Michelle	\N	\N	costume_department	\N
 nm14167597	Jennifer Plotkin	\N	\N	miscellaneous	tt22543122
-nm14167598	Sung June Kim	\N	\N	visual_effects	\N
-nm14167599	Yu Na Kim	\N	\N	visual_effects	\N
+nm14167598	Sung June Kim	\N	\N	visual_effects	tt21197740
+nm14167599	Yu Na Kim	\N	\N	visual_effects	tt21197740
 nm14167600	Hyeon Seong Song	\N	\N	visual_effects	\N
 nm14167601	Moon Hee Kim	\N	\N	visual_effects	\N
-nm14167602	Seoa Park	\N	\N	visual_effects	\N
+nm14167602	Seoa Park	\N	\N	visual_effects	tt21197740
 nm14167603	Michelle Young Sil Lim	\N	\N	visual_effects	\N
 nm14167604	Aisha Clark	\N	\N	miscellaneous	\N
 nm14167605	Eileen Goldstein	\N	\N	miscellaneous	\N
@@ -5817,7 +5812,7 @@ nm14167646	Shiara Pettis	\N	\N	writer	\N
 nm14167647	Justin Rose	\N	\N	actor	\N
 nm14167648	Bryn Hammond	\N	\N		\N
 nm14167649	Gary Lambrides	\N	\N		\N
-nm14167650	Alessandro Coronna	\N	\N	actor	tt21072486
+nm14167650	Alessandro Caronna	\N	\N	actor	tt21072486
 nm14167651	Tammera Sudderth-Hill	\N	\N	actor	tt21072486
 nm14167652	Ash Winarizal	\N	\N	actor	\N
 nm14167653	Pearl Tasbur	\N	\N	actress	\N
@@ -5916,7 +5911,7 @@ nm14167747	Eddie Loera	\N	\N	camera_department	tt22881548
 nm14167748	Marcos Castro	\N	\N	sound_department	\N
 nm14167749	Steven Hunt	\N	\N	sound_department	tt22881548
 nm14167750	Lu Gao	\N	\N	producer	tt22881962
-nm14167751	Steven Wong	\N	\N	producer	tt22881962
+nm14167751	Steven Wong	\N	\N	producer	tt22687566,tt22881962
 nm14167752	Mauro Tapia	\N	\N	art_department	tt15301048
 nm14167753	Aldana Rocío Martínez Bassi	\N	\N	art_department	tt15301048
 nm14167754	Nicolás Granja Alonso	\N	\N	art_department	tt15301048
@@ -6010,28 +6005,28 @@ nm14167845	Devi	\N	\N	actress	\N
 nm14167846	Mike Marks	\N	\N	actor	tt22881548
 nm14167847	Koti Rok Martinez	\N	\N	actor	\N
 nm14167848	Tiko Marvelis Martinez	\N	\N	actor	\N
-nm14167849	Andras Benyak	\N	\N	stunts	\N
-nm14167850	Norbert Vago	\N	\N	stunts	\N
+nm14167849	Andras Benyak	\N	\N	stunts	tt11291274
+nm14167850	Norbert Vago	\N	\N	stunts	tt11291274
 nm14167851	B.K. Sowmya	\N	\N	music_department	\N
 nm14167852	Leyland Ensminger	\N	\N		\N
 nm14167853	Jorge Rodríguez	\N	\N	actor	\N
 nm14167854	José Domingo Peñafiel	\N	\N	actor	\N
 nm14167855	Gonzalo Ruminot	\N	\N	actor	\N
-nm14167856	István Fischer	\N	\N	special_effects	\N
-nm14167857	Bela Eles	\N	\N	special_effects	\N
-nm14167858	David Balazs	\N	\N	special_effects	\N
+nm14167856	István Fischer	\N	\N	special_effects	tt11291274
+nm14167857	Bela Eles	\N	\N	special_effects	tt11291274
+nm14167858	David Balazs	\N	\N	special_effects	tt11291274
 nm14167859	Gandhi	\N	\N	actor	tt0324612
 nm14167860	Navyasree	\N	\N	actress	\N
 nm14167861	Sumesh	\N	\N	actor	tt0324612
 nm14167862	Lars-Olof Franzén	\N	\N		\N
-nm14167863	Peter Fazekas	\N	\N	assistant_director	\N
+nm14167863	Peter Fazekas	\N	\N	assistant_director	tt11291274
 nm14167864	Dileep Nair	\N	\N	actor	\N
-nm14167865	Gergo Riba	\N	\N	assistant_director	\N
+nm14167865	Gergo Riba	\N	\N	assistant_director	tt11291274
 nm14167866	Josey Tsao	\N	\N	animation_department	\N
 nm14167867	Jack S.A. Smith	\N	\N	actor	tt9288748
 nm14167868	Debbie Young	\N	\N		\N
 nm14167869	Akkshayya Venkatram	\N	\N	producer	\N
-nm14167870	Alan Roberts	\N	\N	special_effects	\N
+nm14167870	Alan Roberts	\N	\N	special_effects	tt11291274
 nm14167871	David Wratten	\N	\N	director,writer,camera_department	tt22941306
 nm14167872	Ruby Shannon	\N	\N	actress	tt22941306
 nm14167873	Patrick Galen-Mules	\N	\N	actor	tt22941306
@@ -6071,9 +6066,9 @@ nm14167906	Brandon Townsend	\N	\N	director	\N
 nm14167907	Vigo Johnson	\N	\N	writer	\N
 nm14167908	Prince Paradox	\N	\N	producer	\N
 nm14167909	Alan Ng	\N	\N		\N
-nm14167910	Jaewon Rim	\N	\N	visual_effects	\N
+nm14167910	Jaewon Rim	\N	\N	visual_effects	tt11291274
 nm14167911	Karen Garcia	\N	\N	visual_effects	tt11291274
-nm14167912	Pat Ratanapol	\N	\N	visual_effects	\N
+nm14167912	Pat Ratanapol	\N	\N	visual_effects	tt11291274
 nm14167913	Mela Amelia	\N	\N	actress	\N
 nm14167914	Teuku Mirza	\N	\N	actor	\N
 nm14167916	Nadhira Zahra	\N	\N	actress	\N
@@ -6088,10 +6083,10 @@ nm14167924	Kai	\N	\N		\N
 nm14167925	Jacob Khayat	\N	\N	director,writer	\N
 nm14167926	Zakary Dusseault	\N	\N	actor	\N
 nm14167927	Mikaël Dusseault	\N	\N	actor	\N
-nm14167928	Alexandra Nicolov	\N	\N		\N
+nm14167928	Alexandra Nicolov	\N	\N	producer	tt22941470
 nm14167929	Nassim Dib-Mudie	\N	\N	composer	\N
 nm14167930	Keenan Moïse	\N	\N	cinematographer	\N
-nm14167931	Aman	\N	\N	actor	\N
+nm14167931	Aman	1999	\N		tt22885076
 nm14167932	Anica Muñoz	\N	\N	editorial_department	\N
 nm14167933	Brian Fanning	\N	\N	transportation_department	\N
 nm14167934	Sébastien Lebeau	\N	\N	art_department	\N
@@ -6102,7 +6097,7 @@ nm14167938	Philip Ruiz	\N	\N		\N
 nm14167939	Lulu Lopez	\N	\N	actress	\N
 nm14167940	Beverly Brown	\N	\N	actress	\N
 nm14167941	Steve Parker	\N	\N		\N
-nm14167942	Michelle Williams	\N	\N	actress	\N
+nm14167942	Michelle Williams	\N	\N	actress	tt21031010
 nm14167943	Sebastian Doringer	\N	\N	director	\N
 nm14167944	Andrey Kolesov	\N	\N	director	\N
 nm14167945	Chiayu Liu	\N	\N	director	\N
@@ -6110,11 +6105,11 @@ nm14167946	Zhen Tian	\N	\N	director	\N
 nm14167947	Yu-Jan Hsiung	\N	\N	actor	\N
 nm14167948	Jürgen Branz	\N	\N	composer	\N
 nm14167949	Nadège Feyrit	\N	\N	music_department	\N
-nm14167950	Carlos del Rincon	\N	\N	visual_effects	\N
-nm14167951	Maddox Macdonald	\N	\N	actor	\N
-nm14167952	Luca Nicholas	\N	\N	actor	\N
-nm14167953	Garrett Landry	\N	\N	actor	\N
-nm14167954	Ryan Arandowski	\N	\N		\N
+nm14167950	Carlos del Rincon	\N	\N	visual_effects	tt11291274
+nm14167951	Maddox Macdonald	\N	\N	actor	tt21360086
+nm14167952	Luca Nicholas	\N	\N	actor	tt21360086
+nm14167953	Garrett Landry	\N	\N	actor	tt21360086
+nm14167954	Ryan Arandowski	\N	\N		tt21360086
 nm14167955	Robyn Eliza	\N	\N	actress	\N
 nm14167956	Colleen M. Flood	\N	\N		\N
 nm14167958	Mattia Carlin	\N	\N	writer	\N
@@ -6157,7 +6152,7 @@ nm14167995	Sonu Thakur	\N	\N	writer	tt22941740
 nm14167996	Ravi Bahadur Singh	\N	\N	producer	\N
 nm14167997	Sagar Bose	\N	\N	composer	\N
 nm14167998	Pramod K Nayak	\N	\N	cinematographer	\N
-nm14167999	Satish Dewangan	\N	\N		\N
+nm14167999	Satish Dewangan	\N	\N	editor	tt22941740
 nm14168000	Angad Singh	\N	\N		\N
 nm14168001	Momoka Yoshida	\N	\N		\N
 nm14168002	Airi Inoue	\N	\N	actress	\N
@@ -6185,7 +6180,7 @@ nm14168023	Tianfang Jia	\N	\N		\N
 nm14168024	Yangfan Luo	\N	\N		\N
 nm14168025	Lali Louis	\N	\N		tt0353909
 nm14168026	Tong Yu	\N	\N	actress	tt10532640
-nm14168027	Elise Guillen	\N	\N		\N
+nm14168027	Elise Guillen	\N	\N		tt5181830
 nm14168028	Chris Algeo	\N	\N	actor	tt22941952
 nm14168029	Kayla Smith	\N	\N	actor	\N
 nm14168030	Dan Higgins	\N	\N	composer	\N
@@ -6224,7 +6219,7 @@ nm14168064	Ankur Tiwari	\N	\N	actor	\N
 nm14168065	Rahul Dahiya	\N	\N	actor	\N
 nm14168066	Chiranjeet Singh	\N	\N	actor	\N
 nm14168067	Pramod Kumar Arya	\N	\N	actor	\N
-nm14168068	Aar Vik	\N	\N	script_department,writer	tt22986064,tt22942058,tt22947420
+nm14168068	Aar Vik	\N	\N	script_department,writer,assistant_director	tt22942058
 nm14168069	Roohdaar	\N	\N	writer,assistant_director	\N
 nm14168070	Sidharth Bharti	\N	\N		\N
 nm14168071	Abhinay Kumar	\N	\N		\N
@@ -6253,28 +6248,28 @@ nm14168094	Ryan Jones	\N	\N	camera_department	\N
 nm14168095	Steven Lancaster	\N	\N	producer	tt22177478
 nm14168096	Rae Marie	\N	\N		\N
 nm14168098	Bintou N'Diaye	\N	\N	miscellaneous	tt22490582
-nm14168099	Dino Doane Jr.	\N	\N	special_effects	\N
+nm14168099	Dino Doane Jr.	2002	\N	special_effects	\N
 nm14168100	David Lawrence	\N	\N	actor	tt12164342
 nm14168101	Chandler Lieberman	\N	\N	actor	tt12164342
 nm14168102	Graham DeSantis	\N	\N	actor	tt12164342
 nm14168103	Jennifer Cheung	\N	\N	actress	tt12164342
 nm14168104	Alessandra Famularo	\N	\N	costume_department	\N
-nm14168105	Marina Di Malta	\N	\N	make_up_department	\N
+nm14168105	Marina Di Malta	\N	\N	make_up_department	tt22907952
 nm14168106	Ira Merion	\N	\N	writer	\N
 nm14168107	Florian Giffard	\N	\N	sound_department,miscellaneous	\N
 nm14168108	Tim Ackroyd	\N	\N	actor	\N
 nm14168109	Kate David	\N	\N	actress	tt0285393
 nm14168110	Elena Liprini	\N	\N	actress	\N
-nm14168111	Frank Nappo	\N	\N	actor	\N
+nm14168111	Frank Nappo	\N	\N	actor	tt20224138
 nm14168112	Nadia Buckley	\N	\N	make_up_department	\N
-nm14168113	Bruno Cherubini	1897	\N	music_department	\N
+nm14168113	Bruno Cherubini	1897	1947	music_department	\N
 nm14168114	R. Aravintha Raj	\N	\N	director	\N
 nm14168115	J.M. Bashir	\N	\N	actor	\N
 nm14168116	Venkat	\N	\N	editor	tt22942216
 nm14168117	Achim Schürg	\N	\N	director	\N
 nm14168118	Rabindra Kumar Sharma	\N	\N		\N
 nm14168119	Willi Fix	\N	\N	cinematographer	\N
-nm14168120	P.B. Chavan	\N	\N	cinematographer	tt0392058,tt22942234,tt0252917
+nm14168120	P.B. Chavan	\N	\N	cinematographer	tt22942234,tt0252917,tt0392058
 nm14168121	Maria Pia Ammirati	\N	\N	producer	\N
 nm14168125	Rey Chiu	\N	\N		\N
 nm14168126	Tania Mihailuk	\N	\N		\N
@@ -6351,7 +6346,7 @@ nm14168196	Alberto Mora	\N	\N		tt9427758
 nm14168197	Diego Andrade	\N	\N		tt9427758
 nm14168198	Angel Fierro	\N	\N		tt9427758
 nm14168199	Jeremy Cuevas	\N	\N		tt9427758
-nm14168200	Jamil Choudhary	\N	\N	producer	\N
+nm14168200	Jamil Choudhary	\N	\N	miscellaneous	\N
 nm14168201	Alzbeta Macáková Misejková	\N	\N	writer	\N
 nm14168202	Magdaléna Misejková	\N	\N	composer	\N
 nm14168203	John Gainfort	\N	\N	writer	\N
@@ -6386,12 +6381,12 @@ nm14168232	Dusan Sitek	\N	\N	actor	\N
 nm14168233	Leo Bruges	\N	\N	cinematographer	\N
 nm14168234	Siarhei Samusevich	\N	\N	producer	\N
 nm14168235	Rudolf Masata	\N	\N	editor	\N
-nm14168236	Mistress DJ	\N	\N		\N
+nm14168236	Mistress DJ	\N	\N	producer	\N
 nm14168237	Nick Hinnenkamp	\N	\N		\N
-nm14168238	Meltem Ceylan	\N	\N	actress	\N
+nm14168238	Meltem Ceylan	\N	\N	actress	tt21741266
 nm14168239	Büsra Aksak	\N	\N	script_department	\N
 nm14168240	Ferhat Yigit	\N	\N	script_department	\N
-nm14168241	Nicku Arya	\N	\N	art_director,costume_designer	\N
+nm14168241	Nicku Arya	\N	\N	art_director,assistant_director,costume_designer	tt22942058
 nm14168242	Shyamali Dixit	\N	\N	assistant_director	\N
 nm14168243	Akshay Shukla	\N	\N	assistant_director	\N
 nm14168244	Saloni Yadav	\N	\N	assistant_director	tt22942058
@@ -6418,7 +6413,7 @@ nm14168264	Little Angels	\N	\N		\N
 nm14168265	Aisha Dönker	\N	\N	assistant_director	tt21804500
 nm14168266	George Arabadzhiyski	\N	\N	actor	\N
 nm14168267	Angel Kalev	\N	\N	actor	\N
-nm14168268	Alexander Angelov	\N	\N	actor	tt21907468
+nm14168268	Alexander Angelov	\N	\N	actor,art_department	tt21907468
 nm14168269	Hristo Georgiev	\N	\N	sound_department	\N
 nm14168270	Julián Strassera	\N	\N		\N
 nm14168271	María del Carmen Tucci	\N	\N		\N
@@ -6460,8 +6455,8 @@ nm14168306	Gözde Kiraç	\N	\N	actress	\N
 nm14168307	Christophe Prak	\N	\N	camera_department	\N
 nm14168308	Kevin D'Agostino	\N	\N	production_manager	\N
 nm14168309	Léa Fernandez	\N	\N	miscellaneous	\N
-nm14168310	Mia Monee Elise	\N	\N		\N
-nm14168311	David Michael Diken	\N	\N	sound_department,music_department	\N
+nm14168310	Mia Monee Elise	\N	\N	camera_department	tt9793112
+nm14168311	David Michael Diken	\N	\N	sound_department,music_department	tt9793112
 nm14168313	Fatma Doydu	\N	\N	actress	\N
 nm14168314	Diego Vélez	\N	\N	actor	tt22944276
 nm14168315	Paola Plaza	\N	\N	actor	\N
@@ -6493,17 +6488,17 @@ nm14168340	Felix Larsson	\N	\N	actor	tt22945256
 nm14168341	Simon Andersson	\N	\N	actor	\N
 nm14168342	Elisabeth Norlén	\N	\N	actress	\N
 nm14168343	Jo Tuvesson	\N	\N	actor	\N
-nm14168344	Ermias Hager	\N	\N	actor	\N
+nm14168344	Ermias Hager	\N	\N	actor,sound_department	\N
 nm14168345	Enea Tamburini	\N	\N	composer	\N
 nm14168346	Ansheila Budiyani	\N	\N	miscellaneous	\N
 nm14168347	Emre Koçel	\N	\N	actor	tt1831164
 nm14168348	Cihangir Meseli	\N	\N		\N
-nm14168349	Nick Ciavatta	\N	\N	sound_department	\N
-nm14168351	Mia Marcus	\N	\N		\N
-nm14168352	Asha Moses	\N	\N		\N
-nm14168353	Bella Yagid	\N	\N		\N
-nm14168354	Caitlin Hotaling	\N	\N		tt9793112
-nm14168355	Abi Teixeira	\N	\N		\N
+nm14168349	Nick Ciavatta	\N	\N	sound_department	tt9793112
+nm14168351	Mia Marcus	\N	\N	miscellaneous	tt9793112
+nm14168352	Asha Moses	\N	\N	miscellaneous	tt9793112
+nm14168353	Bella Yagid	\N	\N		tt9793112
+nm14168354	Caitlin Hotaling	\N	\N	miscellaneous	tt9793112
+nm14168355	Abi Teixeira	\N	\N	miscellaneous	tt9793112
 nm14168356	Chief Jennifer Bone	\N	\N		\N
 nm14168357	Katherine Nichols	\N	\N		\N
 nm14168358	Gerald Bell	\N	\N		\N
@@ -6516,22 +6511,22 @@ nm14168364	Milana Malinina	\N	\N	animation_department	tt22938464
 nm14168365	Jiri Balog	\N	\N	sound_department	tt22938464
 nm14168366	Marley Lagana	\N	\N	cinematographer	tt22944410
 nm14168367	Jonathan Geitz	\N	\N	actor,camera_department	tt22944410
-nm14168368	Nathan Wheeler	\N	\N	actor	\N
-nm14168369	Eliane Morel	\N	\N	actress	\N
-nm14168370	Aba Sessi Brero	\N	\N	actor	\N
-nm14168371	Sam Beazely	\N	\N	actor	\N
-nm14168372	Belle Beasley	\N	\N	actress	\N
-nm14168373	Brooke Baxter	\N	\N	actress	\N
-nm14168374	Kyle Ramboyong	\N	\N	actor	\N
+nm14168368	Nathan Wheeler	\N	\N	actor	tt16267384
+nm14168369	Eliane Morel	\N	\N	actress	tt16267384
+nm14168370	Aba Sessi Brero	\N	\N	actor	tt16267384
+nm14168371	Sam Beazely	\N	\N	actor	tt16267384
+nm14168372	Belle Beasley	\N	\N	actress	tt16267384
+nm14168373	Brooke Baxter	\N	\N	actress	tt16267384
+nm14168374	Kyle Ramboyong	\N	\N	actor	tt16267384
 nm14168375	Patryk Grodzki	\N	\N	actor	\N
 nm14168376	Muskaan Saksena	\N	\N	director	tt22946208
 nm14168377	Joan López	\N	\N	camera_department	\N
-nm14168379	John Andrulis	\N	\N		\N
+nm14168379	John Andrulis	\N	\N	miscellaneous	tt9793112
 nm14168380	Frank Sauer	\N	\N		\N
 nm14168381	Emma Asensi Zetterwall	\N	\N	costume_department	\N
 nm14168382	Laia Olivares	\N	\N	costume_department	\N
 nm14168383	Néstor San Fernando	\N	\N	special_effects	\N
-nm14168384	Nana Ama Danquah	\N	\N		\N
+nm14168384	Nana Ama Danquah	\N	\N		tt9793112
 nm14168387	Max Francés	\N	\N	actor	\N
 nm14168388	Helen Kennedy	\N	\N	actress	\N
 nm14168389	Prince Nagi	\N	\N	actor,producer	\N
@@ -6539,15 +6534,15 @@ nm14168390	Yukti Nagi	\N	\N	actress	\N
 nm14168391	Chetna	\N	\N	actress	\N
 nm14168392	Sumit Singh	\N	\N	actor,writer	\N
 nm14168393	Nancy Juyal	\N	\N	actress	\N
-nm14168394	Shailesh Kumar	\N	\N		\N
-nm14168395	Shrikhetra Mishra	\N	\N	camera_department	tt22986064,tt22947420
+nm14168394	Shailesh Kumar Arya	\N	\N		\N
+nm14168395	Shrikhetra Mishra	\N	\N	camera_department	tt22947420,tt22986064
 nm14168396	Sahil Khan	\N	\N	camera_department	\N
 nm14168397	Sam Pavlov	\N	\N		\N
 nm14168398	Aumrich	\N	\N	actor	\N
 nm14168399	Kapil Ansari	\N	\N	actor	tt22947824
-nm14168400	La Niña de Antequera	1921	\N	music_department	\N
+nm14168400	La Niña de Antequera	1921	1972	music_department	\N
 nm14168401	Sam Coloso	\N	\N	actress	\N
-nm14168402	Marvin Velasquez	\N	\N	actor,producer	tt22948240
+nm14168402	Marvin Velasquez	\N	\N	actor,writer,producer	tt22948240
 nm14168403	Rico Garcia	\N	\N	actor	tt22948240
 nm14168404	Cynthia Garcia	\N	\N	actress	tt22948240
 nm14168405	Irene Coloso	\N	\N	actress	\N
@@ -6573,16 +6568,16 @@ nm14168434	Shan Masood	\N	\N		\N
 nm14168435	Pol Puigventós	\N	\N		\N
 nm14168436	Julianne Cook	\N	\N		\N
 nm14168437	Tine Desmecht	\N	\N	location_management	\N
-nm14168438	Rosalie Chisolm	\N	\N	miscellaneous	\N
-nm14168439	Cynthia Lucchetta	\N	\N	miscellaneous	\N
+nm14168438	Rosalie Chisolm	\N	\N	miscellaneous	tt9793112
+nm14168439	Cynthia Lucchetta	\N	\N	miscellaneous	tt9793112
 nm14168440	Patrycja Dabrowska	\N	\N	actress	tt15379832
 nm14168441	Karol Raczkowski-Orleski	\N	\N	actor	tt15379832
 nm14168442	Lukasz Wrzeszczynski-Siuda	\N	\N	actor	tt15379832
 nm14168443	Valeriia Vakulenko	\N	\N	production_manager	tt15379832
-nm14168444	Cami Ostrin	\N	\N		\N
-nm14168445	Vincent Katz	\N	\N		\N
-nm14168449	Burt Kimmelman	\N	\N		\N
-nm14168450	Terence Winch	\N	\N		\N
+nm14168444	Cami Ostrin	\N	\N		tt9793112
+nm14168445	Vincent Katz	\N	\N		tt9793112
+nm14168449	Burt Kimmelman	\N	\N		tt9793112
+nm14168450	Terence Winch	\N	\N		tt9793112
 nm14168451	Józef Dryglewski	\N	\N	actor	tt15379832
 nm14168452	Wieslawa Steciwko	\N	\N	actress	tt15379832
 nm14168453	Mieczyslaw Pastuszka	\N	\N	actor	tt15379832
@@ -6593,31 +6588,31 @@ nm14168457	Bartosz Janiaczyk	\N	\N	actor	tt15379832
 nm14168458	Julianna Nowak	\N	\N	actress	tt15379832
 nm14168459	Alberta Whittle	\N	\N		\N
 nm14168460	Harry Tector	\N	\N		\N
-nm14168461	Robert Helmar	\N	\N		\N
-nm14168462	Raja Suryah	\N	\N	actor	\N
-nm14168463	Naresh Kesavan	\N	\N	actor	\N
-nm14168464	Meenraj Veera	\N	\N		\N
-nm14168465	Legend Gautan	\N	\N	actor	\N
-nm14168466	Thuraj Thyagu	\N	\N		\N
-nm14168467	Ruban Loganathan	\N	\N		\N
-nm14168468	Rishinath Narayanasamy	\N	\N	actor,assistant_director,production_manager	\N
-nm14168469	Ravindran Ravin	\N	\N		\N
-nm14168470	Mogana Mahandrann	\N	\N		\N
-nm14168471	Gayaathri Purnachandran	\N	\N		\N
-nm14168472	Jay Victor Villanz	\N	\N		\N
-nm14168473	Papu Villanz	\N	\N		\N
-nm14168476	Balan Villanz	\N	\N		\N
+nm14168461	Robert Helmar	\N	\N		tt9793112
+nm14168462	Raja Suryah	\N	\N	actor	tt12081774
+nm14168463	Naresh Kesavan	\N	\N	actor	tt12081774
+nm14168464	Meenraj Veera	\N	\N		tt12081774
+nm14168465	Legend Gautan	\N	\N	actor	tt12081774
+nm14168466	Thuraj Thyagu	\N	\N		tt12081774
+nm14168467	Ruban Loganathan	\N	\N		tt12081774
+nm14168468	Rishinath Narayanasamy	\N	\N	actor,assistant_director,production_manager	tt12081774
+nm14168469	Ravindran Ravin	\N	\N		tt12081774
+nm14168470	Mogana Mahandrann	\N	\N		tt12081774
+nm14168471	Gayaathri Purnachandran	\N	\N		tt12081774
+nm14168472	Jay Victor Villanz	\N	\N		tt12081774
+nm14168473	Papu Villanz	\N	\N		tt12081774
+nm14168476	Balan Villanz	\N	\N		tt12081774
 nm14168477	AQ Budaq Gopeng	\N	\N	cinematographer	tt12081774
-nm14168478	Thiruvellan	\N	\N		\N
-nm14168479	V.A. Pravin	\N	\N		\N
-nm14168480	Gandhi	\N	\N	location_management	\N
-nm14168481	Vishanthini Moganasunthram	\N	\N		\N
-nm14168482	Havoc Mathan	\N	\N		\N
-nm14168483	Selvakumar Danapallan	\N	\N		\N
-nm14168484	Inthiran Visuanathan	\N	\N		\N
+nm14168478	Thiruvellan	\N	\N		tt12081774
+nm14168479	V.A. Pravin	\N	\N		tt12081774
+nm14168480	Gandhi	\N	\N	location_management	tt12081774
+nm14168481	Vishanthini Moganasunthram	\N	\N		tt12081774
+nm14168482	Havoc Mathan	\N	\N		tt12081774
+nm14168483	Selvakumar Danapallan	\N	\N		tt12081774
+nm14168484	Inthiran Visuanathan	\N	\N		tt12081774
 nm14168485	Mahentra Mahen	\N	\N		tt12081774
-nm14168486	Havil Tenis	\N	\N		\N
-nm14168487	Kishanth Creation	\N	\N		\N
+nm14168486	Havil Tenis	\N	\N		tt12081774
+nm14168487	Kishanth Creation	\N	\N		tt12081774
 nm14168488	Neus Marcús	\N	\N		\N
 nm14168489	Laura Baixauli	\N	\N		\N
 nm14168490	Neus R. Munné	\N	\N		\N
@@ -6628,8 +6623,8 @@ nm14168494	Jon Sanders	\N	\N		tt21057628
 nm14168495	Valeria Arango Gomez	\N	\N	actor	tt15332990
 nm14168496	Marcus Sumner	\N	\N	actor	tt15332990
 nm14168497	Guillem Haro	\N	\N		\N
-nm14168498	Andy Feldman	\N	\N		\N
-nm14168499	Beth Joselow	\N	\N		\N
+nm14168498	Andy Feldman	\N	\N		tt9793112
+nm14168499	Beth Joselow	\N	\N		tt9793112
 nm14168500	Evelyne Domingo	\N	\N	actress	\N
 nm14168501	René Eouagnignon	\N	\N	actor	\N
 nm14168502	Janvier Houangni	\N	\N	actor	\N
@@ -6639,10 +6634,10 @@ nm14168505	Laurence Kelly	\N	\N	actor	\N
 nm14168506	Athanase Akpovi	\N	\N	actor	\N
 nm14168507	F. Eleonore Da Matha	\N	\N	actress	\N
 nm14168508	Haley Stewart	\N	\N	actor	tt15332990
-nm14168509	Donovan Lally	\N	\N		\N
-nm14168510	Flynn Lally	\N	\N		\N
-nm14168511	Miles Lally	\N	\N		\N
-nm14168512	Deak Hotaling	\N	\N		\N
+nm14168509	Donovan Lally	\N	\N		tt9793112
+nm14168510	Flynn Lally	\N	\N		tt9793112
+nm14168511	Miles Lally	\N	\N		tt9793112
+nm14168512	Deak Hotaling	\N	\N		tt9793112
 nm14168513	John Adoboe	\N	\N	cinematographer	\N
 nm14168514	Rudolf Herczeg	\N	\N	art_department	tt19722656
 nm14168515	Alimalp Kerem Uysal	\N	\N		\N
@@ -6657,12 +6652,12 @@ nm14168523	Peter Jennett	\N	\N	actor	\N
 nm14168524	Cary Kochberg	\N	\N	actor	\N
 nm14168525	Shriy Jai	\N	\N	actor	\N
 nm14168526	Rambo Rocky	\N	\N	actor	\N
-nm14168527	E. Wright Harris	\N	\N		\N
-nm14168528	Geoffrey Young	\N	\N		\N
+nm14168527	E. Wright Harris	\N	\N		tt9793112
+nm14168528	Geoffrey Young	\N	\N		tt9793112
 nm14168529	Lola Sára Csóka	\N	\N	set_decorator	tt5258930
 nm14168530	Ethan Norton-Pickering	\N	\N	actor	\N
 nm14168531	Deepjyoti Das	\N	\N	composer	tt7944172
-nm14168532	Papori Das	\N	\N	make_up_department	tt12856336,tt7944172
+nm14168532	Papori Das	\N	\N	make_up_department	tt7944172,tt12856336
 nm14168533	Patrick Lewin	\N	\N	sound_department	tt15166594
 nm14168534	Curt Clark Jr.	\N	\N	actor	tt15005104
 nm14168536	Niomi Moore	\N	\N		\N
@@ -6671,22 +6666,22 @@ nm14168538	Alessandro Nannipieri	\N	\N		\N
 nm14168539	Deepjyoti Hazarika	\N	\N	assistant_director	\N
 nm14168540	Babette Ory	\N	\N		tt9793112
 nm14168541	Barbara Wyeth	\N	\N		tt9793112
-nm14168542	Bruce Andrews	\N	\N		\N
-nm14168543	Carol Helmar	\N	\N		\N
-nm14168544	Emil Schneeman	\N	\N		\N
+nm14168542	Bruce Andrews	\N	\N		tt9793112
+nm14168543	Carol Helmar	\N	\N		tt9793112
+nm14168544	Emil Schneeman	\N	\N		tt9793112
 nm14168545	Kelly Kharpuri	\N	\N	make_up_department	\N
 nm14168546	Gulapi Tana Nabam	\N	\N	script_department	\N
 nm14168547	Jompi Jini Nibia	\N	\N	script_department	\N
-nm14168548	Jerome Sala	\N	\N		\N
-nm14168556	Julian Neil	\N	\N		\N
+nm14168548	Jerome Sala	\N	\N		tt9793112
+nm14168556	Julian Neil	\N	\N		tt9793112
 nm14168557	Meinold Krauss	\N	\N		\N
 nm14168558	Karl Legenbauer	\N	\N	camera_department	tt0880906
 nm14168559	Brian Siddall	\N	\N	actor	\N
 nm14168560	Lea Millie	\N	\N	producer	\N
 nm14168561	Rajan Kahmal	\N	\N	composer	\N
-nm14168562	Michael James	\N	\N		\N
-nm14168563	Nick Browne	\N	\N		\N
-nm14168564	Nick Mongiardo	\N	\N		\N
+nm14168562	Michael James	\N	\N		tt9793112
+nm14168563	Nick Browne	\N	\N		tt9793112
+nm14168564	Nick Mongiardo	\N	\N		tt9793112
 nm14168565	Margaux Isaia	\N	\N	assistant_director	\N
 nm14168566	Hiru Borgohain	\N	\N	assistant_director	\N
 nm14168567	Patiyashi Bordoloi	\N	\N	make_up_department	tt15061896,tt22026132
@@ -6699,9 +6694,9 @@ nm14168573	Chrysa Traitsi	\N	\N	actor	\N
 nm14168575	Katerina Lazaridou	\N	\N		\N
 nm14168576	Dimitris Kossyvos	\N	\N	cinematographer	\N
 nm14168577	Thanos Dolios	\N	\N	cinematographer	\N
-nm14168578	Phoebe MacAdams Ozuna	\N	\N		\N
-nm14168579	Rick Overton	\N	\N		\N
-nm14168580	Robert Braneman	\N	\N		\N
+nm14168578	Phoebe MacAdams Ozuna	\N	\N		tt9793112
+nm14168579	Rick Overton	\N	\N		tt9793112
+nm14168580	Robert Braneman	\N	\N		tt9793112
 nm14168581	Karl-Heinz Koßmann	\N	\N	editor	tt0880906
 nm14168582	Thomas Becke	\N	\N	sound_department	tt0880906
 nm14168584	Jim Travis	\N	\N	cinematographer	tt0161856
@@ -6709,9 +6704,9 @@ nm14168585	Trace Barcellona	\N	\N	actor	tt15332990
 nm14168586	Raeven Howard	\N	\N	make_up_department	\N
 nm14168587	Elizabeth Grace	\N	\N	production_manager	\N
 nm14168588	Jeffrey Alan Campbell Jr.	\N	\N	sound_department	\N
-nm14168589	Ron Zimmerman	\N	\N		\N
-nm14168590	Susan Campbell	\N	\N		\N
-nm14168591	Susan McDonald	\N	\N		\N
+nm14168589	Ron Zimmerman	\N	\N		tt9793112
+nm14168590	Susan Campbell	\N	\N		tt9793112
+nm14168591	Susan McDonald	\N	\N		tt9793112
 nm14168592	Mattia Negri	\N	\N		\N
 nm14168593	Agnese Innocente	\N	\N		\N
 nm14168594	Vincenzo Vespertilli	\N	\N		\N
@@ -6723,12 +6718,12 @@ nm14168599	Paloma Prieto Del Valle	\N	\N	miscellaneous	\N
 nm14168600	Nicholas Barrett	\N	\N	miscellaneous	\N
 nm14168601	Peter Hughes	\N	\N	miscellaneous	\N
 nm14168602	Javier Luna	\N	\N	miscellaneous	\N
-nm14168603	Tina Darragh	\N	\N		\N
-nm14168604	Tom Wilson	\N	\N		\N
+nm14168603	Tina Darragh	\N	\N		tt9793112
+nm14168604	Tom Wilson	\N	\N		tt9793112
 nm14168605	Edward Wandrick	\N	\N	director,writer	\N
 nm14168606	Jaynesha Batey	\N	\N	actress	\N
 nm14168607	Brandon Gibson	\N	\N	actor	\N
-nm14168608	Kevin Frazier	\N	\N	actor	\N
+nm14168608	Kevin Frazier	\N	\N	actor,miscellaneous	\N
 nm14168610	Steven Meehan	\N	\N	actor	tt22939300
 nm14168611	Julie Clark Boak	\N	\N		\N
 nm14168612	Abhijit Roy	\N	\N	assistant_director	\N
@@ -6753,7 +6748,7 @@ nm14168630	Rudolf Hirsch	\N	\N	actor	tt0200153
 nm14168631	Tomoe Obi	\N	\N	actress	\N
 nm14168632	Vanessa Koller	\N	\N		\N
 nm14168633	Anahita Nath	\N	\N	actress	\N
-nm14168634	Louis Alexandre	\N	\N	actor,director	tt22967050,tt15035648
+nm14168634	Louis Alexandre	\N	\N	actor	tt15035648,tt22967050
 nm14168635	Adam Bengana	\N	\N	actor	\N
 nm14168636	Adrian Vali De Villebonne	\N	\N	actor	\N
 nm14168637	Elody Coutant	\N	\N	actress	\N
@@ -6795,7 +6790,7 @@ nm14168680	Vakar Pinjari	\N	\N		\N
 nm14168681	Mohammed Paika	\N	\N	director,producer,editor	\N
 nm14168682	Kerry Porter	\N	\N	editor	\N
 nm14168685	Spencer Clinton Parker	\N	\N		\N
-nm14168686	Erin Pride	\N	\N	miscellaneous	\N
+nm14168686	Erin Pride	\N	\N	miscellaneous	tt9793112
 nm14168687	Magdalen Powers	\N	\N		\N
 nm14168689	Laura Herfurth	\N	\N	director	tt22971244
 nm14168690	Lena Pauly	\N	\N	director,writer,production_designer	tt22971244
@@ -6864,7 +6859,7 @@ nm14168752	Konstantin Ihlenfeld	\N	\N	miscellaneous	tt22971244
 nm14168753	Lyons Family	\N	\N		\N
 nm14168754	Tabitha Rodriguez	\N	\N		\N
 nm14168755	James Worrell	\N	\N		\N
-nm14168756	Matt Williams	\N	\N	sound_department	\N
+nm14168756	Matt Williams	\N	\N	sound_department	tt9793112
 nm14168757	James Davoll	\N	\N	director,cinematographer,editor	\N
 nm14168758	D.B. Purkis	\N	\N	camera_department	tt9793112
 nm14168759	Greg Masters	\N	\N		\N
@@ -6878,7 +6873,7 @@ nm14168767	Seven Stories Press	\N	\N		\N
 nm14168768	Calum Leslie	\N	\N	producer	tt22972424
 nm14168769	Maggie James	\N	\N		tt0283172
 nm14168770	Stuart Maule	\N	\N		tt0283172
-nm14168771	Natalia Kaiger	\N	\N		tt22468422,tt17661960
+nm14168771	Natalia Kaiger	\N	\N		tt17661960,tt14722420,tt22468422
 nm14168772	Edu Mendonça	\N	\N	director,script_department	\N
 nm14168773	Oswaldo Claro	\N	\N	producer	\N
 nm14168774	Flávio Pontes	\N	\N	cinematographer	\N
@@ -6909,9 +6904,9 @@ nm14168800	Kay Harper Williams	\N	\N		\N
 nm14168801	Aubrey Howard Ninnis	\N	\N		\N
 nm14168802	Alexander Stevens	\N	\N		\N
 nm14168803	Preston Farmer	\N	\N	miscellaneous	tt22876192
-nm14168804	Hakop Mekinyan	\N	\N	music_department	tt0499549
+nm14168804	Hakop Mekinyan	\N	\N	music_department	tt2140373,tt0499549
 nm14168805	Andrea Vico	\N	\N	actor	\N
-nm14168806	Sara Cabras	\N	\N	editor	\N
+nm14168806	Sara Cabras	\N	\N	editor	tt22974548
 nm14168807	Jim Legxacy	\N	\N	actor	\N
 nm14168808	Mlewis_90	\N	\N	actor	tt20597810
 nm14168809	Rasim Çetin	\N	\N	actor	\N
@@ -6923,7 +6918,7 @@ nm14168814	Maya García-Kingsley	\N	\N	writer	\N
 nm14168815	Lachlan van der Kreek	\N	\N	cinematographer	\N
 nm14168816	Master Peace	\N	\N	actor	\N
 nm14168817	Van Iong Nguyen	\N	\N	actor	\N
-nm14168818	Raja Dance	\N	\N	art_department	\N
+nm14168818	Raja Dance	\N	\N	art_department	tt0350280
 nm14168819	Adam Locklear	\N	\N		\N
 nm14168820	Fábio Matos	\N	\N	art_department	\N
 nm14168821	Suzete Viana	\N	\N	art_department	\N
@@ -6955,11 +6950,11 @@ nm14168850	Wauren Leon	\N	\N		\N
 nm14168851	Leon Crooks	\N	\N	camera_department	\N
 nm14168852	Brenda Oliveros Onofre	\N	\N		\N
 nm14168853	Yong-Chin Marika Breslin	\N	\N		\N
-nm14168854	Manibarathi	\N	\N	actor	\N
-nm14168855	David	\N	\N	actor	\N
-nm14168856	Cecile	\N	\N	actor	\N
-nm14168857	The Actors	\N	\N		\N
-nm14168858	Aswin Mathew	\N	\N	production_manager	\N
+nm14168854	Manibarathi	\N	\N	actor	tt22979360
+nm14168855	David	\N	\N	actor	tt22979360
+nm14168856	Cecile	\N	\N	actor	tt22979360
+nm14168857	The Actors	\N	\N		tt22979360
+nm14168858	Aswin Mathew	\N	\N	production_manager	tt22979360
 nm14168859	Indianostrum	\N	\N		\N
 nm14168860	Sudheesh	\N	\N		\N
 nm14168861	Naushad Ali	\N	\N		\N
@@ -7072,12 +7067,12 @@ nm14169004	Tony Pelliatt	\N	\N	assistant_director	\N
 nm14169005	Clifford Brandon	\N	\N	assistant_director	\N
 nm14169006	Ruben Velez	\N	\N	actor	\N
 nm14169007	Mark J. Soriano	\N	\N	producer	\N
-nm14169008	Lori Sutherland	\N	\N	miscellaneous	\N
+nm14169008	Lori Sutherland	\N	\N	costume_department,miscellaneous	tt9793112
 nm14169009	Jim Coleman	\N	\N	music_department	tt9793112
 nm14169010	Rob Huntley	\N	\N	set_decorator	tt9793112
-nm14169011	Tatiana Lyons	\N	\N	set_decorator	\N
+nm14169011	Tatiana Lyons	\N	\N	set_decorator	tt9793112
 nm14169013	Mikhail Lyons	\N	\N	sound_department	tt9793112
-nm14169014	Lillian Reitz	\N	\N	miscellaneous	\N
+nm14169014	Lillian Reitz	\N	\N	miscellaneous	tt9793112
 nm14169015	Robert Bailey	\N	\N	actor	tt9115530
 nm14169016	Donna Rhodes	\N	\N	actress	tt9115530
 nm14169017	Keon Vines	\N	\N	location_management	tt22980466
@@ -7105,7 +7100,7 @@ nm14169039	James Smith	\N	\N		tt22095932
 nm14169040	Henry Calvert	\N	\N		tt22095932
 nm14169041	Liam O'Leary	\N	\N		tt22095932
 nm14169042	Steven Anderson	\N	\N		tt22095932
-nm14169043	Arturos Osteria	\N	\N	miscellaneous	\N
+nm14169043	Arturos Osteria	\N	\N	miscellaneous	tt9793112
 nm14169045	Drew Daniels	\N	\N		\N
 nm14169046	Thomas Hyde	\N	\N		\N
 nm14169047	Marcus Jackson	\N	\N		\N
@@ -7118,11 +7113,10 @@ nm14169053	Stephen Vincent	\N	\N		\N
 nm14169054	Raymond Romero	\N	\N		\N
 nm14169055	Steve Romero	\N	\N		\N
 nm14169056	Nodoka Okisawa	\N	\N		\N
-nm14169057	Guy Kent	\N	\N	costume_department	tt0052447
 nm14169058	Shammah Mufanechiya	\N	\N	actress	tt8354062
 nm14169059	Sinead Vince	\N	\N	art_department	\N
 nm14169060	Myer Rees	\N	\N	art_department	tt22854288
-nm14169061	Gideon Bennis	\N	\N	camera_department	\N
+nm14169061	Gideon Bennis	\N	\N	director,writer,cinematographer	tt22854288
 nm14169062	Max Jackson	\N	\N	camera_department	\N
 nm14169063	Jeremy Dawson	\N	\N	camera_department	\N
 nm14169064	Sanne Gault	\N	\N	camera_department	\N
@@ -7190,15 +7184,15 @@ nm14169125	Jimmy Guillemette	\N	\N	visual_effects	\N
 nm14169126	Daniel Lord	\N	\N	miscellaneous	\N
 nm14169127	Richard Watkins	\N	\N	miscellaneous	\N
 nm14169128	Anne Presseault	\N	\N	miscellaneous	\N
-nm14169129	Edwin Lopez	\N	\N	editor	\N
+nm14169129	Edwin Lopez	\N	\N	editor	tt11447314
 nm14169131	Zak Patterson	\N	\N	actor	\N
 nm14169132	Buck Hawke	\N	\N	actor	\N
 nm14169133	Tiahli Martyn	\N	\N	actress	\N
 nm14169134	Beran Pekol	\N	\N	editor	\N
 nm14169135	Ieva Kaniusaite	\N	\N	actor	\N
-nm14169136	Marija Kazlauskaite	\N	\N	producer	\N
+nm14169136	Marija Kazlauskaite	\N	\N	producer	tt22983230
 nm14169137	Milda Juodvalkyte	\N	\N	cinematographer	\N
-nm14169138	Antanas Skridaila	\N	\N	editor	\N
+nm14169138	Antanas Skridaila	\N	\N	editor	tt22983230
 nm14169139	Kunal Soni	\N	\N	cinematographer	tt22874812
 nm14169140	Yash Verma	\N	\N	cinematographer	tt22874812
 nm14169141	Shivam Mandloi	\N	\N	cinematographer	tt22874812
@@ -7224,8 +7218,8 @@ nm14169160	Janie Paulhus	\N	\N	actress	\N
 nm14169161	Mark D. Signore	\N	\N		\N
 nm14169162	Laura Coggan-Hughes	\N	\N		\N
 nm14169166	2'rs $niper	\N	\N	actor	\N
-nm14169167	Fazzo105ive	2002	\N	actor	\N
-nm14169170	Joost Elffers	\N	\N	cinematographer	tt22983494,tt22983516
+nm14169167	Fazzo105ive	2002	2022	actor	\N
+nm14169170	Joost Elffers	\N	\N	cinematographer	tt22983516,tt22983494
 nm14169171	Brain Fos	\N	\N	cinematographer	tt22983494
 nm14169172	Harm Schreuder	\N	\N	editor	tt22983494
 nm14169173	Ro Torrence	\N	\N		\N
@@ -7271,7 +7265,6 @@ nm14169215	Madison Rodriguez	\N	\N	actress	\N
 nm14169216	Koehler Ruiz	\N	\N	actress	\N
 nm14169217	Bernardo Blanco	\N	\N	actor	tt22983522
 nm14169218	Veda Keda	\N	\N		\N
-nm14169220	Lara Pizarro	\N	\N	camera_department	\N
 nm14169221	Stefan Lorenzo	\N	\N	actor	tt21200394
 nm14169222	Jakub Aleksander	\N	\N	actor	\N
 nm14169223	Daria Florczak	\N	\N	actress	\N
@@ -7315,7 +7308,7 @@ nm14169260	Justine Becattini	\N	\N		\N
 nm14169261	Anaïs Bohuon	\N	\N		\N
 nm14169262	Catherine Louveau	\N	\N		\N
 nm14169263	Cécile Ottogalli-Mazzacavallo	\N	\N		\N
-nm14169264	Vrushabh Vijayrao Ghonmode	\N	\N		\N
+nm14169264	Vrushabh Vijayrao Ghonmode	\N	\N		tt22489564,tt21222632
 nm14169265	Nicole Abar	\N	\N		\N
 nm14169270	Hyman Shuster	\N	\N		\N
 nm14169271	Edward Leslie	\N	\N	actor	tt0178076
@@ -7381,12 +7374,12 @@ nm14169337	Esha Ved Raj	\N	\N		tt8903210
 nm14169338	Sabriale Gibson	\N	\N		\N
 nm14169339	N. Shevtsova	\N	\N		\N
 nm14169340	Brianna Campbell	\N	\N		\N
-nm14169341	Jordan Blake	\N	\N	actor	tt22985170
-nm14169342	Joey Wilson	\N	\N		\N
-nm14169343	Nick Miller	\N	\N		\N
-nm14169344	Brian White	\N	\N		\N
-nm14169345	Cory La Quay	\N	\N		\N
-nm14169346	Kyle Simmons	\N	\N		\N
+nm14169341	Jordan Blake	\N	\N		\N
+nm14169342	Joey Wilson	\N	\N		tt23017838
+nm14169343	Nick Miller	\N	\N		tt23017838
+nm14169344	Brian White	\N	\N		tt23017838
+nm14169345	Cory La Quay	\N	\N		tt23017838
+nm14169346	Kyle Simmons	\N	\N		tt23017838
 nm14169347	Kriti Bapna	\N	\N	costume_department	\N
 nm14169350	Aphrodite The Model	\N	\N	actress	\N
 nm14169351	Charles Doakes	\N	\N		\N
@@ -7398,7 +7391,7 @@ nm14169356	Xiao Jun Qian	\N	\N		\N
 nm14169357	Wen Juan Xie	\N	\N		\N
 nm14169358	Yu Lin Mei	\N	\N		\N
 nm14169359	Yu Cui Sun	\N	\N		\N
-nm14169360	Hye Jin Yeo	\N	\N		\N
+nm14169360	Hye Jin Yeo	\N	\N		tt2549540
 nm14169361	Joo Hyun Hwang	\N	\N		\N
 nm14169362	Sayaka Takagi	\N	\N		\N
 nm14169363	Kozue Suzuki	\N	\N		\N
@@ -7441,7 +7434,7 @@ nm14169402	Daniel Ottesen	\N	\N	actor	\N
 nm14169403	Dania Iyas Ishan	\N	\N		\N
 nm14169404	Jane Latex	\N	\N		\N
 nm14169405	Bonjour Meow	\N	\N	composer	tt16911106
-nm14169406	Amarjit Singha	\N	\N		\N
+nm14169406	Amarjit Singha	\N	\N		tt10304142
 nm14169407	Carolyn Smagalski	\N	\N		\N
 nm14169408	Craig Hartinger	\N	\N		\N
 nm14169409	James Dorsch	\N	\N		\N
@@ -7489,7 +7482,7 @@ nm14169452	Annetta Hanna	\N	\N		\N
 nm14169453	Aston Smith	\N	\N		\N
 nm14169454	Dion Perinon	\N	\N		\N
 nm14169455	Joylinn	\N	\N		\N
-nm14169456	WDW Pro	\N	\N		\N
+nm14169456	WDW Pro	\N	\N		tt22884836
 nm14169457	Tamara Solum	\N	\N		\N
 nm14169458	Richard Howard	\N	\N	director,producer	tt22983876
 nm14169459	Anne Russell	\N	\N	writer	tt22983876
@@ -7557,7 +7550,7 @@ nm14169521	Kevin Gleeson	\N	\N	composer	\N
 nm14169522	Cameron Crenshaw	\N	\N	camera_department	\N
 nm14169523	Tom Ross	\N	\N	camera_department	\N
 nm14169524	I Made Sudarmika	\N	\N		tt2361025
-nm14169525	Felix Jimenez	\N	\N		tt0407367,tt0462133
+nm14169525	Felix Jimenez	\N	\N		tt0462133,tt0407367
 nm14169526	Jim Keefe	\N	\N		\N
 nm14169527	Jodi Katz	\N	\N		\N
 nm14169528	Joel Lewis	\N	\N		\N
@@ -7635,7 +7628,7 @@ nm14169600	Zandisile Sangelwa	\N	\N	art_department	\N
 nm14169601	Chipo Gandudzanwa	\N	\N		\N
 nm14169602	David Ndlela	\N	\N		tt1500491
 nm14169603	Thomas Clark	\N	\N	camera_department	\N
-nm14169604	Gavin Doble	\N	\N	camera_department	tt1988591,tt1500491
+nm14169604	Gavin Doble	\N	\N	camera_department	tt1500491,tt1988591
 nm14169605	Derrick Siebritz	\N	\N		\N
 nm14169606	Shaun Geswindi	\N	\N	camera_department	\N
 nm14169607	Mthuthuzeli Mhlabane	\N	\N	camera_department	\N
@@ -7662,7 +7655,7 @@ nm14169627	Luke Mackay	\N	\N	miscellaneous	\N
 nm14169628	Mwabane Africa Manyana	\N	\N	miscellaneous	\N
 nm14169629	Glen Stewart	\N	\N	art_department,miscellaneous	tt1988591,tt1500491
 nm14169630	Nathan Williamson	\N	\N	miscellaneous	\N
-nm14169631	Chipo Gandidzanna	\N	\N	miscellaneous	tt1988591,tt1500491
+nm14169631	Chipo Gandidzanna	\N	\N	miscellaneous	tt1500491,tt1988591
 nm14169632	Mark Williams	\N	\N		\N
 nm14169633	Jay Farrall	\N	\N	miscellaneous	\N
 nm14169634	Llyod Gluckman	\N	\N	miscellaneous	\N
@@ -7679,7 +7672,7 @@ nm14169644	Stuart Kimmes	\N	\N		\N
 nm14169645	Corneliu Soficu	\N	\N	actor	\N
 nm14169646	Mim Kohn	\N	\N		\N
 nm14169647	Mridula Singh	\N	\N		\N
-nm14169651	Rebecca Pheil	\N	\N	producer	\N
+nm14169651	Rebecca Pheil	\N	\N	producer	tt22941096
 nm14169652	Paul Abruzzo	\N	\N		\N
 nm14169653	Randy Smith	\N	\N		\N
 nm14169655	Rhonda Witherspoon	\N	\N		\N
@@ -7707,7 +7700,7 @@ nm14169679	Stefan Salajan	\N	\N		\N
 nm14169680	Angelica Prisecaru	\N	\N		\N
 nm14169681	Maria Ciobanu	\N	\N	costume_department	\N
 nm14169682	Florin Roman	\N	\N	costume_department	\N
-nm14169683	Anna Lubske	\N	\N		tt22983550,tt21116812
+nm14169683	Anna Lubske	\N	\N		tt21116812,tt22983550
 nm14169684	Martina Windbichler	\N	\N		tt2361025
 nm14169685	Rex Halfpenny	\N	\N		tt22984008
 nm14169686	Mike Stevens	\N	\N		\N
@@ -7775,7 +7768,7 @@ nm14169747	Brian Dillon	\N	\N	editor	tt22984058
 nm14169748	Matt Cooper	\N	\N	editor	tt22984058
 nm14169749	Leonte Albert	\N	\N	actor	\N
 nm14169750	Leonte Adrian	\N	\N		tt22781020
-nm14169751	Ismail Türkan	\N	\N		\N
+nm14169751	Ismail Türkan	\N	\N		tt0459857
 nm14169752	Cohen Bradbury	\N	\N	actor	\N
 nm14169753	Andrei Paius	\N	\N	actor	tt22781020
 nm14169754	Stelian Prisecaru	\N	\N	actor	\N
@@ -7813,7 +7806,7 @@ nm14169787	Seunghyeon Song	\N	\N	sound_department	\N
 nm14169788	Nikki Vixen	\N	\N	actress	tt19812606
 nm14169789	Roberto Filippini	\N	\N	stunts	tt8418652
 nm14169790	Benedetta Badaracco	\N	\N	stunts	tt5433140,tt8418652
-nm14169791	Andrea Andreuzzi	\N	\N	stunts,miscellaneous	tt8418652,tt17066492,tt1680044,tt0384766
+nm14169791	Andrea Andreuzzi	\N	\N	stunts,miscellaneous	tt1680044,tt8418652,tt0384766,tt7735508
 nm14169792	Enrico Granori	\N	\N	stunts	tt8418652
 nm14169793	Giuseppe Felici	\N	\N	stunts	tt8418652
 nm14169794	Minna Luoma	\N	\N	music_department	tt0226909
@@ -7844,7 +7837,7 @@ nm14169818	Theresa Burns	\N	\N		\N
 nm14169819	Timothy Lyons	\N	\N		\N
 nm14169820	Georgia van der Rohe	\N	\N		tt0880906
 nm14169821	Katelyn Spurgin	\N	\N	writer	\N
-nm14169822	Mani Singh	\N	\N		\N
+nm14169822	Mani Singh	\N	\N	cinematographer	tt20834844
 nm14169823	Sarah Kim	\N	\N	producer	tt22984196
 nm14169824	Natanael Gomes de Alencar	\N	\N	actor	tt22984198
 nm14169825	Marcelo Vitor	\N	\N	actor	tt22984198
@@ -7948,10 +7941,9 @@ nm14169924	Aalexi Gonzalez	\N	\N		\N
 nm14169925	Ellen DeCicco	\N	\N		\N
 nm14169926	David Smith-Cooper	\N	\N		\N
 nm14169927	Doug Hodges	\N	\N		\N
-nm14169928	Shaunron	\N	\N		\N
+nm14169928	Shaunron	\N	\N	actor	tt6739114
 nm14169929	Antanas Survila	\N	\N	composer	tt22751090
 nm14169930	Jonah Gardose	\N	\N	sound_department	tt21448286
-nm14169931	David Smith	\N	\N		tt7316998
 nm14169932	Joshua Moore	\N	\N	actor	tt22984314
 nm14169933	Isabell Harrison	\N	\N	actress	tt22984314
 nm14169934	Cory Adams Jr.	\N	\N		tt22984318
@@ -7966,7 +7958,7 @@ nm14169943	Bek Nurmaganbet	\N	\N		tt9427758
 nm14169944	Ulises Suarez Ortega	\N	\N		tt9427758
 nm14169945	Jonathan Lopez	\N	\N		tt9427758
 nm14169946	Corrado Nizza	\N	\N	composer	tt22944410
-nm14169947	Paloma Florez	\N	\N	costume_department,set_decorator	\N
+nm14169947	Paloma Florez	\N	\N	costume_department,set_decorator	tt22944410
 nm14169948	Andrea Rodriguez Velasquez	\N	\N	make_up_department	tt22944410
 nm14169949	Eugenio Flajani Galli	\N	\N	actor	tt7793262
 nm14169950	Vanessa Berthault	\N	\N	casting_department	tt21282260
@@ -8002,7 +7994,7 @@ nm14169984	Gourav Das Gupta	\N	\N	music_department	tt1512321
 nm14169985	Jason Roberts	\N	\N		\N
 nm14169986	Diego Prinz	\N	\N	actor	tt16429986
 nm14169987	Paradise Kiss	\N	\N	actress	tt16429986
-nm14169988	Aquiles Vecccho	\N	\N	actor	tt16429986
+nm14169988	Aquiles Veccho	\N	\N	actor	tt16429986
 nm14169989	Cheng Ji	\N	\N	director,writer	tt22984494
 nm14169990	Izzy Walton	\N	\N		\N
 nm14169991	Mitsuki Imada	\N	\N	miscellaneous	tt2549540
