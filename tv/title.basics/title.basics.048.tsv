@@ -410,7 +410,7 @@ tt4801224	tvSeries	The Fellow Students	The Fellow Students	0	1998	\N	\N	Drama
 tt4801228	tvEpisode	'Brooklyn'	'Brooklyn'	0	\N	\N	\N	Talk-Show
 tt4801230	tvEpisode	Hajfiske	Hajfiske	0	1963	\N	\N	Comedy,Family
 tt4801234	tvEpisode	Episode #1.14	Episode #1.14	0	2012	\N	\N	Talk-Show
-tt4801238	tvSeries	Nightmares	Nightmares	0	2015	\N	\N	Horror
+tt4801238	tvSeries	Nightmares	Nightmares	0	\N	\N	\N	Horror
 tt4801240	tvEpisode	Episode #1.15	Episode #1.15	0	2012	\N	\N	Talk-Show
 tt4801244	tvEpisode	Episode #1.249	Episode #1.249	0	2006	\N	\N	Drama,Romance
 tt4801246	tvEpisode	'Results'	'Results'	0	\N	\N	\N	Talk-Show
@@ -5401,7 +5401,7 @@ tt4813302	tvEpisode	My Husband's Mistress: Part One	My Husband's Mistress: Part 
 tt4813304	tvEpisode	Piss Poor Pussy	Piss Poor Pussy	1	2015	\N	\N	Adult
 tt4813306	tvEpisode	Orange Is the New Pussy	Orange Is the New Pussy	1	2015	\N	\N	Adult
 tt4813308	tvEpisode	In House Whore	In House Whore	1	2015	\N	\N	Adult
-tt4813312	tvEpisode	Episode dated 1 December 2014	Episode dated 1 December 2014	0	2014	\N	\N	Family,News,Talk-Show
+tt4813312	tvEpisode	Episode dated 1 December 2014	Episode dated 1 December 2014	0	2014	\N	\N	News,Talk-Show
 tt4813314	tvEpisode	Rachel Roxxx Lexxxi's Wet Pussy	Rachel Roxxx Lexxxi's Wet Pussy	1	2015	\N	\N	Adult
 tt4813316	tvEpisode	That Fucking Bitch: Part One	That Fucking Bitch: Part One	1	2015	\N	\N	Adult
 tt4813318	tvEpisode	Like Mother, Dyke Daughter	Like Mother, Dyke Daughter	1	2015	\N	\N	Adult
@@ -12773,7 +12773,7 @@ tt4834516	tvEpisode	Bicycle Thieves	Bicycle Thieves	0	2015	\N	11	Documentary
 tt4834518	tvEpisode	Episode dated 3 June 2011	Episode dated 3 June 2011	0	2011	\N	\N	Talk-Show
 tt4834524	tvEpisode	Episode dated 27 June 2011	Episode dated 27 June 2011	0	2011	\N	\N	Music,Reality-TV,Talk-Show
 tt4834528	tvEpisode	Last Chance to Advance: Round of 16 Part 2	Last Chance to Advance: Round of 16 Part 2	0	2015	\N	\N	Action,Game-Show,Reality-TV
-tt4834530	tvEpisode	Episode dated 6 July 2015	Episode dated 6 July 2015	0	2015	\N	\N	Family,News,Talk-Show
+tt4834530	tvEpisode	Episode dated 6 July 2015	Episode dated 6 July 2015	0	2015	\N	\N	News,Talk-Show
 tt4834532	tvEpisode	The Great 8: Quarterfinals	The Great 8: Quarterfinals	0	2015	\N	\N	Action,Game-Show,Reality-TV
 tt4834538	tvEpisode	United States Foreign Policy	United States Foreign Policy	0	1965	\N	\N	Documentary
 tt4834540	tvEpisode	Episode #28.5	Episode #28.5	0	2013	\N	\N	Music
@@ -16928,7 +16928,7 @@ tt4848336	tvEpisode	Episode #1.1725	Episode #1.1725	0	1969	\N	30	Drama,Romance
 tt4848338	tvEpisode	Episode dated 11 July 2015	Episode dated 11 July 2015	0	2015	\N	\N	Family
 tt4848340	tvEpisode	Episode #3.2	Episode #3.2	0	2015	\N	\N	Reality-TV
 tt4848342	tvEpisode	Vindication!	Vindication!	0	2014	\N	\N	Drama
-tt4848344	tvEpisode	Episode dated 25 September 2013	Episode dated 25 September 2013	0	2013	\N	\N	Family,News,Talk-Show
+tt4848344	tvEpisode	Episode dated 25 September 2013	Episode dated 25 September 2013	0	2013	\N	\N	News,Talk-Show
 tt4848346	tvEpisode	Episode dated 31 May 2015	Episode dated 31 May 2015	0	2015	\N	\N	Family
 tt4848348	tvEpisode	"The Trailer"	"The Trailer"	0	2014	\N	\N	Short
 tt4848350	tvEpisode	Episode dated 12 April 2015	Episode dated 12 April 2015	0	2015	\N	\N	Family
@@ -32207,29 +32207,29 @@ tt4892316	tvEpisode	Episode #2.7	Episode #2.7	0	1956	\N	\N	Music
 tt4892318	tvEpisode	Episode #1.1	Episode #1.1	0	2015	\N	45	Documentary
 tt4892324	tvEpisode	Ursäkta att jag är lite yr	Ursäkta att jag är lite yr	0	1986	\N	60	Comedy,Crime
 tt4892326	tvMovie	Antonina Bragina	Antonina Bragina	0	1978	\N	128	Drama
-tt4892330	tvEpisode	Giggly Holiday	Giggly Holiday	0	\N	\N	11	Animation
-tt4892332	tvEpisode	Flat as a Pancake	Flat as a Pancake	0	\N	\N	11	Animation
-tt4892336	tvEpisode	Giggly Rink	Giggly Rink	0	\N	\N	11	Animation
-tt4892338	tvEpisode	Bouncing Boj	Bouncing Boj	0	\N	\N	11	Animation
-tt4892340	tvEpisode	High Flying Drying	High Flying Drying	0	\N	\N	11	Animation
+tt4892330	tvEpisode	Giggly Holiday	Giggly Holiday	0	\N	\N	11	Animation,Family
+tt4892332	tvEpisode	Flat as a Pancake	Flat as a Pancake	0	\N	\N	11	Animation,Family
+tt4892336	tvEpisode	Giggly Rink	Giggly Rink	0	\N	\N	11	Animation,Family
+tt4892338	tvEpisode	Bouncing Boj	Bouncing Boj	0	\N	\N	11	Animation,Family
+tt4892340	tvEpisode	High Flying Drying	High Flying Drying	0	\N	\N	11	Animation,Family
 tt4892346	tvEpisode	Episode #2.11	Episode #2.11	0	1957	\N	\N	Music
 tt4892348	tvEpisode	Tall Tale Trio	Tall Tale Trio	0	2015	\N	\N	Adventure,Animation,Family
-tt4892350	tvEpisode	Non Stop Pops	Non Stop Pops	0	\N	\N	11	Animation
+tt4892350	tvEpisode	Non Stop Pops	Non Stop Pops	0	\N	\N	11	Animation,Family
 tt4892352	tvEpisode	Episode dated 8 December 2007	Episode dated 8 December 2007	0	2007	\N	\N	Documentary
 tt4892354	tvEpisode	Episode dated 9 August 2015	Episode dated 9 August 2015	0	2015	\N	\N	News,Sport,Talk-Show
 tt4892356	tvEpisode	Dick and Megan's Library	Dick and Megan's Library	0	2003	\N	\N	Reality-TV
 tt4892358	tvEpisode	Bloopers	Bloopers	0	1998	\N	\N	Documentary
-tt4892362	tvEpisode	The Sleep Under	The Sleep Under	0	\N	\N	11	Animation
+tt4892362	tvEpisode	The Sleep Under	The Sleep Under	0	\N	\N	11	Animation,Family
 tt4892364	tvEpisode	Detective BG	Detective BG	0	2006	\N	\N	Animation
 tt4892366	tvEpisode	Episode dated 9 August 2015	Episode dated 9 August 2015	0	2015	\N	40	Talk-Show
 tt4892368	tvEpisode	Episode dated 9 August 2015	Episode dated 9 August 2015	0	2015	\N	\N	News
 tt4892370	tvEpisode	Episode dated 9 August 2015	Episode dated 9 August 2015	0	2015	\N	\N	News,Talk-Show
 tt4892372	tvEpisode	Episode dated 9 August 2015	Episode dated 9 August 2015	0	2015	\N	\N	Sport
 tt4892374	tvEpisode	Episode dated 9 August 2015	Episode dated 9 August 2015	0	2015	\N	41	News,Talk-Show
-tt4892376	tvEpisode	Song for Mimi	Song for Mimi	0	\N	\N	11	Animation
+tt4892376	tvEpisode	Song for Mimi	Song for Mimi	0	\N	\N	11	Animation,Family
 tt4892378	tvEpisode	Berry Big Tale-Teller	Berry Big Tale-Teller	0	2015	\N	\N	Adventure,Animation,Family
-tt4892380	tvEpisode	Rainbow for Rupa	Rainbow for Rupa	0	\N	\N	11	Animation
-tt4892384	tvEpisode	Sneezy Snufferoos	Sneezy Snufferoos	0	\N	\N	11	Animation
+tt4892380	tvEpisode	Rainbow for Rupa	Rainbow for Rupa	0	\N	\N	11	Animation,Family
+tt4892384	tvEpisode	Sneezy Snufferoos	Sneezy Snufferoos	0	\N	\N	11	Animation,Family
 tt4892390	tvEpisode	Priscilla	Priscilla	0	2015	\N	42	Reality-TV
 tt4892392	tvEpisode	Episode #2.12	Episode #2.12	0	1957	\N	\N	Music
 tt4892394	tvEpisode	Episode #1.1	Episode #1.1	0	1990	\N	\N	Comedy
@@ -32248,34 +32248,34 @@ tt4892420	tvSeries	Zoltan, the WolfMan	Zoltan, the WolfMan	0	2015	\N	\N	Adventur
 tt4892422	tvEpisode	Episode #1.13	Episode #1.13	0	1991	\N	\N	Comedy
 tt4892426	tvEpisode	From the Porch	From the Porch	1	2010	\N	\N	Adult
 tt4892434	tvEpisode	Tretí finále: Muzikál	Tretí finále: Muzikál	0	2004	\N	\N	Game-Show,Music,Reality-TV
-tt4892448	tvEpisode	Starfishing	Starfishing	0	\N	\N	11	Animation
-tt4892458	tvEpisode	The Best Nest	The Best Nest	0	\N	\N	11	Animation
+tt4892448	tvEpisode	Starfishing	Starfishing	0	\N	\N	11	Animation,Family
+tt4892458	tvEpisode	The Best Nest	The Best Nest	0	\N	\N	11	Animation,Family
 tt4892462	tvEpisode	Tretí finále: Vyrazování	Tretí finále: Vyrazování	0	2004	\N	\N	Game-Show,Music,Reality-TV
-tt4892464	tvEpisode	Robot Recycler	Robot Recycler	0	\N	\N	11	Animation
+tt4892464	tvEpisode	Robot Recycler	Robot Recycler	0	\N	\N	11	Animation,Family
 tt4892466	tvEpisode	Top 18 Perform + Elimination	Top 18 Perform + Elimination	0	2015	\N	\N	Game-Show,Music,Reality-TV
-tt4892468	tvEpisode	Carry on Carrot	Carry on Carrot	0	\N	\N	11	Animation
+tt4892468	tvEpisode	Carry on Carrot	Carry on Carrot	0	\N	\N	11	Animation,Family
 tt4892472	tvEpisode	Viejas tradiciones	Viejas tradiciones	0	1972	\N	\N	Comedy
-tt4892476	tvEpisode	Mia's Pet	Mia's Pet	0	\N	\N	11	Animation
+tt4892476	tvEpisode	Mia's Pet	Mia's Pet	0	\N	\N	11	Animation,Family
 tt4892478	tvEpisode	La carta o el maestro	La carta o el maestro	0	1972	\N	\N	Comedy
-tt4892482	tvEpisode	Giggly Park Rescue Squad	Giggly Park Rescue Squad	0	\N	\N	11	Animation
+tt4892482	tvEpisode	Giggly Park Rescue Squad	Giggly Park Rescue Squad	0	\N	\N	11	Animation,Family
 tt4892484	tvEpisode	Ctvrté finále: 60. léta	Ctvrté finále: 60. léta	0	2004	\N	\N	Game-Show,Music,Reality-TV
-tt4892486	tvEpisode	The Amazing Cloppity	The Amazing Cloppity	0	\N	\N	11	Animation
-tt4892488	tvEpisode	The Big-Big Bike Ride	The Big-Big Bike Ride	0	\N	\N	11	Animation
+tt4892486	tvEpisode	The Amazing Cloppity	The Amazing Cloppity	0	\N	\N	11	Animation,Family
+tt4892488	tvEpisode	The Big-Big Bike Ride	The Big-Big Bike Ride	0	\N	\N	11	Animation,Family
 tt4892490	tvEpisode	Episode #12.9	Episode #12.9	0	1962	\N	\N	Game-Show
-tt4892492	tvEpisode	Denzil's Lost Teddy	Denzil's Lost Teddy	0	\N	\N	11	Animation
-tt4892494	tvEpisode	Boj and the Booms	Boj and the Booms	0	\N	\N	11	Animation
+tt4892492	tvEpisode	Denzil's Lost Teddy	Denzil's Lost Teddy	0	\N	\N	11	Animation,Family
+tt4892494	tvEpisode	Boj and the Booms	Boj and the Booms	0	\N	\N	11	Animation,Family
 tt4892496	tvEpisode	Ctvrté finále: Vyrazování	Ctvrté finále: Vyrazování	0	2004	\N	\N	Game-Show,Music,Reality-TV
-tt4892500	tvEpisode	Watch the Birdie	Watch the Birdie	0	\N	\N	11	Animation
+tt4892500	tvEpisode	Watch the Birdie	Watch the Birdie	0	\N	\N	11	Animation,Family
 tt4892504	tvEpisode	Handful of Tits	Handful of Tits	1	2015	\N	23	Adult
 tt4892506	tvEpisode	Páté finále: Swing	Páté finále: Swing	0	2004	\N	\N	Game-Show,Music,Reality-TV
 tt4892510	tvEpisode	Señor, no lo conzco	Señor, no lo conzco	0	1982	\N	\N	Drama
 tt4892512	tvEpisode	Divas on Overdrive	Divas on Overdrive	0	2015	\N	\N	Biography,Documentary,Drama
-tt4892514	tvEpisode	Keeping Mr Cloppity	Keeping Mr Cloppity	0	\N	\N	11	Animation
-tt4892520	tvEpisode	Puppet Show	Puppet Show	0	\N	\N	11	Animation
+tt4892514	tvEpisode	Keeping Mr Cloppity	Keeping Mr Cloppity	0	\N	\N	11	Animation,Family
+tt4892520	tvEpisode	Puppet Show	Puppet Show	0	\N	\N	11	Animation,Family
 tt4892522	tvEpisode	Páté finále: Vyrazování	Páté finále: Vyrazování	0	2004	\N	\N	Game-Show,Music,Reality-TV
 tt4892526	tvEpisode	Episode #17.6	Episode #17.6	0	2015	\N	\N	Comedy,Music,Talk-Show
-tt4892528	tvEpisode	The Peace Prize	The Peace Prize	0	\N	\N	11	Animation
-tt4892530	tvEpisode	The Duckling	The Duckling	0	\N	\N	11	Animation
+tt4892528	tvEpisode	The Peace Prize	The Peace Prize	0	\N	\N	11	Animation,Family
+tt4892530	tvEpisode	The Duckling	The Duckling	0	\N	\N	11	Animation,Family
 tt4892532	tvEpisode	Sesté finále: Rock	Sesté finále: Rock	0	2004	\N	\N	Game-Show,Music,Reality-TV
 tt4892536	tvEpisode	2nd Anniversary	2nd Anniversary	0	1995	\N	\N	Talk-Show
 tt4892538	tvEpisode	The Name of the Game	The Name of the Game	0	2015	\N	44	Drama
@@ -32288,54 +32288,54 @@ tt4892554	tvEpisode	Episode #1.1156	Episode #1.1156	0	2015	\N	\N	Drama
 tt4892558	tvEpisode	Episode #17.8	Episode #17.8	0	2015	\N	\N	Comedy,Music,Talk-Show
 tt4892560	tvEpisode	Osmé finále: Volba poroty	Osmé finále: Volba poroty	0	2004	\N	\N	Game-Show,Music,Reality-TV
 tt4892562	tvEpisode	The Swinger Party - Horny MILF's Gangbang Fantasy Comes True	The Swinger Party - Horny MILF's Gangbang Fantasy Comes True	1	2013	\N	\N	Adult
-tt4892564	tvEpisode	Picnic in the Park	Picnic in the Park	0	\N	\N	11	Animation
+tt4892564	tvEpisode	Picnic in the Park	Picnic in the Park	0	\N	\N	11	Animation,Family
 tt4892566	tvEpisode	The S-44 Story	The S-44 Story	0	1958	\N	30	Action,War
 tt4892568	tvEpisode	Osmé finále: Vyrazování	Osmé finále: Vyrazování	0	2004	\N	\N	Game-Show,Music,Reality-TV
 tt4892572	tvEpisode	Bella Hally's Fantasy Fulfilled!!! Triple Penetration!!	Bella Hally's Fantasy Fulfilled!!! Triple Penetration!!	1	2013	\N	\N	Adult
-tt4892574	tvEpisode	Fun and Games	Fun and Games	0	\N	\N	11	Animation
-tt4892576	tvEpisode	Still as Statues	Still as Statues	0	\N	\N	11	Animation
+tt4892574	tvEpisode	Fun and Games	Fun and Games	0	\N	\N	11	Animation,Family
+tt4892576	tvEpisode	Still as Statues	Still as Statues	0	\N	\N	11	Animation,Family
 tt4892578	tvEpisode	Hot Horny Parole Officer Put In Her Place By Bad-Boy Parolee	Hot Horny Parole Officer Put In Her Place By Bad-Boy Parolee	1	2013	\N	\N	Adult
 tt4892580	tvEpisode	Boarder Crimes	Boarder Crimes	0	2015	\N	40	Documentary
-tt4892582	tvEpisode	Sports G'day	Sports G'day	0	\N	\N	11	Animation
+tt4892582	tvEpisode	Sports G'day	Sports G'day	0	\N	\N	11	Animation,Family
 tt4892584	tvEpisode	Velké finále	Velké finále	0	2004	\N	\N	Game-Show,Music,Reality-TV
-tt4892586	tvEpisode	Gavin's Got Talent	Gavin's Got Talent	0	\N	\N	11	Animation
+tt4892586	tvEpisode	Gavin's Got Talent	Gavin's Got Talent	0	\N	\N	11	Animation,Family
 tt4892588	tvSeries	La fiesta	La fiesta	0	1988	\N	\N	Comedy
 tt4892590	tvEpisode	The Legend Of Clementine Caves	The Legend Of Clementine Caves	1	2013	\N	\N	Adult
-tt4892594	tvEpisode	The Giggly Park Express	The Giggly Park Express	0	\N	\N	11	Animation
+tt4892594	tvEpisode	The Giggly Park Express	The Giggly Park Express	0	\N	\N	11	Animation,Family
 tt4892596	tvEpisode	Episode #17.10	Episode #17.10	0	2015	\N	\N	Comedy,Music,Talk-Show
 tt4892598	tvEpisode	Episode #17.16	Episode #17.16	0	2015	\N	44	Game-Show,Reality-TV
 tt4892600	tvEpisode	Petite Russian Lawyer Has Her Rough Gangbang Fantasy Fulfilled	Petite Russian Lawyer Has Her Rough Gangbang Fantasy Fulfilled	1	2013	\N	\N	Adult
 tt4892602	tvSeries	Bangkok Fight Night	Bangkok Fight Night	0	2015	\N	\N	Sport
-tt4892606	tvEpisode	Picky Eater	Picky Eater	0	\N	\N	11	Animation
+tt4892606	tvEpisode	Picky Eater	Picky Eater	0	\N	\N	11	Animation,Family
 tt4892608	tvEpisode	Episode #1.1133	Episode #1.1133	0	2015	\N	\N	Drama
-tt4892610	tvEpisode	The Giggly Dig	The Giggly Dig	0	\N	\N	11	Animation
+tt4892610	tvEpisode	The Giggly Dig	The Giggly Dig	0	\N	\N	11	Animation,Family
 tt4892612	tvEpisode	Big Tit MILF Takes Two Cocks In Her Ass And Pussy	Big Tit MILF Takes Two Cocks In Her Ass And Pussy	1	2013	\N	\N	Adult
-tt4892616	tvEpisode	Pops's Outback Trek	Pops's Outback Trek	0	\N	\N	11	Animation
+tt4892616	tvEpisode	Pops's Outback Trek	Pops's Outback Trek	0	\N	\N	11	Animation,Family
 tt4892618	tvEpisode	Episode dated 23 February 2009	Episode dated 23 February 2009	0	2009	\N	\N	News,Talk-Show
-tt4892620	tvEpisode	Doctor Denzil	Doctor Denzil	0	\N	\N	11	Animation
+tt4892620	tvEpisode	Doctor Denzil	Doctor Denzil	0	\N	\N	11	Animation,Family
 tt4892622	tvEpisode	Gorgeous Natural Beauty Gets The Gangbang Of Her Dreams	Gorgeous Natural Beauty Gets The Gangbang Of Her Dreams	1	2013	\N	\N	Adult
-tt4892626	tvEpisode	Happy Harvesters	Happy Harvesters	0	\N	\N	11	Animation
+tt4892626	tvEpisode	Happy Harvesters	Happy Harvesters	0	\N	\N	11	Animation,Family
 tt4892628	tvEpisode	The Pom-Pom Girl (My Life Me)	The Pom-Pom Girl (My Life Me)	0	2015	\N	\N	Comedy
 tt4892632	tvEpisode	Devious Damsel Ties You Up So You Can Take Her Down	Devious Damsel Ties You Up So You Can Take Her Down	1	2013	\N	\N	Adult
-tt4892634	tvEpisode	Buzzy Boj	Buzzy Boj	0	\N	\N	11	Animation
-tt4892636	tvEpisode	Bedtime for Rupa	Bedtime for Rupa	0	\N	\N	11	Animation
+tt4892634	tvEpisode	Buzzy Boj	Buzzy Boj	0	\N	\N	11	Animation,Family
+tt4892636	tvEpisode	Bedtime for Rupa	Bedtime for Rupa	0	\N	\N	11	Animation,Family
 tt4892638	tvEpisode	Russian Cutie Takes Two Dicks In The Pussy!	Russian Cutie Takes Two Dicks In The Pussy!	1	2013	\N	\N	Adult
-tt4892640	tvEpisode	Blast Off Buddies	Blast Off Buddies	0	\N	\N	11	Animation
+tt4892640	tvEpisode	Blast Off Buddies	Blast Off Buddies	0	\N	\N	11	Animation,Family
 tt4892642	tvEpisode	Who Should Play Young Han Solo?	Who Should Play Young Han Solo?	0	2015	\N	\N	Talk-Show
-tt4892644	tvEpisode	Boj-a-balloon	Boj-a-balloon	0	\N	\N	11	Animation
+tt4892644	tvEpisode	Boj-a-balloon	Boj-a-balloon	0	\N	\N	11	Animation,Family
 tt4892646	tvSeries	Plan B	HaChadash Shel Omri Gordon	0	2015	2015	30	Drama
 tt4892648	tvEpisode	Anal Whore Amber Rayne Takes Two Dicks In Her Ass	Anal Whore Amber Rayne Takes Two Dicks In Her Ass	1	2013	\N	\N	Adult
-tt4892650	tvEpisode	Out of the Box	Out of the Box	0	\N	\N	11	Animation
+tt4892650	tvEpisode	Out of the Box	Out of the Box	0	\N	\N	11	Animation,Family
 tt4892652	tvEpisode	Teens React to IISuperwomanII	Teens React to IISuperwomanII	0	2015	\N	\N	Comedy,Reality-TV,Short
-tt4892654	tvEpisode	Double Cloppity	Double Cloppity	0	\N	\N	11	Animation
+tt4892654	tvEpisode	Double Cloppity	Double Cloppity	0	\N	\N	11	Animation,Family
 tt4892656	tvEpisode	Episode #1.1	Episode #1.1	0	2015	\N	56	Comedy
 tt4892658	tvEpisode	Family Reunion	Family Reunion	0	2015	\N	44	Game-Show,Reality-TV
-tt4892660	tvEpisode	Sploshy Fun	Sploshy Fun	0	\N	\N	11	Animation
+tt4892660	tvEpisode	Sploshy Fun	Sploshy Fun	0	\N	\N	11	Animation,Family
 tt4892662	tvEpisode	Pokemon Art Academy - Part 9: Phil Bucket	Pokemon Art Academy - Part 9: Phil Bucket	0	2015	\N	\N	Comedy
-tt4892664	tvEpisode	Keep on Going	Keep on Going	0	\N	\N	11	Animation
+tt4892664	tvEpisode	Keep on Going	Keep on Going	0	\N	\N	11	Animation,Family
 tt4892666	tvEpisode	Music Censorship	Music Censorship	0	2015	\N	\N	Documentary,Short
 tt4892668	tvEpisode	Mr Pete Bind and Fucks Three Girls Into Total Submission	Mr Pete Bind and Fucks Three Girls Into Total Submission	1	2015	\N	\N	Adult
-tt4892670	tvEpisode	Adventure Camp	Adventure Camp	0	\N	\N	22	Animation
+tt4892670	tvEpisode	Adventure Camp	Adventure Camp	0	\N	\N	22	Animation,Family
 tt4892672	tvEpisode	Episode dated 3 April 2015	Episode dated 3 April 2015	0	2015	\N	\N	Talk-Show
 tt4892674	tvEpisode	Episode #1.1137	Episode #1.1137	0	2015	\N	\N	Drama
 tt4892676	tvEpisode	Super Mario Galaxy - Part 8: Trial and Error	Super Mario Galaxy - Part 8: Trial and Error	0	2015	\N	\N	Comedy
