@@ -5,7 +5,7 @@ tt0100012	tvMovie	The Last U-Boat	Das letzte U-Boot	0	1993	\N	99	Drama,War
 tt0100021	tvMovie	Liebe und Maloche	Liebe und Maloche	0	1990	\N	\N	Drama
 tt0100033	tvMovie	The Little Kidnappers	The Little Kidnappers	0	1990	\N	92	Crime,Drama
 tt0100034	tvMovie	A Little Piece of Sunshine	A Little Piece of Sunshine	0	1990	\N	96	Thriller
-tt0100044	tvSeries	Record of the Lodoss War	Rôdosu-tô senki	0	1990	\N	25	Action,Adventure,Animation
+tt0100044	tvSeries	Record of the Lodoss War	Rôdosu-tô senki	0	1990	1991	25	Action,Adventure,Animation
 tt0100052	tvMovie	The Lookalike	The Lookalike	0	1990	\N	100	Mystery,Thriller
 tt0100056	tvMovie	Lorna Doone	Lorna Doone	0	1990	\N	87	Drama,Romance
 tt0100057	tvMovie	The Lost Capone	The Lost Capone	0	1990	\N	100	Action,Crime,Drama
@@ -1170,7 +1170,7 @@ tt0104618	tvEpisode	Kissing the Gunner's Daughter: Part One	Kissing the Gunner's
 tt0104619	tvMovie	Kita no kuni kara '92 sudachi	Kita no kuni kara '92 sudachi	0	1992	\N	268	Drama
 tt0104625	tvEpisode	Kleiner Grenzverkehr	Kleiner Grenzverkehr	0	\N	\N	\N	Documentary
 tt0104650	tvMovie	Kultainen vasikka	Kultainen vasikka	0	1992	\N	\N	\N
-tt0104651	tvMovie	Kung Fu: The Legend Continues	Kung Fu: The Legend Continues	0	1992	\N	89	Action
+tt0104651	tvMovie	Kung Fu: A Legend Reborn	Kung Fu: The Legend Continues	0	1992	\N	89	Action,Crime,Drama
 tt0104665	tvMovie	Lady Against the Odds	Lady Against the Odds	0	1992	\N	100	Crime,Drama,Mystery
 tt0104671	tvMovie	Ladykiller	Ladykiller	0	1992	\N	96	Crime,Thriller
 tt0104674	tvMovie	Lakota Moon	Lakota Moon	0	1999	\N	85	Western
@@ -1380,7 +1380,7 @@ tt0105806	tvMovie	When No One Would Listen	When No One Would Listen	0	1992	\N	91
 tt0105818	tvMovie	Wild Card	Wild Card	0	1992	\N	95	Mystery,Thriller,Western
 tt0105822	tvMovie	Willing to Kill: The Texas Cheerleader Story	Willing to Kill: The Texas Cheerleader Story	0	1992	\N	89	Drama,Thriller
 tt0105828	tvMovie	With Murder in Mind	With Murder in Mind	0	1992	\N	100	Drama
-tt0105829	tvMovie	With a Vengeance	With a Vengeance	0	1992	\N	120	Drama,Thriller
+tt0105829	tvMovie	With a Vengeance	With a Vengeance	0	1992	\N	90	Drama,Mystery,Thriller
 tt0105833	tvMovie	A Woman Scorned: The Betty Broderick Story	A Woman Scorned: The Betty Broderick Story	0	1992	\N	96	Drama,Thriller
 tt0105834	tvMovie	Woman with a Past	Woman with a Past	0	1992	\N	95	Drama
 tt0105837	tvMovie	The Women of Windsor	The Women of Windsor	0	1992	\N	182	Drama
@@ -1969,6 +1969,7 @@ tt0108117	tvMovie	Sherlock Holmes Returns	Sherlock Holmes Returns	0	1993	\N	96	C
 tt0108130	tvMovie	A Stranger in the Mirror	A Stranger in the Mirror	0	1993	\N	100	Drama
 tt0108131	tvMovie	Sieben auf einen Streich	Sieben auf einen Streich	0	1993	\N	50	Comedy
 tt0108132	tvMovie	Sieghaftes Rot über Bitterfeld	Sieghaftes Rot über Bitterfeld	0	1993	\N	\N	Documentary
+tt0108134	tvMovie	Silent Cries	Silent Cries	0	1993	\N	120	Drama,War
 tt0108136	tvMovie	Silent Victim	Silent Victim	0	1993	\N	116	Drama
 tt0108139	tvEpisode	Simple Justice	Simple Justice	0	1993	\N	\N	Biography,Documentary,History
 tt0108140	tvMovie	Singapore Sling	Singapore Sling	0	1994	\N	90	Drama,Thriller
@@ -2719,7 +2720,7 @@ tt0111018	tvMovie	Roseanne: An Unauthorized Biography	Roseanne: An Unauthorized 
 tt0111021	tvMovie	Roswell	Roswell	0	1994	\N	91	Drama,Mystery,Sci-Fi
 tt0111026	tvMovie	Royce	Royce	0	1994	\N	98	Action,Comedy,Thriller
 tt0111029	tvEpisode	Rufmord	Rufmord	0	1994	\N	90	Crime
-tt0111030	tvMovie	Rugged Gold	Rugged Gold	0	1994	\N	120	Adventure,Drama
+tt0111030	tvMovie	Rugged Gold	Rugged Gold	0	1994	\N	95	Adventure,Drama
 tt0111033	tvEpisode	Runaway Daughters	Runaway Daughters	0	1994	\N	83	Drama
 tt0111035	tvMovie	Running Delilah	Running Delilah	0	1993	\N	97	Crime,Sci-Fi,Thriller
 tt0111038	tvMovie	Hole in the Soul	Rupa u dusi	0	1994	\N	52	Biography,Comedy,Documentary
@@ -9874,7 +9875,7 @@ tt0165231	tvMovie	Dibbegass Nummer Deckel	Dibbegass Nummer Deckel	0	1983	\N	\N	\
 tt0165243	tvEpisode	Down Where the Buffalo Go	Down Where the Buffalo Go	0	1988	\N	90	Drama
 tt0165274	tvMovie	Ett drömspel	Ett drömspel	0	1980	\N	135	Drama
 tt0165292	tvMovie	Frankies Braut	Frankies Braut	0	1982	\N	\N	Drama
-tt0165295	tvMovie	Gehenna	Gehenna	0	1966	\N	130	\N
+tt0165295	tvMovie	Gehenna	Gehenna	0	1966	\N	130	Drama
 tt0165307	tvEpisode	La grande fille	La grande fille	0	1994	\N	84	\N
 tt0165308	tvMovie	Grandpa Chatterjee	Grandpa Chatterjee	0	1997	\N	28	Family
 tt0165312	tvEpisode	Isn't It Romantic	Isn't It Romantic	0	1998	\N	94	Crime
@@ -12309,7 +12310,7 @@ tt0179062	tvMovie	'n zomerzotheid	'n zomerzotheid	0	1972	\N	\N	Comedy,Musical
 tt0179082	tvMovie	Antenne à Francis Perrin	Antenne à Francis Perrin	0	1980	\N	\N	\N
 tt0179088	tvMovie	Aspects of Love	Aspects of Love	0	1993	\N	\N	Musical,Romance
 tt0179101	tvMovie	Before He Wakes	Before He Wakes	0	1998	\N	97	Drama,Thriller
-tt0179107	tvMovie	Black Jaq	Black Jaq	0	1998	\N	\N	\N
+tt0179107	tvMovie	Black Jaq	Black Jaq	0	1998	\N	\N	Action,Drama
 tt0179113	tvMovie	Britannicus	Britannicus	0	1977	\N	\N	\N
 tt0179114	tvMovie	De brug	De brug	0	1954	\N	\N	\N
 tt0179128	tvSeries	Chicken Soup for the Soul	Chicken Soup for the Soul	0	1999	2000	60	Drama,Family
